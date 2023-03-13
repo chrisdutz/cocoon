@@ -68,7 +68,7 @@ import org.xml.sax.SAXException;
  * each object it contains.
  *
  * @see <a href="http://jakarta.apache.org/commons/betwixt/">Betwixt Projekt Homepage</a>
- * @version $Id$
+ * @version $Id: BetwixtTransformer.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class BetwixtTransformer
     extends AbstractTransformer

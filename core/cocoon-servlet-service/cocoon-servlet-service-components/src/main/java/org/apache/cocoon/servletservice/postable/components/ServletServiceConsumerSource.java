@@ -32,7 +32,7 @@ import org.apache.excalibur.source.impl.AbstractSource;
  *
  * FIXME: Provide a link to the documents discussing servlet (and sitemap) services.
  *
- * @version $Id$
+ * @version $Id: ServletServiceConsumerSource.java 608379 2008-01-03 08:42:43Z reinhard $
  * @since 1.0.0
  */
 public class ServletServiceConsumerSource extends AbstractSource {

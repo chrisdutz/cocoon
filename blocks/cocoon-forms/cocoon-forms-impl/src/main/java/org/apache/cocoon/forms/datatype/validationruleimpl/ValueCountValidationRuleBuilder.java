@@ -24,7 +24,7 @@ import org.outerj.expression.Expression;
 /**
  * Builds {@link ValueCountValidationRule}s.
  * 
- * @version $Id$
+ * @version $Id: ValueCountValidationRuleBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class ValueCountValidationRuleBuilder extends AbstractValidationRuleBuilder {
     public ValidationRule build(Element validationRuleElement) throws Exception {

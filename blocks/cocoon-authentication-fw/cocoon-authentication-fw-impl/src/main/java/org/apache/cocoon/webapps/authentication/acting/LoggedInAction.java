@@ -30,7 +30,7 @@ import org.apache.cocoon.webapps.authentication.user.UserHandler;
  *  This action tests if the user is logged in for a given handler.
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$ 
+ * @version $Id: LoggedInAction.java 587757 2007-10-24 02:52:49Z vgritsenko $ 
  */
 public final class LoggedInAction
 extends ServiceableAction

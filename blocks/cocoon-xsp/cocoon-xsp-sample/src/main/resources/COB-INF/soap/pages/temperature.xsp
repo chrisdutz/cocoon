@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!-- $Id$ -->
+<!-- $Id: temperature.xsp 488805 2006-12-19 20:47:12Z anathaniel $ -->
 
 <xsp:page
   language="java"

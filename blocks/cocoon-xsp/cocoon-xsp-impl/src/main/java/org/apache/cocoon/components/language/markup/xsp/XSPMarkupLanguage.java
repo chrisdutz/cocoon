@@ -25,7 +25,7 @@ import org.apache.cocoon.xml.AbstractXMLPipe;
  * This class implements <code>MarkupLanguage</code> for Cocoon's
  * <a href="http://cocoon.apache.org/userdocs/xsp/">XSP</a>.
  *
- * @version $Id$
+ * @version $Id: XSPMarkupLanguage.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class XSPMarkupLanguage extends CocoonMarkupLanguage {
 

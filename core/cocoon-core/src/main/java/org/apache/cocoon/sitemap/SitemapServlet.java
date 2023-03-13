@@ -40,7 +40,7 @@ import org.apache.cocoon.servlet.RequestUtil;
  * Use this servlet as an entry point to Cocoon. It wraps the {@link TreeProcessor}
  * and delegates all requests to it.
  *
- * @version $Id$
+ * @version $Id: SitemapServlet.java 797227 2009-07-23 21:20:27Z andreas $
  */
 public class SitemapServlet extends HttpServlet {
 

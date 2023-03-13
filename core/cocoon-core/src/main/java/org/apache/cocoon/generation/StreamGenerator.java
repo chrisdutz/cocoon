@@ -67,7 +67,7 @@ import org.xml.sax.XMLReader;
  * @cocoon.sitemap.component.documentation.caching No
  * @cocoon.sitemap.component.pooling.max  16
  *
- * @version $Id$
+ * @version $Id: StreamGenerator.java 1906079 2022-12-18 22:03:23Z javier $
  */
 public class StreamGenerator extends ServiceableGenerator implements Initializable {
 

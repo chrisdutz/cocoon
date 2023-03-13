@@ -28,7 +28,7 @@ import oasis.names.tc.wsrp.v1.types.UserContext;
  * by the portlet the second will be tested and so on. The first match delivers
  * the used locale.<br/> 
  *
- * @version $Id$
+ * @version $Id: UserContextExtension.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class UserContextExtension extends UserContext {
 

@@ -35,7 +35,7 @@ import org.xml.sax.SAXException;
 /**
  * Abstract implementation for all Tags
  *
- * @version $Id$
+ * @version $Id: TagSupport.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class TagSupport extends AbstractLogEnabled
                                  implements Tag, Recyclable {

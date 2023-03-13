@@ -31,7 +31,7 @@ import org.jmock.MockObjectTestCase;
 
 /**
  *
- * @version $Id$
+ * @version $Id: ResourceExistsActionTestCase.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class ResourceExistsActionTestCase extends MockObjectTestCase {
     private Map objectModel = new HashMap();

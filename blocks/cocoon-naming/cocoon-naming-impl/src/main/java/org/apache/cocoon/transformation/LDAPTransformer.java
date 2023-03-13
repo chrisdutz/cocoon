@@ -106,7 +106,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * + can also be defined as parameter in the sitemap.
  * <br>
  *
- * @version $Id$
+ * @version $Id: LDAPTransformer.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class LDAPTransformer extends AbstractTransformer {
 

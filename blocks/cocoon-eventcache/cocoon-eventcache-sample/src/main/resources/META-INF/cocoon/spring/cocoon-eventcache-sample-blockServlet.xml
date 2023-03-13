@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: cocoon-eventcache-sample-blockServlet.xml 680697 2008-07-29 13:54:14Z reinhard $
 -->
 <beans xmlns="http://www.springframework.org/schema/beans"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"

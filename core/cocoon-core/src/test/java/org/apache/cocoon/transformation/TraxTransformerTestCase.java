@@ -25,7 +25,7 @@ import org.w3c.dom.Document;
 /**
  *
  *
- * @version $Id$
+ * @version $Id: TraxTransformerTestCase.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class TraxTransformerTestCase extends SitemapComponentTestCase {
 

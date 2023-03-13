@@ -26,7 +26,7 @@ import org.w3c.dom.Element;
 /**
  * Handles binding library imports
  *
- * @version $Id$
+ * @version $Id: ImportJXPathBindingBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class ImportJXPathBindingBuilder extends JXPathBindingBuilderBase {
 

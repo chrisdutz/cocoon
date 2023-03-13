@@ -42,7 +42,7 @@ import org.apache.cocoon.xsp.handler.ComponentHandler;
  * This interface is the common base of all Compiled Components.  This
  * includes Sitemaps and XSP Pages
  *
- * @version $Id$
+ * @version $Id: GeneratorSelector.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class GeneratorSelector extends AbstractLogEnabled
                                implements ThreadSafe, Contextualizable, Serviceable {

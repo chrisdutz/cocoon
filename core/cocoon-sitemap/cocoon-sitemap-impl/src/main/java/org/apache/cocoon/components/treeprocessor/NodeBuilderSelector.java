@@ -42,7 +42,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
 /**
  * This is the selector used to select/create node builders.
  *
- * @version $Id$
+ * @version $Id: NodeBuilderSelector.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 public class NodeBuilderSelector extends AbstractLogEnabled

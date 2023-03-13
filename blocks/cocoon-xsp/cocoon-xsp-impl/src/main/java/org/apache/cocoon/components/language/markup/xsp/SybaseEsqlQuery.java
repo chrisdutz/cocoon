@@ -25,7 +25,7 @@ import java.sql.Connection;
 
 /**
  * Database specific EsqlQuery
- * @version $Id$
+ * @version $Id: SybaseEsqlQuery.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 final public class SybaseEsqlQuery extends AbstractEsqlQuery {
 

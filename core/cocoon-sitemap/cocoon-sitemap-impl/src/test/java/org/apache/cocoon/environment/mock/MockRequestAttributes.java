@@ -36,7 +36,7 @@ import org.springframework.web.context.request.RequestAttributes;
  * Request scope is mapped to Cocoon request scope, session scope to Cocoon's
  * request global scope and global session scope to session scope!
  *
- * @version $Id$
+ * @version $Id: MockRequestAttributes.java 1828354 2018-04-04 15:25:44Z ilgrosso $
  * @since 2.2
  */
 public class MockRequestAttributes implements RequestAttributes {

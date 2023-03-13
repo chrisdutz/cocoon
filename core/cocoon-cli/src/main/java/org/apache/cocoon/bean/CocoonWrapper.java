@@ -55,7 +55,7 @@ import org.xml.sax.ContentHandler;
  * The Cocoon Wrapper simplifies usage of the Cocoon object. Allows to create,
  * configure Cocoon instance and process single requests.
  *
- * @version $Id$
+ * @version $Id: CocoonWrapper.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class CocoonWrapper {
 

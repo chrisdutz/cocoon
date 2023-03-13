@@ -30,7 +30,7 @@ import org.apache.wsrp4j.exception.WSRPException;
  * Manages the drivers for the portlets the consumerEnvironment holds<br/>
  * Per portlet one portletDriver will be stored<br/>
  *
- * @version $Id$
+ * @version $Id: PortletDriverRegistryImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortletDriverRegistryImpl
     implements PortletDriverRegistry,

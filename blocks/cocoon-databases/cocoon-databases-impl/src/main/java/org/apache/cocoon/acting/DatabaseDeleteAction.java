@@ -40,7 +40,7 @@ import java.util.Map;
  * in the correct order.  In other words, it removes one record by
  * the keys.
  *
- * @version $Id$
+ * @version $Id: DatabaseDeleteAction.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public final class DatabaseDeleteAction extends AbstractDatabaseAction implements ThreadSafe {
     private static final Map deleteStatements = new HashMap();

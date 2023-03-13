@@ -22,7 +22,7 @@ import org.apache.cocoon.portal.om.PortalUser;
 /**
  * This interface marks an event as a user related event.
  *
- * @version $Id$
+ * @version $Id: UserEvent.java 587755 2007-10-24 02:50:56Z vgritsenko $
  * @since 2.2
  */
 public abstract class UserEvent

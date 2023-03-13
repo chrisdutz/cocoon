@@ -21,7 +21,7 @@ import org.apache.pluto.services.information.ResourceURLProvider;
 /**
  * Create the URL for a resource.
  *
- * @version $Id$
+ * @version $Id: ResourceURLProviderImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class ResourceURLProviderImpl 
 implements ResourceURLProvider {

@@ -27,7 +27,7 @@ import org.xml.sax.SAXException;
  * by a {@link InputSource} object.
  * It can create a DOM from the parsed document.
  *
- * @version $Id$
+ * @version $Id: DOMParser.java 489916 2006-12-23 18:43:44Z cziegeler $
  * @since 2.2
  */
 public interface DOMParser {

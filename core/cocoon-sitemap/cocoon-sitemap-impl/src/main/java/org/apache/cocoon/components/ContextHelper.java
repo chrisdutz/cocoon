@@ -29,7 +29,7 @@ import org.apache.cocoon.processing.ProcessInfoProvider;
  * A set of constants and methods to access the content of the context
  * object. Some of the constants are defined in {@link org.apache.cocoon.Constants}.
  *
- * @version $Id$
+ * @version $Id: ContextHelper.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @deprecated Use the {@link ProcessInfoProvider} instead.
  */
 public final class ContextHelper {

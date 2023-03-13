@@ -67,7 +67,7 @@ import org.apache.regexp.RESyntaxException;
  * &lt;/map:pipelines&gt;
  * </pre>
  *
- * @version $Id$
+ * @version $Id: AbstractRegexpSelector.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractRegexpSelector extends AbstractSwitchSelector
 implements Configurable {

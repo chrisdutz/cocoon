@@ -26,7 +26,7 @@ import org.apache.pluto.om.window.PortletWindow;
 /**
  * Implementation for the render request object.
  *
- * @version $Id$
+ * @version $Id: RenderRequestImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class RenderRequestImpl
     extends org.apache.pluto.core.impl.RenderRequestImpl {

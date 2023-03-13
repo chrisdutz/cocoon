@@ -21,7 +21,7 @@ import org.xml.sax.Locator;
 /**
  * Facade to the Locator to be set on the consumer prior to sending other
  * events, location member changeable
- * @version SVN $Id$
+ * @version SVN $Id: LocatorFacade.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class LocatorFacade implements Locator {
     private Locator locator;

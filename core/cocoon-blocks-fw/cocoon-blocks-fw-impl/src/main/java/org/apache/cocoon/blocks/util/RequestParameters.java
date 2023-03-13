@@ -29,7 +29,7 @@ import java.util.StringTokenizer;
  * a query string and creates a parameter representation required
  * for the <code>Request</code> object.
  *
- * @version $Id$
+ * @version $Id: RequestParameters.java 587749 2007-10-24 02:33:18Z vgritsenko $
  */
 public final class RequestParameters
 implements Serializable {

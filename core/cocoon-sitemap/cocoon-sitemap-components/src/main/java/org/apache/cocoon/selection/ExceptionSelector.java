@@ -61,7 +61,7 @@ import org.apache.commons.lang.exception.ExceptionUtils;
  * that are used in the &lt;map:when> alternatives.
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: ExceptionSelector.java 720180 2008-11-24 12:46:14Z felixk $
  */
 
 public class ExceptionSelector extends AbstractSwitchSelector implements Configurable {

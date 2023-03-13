@@ -26,7 +26,7 @@ import java.io.Serializable;
  * usual store or the {@link ModifiableSourceIncludeCacheStorageProxy} that
  * uses a configured source.
  * 
- *  @version $Id$
+ *  @version $Id: IncludeCacheStorageProxy.java 587750 2007-10-24 02:35:22Z vgritsenko $
  *  @since   2.1
  */
 public interface IncludeCacheStorageProxy {

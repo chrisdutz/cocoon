@@ -16,7 +16,7 @@
 */
 
 /*
-* @version $Id$
+* @version $Id: swan_textareas.js 449149 2006-09-23 03:58:05Z crossley $
 */
 
 function countLines(str, cols) {

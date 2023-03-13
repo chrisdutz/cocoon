@@ -30,7 +30,7 @@ import java.util.List;
  * return the most precise location.
  *
  * @since 2.1.8
- * @version $Id$
+ * @version $Id: MultiLocatable.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface MultiLocatable extends Locatable {
 

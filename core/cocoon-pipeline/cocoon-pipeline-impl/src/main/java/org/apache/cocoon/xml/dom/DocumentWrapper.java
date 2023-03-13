@@ -45,7 +45,7 @@ import org.xml.sax.SAXException;
  *  Wraps an org.w3c.dom.Document and offers additional interfaces
  *  like XMLizable and a toString() method.
  *
- * @version $Id$
+ * @version $Id: DocumentWrapper.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class DocumentWrapper implements org.w3c.dom.Document, XMLizable {
 

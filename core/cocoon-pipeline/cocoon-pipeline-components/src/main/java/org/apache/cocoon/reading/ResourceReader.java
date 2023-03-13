@@ -88,7 +88,7 @@ import org.xml.sax.SAXException;
  * or if it can signal that it hasn't changed.
  * @cocoon.sitemap.component.documentation.caching Yes
  *
- * @version $Id$
+ * @version $Id: ResourceReader.java 654677 2008-05-09 03:52:57Z joerg $
  */
 public class ResourceReader extends AbstractReader
                             implements CacheableProcessingComponent, Configurable {

@@ -28,7 +28,7 @@ import java.util.Map;
  * access to individual attributes e.g. request parameters, request
  * attributes, session attributes &c.
  *
- * @version $Id$
+ * @version $Id: InputModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface InputModule {
 

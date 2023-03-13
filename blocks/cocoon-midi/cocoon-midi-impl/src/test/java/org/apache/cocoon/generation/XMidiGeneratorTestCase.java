@@ -22,7 +22,7 @@ import org.apache.cocoon.SitemapComponentTestCase;
 
 /**
  * Test case for the MIDIGenerator
- * @version $Id$
+ * @version $Id: XMidiGeneratorTestCase.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class XMidiGeneratorTestCase extends SitemapComponentTestCase {
 

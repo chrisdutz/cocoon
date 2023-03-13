@@ -25,7 +25,7 @@ import org.xml.sax.Locator;
 import org.xml.sax.SAXException;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: EndPrefixMapping.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EndPrefixMapping extends Event {
     public EndPrefixMapping(Locator location, String prefix) {

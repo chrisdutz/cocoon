@@ -21,7 +21,7 @@ import org.apache.cocoon.portal.deployment.DeploymentException;
 /**
  * This exception is thrown if the artifact is of an unknown type or format.
  *
- * @version $Id$
+ * @version $Id: SourceNotDeployableException.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class SourceNotDeployableException extends DeploymentException {
 

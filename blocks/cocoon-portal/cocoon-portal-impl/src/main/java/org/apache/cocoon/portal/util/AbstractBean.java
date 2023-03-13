@@ -24,7 +24,7 @@ import org.apache.commons.logging.LogFactory;
  * This class can be used as a base class for all portal related components
  * that do not use Avalon anymore.
  *
- * @version $Id$
+ * @version $Id: AbstractBean.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public class AbstractBean  {
     

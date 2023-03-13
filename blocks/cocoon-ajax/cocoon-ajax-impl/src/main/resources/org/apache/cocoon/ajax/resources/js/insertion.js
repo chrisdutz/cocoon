@@ -18,7 +18,7 @@
 /**
  * Implementation of Prototype's Insertion class with Dojo
  *
- * @version $Id$
+ * @version $Id: insertion.js 448479 2006-09-21 07:33:36Z crossley $
  */
 
 dojo.provide("cocoon.ajax.insertion");

@@ -30,7 +30,7 @@ import org.xml.sax.SAXException;
 import org.xml.sax.SAXParseException;
 
 /**
- * @version $Id$
+ * @version $Id: Substitutions.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class Substitutions {
 

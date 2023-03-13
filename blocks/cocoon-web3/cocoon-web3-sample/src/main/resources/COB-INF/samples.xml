@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!-- CVS: $Id$ -->
+<!-- CVS: $Id: samples.xml 449193 2006-09-23 07:03:36Z crossley $ -->
 
 <samples xmlns:xlink="http://www.w3.org/1999/xlink" name="web3 Block Samples">
   <group name="Back">

@@ -21,7 +21,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * @version  $Id$
+ * @version  $Id: DefaultStringTemplateParser.java 605955 2007-12-20 15:03:43Z vgritsenko $
  */
 public class DefaultStringTemplateParser extends AbstractStringTemplateParser {
 

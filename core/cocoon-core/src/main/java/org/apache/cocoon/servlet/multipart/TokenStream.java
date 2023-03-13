@@ -24,7 +24,7 @@ import java.io.PushbackInputStream;
  * separated by a given boundary.
  *
  * A newline is espected after each boundary and is parsed away.
- * @version $Id$
+ * @version $Id: TokenStream.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 class TokenStream extends PushbackInputStream {
 

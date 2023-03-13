@@ -30,7 +30,7 @@ import org.apache.excalibur.store.impl.AbstractFilesystemStore;
  * Stores objects on the filesystem: String objects as text files,
  * all other objects are serialized.
  *
- * @version $Id$
+ * @version $Id: FilesystemStore.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public final class FilesystemStore extends AbstractFilesystemStore {
 

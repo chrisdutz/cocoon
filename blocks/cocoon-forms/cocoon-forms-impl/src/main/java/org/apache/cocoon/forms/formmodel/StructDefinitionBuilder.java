@@ -23,7 +23,7 @@ import org.w3c.dom.Element;
  * Builds {StructDefinition}s.
  *
  * @deprecated replaced by {@link GroupDefinitionBuilder}
- * @version $Id$
+ * @version $Id: StructDefinitionBuilder.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public class StructDefinitionBuilder extends AbstractContainerDefinitionBuilder {
 

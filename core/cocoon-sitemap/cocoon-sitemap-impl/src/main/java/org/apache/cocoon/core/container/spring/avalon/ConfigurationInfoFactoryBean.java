@@ -22,7 +22,7 @@ import org.springframework.beans.factory.FactoryBean;
  * This spring factory bean adds the configuration info to the bean factory.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: ConfigurationInfoFactoryBean.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ConfigurationInfoFactoryBean
     implements FactoryBean {

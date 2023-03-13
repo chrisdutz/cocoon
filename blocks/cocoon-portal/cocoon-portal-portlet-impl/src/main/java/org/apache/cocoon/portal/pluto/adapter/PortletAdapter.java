@@ -75,7 +75,7 @@ import org.xml.sax.SAXException;
 /**
  * This is the adapter to use JSR-168 portlets as coplets.
  *
- * @version $Id$
+ * @version $Id: PortletAdapter.java 600025 2007-12-01 00:43:11Z cziegeler $
  */
 public class PortletAdapter
     extends AbstractCopletAdapter

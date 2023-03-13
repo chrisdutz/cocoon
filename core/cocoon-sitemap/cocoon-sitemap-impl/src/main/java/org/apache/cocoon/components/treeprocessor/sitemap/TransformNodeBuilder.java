@@ -28,7 +28,7 @@ import java.util.Map;
 
 /**
  *
- * @version $Id$
+ * @version $Id: TransformNodeBuilder.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class TransformNodeBuilder extends AbstractProcessingNodeBuilder
   implements LinkedProcessingNodeBuilder {

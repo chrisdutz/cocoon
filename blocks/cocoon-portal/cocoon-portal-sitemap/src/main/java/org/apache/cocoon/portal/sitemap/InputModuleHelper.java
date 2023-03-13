@@ -28,7 +28,7 @@ import org.apache.cocoon.components.treeprocessor.variables.VariableResolverFact
 import org.apache.cocoon.sitemap.PatternException;
 
 /**
- * @version $Id$ 
+ * @version $Id: InputModuleHelper.java 605841 2007-12-20 09:16:33Z cziegeler $ 
  */
 public class InputModuleHelper {
 

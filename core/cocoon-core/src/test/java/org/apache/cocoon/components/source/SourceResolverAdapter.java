@@ -29,7 +29,7 @@ import org.apache.excalibur.source.SourceException;
 /**
  * An adapter for the Excalibur SourceResolver.
  *
- * @version $Id$
+ * @version $Id: SourceResolverAdapter.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class SourceResolverAdapter implements SourceResolver
 {

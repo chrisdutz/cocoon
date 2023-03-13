@@ -32,7 +32,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
 /**
  * Allows Servlets and JSPs to be used as a generator.
  *
- * @version $Id$
+ * @version $Id: JSPEngineImpl.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class JSPEngineImpl extends AbstractLogEnabled
                            implements JSPEngine, Parameterizable, ThreadSafe {

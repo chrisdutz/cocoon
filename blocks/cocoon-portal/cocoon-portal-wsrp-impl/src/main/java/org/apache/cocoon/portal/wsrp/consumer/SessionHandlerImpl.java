@@ -28,7 +28,7 @@ import org.apache.wsrp4j.exception.WSRPException;
 /**
  * Simple Session Handler<br/>
  *
- * @version $Id$
+ * @version $Id: SessionHandlerImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class SessionHandlerImpl
     extends AbstractLogEnabled

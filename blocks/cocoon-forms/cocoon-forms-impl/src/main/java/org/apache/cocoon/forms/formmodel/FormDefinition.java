@@ -31,7 +31,7 @@ import org.apache.commons.lang.StringUtils;
 /**
  * The {@link WidgetDefinition} part of a Form widget, see {@link Form} for more information.
  *
- * @version $Id$
+ * @version $Id: FormDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class FormDefinition extends AbstractContainerDefinition {
 

@@ -27,7 +27,7 @@ import java.io.IOException;
  *
  * This element has two attributes: Points and PrefUnit
  *
- * @version $Id$
+ * @version $Id: EP_Left.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EP_Left extends BaseElementProcessor {
     private static final String _points_attribute    = "Points";

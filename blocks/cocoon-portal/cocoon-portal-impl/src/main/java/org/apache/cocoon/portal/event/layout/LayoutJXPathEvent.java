@@ -23,7 +23,7 @@ import org.apache.cocoon.portal.om.Layout;
 /**
  * This event changes the value of a layout object.
  *
- * @version $Id$
+ * @version $Id: LayoutJXPathEvent.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class LayoutJXPathEvent
     extends LayoutEvent

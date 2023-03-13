@@ -22,7 +22,7 @@ package org.apache.cocoon.core.container.spring.avalon;
  * This interface is used to put the poolable component back into the pool
  * when it is released.
  *
- * @version $Id$
+ * @version $Id: AvalonPoolable.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 public interface AvalonPoolable {

@@ -46,7 +46,7 @@ import org.apache.excalibur.store.StoreJanitor;
  * the StoreJanitor component which will invoke this component to free
  * memory in case of low memory.
  *
- * @version $Id$
+ * @version $Id: CollectorImpl.java 587761 2007-10-24 03:08:05Z vgritsenko $
  * @since 2.1.10
  */
 public class CollectorImpl

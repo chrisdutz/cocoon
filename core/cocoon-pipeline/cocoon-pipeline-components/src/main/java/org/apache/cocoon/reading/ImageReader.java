@@ -98,7 +98,7 @@ import org.xml.sax.SAXException;
  * or if it can signal that it hasn't changed.
  * @cocoon.sitemap.component.documentation.caching Yes
  *
- * @version $Id$
+ * @version $Id: ImageReader.java 1370694 2012-08-08 08:19:09Z javier $
  */
 final public class ImageReader extends ResourceReader {
     private static final boolean GRAYSCALE_DEFAULT = false;

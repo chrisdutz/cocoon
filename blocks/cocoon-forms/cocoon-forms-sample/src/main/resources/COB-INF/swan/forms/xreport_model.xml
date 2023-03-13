@@ -19,7 +19,7 @@
 <!--
   Model for the Swan xreport editor.
 
-  @version $Id$
+  @version $Id: xreport_model.xml 566578 2007-08-16 08:57:50Z felixk $
 -->
 
 <fd:form

@@ -38,7 +38,7 @@ import org.xml.sax.helpers.NamespaceSupport;
 /**
  * Helper class to build Widget test cases.
  * 
- * @version $Id$
+ * @version $Id: WidgetTestHelper.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class WidgetTestHelper {
     

@@ -32,7 +32,7 @@ import java.io.IOException;
  *
  * This element has several attributes and has no content
  *
- * @version $Id$
+ * @version $Id: EPColInfo.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EPColInfo extends BaseElementProcessor {
 

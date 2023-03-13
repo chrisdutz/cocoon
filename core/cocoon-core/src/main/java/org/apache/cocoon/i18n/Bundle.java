@@ -22,7 +22,7 @@ import java.util.MissingResourceException;
  * Resource bundle component interface.
  * Provide the minimal number of methods to be used for i18n.
  *
- * @version $Id$
+ * @version $Id: Bundle.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public interface Bundle {
 

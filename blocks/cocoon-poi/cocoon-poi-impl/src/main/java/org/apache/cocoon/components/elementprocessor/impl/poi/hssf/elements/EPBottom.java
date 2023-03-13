@@ -37,7 +37,7 @@ import java.util.Hashtable;
  *
  * This element is not used in HSSFSerializer 1.0
  *
- * @version $Id$
+ * @version $Id: EPBottom.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EPBottom extends BaseElementProcessor {
     private NumericResult          _style;

@@ -34,7 +34,7 @@ import org.apache.cocoon.environment.internal.EnvironmentHelper;
 /**
  * BlockPathModule returns the absolute path of a block protocol path.
  *
- * @version $Id$
+ * @version $Id: BlockPathModule.java 587749 2007-10-24 02:33:18Z vgritsenko $
  */
 public class BlockPathModule implements InputModule, ThreadSafe {
 

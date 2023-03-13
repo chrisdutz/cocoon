@@ -56,7 +56,7 @@ import org.xml.sax.SAXException;
 /**
  * A repository implementation for WebDAV.
  *
- * @version $Id$
+ * @version $Id: WebDAVRepository.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class WebDAVRepository extends AbstractLogEnabled
                               implements Repository, Serviceable, Configurable, Initializable, Disposable {

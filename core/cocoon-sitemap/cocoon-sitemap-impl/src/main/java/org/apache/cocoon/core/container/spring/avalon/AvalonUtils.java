@@ -26,7 +26,7 @@ import org.apache.cocoon.configuration.Settings;
  * Some utility methods for handling Avalon stuff.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: AvalonUtils.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class AvalonUtils {
 

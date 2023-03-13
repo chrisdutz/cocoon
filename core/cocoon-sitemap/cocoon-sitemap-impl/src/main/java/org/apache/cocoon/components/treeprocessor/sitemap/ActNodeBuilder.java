@@ -28,7 +28,7 @@ import org.apache.cocoon.components.treeprocessor.variables.VariableResolverFact
 
 /**
  *
- * @version $Id$
+ * @version $Id: ActNodeBuilder.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ActNodeBuilder extends AbstractParentProcessingNodeBuilder
                             implements LinkedProcessingNodeBuilder {

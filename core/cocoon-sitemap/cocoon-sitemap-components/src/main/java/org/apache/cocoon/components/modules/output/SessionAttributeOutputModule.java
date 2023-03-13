@@ -37,7 +37,7 @@ import org.apache.cocoon.environment.ObjectModelHelper;
  * rollback or commit is called. Then values are either discarded or
  * copied to the final destination.
  *
- * @version $Id$
+ * @version $Id: SessionAttributeOutputModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class SessionAttributeOutputModule extends AbstractOutputModule
                                           implements ThreadSafe {

@@ -27,7 +27,7 @@ import org.xml.sax.SAXException;
  * This is a simple Tee Component.
  * The incoming events are forwarded to two other components.
  *
- * @version $Id$
+ * @version $Id: XMLTeePipe.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class XMLTeePipe implements XMLPipe {
 

@@ -35,7 +35,7 @@ import java.util.HashMap;
  * all the properties and configuration parameters of that transformer. 
  * Please refer to its documentation for more information.
  *
- * @version $Id$
+ * @version $Id: DeliTransformer.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class DeliTransformer extends TraxTransformer {
 

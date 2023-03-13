@@ -24,7 +24,7 @@ import org.apache.cocoon.portal.om.NamedItem;
 
 /**
  *
- * @version $Id$
+ * @version $Id: ChangeTabEvent.java 587755 2007-10-24 02:50:56Z vgritsenko $
  * @since 2.2
  */
 public class ChangeTabEvent

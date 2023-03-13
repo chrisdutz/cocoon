@@ -19,7 +19,7 @@ package org.apache.cocoon.template.instruction;
 import org.apache.cocoon.template.script.event.Event;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: MacroContext.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class MacroContext {
     private final String macroQName;

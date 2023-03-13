@@ -17,7 +17,7 @@
 package org.apache.cocoon.taglib.string;
 
 /**
- * @version $Id$
+ * @version $Id: TrimTag.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class TrimTag extends StringTagSupport {
 

@@ -22,7 +22,7 @@ import org.apache.cocoon.forms.datatype.SelectionList;
 /**
  * The {@link WidgetDefinition} part of a Field widget, see {@link Field} for more information.
  *
- * @version $Id$
+ * @version $Id: FieldDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class FieldDefinition extends AbstractDatatypeWidgetDefinition {
 

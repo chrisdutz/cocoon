@@ -33,7 +33,7 @@ import org.apache.cocoon.auth.ApplicationManager;
  * @cocoon.sitemap.component.documentation
  * This action logs the current user out of a given application.
  *
- * @version $Id$
+ * @version $Id: LogoutAction.java 607381 2007-12-29 05:42:58Z vgritsenko $
 */
 public final class LogoutAction extends AbstractAuthAction {
 

@@ -35,7 +35,7 @@ import org.xml.sax.SAXException;
  * and tries to interpret them as valid XML.
  * It's actually a quick hack...
  *
- * @version $Id$
+ * @version $Id: RSSTransformer.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public final class RSSTransformer
 extends AbstractSAXTransformer

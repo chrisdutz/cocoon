@@ -32,7 +32,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
 import org.apache.cocoon.util.MIMEUtils;
 
 /**
- * @version $Id$
+ * @version $Id: ZipSource.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.1.8
  */
 public class ZipSource extends AbstractLogEnabled

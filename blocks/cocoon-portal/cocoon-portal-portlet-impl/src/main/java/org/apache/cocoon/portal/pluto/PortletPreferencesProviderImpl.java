@@ -38,7 +38,7 @@ import org.apache.pluto.om.common.PreferenceSet;
  * based on the coplet configuration: the preferences can then
  * either be per instance or per user!
  *
- * $Id$
+ * $Id: PortletPreferencesProviderImpl.java 633260 2008-03-03 20:21:05Z cziegeler $
  */
 public class PortletPreferencesProviderImpl
     extends AbstractComponent

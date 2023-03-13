@@ -27,7 +27,7 @@ import java.net.URL;
 /**
  * A simple test case for CommandLineContext.
  *
- * @version $Id$
+ * @version $Id: CommandLineContextTestCase.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public final class CommandLineContextTestCase extends TestCase {
 

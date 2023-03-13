@@ -32,7 +32,7 @@ import org.apache.excalibur.source.SourceUtil;
  * Therefore, a parameter named 'command' has to be configured in the sitemap 
  * to hold the filename as value.
  * 
- * @version $Id$
+ * @version $Id: CommandAction.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class CommandAction extends AbstractAction implements ThreadSafe {
 	

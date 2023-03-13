@@ -21,7 +21,7 @@ package org.apache.cocoon.webapps.session;
  * It provides simple support for developing multi-channel applications
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: MediaManager.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface MediaManager {
 

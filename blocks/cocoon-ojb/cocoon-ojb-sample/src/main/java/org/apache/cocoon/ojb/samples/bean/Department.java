@@ -21,7 +21,7 @@ import java.io.Serializable;
 /**
  *  Department's Bean
  *
- * @version $Id$
+ * @version $Id: Department.java 587761 2007-10-24 03:08:05Z vgritsenko $
 */
 public class Department implements Serializable {
 

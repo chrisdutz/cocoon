@@ -21,7 +21,7 @@ import java.util.Date;
 /**
  * This interface for lock of a source
  *
- * @version $Id$
+ * @version $Id: SourceLock.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class SourceLock {
 

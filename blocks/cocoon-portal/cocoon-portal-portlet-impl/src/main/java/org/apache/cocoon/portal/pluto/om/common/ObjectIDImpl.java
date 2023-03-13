@@ -25,7 +25,7 @@ import java.io.ObjectOutputStream;
  * the string and the integer version of an Object ID this class
  * helps speed up the internal processing.
  *
- * @version $Id$
+ * @version $Id: ObjectIDImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class ObjectIDImpl 
 implements org.apache.pluto.om.common.ObjectID, java.io.Serializable {

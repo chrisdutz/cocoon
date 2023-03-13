@@ -36,7 +36,7 @@ import org.w3c.dom.Element;
  * have this convertor to use a different string representation.
  * </p>
  *
- * @version $Id$
+ * @version $Id: PlainBeanConvertorBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class PlainBeanConvertorBuilder
     implements BeanConvertorBuilder

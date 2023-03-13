@@ -35,7 +35,7 @@ import org.apache.cocoon.environment.SourceResolver;
  * This action just checks if a session exists and whether the current
  * seesion is still valid.
  *
- * @version $Id$
+ * @version $Id: SessionIsValidAction.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class SessionIsValidAction extends AbstractAction implements ThreadSafe
 {

@@ -27,7 +27,7 @@ import java.io.IOException;
  * A generator is the starting point of a pipeline. It "generates" XML
  * and starts streaming them into the pipeline.
  * 
- * @version $Id$
+ * @version $Id: Generator.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface Generator extends XMLProducer, SitemapModelComponent {
 

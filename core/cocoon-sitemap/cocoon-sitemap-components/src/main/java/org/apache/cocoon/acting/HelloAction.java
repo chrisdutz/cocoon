@@ -35,7 +35,7 @@ import org.apache.cocoon.environment.SourceResolver;
  * A simple Action that tracks if a <code>Session</code> object
  * has been created or not.
  *
- * @version $Id$
+ * @version $Id: HelloAction.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class HelloAction extends ServiceableAction implements ThreadSafe {
 

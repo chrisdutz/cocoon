@@ -267,7 +267,7 @@ import java.util.StringTokenizer;
  * @cocoon.sitemap.component.documentation.caching Yes.
  * Currently, validity of used i18n catalogues is not verified
  *
- * @version $Id$
+ * @version $Id: I18nTransformer.java 605689 2007-12-19 20:48:43Z vgritsenko $
  */
 public class I18nTransformer extends AbstractTransformer
                              implements CacheableProcessingComponent,

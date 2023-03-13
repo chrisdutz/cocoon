@@ -55,7 +55,7 @@ import org.xmldb.api.base.XMLDBException;
  * <p>
  * The returned sources are traversable, modifiable and xml-izable.
  *
- * @version $Id$
+ * @version $Id: XMLDBSourceFactory.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public final class XMLDBSourceFactory extends AbstractLogEnabled
                                       implements SourceFactory, Configurable, ThreadSafe {

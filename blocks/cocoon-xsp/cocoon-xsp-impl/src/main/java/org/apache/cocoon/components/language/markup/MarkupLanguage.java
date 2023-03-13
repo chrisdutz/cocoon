@@ -24,7 +24,7 @@ import org.apache.excalibur.source.Source;
  * be translated into an executable program capable or transforming the original
  * document augmenting it with dynamic content
  *
- * @version $Id$
+ * @version $Id: MarkupLanguage.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface MarkupLanguage {
 

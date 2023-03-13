@@ -23,7 +23,7 @@ import org.xml.sax.SAXException;
 /**
  * A renderer is responsible for rendering a layout object.
  *
- * @version $Id$
+ * @version $Id: Renderer.java 682464 2008-08-04 18:55:57Z cziegeler $
  */
 public interface Renderer {
 

@@ -22,7 +22,7 @@ import org.apache.excalibur.source.Source;
 /**
  * Work interface for the component that caches objects for Cocoon Forms.
  *
- * @version $Id$
+ * @version $Id: CacheManager.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface CacheManager {
 

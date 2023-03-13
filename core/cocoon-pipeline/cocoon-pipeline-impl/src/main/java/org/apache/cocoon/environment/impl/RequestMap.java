@@ -25,7 +25,7 @@ import java.util.Set;
 /**
  * Request attributes map
  *
- * @version $Id$
+ * @version $Id: RequestMap.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class RequestMap extends BaseMap {
 

@@ -40,7 +40,7 @@ import org.xml.sax.SAXException;
  *
  * @deprecated Use &lt;map:handle-errors&gt; without type attribute together with
  *             {@link org.apache.cocoon.generation.ExceptionGenerator}.
- * @version $Id$
+ * @version $Id: NotifyingGenerator.java 607380 2007-12-29 05:39:06Z vgritsenko $
  */
 public class NotifyingGenerator extends AbstractGenerator {
     

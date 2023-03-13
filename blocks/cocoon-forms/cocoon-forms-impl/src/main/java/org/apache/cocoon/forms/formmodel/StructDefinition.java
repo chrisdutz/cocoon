@@ -20,7 +20,7 @@ package org.apache.cocoon.forms.formmodel;
  * The {@link WidgetDefinition} corresponding to a {@link Struct} widget.
  *
  * @deprecated replaced by {@link GroupDefinition}
- * @version $Id$
+ * @version $Id: StructDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class StructDefinition extends GroupDefinition {
 

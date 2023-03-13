@@ -40,7 +40,7 @@ import org.apache.poi.hssf.util.HSSFColor;
  *
  * This element is not used in HSSFSerializer 1.0
  *
- * @version $Id$
+ * @version $Id: EPStyle.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EPStyle extends BaseElementProcessor {
     private static final String _general_format = "General";

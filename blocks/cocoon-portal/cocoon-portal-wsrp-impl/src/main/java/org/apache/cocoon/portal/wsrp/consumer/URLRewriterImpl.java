@@ -28,7 +28,7 @@ import org.apache.wsrp4j.util.Constants;
  * Implements the URLRewriter interface providing a method
  * to rewrite urls (Consumer URL Rewriting).<br/>
  *
- * @version $Id$
+ * @version $Id: URLRewriterImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class URLRewriterImpl
     extends AbstractLogEnabled

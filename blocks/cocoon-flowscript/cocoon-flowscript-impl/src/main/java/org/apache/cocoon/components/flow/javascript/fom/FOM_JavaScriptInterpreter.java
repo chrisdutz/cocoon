@@ -77,7 +77,7 @@ import org.mozilla.javascript.tools.shell.Global;
  * Interface with the JavaScript interpreter.
  *
  * @since March 25, 2002
- * @version $Id$
+ * @version $Id: FOM_JavaScriptInterpreter.java 681703 2008-08-01 14:22:32Z gkossakowski $
  */
 public class FOM_JavaScriptInterpreter extends CompilingInterpreter
                                        implements Initializable {

@@ -28,7 +28,7 @@ import org.apache.cocoon.serialization.Serializer;
 
 /**
  *
- * @version $Id$
+ * @version $Id: SerializeNodeBuilder.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class SerializeNodeBuilder extends AbstractProcessingNodeBuilder
   implements LinkedProcessingNodeBuilder {

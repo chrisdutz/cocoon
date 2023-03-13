@@ -20,7 +20,7 @@ package org.apache.cocoon.portal.deployment;
  * This component scans for artifacts to be deployed and fires {@link DeploymentEvent}s
  * to deploy/undeploy an artifact.
  *
- * @version $Id$
+ * @version $Id: DeploymentManager.java 609787 2008-01-07 21:37:46Z cziegeler $
  */
 public interface DeploymentManager {
 

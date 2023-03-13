@@ -29,7 +29,7 @@ dojo.require("cocoon.ajax.BUHandler");
  * Extends the base DomWidget class. We don't need all the HtmlWidget stuff
  * but need traversal of the DOM to build child widgets
  *
- * @version $Id$
+ * @version $Id: CFormsForm.js 491930 2007-01-02 20:44:30Z jeremy $
  */
 
 dojo.widget.defineWidget(

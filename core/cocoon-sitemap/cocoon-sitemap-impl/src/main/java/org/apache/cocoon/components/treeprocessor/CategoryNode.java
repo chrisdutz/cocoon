@@ -25,7 +25,7 @@ import org.apache.cocoon.environment.Environment;
 /**
  * A generic container node that just invokes its children.
  *
- * @version $Id$
+ * @version $Id: CategoryNode.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public final class CategoryNode extends AbstractParentProcessingNode {
 

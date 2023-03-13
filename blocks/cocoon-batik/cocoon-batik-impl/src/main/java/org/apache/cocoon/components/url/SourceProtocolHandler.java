@@ -34,7 +34,7 @@ import org.apache.excalibur.source.SourceResolver;
  * A Batik protocol handler that handles all Cocoon sources. This allows
  * &lt;svg:image xlink:href="..."/> to use any of the protocols handled by Cocoon.
  * 
- * @version $Id$
+ * @version $Id: SourceProtocolHandler.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class SourceProtocolHandler extends AbstractParsedURLProtocolHandler {
 

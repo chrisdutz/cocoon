@@ -29,7 +29,7 @@ import org.apache.wsrp4j.util.Constants;
  * that are willing to properly write URLs for a consumer. (With templates the consumer
  * indicates how it needs URLs formatted in order to process them properly.)
  *
- * @version $Id$
+ * @version $Id: URLTemplateComposerImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class URLTemplateComposerImpl
     implements URLTemplateComposer, RequiresWSRPAdapter {

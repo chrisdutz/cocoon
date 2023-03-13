@@ -21,7 +21,7 @@ import org.w3c.dom.Element;
 /**
  * Builds {PlainBooleanConvertor}s.
  *
- * @version $Id$
+ * @version $Id: PlainBooleanConvertorBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class PlainBooleanConvertorBuilder implements BooleanConvertorBuilder {
     public Convertor build(Element configElement) throws Exception {

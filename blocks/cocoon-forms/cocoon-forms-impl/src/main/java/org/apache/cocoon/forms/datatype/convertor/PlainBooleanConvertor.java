@@ -24,7 +24,7 @@ import java.util.Locale;
 /**
  * Convertor for java.lang.Boolean's.
  *
- * @version $Id$
+ * @version $Id: PlainBooleanConvertor.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class PlainBooleanConvertor implements Convertor {
     public ConversionResult convertFromString(String value, Locale locale, Convertor.FormatCache formatCache) {

@@ -27,7 +27,7 @@ import org.springframework.beans.factory.FactoryBean;
  * <p>If category was not set, default category 'cocoon' is used.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: LoggerFactoryBean.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class LoggerFactoryBean implements FactoryBean {
 

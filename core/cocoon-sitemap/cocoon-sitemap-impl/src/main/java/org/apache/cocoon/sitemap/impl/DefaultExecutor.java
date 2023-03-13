@@ -36,7 +36,7 @@ import org.apache.cocoon.sitemap.SitemapExecutor;
  * TODO - This is not finished yet!
  * 
  * @since 2.2
- * @version $Id$
+ * @version $Id: DefaultExecutor.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class DefaultExecutor 
     implements SitemapExecutor {

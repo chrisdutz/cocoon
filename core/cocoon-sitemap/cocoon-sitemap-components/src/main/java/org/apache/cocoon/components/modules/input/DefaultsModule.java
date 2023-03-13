@@ -42,7 +42,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * &lt;/values&gt;
  * </pre>
  * 
- * @version $Id$
+ * @version $Id: DefaultsModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class DefaultsModule extends AbstractLogEnabled
                             implements InputModule, Configurable, ThreadSafe {

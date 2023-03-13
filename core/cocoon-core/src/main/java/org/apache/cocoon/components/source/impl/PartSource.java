@@ -35,7 +35,7 @@ import java.io.InputStream;
  * from a PartOnDisk or PartInMemory held in the Request when
  * a file is uploaded.
  *
- * @version $Id$
+ * @version $Id: PartSource.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class PartSource implements Source
 {

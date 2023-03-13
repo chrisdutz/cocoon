@@ -120,7 +120,7 @@ import EDU.oswego.cs.dl.util.concurrent.CountDown;
  *  </tr>
  * </tbody></table>
  *
- * @version $Id$
+ * @version $Id: AbstractCopletAdapter.java 633260 2008-03-03 20:21:05Z cziegeler $
  */
 public abstract class AbstractCopletAdapter
     extends AbstractBean

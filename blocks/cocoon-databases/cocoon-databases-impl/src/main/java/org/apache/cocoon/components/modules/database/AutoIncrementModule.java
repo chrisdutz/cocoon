@@ -28,7 +28,7 @@ import org.apache.avalon.framework.configuration.ConfigurationException;
  * Abstraction layer to encapsulate different DBMS behaviour for key
  * attribute columns.
  *
- * @version $Id$
+ * @version $Id: AutoIncrementModule.java 587758 2007-10-24 02:55:27Z vgritsenko $
  * */
 public interface AutoIncrementModule {
 

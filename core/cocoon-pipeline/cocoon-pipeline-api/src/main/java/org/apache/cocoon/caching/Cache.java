@@ -27,7 +27,7 @@ import org.apache.cocoon.ProcessingException;
  * This interface will grow!
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: Cache.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface Cache {
 

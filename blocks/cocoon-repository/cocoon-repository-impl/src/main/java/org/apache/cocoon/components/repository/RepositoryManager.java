@@ -37,7 +37,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
 /**
  * A factory component to create instances of repositories.
  *
- * @version $Id$
+ * @version $Id: RepositoryManager.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class RepositoryManager extends AbstractLogEnabled
                                implements Serviceable, Disposable, Configurable, ThreadSafe {

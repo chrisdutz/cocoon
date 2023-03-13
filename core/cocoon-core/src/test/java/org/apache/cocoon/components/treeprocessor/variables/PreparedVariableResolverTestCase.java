@@ -28,7 +28,7 @@ import org.apache.cocoon.sitemap.PatternException;
 /**
  * Test case for the nested variant of the PreparedVariableResolver
  *
- * @version $Id$
+ * @version $Id: PreparedVariableResolverTestCase.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class PreparedVariableResolverTestCase extends SitemapComponentTestCase {
     

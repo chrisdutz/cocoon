@@ -32,7 +32,7 @@ import org.apache.cocoon.environment.Environment;
 import org.apache.commons.lang.BooleanUtils;
 
 /**
- * @version $Id$
+ * @version $Id: MountNode.java 606646 2007-12-24 00:47:21Z vgritsenko $
  */
 public class MountNode extends AbstractProcessingNode
                        implements Disposable {

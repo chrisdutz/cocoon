@@ -49,7 +49,7 @@ import java.util.StringTokenizer;
  * @cocoon.sitemap.component.documentation.caching No
  *
  * @since October 10, 2001
- * @version $Id$
+ * @version $Id: AugmentTransformer.java 605605 2007-12-19 16:19:51Z vgritsenko $
  */
 public class AugmentTransformer extends AbstractTransformer {
 

@@ -21,7 +21,7 @@ import java.util.EventObject;
 /**
  * Event indicating a change on a {@link TreeModel}.
  * 
- * @version $Id$
+ * @version $Id: TreeModelEvent.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class TreeModelEvent extends EventObject {
     

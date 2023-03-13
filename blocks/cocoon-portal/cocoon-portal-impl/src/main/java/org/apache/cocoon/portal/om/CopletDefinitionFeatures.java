@@ -22,7 +22,7 @@ import org.apache.commons.lang.BooleanUtils;
  * This class contains constants and utility methods for the standard features
  * of a coplet.
  *
- * @version $Id$
+ * @version $Id: CopletDefinitionFeatures.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public final class CopletDefinitionFeatures {
 

@@ -17,7 +17,7 @@
 package org.apache.cocoon.util;
 
 /**
- * @version $Id$
+ * @version $Id: ImageProperties.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 final public class ImageProperties {
     final public int width;

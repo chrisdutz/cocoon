@@ -24,7 +24,7 @@ import org.apache.cocoon.util.IOUtils;
  * Test Cases for the IOUtils Class.
  * @see org.apache.cocoon.util.IOUtils
  *
- * @version $Id$
+ * @version $Id: IOUtilsTestCase.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class IOUtilsTestCase extends TestCase
 {

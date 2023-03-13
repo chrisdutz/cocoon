@@ -21,7 +21,7 @@ import org.apache.cocoon.portal.om.CopletInstance;
 /**
  * This event is fired if an instance is removed.
  *
- * @version $Id$
+ * @version $Id: CopletInstanceRemovedEvent.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class CopletInstanceRemovedEvent
     extends AbstractCopletInstanceEvent {

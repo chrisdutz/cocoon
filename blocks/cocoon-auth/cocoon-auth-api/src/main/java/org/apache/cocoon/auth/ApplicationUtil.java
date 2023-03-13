@@ -34,7 +34,7 @@ import org.apache.cocoon.spring.configurator.WebAppContextUtils;
  * and then you can invoke one of the instance methods like
  * var user = util.getUser();
  *
- * @version $Id$
+ * @version $Id: ApplicationUtil.java 693535 2008-09-09 18:01:31Z joerg $
  */
 public class ApplicationUtil {
 

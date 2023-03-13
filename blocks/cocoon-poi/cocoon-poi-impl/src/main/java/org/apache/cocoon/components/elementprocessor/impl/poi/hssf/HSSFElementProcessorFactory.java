@@ -101,7 +101,7 @@ import org.apache.cocoon.components.elementprocessor.impl.poi.hssf.elements.EP_V
  * XML element names to HSSF-specific ElementProcessor progenitor
  * objects.
  *
- * @version $Id$
+ * @version $Id: HSSFElementProcessorFactory.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class HSSFElementProcessorFactory extends AbstractElementProcessorFactory {
 

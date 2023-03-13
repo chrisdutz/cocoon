@@ -58,7 +58,7 @@ import org.xmldb.api.modules.XPathQueryService;
  * This class implements the xmldb:// pseudo-protocol and allows to get XML
  * content from an XML:DB enabled XML database.
  *
- * @version $Id$
+ * @version $Id: XMLDBSource.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class XMLDBSource extends AbstractLogEnabled
                          implements ModifiableTraversableSource, XMLizable {

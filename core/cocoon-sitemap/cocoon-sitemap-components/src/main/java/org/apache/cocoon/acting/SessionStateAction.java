@@ -80,7 +80,7 @@ import org.apache.cocoon.environment.SourceResolver;
  *
  * @see org.apache.cocoon.matching.WildcardSessionAttributeMatcher
  * @see org.apache.cocoon.selection.SessionAttributeSelector
- * @version $Id$
+ * @version $Id: SessionStateAction.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class SessionStateAction
     extends AbstractConfigurableAction

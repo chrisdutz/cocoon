@@ -25,7 +25,7 @@ import org.apache.cocoon.portal.PortalService;
  * This class contains constants and utility methods for the standard features
  * of a layout object.
  *
- * @version $Id$
+ * @version $Id: LayoutFeatures.java 599229 2007-11-29 00:51:48Z cziegeler $
  */
 public class LayoutFeatures {
 

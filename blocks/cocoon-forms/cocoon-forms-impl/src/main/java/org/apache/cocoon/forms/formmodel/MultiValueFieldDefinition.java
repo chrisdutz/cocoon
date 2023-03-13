@@ -19,7 +19,7 @@ package org.apache.cocoon.forms.formmodel;
 /**
  * The {@link WidgetDefinition} part of a MultiValueField widget, see {@link MultiValueField} for more information.
  *
- * @version $Id$
+ * @version $Id: MultiValueFieldDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class MultiValueFieldDefinition extends FieldDefinition {
 

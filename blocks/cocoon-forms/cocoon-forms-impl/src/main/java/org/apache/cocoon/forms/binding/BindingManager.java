@@ -22,7 +22,7 @@ import org.w3c.dom.Element;
 /**
  * BindingManager declares the factory method that produces actual Bindings.
  *
- * @version $Id$
+ * @version $Id: BindingManager.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface BindingManager {
 

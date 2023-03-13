@@ -47,7 +47,7 @@ import org.xml.sax.SAXException;
  * The generation half of FragmentExtractor (see also <code>FragmentExtractorTransformer)</code>.
  * @cocoon.sitemap.component.documentation.caching Yes
  *
- * @version $Id$
+ * @version $Id: FragmentExtractorGenerator.java 607379 2007-12-29 05:36:49Z vgritsenko $
  */
 public class FragmentExtractorGenerator extends ServiceableGenerator
                                         implements CacheableProcessingComponent {

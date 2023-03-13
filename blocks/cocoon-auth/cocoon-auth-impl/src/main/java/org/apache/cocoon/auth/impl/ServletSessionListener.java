@@ -28,7 +28,7 @@ import javax.servlet.http.HttpSessionEvent;
  *
  * This listener has not been tested yet.
  *
- * @version $Id$
+ * @version $Id: ServletSessionListener.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public class ServletSessionListener implements HttpSessionActivationListener {
 

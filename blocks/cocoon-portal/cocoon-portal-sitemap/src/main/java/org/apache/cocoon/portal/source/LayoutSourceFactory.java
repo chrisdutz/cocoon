@@ -28,7 +28,7 @@ import org.apache.excalibur.source.SourceFactory;
 /**
  * The source factory for the layout sources.
  *
- * @version $Id$
+ * @version $Id: LayoutSourceFactory.java 633260 2008-03-03 20:21:05Z cziegeler $
  */
 public class LayoutSourceFactory     
     extends AbstractComponent

@@ -74,7 +74,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * &lt;/section&gt;
  * </pre>
  *
- * @version $Id$
+ * @version $Id: PatternTransformer.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class PatternTransformer extends AbstractTransformer
                                 implements Serviceable, Recyclable, Disposable,

@@ -115,7 +115,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * @cocoon.sitemap.component.documentation.caching Yes.
  * Uses the last modification date of the directory and the contained documents
  *
- * @version $Id$
+ * @version $Id: XPathDirectoryGenerator.java 605605 2007-12-19 16:19:51Z vgritsenko $
  */
 public class XPathDirectoryGenerator extends DirectoryGenerator {
     /** Local name for the element that contains the included XML snippet. */
@@ -322,7 +322,7 @@ public class XPathDirectoryGenerator extends DirectoryGenerator {
     /**
      * The MappingInfo class to resolve namespace prefixes to their namespace URI
      *
-     * @version $Id$
+     * @version $Id: XPathDirectoryGenerator.java 605605 2007-12-19 16:19:51Z vgritsenko $
      */
     private static class MappingInfo
     implements PrefixResolver {

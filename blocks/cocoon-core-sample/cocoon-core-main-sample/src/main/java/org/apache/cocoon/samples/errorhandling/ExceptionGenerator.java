@@ -34,7 +34,7 @@ import java.util.Map;
  *
  * @author <a href="mailto:bluetkemeier@s-und-n.de">Bj&ouml;rn L&uuml;tkemeier</a>
  * @author <a href="mailto:vgritsenko@apache.org">Vadim Gritsenko</a>
- * @version $Id$
+ * @version $Id: ExceptionGenerator.java 433543 2006-08-22 06:22:54Z crossley $
  */
 public class ExceptionGenerator extends AbstractGenerator {
 

@@ -88,7 +88,7 @@ import org.mozilla.javascript.tools.shell.Global;
  * </p>
  * 
  * @since 2.1
- * @version $Id$
+ * @version $Id: AO_FOM_JavaScriptInterpreter.java 643699 2008-04-02 03:44:59Z joerg $
  */
 public class AO_FOM_JavaScriptInterpreter extends AbstractInterpreter
                                           implements Serviceable, Configurable, Initializable {

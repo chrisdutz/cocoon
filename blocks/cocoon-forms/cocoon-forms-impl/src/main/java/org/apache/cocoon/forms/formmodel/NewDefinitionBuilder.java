@@ -21,7 +21,7 @@ import org.w3c.dom.Element;
 /**
  * Builds {NewDefinition}s.
  *
- * @version $Id$
+ * @version $Id: NewDefinitionBuilder.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public class NewDefinitionBuilder extends AbstractWidgetDefinitionBuilder {
 

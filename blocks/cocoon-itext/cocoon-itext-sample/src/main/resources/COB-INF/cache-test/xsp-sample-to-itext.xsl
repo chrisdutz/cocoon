@@ -20,7 +20,7 @@
     Convert the output of the XSP caching sample to iText,
     in order to test caching of the whole pipeline, up to PDF
 
-    $Id$
+    $Id: xsp-sample-to-itext.xsl 449150 2006-09-23 04:06:36Z crossley $
 -->
 
 <xsl:stylesheet

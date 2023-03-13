@@ -30,7 +30,7 @@ import org.w3c.dom.Element;
 /**
  * Test case for the {@link EnumConvertorBuilder} class.
  * 
- * @version $Id$
+ * @version $Id: EnumConvertorBuilderTestCase.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class EnumConvertorBuilderTestCase extends TestCase {
 

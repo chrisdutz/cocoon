@@ -37,7 +37,7 @@ import org.apache.excalibur.store.StoreJanitor;
  * 
  * Adapted from org.apache.excalibur.store.impl.MRUMemoryStore
  * 
- * @version $Id$
+ * @version $Id: MRUMemoryStore.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class MRUMemoryStore implements Store {
     private static final int MAX_OBJECTS = 100;

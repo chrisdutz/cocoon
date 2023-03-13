@@ -45,7 +45,7 @@ import java.util.TreeSet;
  *                                           </table>                       </td></tr>
  * </table>
  *
- * @version $Id$
+ * @version $Id: CollectionMetaModule.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class CollectionMetaModule extends AbstractMetaModule implements ThreadSafe {
 

@@ -41,7 +41,7 @@ import org.mozilla.javascript.Wrapper;
  * Jexl Introspector that supports Rhino JavaScript objects
  * as well as Java Objects.
  *
- * @version $Id$
+ * @version $Id: JSIntrospector.java 630360 2008-02-22 23:52:33Z vgritsenko $
  */
 public class JSIntrospector extends UberspectImpl {
 

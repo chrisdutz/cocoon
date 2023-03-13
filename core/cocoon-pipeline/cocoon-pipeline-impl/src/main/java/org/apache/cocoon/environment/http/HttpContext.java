@@ -29,7 +29,7 @@ import org.apache.cocoon.environment.impl.AbstractContext;
 /**
  * Implements the {@link org.apache.cocoon.environment.Context} interface
  *
- * @version $Id$
+ * @version $Id: HttpContext.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public final class HttpContext extends AbstractContext {
 

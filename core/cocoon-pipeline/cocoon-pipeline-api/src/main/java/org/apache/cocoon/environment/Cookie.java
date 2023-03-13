@@ -52,7 +52,7 @@ package org.apache.cocoon.environment;
  *
  * @deprecated Use {@link javax.servlet.http.Cookie} instead.
  *
- * @version $Id$
+ * @version $Id: Cookie.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface Cookie {
 

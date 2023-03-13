@@ -106,7 +106,7 @@ import EDU.oswego.cs.dl.util.concurrent.PooledExecutor;
  *   &lt;property name=&quot;factory&quot; ref=&quot;defaultThreadFactory&quot;/&gt;
  * </pre>
  *
- * @version $Id$
+ * @version $Id: DefaultThreadPool.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class DefaultThreadPool
     extends PooledExecutor

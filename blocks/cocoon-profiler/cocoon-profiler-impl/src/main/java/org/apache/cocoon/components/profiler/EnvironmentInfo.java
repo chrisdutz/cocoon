@@ -30,7 +30,7 @@ import org.apache.cocoon.environment.Request;
  * Holds information about the environment (such as request
  * parameters and session attributes) to be stored in the ProfilerData.
  *
- * @version $Id$
+ * @version $Id: EnvironmentInfo.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EnvironmentInfo {
 

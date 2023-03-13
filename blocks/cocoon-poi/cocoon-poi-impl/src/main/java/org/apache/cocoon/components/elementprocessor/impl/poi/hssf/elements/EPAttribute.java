@@ -24,7 +24,7 @@ package org.apache.cocoon.components.elementprocessor.impl.poi.hssf.elements;
  *
  * Attribute has no attributes
  *
- * @version $Id$
+ * @version $Id: EPAttribute.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EPAttribute extends BaseElementProcessor {
 

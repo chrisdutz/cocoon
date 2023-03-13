@@ -26,7 +26,7 @@ import org.apache.avalon.framework.context.Contextualizable;
  * Probably only a temporary solution to getting this from within a FlowScript.
  * cocoon.createObject (Packages.org.apache.cocoon.bean.query.ContextAccess);
  *
- * @version $Id$
+ * @version $Id: ContextAccess.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 
 public class ContextAccess implements Contextualizable {

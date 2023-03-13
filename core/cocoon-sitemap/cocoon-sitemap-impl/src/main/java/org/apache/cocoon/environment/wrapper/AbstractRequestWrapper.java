@@ -40,7 +40,7 @@ import org.apache.commons.collections.IteratorUtils;
  * just forwards every methods. It is the base class for all wrapper
  * implementations.
  *
- * @version $Id$
+ * @version $Id: AbstractRequestWrapper.java 609282 2008-01-06 09:35:48Z rgoers $
  * @since 2.2
  */
 public abstract class AbstractRequestWrapper extends AbstractRequest {

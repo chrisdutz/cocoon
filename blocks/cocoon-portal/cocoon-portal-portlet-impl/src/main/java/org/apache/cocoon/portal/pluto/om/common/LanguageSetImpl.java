@@ -29,7 +29,7 @@ import org.apache.pluto.util.StringUtils;
 
 /**
  *
- * @version $Id$
+ * @version $Id: LanguageSetImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class LanguageSetImpl
     extends AbstractSupportSet

@@ -22,7 +22,7 @@ import org.apache.cocoon.portal.om.CopletInstance;
 /**
  * This class realizes a link event created by the EventLinkTransformer.
  *
- * @version $Id$
+ * @version $Id: CopletLinkEvent.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class CopletLinkEvent
     extends AbstractCopletInstanceEvent {

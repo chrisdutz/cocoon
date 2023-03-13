@@ -31,7 +31,7 @@ import org.apache.excalibur.source.SourceUtil;
 import org.springframework.core.io.Resource;
 
 /**
- * @version $Id$
+ * @version $Id: SourceResource.java 1828354 2018-04-04 15:25:44Z ilgrosso $
  */
 public class SourceResource implements Resource {
 

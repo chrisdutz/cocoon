@@ -27,7 +27,7 @@ import org.xml.sax.SAXException;
  * Using this context, a renderer aspect can get it's configuration
  * and it can invoke (if wanted) the next aspect in the aspect chain.
  *
- * @version $Id$
+ * @version $Id: RendererAspectContext.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public interface RendererAspectContext extends BasicAspectContext {
 

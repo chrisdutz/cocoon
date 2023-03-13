@@ -23,7 +23,7 @@ import org.apache.cocoon.ProcessingException;
 
 /** Interface to SLOP parsers
  *
- * @version $Id$
+ * @version $Id: SlopParser.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface SlopParser {
 

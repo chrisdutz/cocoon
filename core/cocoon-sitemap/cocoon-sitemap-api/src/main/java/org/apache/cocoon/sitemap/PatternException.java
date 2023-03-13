@@ -23,7 +23,7 @@ import org.apache.avalon.framework.CascadingException;
  * <code>URITranslator</code> when there's something wrong with the matching or
  * translation patterns.
  *
- * @version $Id$
+ * @version $Id: PatternException.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class PatternException extends CascadingException {
 

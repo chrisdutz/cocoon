@@ -70,7 +70,7 @@ import org.xml.sax.SAXException;
  * This is the basis authentication component.
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: DefaultAuthenticationManager.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public class DefaultAuthenticationManager extends AbstractLogEnabled
         implements AuthenticationManager,

@@ -19,7 +19,7 @@ package org.apache.cocoon.util;
 /**
  * A collection of <code>String</code> handling utility methods.
  *
- * @version $Id$
+ * @version $Id: StringUtils.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class StringUtils {
 

@@ -20,7 +20,7 @@ import org.mozilla.javascript.Scriptable;
 import org.mozilla.javascript.ScriptableObject;
 
 /**
- * @version $Id$
+ * @version $Id: PageLocalImpl.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class PageLocalImpl extends ScriptableObject implements PageLocal {
 

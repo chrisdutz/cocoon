@@ -42,7 +42,7 @@ import org.apache.commons.lang.StringUtils;
  * If you want to specify additional user attributes, use this format:
  * {username}.{attributename}={attributevalue}
  *
- * @version $Id$
+ * @version $Id: SimpleSecurityHandler.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public class SimpleSecurityHandler
     extends AbstractSecurityHandler {

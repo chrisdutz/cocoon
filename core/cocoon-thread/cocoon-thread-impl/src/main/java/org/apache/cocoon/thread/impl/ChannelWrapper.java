@@ -21,7 +21,7 @@ import EDU.oswego.cs.dl.util.concurrent.Channel;
 /**
  * Wrapper around a Channel implementation for constructor convenience
  *
- * @version $Id$
+ * @version $Id: ChannelWrapper.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ChannelWrapper
     implements Channel {

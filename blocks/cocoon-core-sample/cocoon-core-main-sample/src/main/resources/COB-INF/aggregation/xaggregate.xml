@@ -19,7 +19,7 @@
 <!-- 
   - Example showing aggrgation of 3 sources using XInclude.
   -
-  - $Id$
+  - $Id: xaggregate.xml 596918 2007-11-21 03:26:02Z vgritsenko $
   -->
 <page xmlns:x="http://www.w3.org/2001/XInclude">
   <group name="Include Transformer Aggregation">

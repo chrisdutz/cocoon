@@ -35,7 +35,7 @@ import java.util.Map;
  * have this convertor to use a different string representation.
  * </p>
  *
- * @version $Id$
+ * @version $Id: BeanConvertor.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class BeanConvertor
     implements Convertor

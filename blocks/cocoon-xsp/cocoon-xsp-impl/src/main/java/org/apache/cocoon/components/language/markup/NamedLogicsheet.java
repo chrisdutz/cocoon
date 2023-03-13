@@ -30,7 +30,7 @@ import java.io.IOException;
  * the markup language document's root element declares the same logichseet's
  * namespace
  *
- * @version $Id$
+ * @version $Id: NamedLogicsheet.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class NamedLogicsheet extends Logicsheet {
 

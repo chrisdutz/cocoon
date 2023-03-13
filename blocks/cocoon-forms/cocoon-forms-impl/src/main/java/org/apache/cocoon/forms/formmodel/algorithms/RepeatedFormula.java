@@ -78,7 +78,7 @@ import org.outerj.expression.ExpressionException;
  * {@link org.apache.cocoon.forms.expression.StringFunction}
  * for examples of custom xreporter functions. 
  * </p>
- * @version $Id$
+ * @version $Id: RepeatedFormula.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class RepeatedFormula extends SimpleFormula {
 

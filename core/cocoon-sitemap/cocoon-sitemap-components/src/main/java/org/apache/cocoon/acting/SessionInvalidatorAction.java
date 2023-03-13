@@ -35,7 +35,7 @@ import org.apache.cocoon.environment.SourceResolver;
  * This is the action used to invalidate an HTTP session. The action returns
  * empty map if everything is ok, null otherwise.
  *
- * @version $Id$
+ * @version $Id: SessionInvalidatorAction.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class SessionInvalidatorAction extends AbstractAction implements ThreadSafe
 {

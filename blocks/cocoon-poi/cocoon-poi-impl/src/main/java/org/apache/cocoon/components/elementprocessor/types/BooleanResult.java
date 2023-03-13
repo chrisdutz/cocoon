@@ -23,7 +23,7 @@ import java.io.IOException;
  * either a valid value, or an IOException that was created by the
  * boolean converter
  *
- * @version $Id$
+ * @version $Id: BooleanResult.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class BooleanResult
 {

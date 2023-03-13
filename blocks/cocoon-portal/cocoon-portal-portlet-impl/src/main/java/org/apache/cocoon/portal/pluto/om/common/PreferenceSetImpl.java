@@ -31,7 +31,7 @@ import org.apache.pluto.util.StringUtils;
 
 /**
  *
- * @version $Id$
+ * @version $Id: PreferenceSetImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PreferenceSetImpl
 implements PreferenceSet, PreferenceSetCtrl, java.io.Serializable {

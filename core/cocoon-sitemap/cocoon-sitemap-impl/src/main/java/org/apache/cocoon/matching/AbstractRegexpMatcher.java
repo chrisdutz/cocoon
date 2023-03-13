@@ -31,7 +31,7 @@ import java.util.Map;
 /**
  * Base class for all matchers using a regular expression pattern.
  *
- * @version $Id$
+ * @version $Id: AbstractRegexpMatcher.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 
 public abstract class AbstractRegexpMatcher extends AbstractPreparableMatcher implements ThreadSafe {

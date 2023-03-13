@@ -44,7 +44,7 @@ import org.xml.sax.SAXException;
 /**
  * Makes a portlet (web) application ready for deployment into Cocoon.
  *
- * @version $Id$
+ * @version $Id: Deployer.java 609787 2008-01-07 21:37:46Z cziegeler $
  */
 public class Deployer {
 

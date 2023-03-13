@@ -27,7 +27,7 @@ import org.springframework.core.io.ResourceLoader;
 import org.apache.cocoon.spring.configurator.ResourceUtils;
 
 /**
- * @version $Id$
+ * @version $Id: SourceResourceLoader.java 596517 2007-11-20 02:40:38Z vgritsenko $
  */
 public class SourceResourceLoader implements ResourceLoader {
 

@@ -58,7 +58,7 @@ import org.apache.commons.lang.BooleanUtils;
  *
  * TODO - Rewrite this to use the CoreUtil!
  *
- * @version $Id$
+ * @version $Id: ManagedCocoonPortlet.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class ManagedCocoonPortlet extends GenericPortlet {
 

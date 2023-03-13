@@ -56,7 +56,7 @@ import org.mozilla.javascript.continuations.Continuation;
  * Implementation of FOM (Flow Object Model).
  *
  * @since 2.1 
- * @version $Id$
+ * @version $Id: AO_FOM_Cocoon.java 669294 2008-06-18 21:21:57Z anathaniel $
  */
 public class AO_FOM_Cocoon extends ScriptableObject {
 

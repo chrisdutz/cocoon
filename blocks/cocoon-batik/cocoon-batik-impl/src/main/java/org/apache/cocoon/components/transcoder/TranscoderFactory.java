@@ -22,7 +22,7 @@ import org.apache.batik.transcoder.Transcoder;
  * Apache Batik Transcoder factory.
  * When given a MIME type, find a Transcoder which supports that MIME type.
  *
- * @version $Id$
+ * @version $Id: TranscoderFactory.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public interface TranscoderFactory {
 

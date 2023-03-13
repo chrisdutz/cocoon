@@ -69,7 +69,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * The transformation half of the FragmentExtractor (see also <code>FragmentExtractorGenerator</code>.
  * @cocoon.sitemap.component.documentation.caching Yes
  *
- * @version $Id$
+ * @version $Id: FragmentExtractorTransformer.java 607379 2007-12-29 05:36:49Z vgritsenko $
  */
 public class FragmentExtractorTransformer extends AbstractTransformer
                                           implements CacheableProcessingComponent, Configurable,

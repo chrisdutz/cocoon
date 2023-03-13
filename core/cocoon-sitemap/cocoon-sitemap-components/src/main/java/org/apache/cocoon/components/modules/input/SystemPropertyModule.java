@@ -33,7 +33,7 @@ import java.util.Map;
  * method is called with no arguments. This may result in a security exception
  * which is wrapped into a configuration exception and re-thrown.</p>
  *
- * @version $Id$
+ * @version $Id: SystemPropertyModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class SystemPropertyModule extends AbstractJXPathModule
                                   implements ThreadSafe {

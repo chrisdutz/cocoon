@@ -34,7 +34,7 @@ import org.apache.pluto.om.window.PortletWindowList;
 
 /**
  *
- * @version $Id$
+ * @version $Id: PortletEntityImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortletEntityImpl implements PortletEntity, PortletEntityCtrl {
 

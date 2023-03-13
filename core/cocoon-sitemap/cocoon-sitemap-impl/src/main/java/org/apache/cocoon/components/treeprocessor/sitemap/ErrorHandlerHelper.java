@@ -39,7 +39,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
 /**
  * Helps to call error handlers from PipelineNode and PipelinesNode.
  *
- * @version $Id$
+ * @version $Id: ErrorHandlerHelper.java 607152 2007-12-28 01:32:07Z vgritsenko $
  */
 public class ErrorHandlerHelper extends AbstractLogEnabled
                                 implements Serviceable {

@@ -57,7 +57,7 @@ import org.apache.cocoon.util.NetUtils;
  * Default implementation of the refresher.
  *
  * @since 2.1.1
- * @version $Id$
+ * @version $Id: DelaySourceRefresher.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class DelaySourceRefresher extends AbstractLogEnabled
                                   implements SourceRefresher {

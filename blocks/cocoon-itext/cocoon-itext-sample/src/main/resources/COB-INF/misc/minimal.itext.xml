@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!-- CVS $Id$ -->
+<!-- CVS $Id: minimal.itext.xml 449150 2006-09-23 04:06:36Z crossley $ -->
 
 <!-- The DTD is not available at this address anymore, this breaks samples, removed for now 
 <!DOCTYPE ITEXT SYSTEM "http://www.lowagie.com/iText/itext.dtd">

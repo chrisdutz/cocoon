@@ -64,7 +64,7 @@ import java.util.Vector;
  * Using 'myproject:folder' would have given you: /some/folder/
  * </p>
  * 
- * @version $Id$
+ * @version $Id: ProjectPathModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  *
  */
 public class ProjectPathModule extends AbstractInputModule implements ThreadSafe {

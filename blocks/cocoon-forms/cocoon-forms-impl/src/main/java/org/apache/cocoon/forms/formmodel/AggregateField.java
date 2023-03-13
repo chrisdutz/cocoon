@@ -52,7 +52,7 @@ import org.outerj.expression.ExpressionException;
  * gives result of the correct type, and split regular expression can split string representation
  * into parts which can be converted to the values of nested fields.
  *
- * @version $Id$
+ * @version $Id: AggregateField.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class AggregateField extends Field implements ContainerWidget {
 

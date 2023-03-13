@@ -31,7 +31,7 @@ import org.springframework.beans.factory.xml.NamespaceHandlerSupport;
  * @see LayoutTypeDefinitionParser
  * @see CopletTypeDefinitionParser
  *
- * @version $Id$
+ * @version $Id: PortalNamespaceHandler.java 600024 2007-12-01 00:34:52Z cziegeler $
  */
 public class PortalNamespaceHandler extends NamespaceHandlerSupport {
 

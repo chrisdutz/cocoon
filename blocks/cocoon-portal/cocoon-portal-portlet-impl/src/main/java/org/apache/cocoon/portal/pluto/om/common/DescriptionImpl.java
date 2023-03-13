@@ -23,7 +23,7 @@ import org.apache.pluto.util.StringUtils;
 
 /**
  *
- * @version $Id$
+ * @version $Id: DescriptionImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class DescriptionImpl implements Description, java.io.Serializable, Support {
 

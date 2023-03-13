@@ -24,7 +24,7 @@ import org.apache.cocoon.environment.SourceResolver;
 
 /**
  *
- * @version $Id$
+ * @version $Id: Processor.java 606651 2007-12-24 01:21:51Z vgritsenko $
  */
 public interface Processor {
 

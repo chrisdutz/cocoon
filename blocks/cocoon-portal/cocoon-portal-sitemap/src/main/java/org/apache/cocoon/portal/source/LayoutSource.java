@@ -39,7 +39,7 @@ import org.xml.sax.SAXException;
 /**
  * This is the source implementation of the layout source.
  *
- * @version $Id$
+ * @version $Id: LayoutSource.java 682758 2008-08-05 15:31:50Z cziegeler $
  */
 public class LayoutSource
     implements Source, XMLizable {

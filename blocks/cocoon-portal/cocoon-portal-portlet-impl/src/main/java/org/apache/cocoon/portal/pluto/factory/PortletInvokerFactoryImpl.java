@@ -36,7 +36,7 @@ import org.apache.pluto.om.portlet.PortletDefinition;
 /**
  * The implementation of the invoker factory.
  *
- * @version $Id$
+ * @version $Id: PortletInvokerFactoryImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortletInvokerFactoryImpl 
 extends AbstractFactory

@@ -18,7 +18,7 @@ package org.apache.cocoon.portal.pluto.om.common;
 
 /**
  *
- * @version $Id$
+ * @version $Id: Support.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public interface Support {
 

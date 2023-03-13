@@ -34,7 +34,7 @@ import org.xml.sax.SAXException;
  * plugged into the portal.
  *
  * TODO: Decide if we still need this adapter.
- * @version $Id$
+ * @version $Id: ApplicationCopletAdapter.java 595794 2007-11-16 19:49:35Z cziegeler $
  */
 public class ApplicationCopletAdapter extends CocoonCopletAdapter {
 

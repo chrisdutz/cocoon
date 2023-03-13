@@ -46,7 +46,7 @@ import org.xml.sax.helpers.AttributesImpl;
 /**
  * A simple AsciiArt text SVG XML generator.
  *
- * @version $Id$
+ * @version $Id: AsciiArtSVGGenerator.java 587757 2007-10-24 02:52:49Z vgritsenko $
  * @since Cocoon 2.1, 22 December 2002
  */
 public class AsciiArtSVGGenerator

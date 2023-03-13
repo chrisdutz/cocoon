@@ -28,7 +28,7 @@ package com.sap.mw.jco;
  *
  * **********************************************************************
  * 
- * @version $Id$
+ * @version $Id: IFunctionTemplate.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
  
 public interface IFunctionTemplate {

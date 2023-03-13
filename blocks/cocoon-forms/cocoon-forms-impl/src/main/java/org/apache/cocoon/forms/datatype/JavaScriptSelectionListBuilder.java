@@ -41,7 +41,7 @@ import org.w3c.dom.Element;
  *
  * @see org.apache.cocoon.forms.datatype.JavaScriptSelectionList
  * @since 2.1.9
- * @version $Id$
+ * @version $Id: JavaScriptSelectionListBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JavaScriptSelectionListBuilder implements SelectionListBuilder {
 

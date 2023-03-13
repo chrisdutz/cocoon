@@ -27,7 +27,7 @@ import org.apache.cocoon.template.expression.Substitutions;
 /**
  * <p>{@link VariableResolver} that uses {@link StringTemplateParser} to resolve expressions.</p>
  *
- * @version $Id$
+ * @version $Id: StringTemplateParserVariableResolver.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public final class StringTemplateParserVariableResolver extends VariableResolver {
 

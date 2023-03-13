@@ -45,7 +45,7 @@ import org.xml.sax.SAXException;
  * and the manner in which the request parameter of this widget is interpreted
  * is different (missing or empty request parameter means 'false', rather than null value).
  *
- * @version $Id$
+ * @version $Id: BooleanField.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class BooleanField extends AbstractWidget
                           implements ValidationErrorAware, ValueChangedListenerEnabled {

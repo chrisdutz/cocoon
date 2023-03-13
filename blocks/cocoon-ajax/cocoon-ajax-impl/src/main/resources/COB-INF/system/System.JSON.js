@@ -24,7 +24,7 @@ importClass(Packages.org.apache.cocoon.xml.ParamSaxBuffer);
 
     Extensible System Library of static JSON Helper Functions
 
-    @version $Id$
+    @version $Id: System.JSON.js 587738 2007-10-24 01:23:52Z vgritsenko $
 
 */
 

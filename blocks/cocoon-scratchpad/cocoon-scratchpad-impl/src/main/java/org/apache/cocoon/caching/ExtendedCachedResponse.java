@@ -23,7 +23,7 @@ import org.apache.excalibur.source.SourceValidity;
  * a second array that could contain an alternative response.
  *
  * @since 2.1.1
- * @version $Id$
+ * @version $Id: ExtendedCachedResponse.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ExtendedCachedResponse extends CachedResponse {
 

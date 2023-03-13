@@ -60,7 +60,7 @@ import java.util.Map;
  * <li>if false, the standard JAXP identity transformer is used.
  * </ul>
  *
- * @version $Id$
+ * @version $Id: DOMStreamer.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class DOMStreamer implements XMLProducer, Recyclable {
 

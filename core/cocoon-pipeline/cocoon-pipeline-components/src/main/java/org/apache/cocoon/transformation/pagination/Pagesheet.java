@@ -42,7 +42,7 @@ import org.xml.sax.helpers.DefaultHandler;
  *             to blast the code and rewrite it better, you'll make me happy :)
  * </pre>
  *
- * @version $Id$
+ * @version $Id: Pagesheet.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 
 /*

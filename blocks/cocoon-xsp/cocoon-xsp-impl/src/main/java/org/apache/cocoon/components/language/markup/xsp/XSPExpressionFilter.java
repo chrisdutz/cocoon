@@ -36,7 +36,7 @@ import java.util.LinkedList;
  * Filter attributes and text and expand {#expr} to xsp:attribute and xsp:expr
  * elements.
  *
- * @version $Id$
+ * @version $Id: XSPExpressionFilter.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class XSPExpressionFilter extends LogicsheetFilter
                                  implements XSPExpressionParser.Handler {

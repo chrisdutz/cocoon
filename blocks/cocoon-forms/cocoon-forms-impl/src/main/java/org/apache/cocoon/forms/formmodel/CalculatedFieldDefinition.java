@@ -19,7 +19,7 @@ package org.apache.cocoon.forms.formmodel;
 
 /**
  * Definition of a {@link CalculatedField}.
- * @version $Id$
+ * @version $Id: CalculatedFieldDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class CalculatedFieldDefinition extends FieldDefinition {
 

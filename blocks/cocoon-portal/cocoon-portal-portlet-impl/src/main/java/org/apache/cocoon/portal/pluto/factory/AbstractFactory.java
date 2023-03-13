@@ -25,7 +25,7 @@ import org.apache.pluto.factory.Factory;
 /**
  * Abstract implementation for all factories.
  *
- * @version $Id$
+ * @version $Id: AbstractFactory.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public abstract class AbstractFactory 
     extends AbstractLogEnabled

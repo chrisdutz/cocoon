@@ -33,7 +33,7 @@ import java.util.Map;
  * Each configuration file must use the same format in order to be
  * effective.  The name of the root configuration element is irrelevant.
  *
- * @version $Id$
+ * @version $Id: AbstractComplementaryConfigurableAction.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractComplementaryConfigurableAction extends ConfigurableServiceableAction {
 

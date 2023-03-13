@@ -57,7 +57,7 @@ import org.springframework.web.context.WebApplicationContext;
  * The concrete implementation of {@link Processor}, containing the evaluation tree and associated
  * data such as component manager.
  *
- * @version $Id$
+ * @version $Id: ConcreteTreeProcessor.java 687706 2008-08-21 10:51:09Z gkossakowski $
  */
 public class ConcreteTreeProcessor extends AbstractLogEnabled
                                    implements Processor,

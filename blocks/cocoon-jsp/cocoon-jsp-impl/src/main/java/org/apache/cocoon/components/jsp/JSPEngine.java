@@ -26,7 +26,7 @@ import java.io.IOException;
 /**
  * A component for loading and running Servlets and JSPs.
  *
- * @version $Id$
+ * @version $Id: JSPEngine.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface JSPEngine {
 

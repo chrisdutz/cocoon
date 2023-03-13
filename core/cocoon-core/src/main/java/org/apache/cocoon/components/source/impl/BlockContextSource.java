@@ -41,7 +41,7 @@ import org.springframework.util.ClassUtils;
  * This source makes the immediate children to the blockcontext:/ uri
  * traversable
  * 
- * @version $Id$
+ * @version $Id: BlockContextSource.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class BlockContextSource
     extends AbstractSource

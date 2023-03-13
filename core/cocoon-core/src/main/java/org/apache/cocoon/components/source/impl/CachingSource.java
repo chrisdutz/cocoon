@@ -71,7 +71,7 @@ import org.xml.sax.SAXException;
  * refreshed, fail, in the case that the wrapped source can't be reached. The default value 
  * for <code>cache-fail</code> is <code>true</code>.
  *
- * @version $Id$
+ * @version $Id: CachingSource.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class CachingSource extends AbstractLogEnabled
                            implements Serviceable, Initializable, XMLizable,

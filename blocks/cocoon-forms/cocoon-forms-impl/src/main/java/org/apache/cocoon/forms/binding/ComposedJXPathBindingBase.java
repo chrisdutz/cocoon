@@ -28,7 +28,7 @@ import org.apache.commons.jxpath.JXPathContext;
  * into specific {@link JXPathBindingBase} implementations that have nested
  * child-bindings.
  *
- * @version $Id$
+ * @version $Id: ComposedJXPathBindingBase.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class ComposedJXPathBindingBase extends JXPathBindingBase {
 

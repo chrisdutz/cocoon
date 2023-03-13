@@ -34,7 +34,7 @@ import org.apache.commons.lang.StringUtils;
  *
  * The database access is forwarded to a configured UserDAO instance.
  *
- * @version $Id$
+ * @version $Id: DAOSecurityHandler.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public class DAOSecurityHandler extends AbstractSecurityHandler {
 

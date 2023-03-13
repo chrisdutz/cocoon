@@ -27,7 +27,7 @@ import org.apache.cocoon.components.flow.Interpreter;
  * corresponding to a &lt;map:script&gt; element in the sitemap.
  *
  * @since March 13, 2002
- * @version $Id$
+ * @version $Id: ScriptNodeBuilder.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ScriptNodeBuilder
     extends AbstractProcessingNodeBuilder

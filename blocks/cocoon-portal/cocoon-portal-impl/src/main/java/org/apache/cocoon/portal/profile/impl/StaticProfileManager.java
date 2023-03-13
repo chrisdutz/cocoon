@@ -41,7 +41,7 @@ import org.apache.excalibur.source.SourceValidity;
  * FIXME - This profile manager implementation does not use all of the new features of 2.2 yet,
  *         like profile manager aspects etc.
  * FIXME - Events for adding/removing coplet instances/layouts not implemented yet
- * @version $Id$
+ * @version $Id: StaticProfileManager.java 682758 2008-08-05 15:31:50Z cziegeler $
  */
 public class StaticProfileManager
     extends AbstractProfileManager {

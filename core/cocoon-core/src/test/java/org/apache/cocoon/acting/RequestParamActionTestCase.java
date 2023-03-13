@@ -29,7 +29,7 @@ import org.apache.cocoon.environment.mock.MockRequest;
 /**
  *
  *
- * @version $Id$
+ * @version $Id: RequestParamActionTestCase.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class RequestParamActionTestCase extends TestCase {
     private Map objectModel = new HashMap();

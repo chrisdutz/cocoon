@@ -19,7 +19,7 @@ package org.apache.cocoon.forms;
 /**
  * Various constants used in the Cocoon Forms framework.
  * 
- * @version $Id$
+ * @version $Id: FormsConstants.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class FormsConstants {
 // TODO : see this later

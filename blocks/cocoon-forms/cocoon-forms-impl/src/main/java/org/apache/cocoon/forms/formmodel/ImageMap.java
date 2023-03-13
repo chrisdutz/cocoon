@@ -29,7 +29,7 @@ import org.apache.cocoon.xml.AttributesImpl;
  * The image's URI can be set or get, or bind via the binding framework, mouse coordinates
  * can be either retrieved from the ImageMapEvent triggered or from the widget itself.
  *
- * @version $Id$
+ * @version $Id: ImageMap.java 587759 2007-10-24 03:00:37Z vgritsenko $
  * @since 2.1.8
  */
 public class ImageMap extends AbstractWidget implements ActionListenerEnabled {

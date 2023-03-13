@@ -51,7 +51,7 @@ import org.xml.sax.SAXException;
  * A generator for suggestion lists.
  *
  * @since 2.1.8
- * @version $Id$
+ * @version $Id: SuggestionListGenerator.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class SuggestionListGenerator extends ServiceableGenerator implements Contextualizable {
 

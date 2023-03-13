@@ -21,7 +21,7 @@ import org.apache.cocoon.Modifiable;
 /**
  * This interface is the common base of all XSP Pages
  *
- * @version $Id$
+ * @version $Id: CompiledComponent.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface CompiledComponent extends Modifiable {
 }

@@ -29,7 +29,7 @@ import org.apache.cocoon.webapps.session.SessionManager;
  *  This class is the basis for all session transformers.
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: AbstractSessionTransformer.java 669294 2008-06-18 21:21:57Z anathaniel $
  */
 public abstract class AbstractSessionTransformer extends AbstractSAXTransformer {
 

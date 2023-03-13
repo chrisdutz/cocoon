@@ -167,7 +167,7 @@ import org.apache.cocoon.util.ImageUtils;
  *   </tr>
  * </table>
  *
- * @version $Id$
+ * @version $Id: AbstractDatabaseAction.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public abstract class AbstractDatabaseAction extends AbstractComplementaryConfigurableAction
                                              implements Disposable {

@@ -24,7 +24,7 @@ import org.apache.avalon.framework.service.Serviceable;
  * The <code>ServiceableAction</code> will allow any <code>Action</code>
  * that extends this to access SitemapComponents.
  *
- * @version $Id$
+ * @version $Id: ServiceableAction.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class ServiceableAction 
     extends AbstractAction implements Serviceable {

@@ -17,7 +17,7 @@
 -->
 
 <!--
-    @version $Id$
+    @version $Id: sitemap.xmap 583387 2007-10-10 08:44:49Z lgawron $
 -->
 <map:sitemap xmlns:map="http://apache.org/cocoon/sitemap/1.0">
 

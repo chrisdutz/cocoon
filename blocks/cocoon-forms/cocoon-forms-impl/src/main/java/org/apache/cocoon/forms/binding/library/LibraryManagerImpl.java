@@ -31,7 +31,7 @@ import org.w3c.dom.Document;
 import org.xml.sax.InputSource;
 
 /**
- * @version $Id$
+ * @version $Id: LibraryManagerImpl.java 594527 2007-11-13 13:20:51Z felixk $
  */
 public class LibraryManagerImpl implements LibraryManager {
 

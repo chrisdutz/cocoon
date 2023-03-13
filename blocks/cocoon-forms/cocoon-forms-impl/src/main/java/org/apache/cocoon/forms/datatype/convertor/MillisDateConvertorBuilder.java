@@ -21,7 +21,7 @@ import org.w3c.dom.Element;
 /**
  * Builds {@link MillisDateConvertor}s.
  *
- * @version $Id$
+ * @version $Id: MillisDateConvertorBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class MillisDateConvertorBuilder implements DateConvertorBuilder {
     public Convertor build(Element configElement) {

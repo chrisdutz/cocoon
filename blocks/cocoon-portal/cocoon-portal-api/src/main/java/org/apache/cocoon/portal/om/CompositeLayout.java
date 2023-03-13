@@ -22,7 +22,7 @@ import java.util.List;
 /**
  * A composite layout is a layout that contains other layouts.
  *
- * @version $Id$
+ * @version $Id: CompositeLayout.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public class CompositeLayout
     extends Layout {

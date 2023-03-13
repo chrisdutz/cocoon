@@ -29,7 +29,7 @@ import org.mozilla.javascript.tools.ToolErrorReporter;
  * org.mozilla.javascript.ErrorReporter}. 
  * Like ToolErrorReporter but logs to supplied logger instead of stdout
  *
- * @version $Id$
+ * @version $Id: JSErrorReporter.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JSErrorReporter extends AbstractLogEnabled
                              implements ErrorReporter {

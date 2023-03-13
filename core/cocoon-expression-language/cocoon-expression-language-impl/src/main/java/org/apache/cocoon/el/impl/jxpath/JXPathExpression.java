@@ -33,7 +33,7 @@ import org.mozilla.javascript.NativeArray;
 import org.w3c.dom.Node;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: JXPathExpression.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class JXPathExpression implements Expression {
     private final String language;

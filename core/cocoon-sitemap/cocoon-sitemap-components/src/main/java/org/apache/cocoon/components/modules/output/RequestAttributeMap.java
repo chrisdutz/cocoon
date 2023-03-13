@@ -31,7 +31,7 @@ import org.apache.cocoon.environment.Request;
  * set. Configuration option &lt;key-prefix&gt; defaults to
  * "org.apache.cocoon.components.modules.output.OutputModule"
  *
- * @version $Id$
+ * @version $Id: RequestAttributeMap.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class RequestAttributeMap extends AbstractOutputModule implements ThreadSafe {
     

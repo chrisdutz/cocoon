@@ -20,7 +20,7 @@
 <!--+
     | Find usage details at http://maven.apache.org/plugins/maven-changes-plugin/usage.html
     |
-    | @version $Id$
+    | @version $Id: changes.xml 707326 2008-10-23 09:32:44Z felixk $
     +-->
 <document>
   <body>

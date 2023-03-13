@@ -31,7 +31,7 @@ import org.apache.pluto.om.window.PortletWindow;
 /**
  * Implementation for the render request factory.
  *
- * @version $Id$
+ * @version $Id: ActionRequestFactoryImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class ActionRequestFactoryImpl
     extends AbstractFactory

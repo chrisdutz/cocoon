@@ -18,7 +18,7 @@ package org.apache.cocoon.transformation.constrained;
 
 /**
  *
- * @version $Id$
+ * @version $Id: ElementEventAdapter.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class ElementEventAdapter implements ElementEventListener {
 

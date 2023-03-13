@@ -27,7 +27,7 @@ import org.springframework.beans.factory.BeanFactoryAware;
  * It just delegates to the underlying bean factory.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: AvalonServiceManager.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 final public class AvalonServiceManager
     implements ServiceManager, BeanFactoryAware {

@@ -42,7 +42,7 @@ import org.apache.cocoon.portal.util.AbstractBean;
  * In order to work properly this component has to be configured with the correct
  * ports.
  *
- * @version $Id$
+ * @version $Id: DefaultLinkService.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class DefaultLinkService
     extends AbstractBean

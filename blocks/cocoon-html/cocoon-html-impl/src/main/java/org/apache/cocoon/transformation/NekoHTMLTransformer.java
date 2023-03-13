@@ -51,7 +51,7 @@ import org.xml.sax.SAXException;
  * values of the "tags" parameter. It records the text enclosed in such
  * elements and pass it thru Neko to obtain valid XHTML.
  *
- * @version $Id$
+ * @version $Id: NekoHTMLTransformer.java 654403 2008-05-08 03:44:59Z joerg $
  */
 public class NekoHTMLTransformer extends AbstractSAXTransformer
                                  implements Configurable {

@@ -82,7 +82,7 @@ import org.apache.excalibur.store.StoreJanitor;
  * the Virtual Machine. The default value is true.
  * </p>
  *
- * @version $Id$
+ * @version $Id: EHDefaultStore.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class EHDefaultStore implements Store {
 

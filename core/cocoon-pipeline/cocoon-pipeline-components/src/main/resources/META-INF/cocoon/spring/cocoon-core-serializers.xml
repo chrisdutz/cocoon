@@ -20,7 +20,7 @@
   - Serializers consume SAX events and produce a character stream. Every
   - pipeline needs to be terminated by a serializer.
   -
-  - $Id$
+  - $Id: cocoon-core-serializers.xml 689429 2008-08-27 09:56:12Z thorsten $
   -->
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"

@@ -22,7 +22,7 @@ package org.apache.cocoon.portal.wsrp.consumer;
  * Cocoon uses an extension of the user context: {@link UserContextExtension}
  * to store additional information about the user.
  *
- * @version $Id$
+ * @version $Id: UserContextProvider.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public interface UserContextProvider {
 

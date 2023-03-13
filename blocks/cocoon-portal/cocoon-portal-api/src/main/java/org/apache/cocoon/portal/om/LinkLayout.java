@@ -20,7 +20,7 @@ package org.apache.cocoon.portal.om;
  * A link layout references another layout to be used instead. The reference
  * can be changed at runtime using {@link LayoutInstance}.
  *
- * @version $Id$
+ * @version $Id: LinkLayout.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public class LinkLayout extends Layout {
 

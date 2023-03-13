@@ -19,7 +19,7 @@ package org.apache.cocoon.taglib;
 import org.apache.cocoon.xml.XMLConsumer;
 
 /**
- * @version $Id$
+ * @version $Id: VarXMLProducerTagSupport.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class VarXMLProducerTagSupport extends VarTagSupport implements XMLProducerTag {
     

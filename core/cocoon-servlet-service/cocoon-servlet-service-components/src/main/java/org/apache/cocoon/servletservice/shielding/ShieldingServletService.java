@@ -29,7 +29,7 @@ import org.springframework.aop.framework.ProxyFactory;
 /**
  * A servlet for use in cocoon blocks that adds shielded classloading support.
  *
- * @version $Id$
+ * @version $Id: ShieldingServletService.java 608379 2008-01-03 08:42:43Z reinhard $
  * @since 1.0.0
  */
 public class ShieldingServletService extends ServletService {

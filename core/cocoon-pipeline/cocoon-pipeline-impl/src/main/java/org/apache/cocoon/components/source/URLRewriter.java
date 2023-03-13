@@ -46,7 +46,7 @@ import java.net.URL;
  *
  * <p>URLRewriter rewrites only href, src, background, and action attributes.
  *
- * @version $Id$
+ * @version $Id: URLRewriter.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public final class URLRewriter implements XMLConsumer {
 

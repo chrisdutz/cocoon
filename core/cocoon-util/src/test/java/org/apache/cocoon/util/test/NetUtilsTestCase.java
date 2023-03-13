@@ -27,7 +27,7 @@ import org.apache.cocoon.util.NetUtils;
  * Test Cases for the NetUtils class.
  * @see org.apache.cocoon.util.NetUtils
  *
- * @version $Id$
+ * @version $Id: NetUtilsTestCase.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class NetUtilsTestCase extends TestCase
 {

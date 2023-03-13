@@ -25,7 +25,7 @@ import org.w3c.dom.Document;
 /**
  * A simple testcase for AugmentTransformer.
  *
- * @version $Id$
+ * @version $Id: AugmentTransformerTestCase.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class AugmentTransformerTestCase extends SitemapComponentTestCase {
     

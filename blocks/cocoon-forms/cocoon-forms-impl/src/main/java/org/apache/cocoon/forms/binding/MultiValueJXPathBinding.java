@@ -31,7 +31,7 @@ import org.apache.commons.jxpath.Pointer;
  * Simple binding for multi fields: on save, first deletes the target data
  * before recreating it from scratch.
  *
- * @version $Id$
+ * @version $Id: MultiValueJXPathBinding.java 640682 2008-03-25 03:23:17Z vgritsenko $
  */
 public class MultiValueJXPathBinding extends JXPathBindingBase {
 

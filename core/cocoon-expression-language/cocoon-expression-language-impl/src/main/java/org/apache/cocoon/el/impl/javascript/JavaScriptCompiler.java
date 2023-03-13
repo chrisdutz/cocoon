@@ -22,7 +22,7 @@ import org.apache.cocoon.el.ExpressionException;
 import org.mozilla.javascript.Scriptable;
 
 /**
- * @version $Id$
+ * @version $Id: JavaScriptCompiler.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class JavaScriptCompiler implements ExpressionCompiler {
 

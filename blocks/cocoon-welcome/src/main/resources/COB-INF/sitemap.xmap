@@ -28,7 +28,7 @@
     | the accompanying documentation. The sitemaps which come with each
     | sample and each block will help to explain.
     |
-    | $Id$
+    | $Id: sitemap.xmap 1857502 2019-04-14 05:20:19Z ilgrosso $
     +-->
 <map:sitemap xmlns:map="http://apache.org/cocoon/sitemap/1.0">
 

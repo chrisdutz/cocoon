@@ -56,7 +56,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  *  &lt;/component&gt;
  *   </tt></pre></p>
  *
- * @version $Id$
+ * @version $Id: LDAPEntryManager.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class LDAPEntryManager extends AbstractLogEnabled
 	                          implements EntryManager, Parameterizable, Disposable,

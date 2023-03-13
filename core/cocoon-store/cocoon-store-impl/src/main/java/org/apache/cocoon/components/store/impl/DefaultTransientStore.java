@@ -21,7 +21,7 @@ package org.apache.cocoon.components.store.impl;
  * Default implementation of Cocoon's transient store. This is a <code>MRUMemoryStore</code>
  * that cannot be backed by a persistent store (this ensure it is really transient).
  * 
- * @version $Id$
+ * @version $Id: DefaultTransientStore.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class DefaultTransientStore extends MRUMemoryStore {
     

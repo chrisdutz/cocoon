@@ -25,7 +25,7 @@ import org.apache.cocoon.components.treeprocessor.ProcessingNode;
 /**
  * Builds a &lt;map:handle-errors&gt;
  *
- * @version $Id$
+ * @version $Id: HandleErrorsNodeBuilder.java 607152 2007-12-28 01:32:07Z vgritsenko $
  */
 public class HandleErrorsNodeBuilder extends AbstractParentProcessingNodeBuilder
                                      implements ThreadSafe {

@@ -22,7 +22,7 @@ import org.apache.wsrp4j.log.Logger;
 /**
  * This log manager implementation just always returns the portal logger.<br/>
  * 
- * @version $Id$
+ * @version $Id: WSRPLogManager.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class WSRPLogManager extends LogManager {
 

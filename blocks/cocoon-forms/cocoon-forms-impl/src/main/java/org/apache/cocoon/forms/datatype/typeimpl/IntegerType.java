@@ -20,7 +20,7 @@ package org.apache.cocoon.forms.datatype.typeimpl;
  * A {@link org.apache.cocoon.forms.datatype.Datatype Datatype} implementation
  * for whole numbers.
  * 
- * @version $Id$
+ * @version $Id: IntegerType.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class IntegerType extends AbstractDatatype {
     public Class getTypeClass() {

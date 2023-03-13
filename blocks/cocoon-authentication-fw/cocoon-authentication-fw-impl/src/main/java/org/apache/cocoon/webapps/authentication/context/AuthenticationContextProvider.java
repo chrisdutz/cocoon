@@ -35,7 +35,7 @@ import org.apache.cocoon.webapps.session.context.SessionContextProvider;
  *  Context provider for the authentication context
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: AuthenticationContextProvider.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public final class AuthenticationContextProvider extends AbstractLogEnabled
                                                  implements SessionContextProvider, ThreadSafe, Serviceable {

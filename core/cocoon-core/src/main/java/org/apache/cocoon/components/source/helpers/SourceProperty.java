@@ -32,7 +32,7 @@ import org.xml.sax.helpers.AttributesImpl;
 /**
  * The interface for a property of a source
  *
- * @version $Id$
+ * @version $Id: SourceProperty.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class SourceProperty implements XMLizable {
 

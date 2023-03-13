@@ -22,7 +22,7 @@ import java.util.Iterator;
 /**
  * The avalon behavioural component interface of crawling.
  *
- * @version $Id$
+ * @version $Id: CocoonCrawler.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public interface CocoonCrawler {
     /**

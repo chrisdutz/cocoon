@@ -28,7 +28,7 @@ import org.apache.wsrp4j.util.Constants;
  * This is the default implementation just returning an empty
  * user context.<br/>
  *
- * @version $Id$
+ * @version $Id: UserContextProviderImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class UserContextProviderImpl implements UserContextProvider {
 

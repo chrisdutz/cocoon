@@ -19,7 +19,7 @@ package org.apache.cocoon.components.elementprocessor;
 /**
  * Exception to be thrown when an ElementProcessor cannot be created.
  *
- * @version $Id$
+ * @version $Id: CannotCreateElementProcessorException.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class CannotCreateElementProcessorException
         extends Exception

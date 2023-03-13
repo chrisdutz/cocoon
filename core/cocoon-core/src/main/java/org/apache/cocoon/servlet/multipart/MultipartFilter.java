@@ -39,7 +39,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
 /**
  * Servlet filter for handling multi part MIME uploads
  * 
- * @version $Id$
+ * @version $Id: MultipartFilter.java 588803 2007-10-26 23:40:14Z vgritsenko $
  */
 public class MultipartFilter extends AbstractLogEnabled
                              implements Filter{

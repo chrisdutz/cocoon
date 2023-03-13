@@ -31,7 +31,7 @@ import org.apache.cocoon.ProcessingException;
  * (the source URI) into the URI to which the resulting page should be 
  * written (the destination URI).
  *
- * @version $Id$
+ * @version $Id: Target.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class Target {
     // Defult type is append

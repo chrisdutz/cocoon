@@ -48,7 +48,7 @@ import org.apache.cocoon.environment.SourceResolver;
  * <code>maxage</code> is set to -1, that means the cookie will live until the
  * session is invalidated. If you want to remove a cookie, set its maxage to 0.
  *
- * @version $Id$
+ * @version $Id: CookieCreatorAction.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class CookieCreatorAction extends ServiceableAction
                                  implements ThreadSafe {

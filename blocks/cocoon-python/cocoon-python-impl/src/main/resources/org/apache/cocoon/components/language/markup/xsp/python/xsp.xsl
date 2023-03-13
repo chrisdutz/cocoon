@@ -19,7 +19,7 @@
 <!--
   - XSP Core logicsheet for the Python language
   -
-  - @version $Id$
+  - @version $Id: xsp.xsl 449176 2006-09-23 06:15:09Z crossley $
   -->
 
 <xsl:stylesheet version="1.0"

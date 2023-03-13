@@ -28,7 +28,7 @@ import java.io.IOException;
  * This element contains the maximum number of rows in the containing
  * sheet. The value is contained in the data.
  *
- * @version $Id$
+ * @version $Id: EPMaxRow.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EPMaxRow extends BaseElementProcessor {
     private NumericResult _max_row;

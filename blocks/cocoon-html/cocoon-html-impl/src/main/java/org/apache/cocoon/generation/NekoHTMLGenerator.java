@@ -65,7 +65,7 @@ import org.xml.sax.SAXException;
  * Uses the last modification date of the xml document for validation
  * @cocoon.sitemap.component.pooling.max  32
  *
- * @version $Id$
+ * @version $Id: NekoHTMLGenerator.java 654419 2008-05-08 05:25:15Z joerg $
  */
 public class NekoHTMLGenerator extends ServiceableGenerator
                                implements Configurable, CacheableProcessingComponent, Disposable {

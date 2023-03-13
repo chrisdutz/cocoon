@@ -20,7 +20,7 @@ package org.apache.cocoon.taglib;
 import org.apache.cocoon.xml.XMLProducer;
 
 /**
- * @version $Id$
+ * @version $Id: XMLProducerTag.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface XMLProducerTag extends Tag, XMLProducer {
 

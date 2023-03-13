@@ -35,7 +35,7 @@ import java.util.Map;
  * In addition, the application is notified about user actions (login, logout
  * and usage).
  *
- * @version $Id$
+ * @version $Id: Application.java 587757 2007-10-24 02:52:49Z vgritsenko $
 */
 public interface Application {
 

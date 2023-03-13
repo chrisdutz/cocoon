@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- @version $Id$ -->
+<!-- @version $Id: pluto.xml 610153 2008-01-08 21:02:21Z cziegeler $ -->
 <mapping>
   <description>Mapping for Pluto related information like preferences</description>
 

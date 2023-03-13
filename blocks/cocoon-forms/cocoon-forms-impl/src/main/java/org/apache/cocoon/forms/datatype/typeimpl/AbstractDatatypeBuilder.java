@@ -30,7 +30,7 @@ import java.util.Map;
 /**
  * Abstract base class for datatype builders, most concrete datatype builders
  * will derive from this class.
- * @version $Id$
+ * @version $Id: AbstractDatatypeBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public abstract class AbstractDatatypeBuilder implements DatatypeBuilder {
     private Map convertorBuilders;

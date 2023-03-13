@@ -69,7 +69,7 @@ import org.xml.sax.XMLFilter;
  * Adaptation of Excalibur's XSLTProcessor implementation to allow for better
  * error reporting.
  *
- * @version $Id$
+ * @version $Id: TraxProcessor.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.1.8
  */
 public class TraxProcessor extends AbstractLogEnabled

@@ -22,7 +22,7 @@ import java.util.List;
 /**
  * Interface to be implemented by WidgetDefinitions for Widgets which contain other widgets.
  *
- * @version $Id$
+ * @version $Id: ContainerDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface ContainerDefinition extends WidgetDefinition {
 

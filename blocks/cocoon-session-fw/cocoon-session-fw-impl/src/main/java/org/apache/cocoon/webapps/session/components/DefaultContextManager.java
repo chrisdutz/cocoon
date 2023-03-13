@@ -49,7 +49,7 @@ import org.xml.sax.SAXException;
  * Context manager
  * 
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: DefaultContextManager.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public final class DefaultContextManager extends AbstractLogEnabled
 implements Serviceable, ContextManager, ThreadSafe, Contextualizable, Disposable {

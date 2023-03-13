@@ -28,7 +28,7 @@ import org.apache.excalibur.source.impl.validity.AbstractAggregatedValidity;
 /**
  * <p>An aggregated {@link SourceValidity} for multiple sources.</p>
  *
- * @version $Id$
+ * @version $Id: MultiSourceValidity.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class MultiSourceValidity extends AbstractAggregatedValidity {
 

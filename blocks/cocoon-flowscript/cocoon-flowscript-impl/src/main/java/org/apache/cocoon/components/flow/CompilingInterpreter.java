@@ -31,7 +31,7 @@ import org.mozilla.javascript.Scriptable;
 /**
  * This is a base class for all interpreters compiling the scripts
  *
- * @version $Id$
+ * @version $Id: CompilingInterpreter.java 630256 2008-02-22 17:23:41Z vgritsenko $
  */
 public abstract class CompilingInterpreter extends AbstractInterpreter {
 

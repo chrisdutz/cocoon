@@ -37,7 +37,7 @@ import org.w3c.dom.Element;
  * create an object corresponding to the path of the <code>fb:context</code> element
  * upon save, if needed.</p>
  *
- * @version $Id$
+ * @version $Id: ContextJXPathBindingBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class ContextJXPathBindingBuilder extends JXPathBindingBuilderBase {
 

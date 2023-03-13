@@ -31,7 +31,7 @@ import org.apache.cocoon.template.instruction.Element;
 import org.apache.cocoon.template.instruction.Attribute;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: JXTemplateGeneratorTestCase.java 670345 2008-06-22 11:49:21Z gkossakowski $
  */
 public class JXTemplateGeneratorTestCase extends SitemapComponentTestCase {
     String docBase = "resource://org/apache/cocoon/template/jxtg/";

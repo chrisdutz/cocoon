@@ -24,7 +24,7 @@ import org.apache.cocoon.environment.Request;
  * AppleRequest defines the services an AppleController can collect from the
  * current request.
  * 
- * @version $Id$
+ * @version $Id: AppleRequest.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public interface AppleRequest {
     /**

@@ -33,7 +33,7 @@ import org.xml.sax.SAXException;
 import org.xml.sax.SAXParseException;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: Characters.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class Characters extends TextEvent {
     public Characters(ParsingContext parsingContext, Locator location, char[] chars, int start, int length)

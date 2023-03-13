@@ -23,7 +23,7 @@ import org.apache.cocoon.thread.RunnableManager;
  * overwrite the start method for background thread creation using the Cocoon
  * {@link RunnableManager}.
  *
- * @version $Id$
+ * @version $Id: CocoonStoreJanitor.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class CocoonStoreJanitor extends StoreJanitorImpl {
 

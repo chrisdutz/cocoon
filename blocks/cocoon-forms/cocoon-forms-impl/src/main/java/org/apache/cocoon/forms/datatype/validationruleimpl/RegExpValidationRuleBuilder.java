@@ -26,7 +26,7 @@ import org.w3c.dom.Element;
 /**
  * Builds {@link RegExpValidationRule}s.
  *
- * @version $Id$
+ * @version $Id: RegExpValidationRuleBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class RegExpValidationRuleBuilder extends AbstractValidationRuleBuilder {
 

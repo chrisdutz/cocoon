@@ -24,7 +24,7 @@ import org.apache.cocoon.sitemap.PatternException;
 import java.util.List;
 
 /**
- * @version $Id$
+ * @version $Id: VariableResolverFactory.java 610271 2008-01-09 03:59:08Z rgoers $
  */
 public class VariableResolverFactory {
 

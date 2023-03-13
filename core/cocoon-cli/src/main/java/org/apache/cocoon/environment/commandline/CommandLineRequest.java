@@ -37,7 +37,7 @@ import org.apache.commons.lang.NotImplementedException;
 /**
  * Creates a specific servlet request simulation from command line usage.
  *
- * @version $Id$
+ * @version $Id: CommandLineRequest.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 /*
  * NOTE: method with a non-compliant implementation are marked with FIXME

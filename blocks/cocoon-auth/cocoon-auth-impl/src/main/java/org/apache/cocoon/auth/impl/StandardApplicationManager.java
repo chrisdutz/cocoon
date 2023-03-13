@@ -49,7 +49,7 @@ import org.springframework.beans.factory.BeanFactoryAware;
  * This implementation is heavily tied to Spring. This has been done to make
  * the configuration of the application manager easier.
  *
- * @version $Id$
+ * @version $Id: StandardApplicationManager.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public class StandardApplicationManager
     implements ApplicationManager, BeanFactoryAware {

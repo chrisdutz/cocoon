@@ -20,7 +20,7 @@ import java.util.Locale;
 
 /**
  *
- * @version $Id$
+ * @version $Id: TagDefinitionSet.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class TagDefinitionSet extends AbstractSupportSet
     implements java.io.Serializable, Support {

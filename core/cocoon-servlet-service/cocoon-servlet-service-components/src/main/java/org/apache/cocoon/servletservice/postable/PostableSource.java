@@ -25,7 +25,7 @@ import org.apache.excalibur.source.Source;
  * Addition to the {@link Source} that enables passing data to the called
  * source. This data is passed by writing it into an {@link OutputStream}.
  *
- * @version $Id$
+ * @version $Id: PostableSource.java 608087 2008-01-02 11:38:37Z reinhard $
  * @since 1.0.0
  */
 public interface PostableSource extends Source {

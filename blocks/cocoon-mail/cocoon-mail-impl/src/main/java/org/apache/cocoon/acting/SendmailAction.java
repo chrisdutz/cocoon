@@ -54,7 +54,7 @@ import java.util.Map;
  * action instead.
  *
  * @deprecated Please use the {@link Sendmail Sendmail} action instead.
- * @version $Id$
+ * @version $Id: SendmailAction.java 607381 2007-12-29 05:42:58Z vgritsenko $
  */
 public class SendmailAction extends Sendmail {
 

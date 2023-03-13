@@ -25,7 +25,7 @@ import java.util.List;
  * This interface defines a compiler's functionality for all
  * (Java-based) compiled languages
  *
- * @version $Id$
+ * @version $Id: LanguageCompiler.java 1857502 2019-04-14 05:20:19Z ilgrosso $
  * @since 2.0
  */
 public interface LanguageCompiler extends Component {

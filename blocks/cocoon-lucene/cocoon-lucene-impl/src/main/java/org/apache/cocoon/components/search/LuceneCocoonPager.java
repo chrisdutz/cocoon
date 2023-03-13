@@ -27,7 +27,7 @@ import java.util.NoSuchElementException;
 /**
  * This class should help you to manage paging of hits.
  *
- * @version $Id$
+ * @version $Id: LuceneCocoonPager.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class LuceneCocoonPager implements ListIterator {
 

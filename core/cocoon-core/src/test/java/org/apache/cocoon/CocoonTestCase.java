@@ -35,7 +35,7 @@ import org.apache.excalibur.xmlizer.XMLizer;
 /**
  * Testcase for Cocoon. 
  *
- * @version $Id$
+ * @version $Id: CocoonTestCase.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public abstract class CocoonTestCase extends ContainerTestCase {
 

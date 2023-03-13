@@ -25,7 +25,7 @@ import org.apache.cocoon.util.location.Location;
  * one tries to add a WidgetDefinition that has the same id as another,
  * previously added, WidgetDefinition.
  *
- * @version $Id$
+ * @version $Id: DuplicateIdException.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class DuplicateIdException extends FormsException {
 

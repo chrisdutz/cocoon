@@ -38,7 +38,7 @@ import org.xml.sax.SAXException;
 /**
  * This is the source implementation of the coplet source.
  *
- * @version $Id$
+ * @version $Id: CopletSource.java 633260 2008-03-03 20:21:05Z cziegeler $
  */
 public class CopletSource
     implements Source, XMLizable, Serviceable {

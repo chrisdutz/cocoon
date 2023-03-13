@@ -36,7 +36,7 @@ import org.apache.cocoon.environment.Environment;
  *
  * @see org.apache.cocoon.components.source.impl.SitemapSource
  *
- * @version $Id$
+ * @version $Id: MutableEnvironmentFacade.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class MutableEnvironmentFacade implements Environment {
 

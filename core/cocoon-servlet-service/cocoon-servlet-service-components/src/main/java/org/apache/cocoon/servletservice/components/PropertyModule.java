@@ -29,7 +29,7 @@ import org.apache.cocoon.components.modules.input.InputModule;
 /**
  * BlockPropertyModule provides access to the properties of the current block.
  *
- * @version $Id$
+ * @version $Id: PropertyModule.java 608379 2008-01-03 08:42:43Z reinhard $
  * @since 1.0.0
  */
 public class PropertyModule implements InputModule {

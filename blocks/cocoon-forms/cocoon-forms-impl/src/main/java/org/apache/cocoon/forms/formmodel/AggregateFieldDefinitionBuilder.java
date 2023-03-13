@@ -31,7 +31,7 @@ import org.w3c.dom.Element;
 /**
  * Builds {@link AggregateFieldDefinition}s.
  *
- * @version $Id$
+ * @version $Id: AggregateFieldDefinitionBuilder.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public class AggregateFieldDefinitionBuilder extends FieldDefinitionBuilder {
 

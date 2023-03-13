@@ -35,7 +35,7 @@ import org.outerj.expression.Expression;
  * The {@link WidgetDefinition} part of a AggregateField widget, see {@link AggregateField}
  * for more information.
  *
- * @version $Id$
+ * @version $Id: AggregateFieldDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class AggregateFieldDefinition extends FieldDefinition {
 

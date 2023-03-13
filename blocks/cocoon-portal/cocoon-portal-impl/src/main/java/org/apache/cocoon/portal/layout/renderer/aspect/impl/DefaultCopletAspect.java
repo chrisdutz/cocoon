@@ -54,7 +54,7 @@ import org.xml.sax.helpers.AttributesImpl;
  *  <li>{@link org.apache.cocoon.portal.om.CopletLayout}</li>
  * </ul>
  *
- * @version $Id$
+ * @version $Id: DefaultCopletAspect.java 633288 2008-03-03 21:54:41Z cziegeler $
  */
 public class DefaultCopletAspect extends AbstractAspect {
 

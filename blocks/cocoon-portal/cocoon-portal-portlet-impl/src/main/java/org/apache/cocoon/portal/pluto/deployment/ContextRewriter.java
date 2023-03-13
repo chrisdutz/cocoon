@@ -23,7 +23,7 @@ import org.w3c.dom.Element;
 /**
  * Utilities for manipulating the context.xml deployment descriptor.
  *
- * @version $Id$
+ * @version $Id: ContextRewriter.java 638259 2008-03-18 08:23:35Z crossley $
  */
 public class ContextRewriter
 {

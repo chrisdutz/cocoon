@@ -29,7 +29,7 @@ import org.xml.sax.EntityResolver;
  * @see JaxpDOMParser
  * @see JaxpSAXParser
  *
- * @version $Id$
+ * @version $Id: AbstractJaxpParser.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 public abstract class AbstractJaxpParser implements BeanFactoryAware {

@@ -25,7 +25,7 @@ import org.apache.excalibur.store.Store;
  * in the default <code>Store</code> injected by Spring.
  * 
  * @since 2.1
- * @version $Id$
+ * @version $Id: StoreEventRegistryImpl.java 680697 2008-07-29 13:54:14Z reinhard $
  */
 public class StoreEventRegistryImpl extends AbstractDoubleMapEventRegistry {
 

@@ -22,7 +22,7 @@ import org.apache.cocoon.portal.deployment.DeploymentObject;
 /**
  * Default implementation of the deployment event.
  *
- * @version $Id$
+ * @version $Id: DeploymentEventImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class DeploymentEventImpl implements DeploymentEvent {
 

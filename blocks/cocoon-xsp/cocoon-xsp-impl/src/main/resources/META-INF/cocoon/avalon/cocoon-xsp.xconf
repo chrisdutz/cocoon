@@ -17,7 +17,7 @@
 -->
 
 <!--+
-    | SVN $Id$
+    | SVN $Id: cocoon-xsp.xconf 588098 2007-10-25 01:07:46Z vgritsenko $
     +-->
 <components>
   <include src="resource://org/apache/cocoon/components/xsp.roles"/>

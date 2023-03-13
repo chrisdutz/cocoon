@@ -31,7 +31,7 @@ import org.apache.poi.hssf.util.CellRangeAddress;
  * Implementation of ElementProcessor to handle the "Cell" tag.
  * This element has several attributes and may contain other elements.
  *
- * @version $Id$
+ * @version $Id: EPCell.java 707379 2008-10-23 14:25:48Z felixk $
  */
 public class EPCell extends BaseElementProcessor implements LocaleAware {
 

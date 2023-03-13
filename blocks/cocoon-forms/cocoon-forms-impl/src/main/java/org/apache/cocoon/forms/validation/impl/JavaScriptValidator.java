@@ -47,7 +47,7 @@ import org.mozilla.javascript.Function;
  * The JavaScript snippet has the "this" and "widget" variables set to the validated widget, and, if the form
  * is used in a flowscript, can use the flow's global values and fonctions and the <code>cocoon</code> object.
  * 
- * @version $Id$
+ * @version $Id: JavaScriptValidator.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JavaScriptValidator implements WidgetValidator {
     

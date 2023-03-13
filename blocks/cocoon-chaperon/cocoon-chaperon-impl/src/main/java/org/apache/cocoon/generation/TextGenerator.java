@@ -50,7 +50,7 @@ import java.util.Map;
  * &lt;/text&gt;
  * </pre>
  *
- * @version $Id$
+ * @version $Id: TextGenerator.java 591592 2007-11-03 11:09:21Z felixk $
  */
 public class TextGenerator extends ServiceableGenerator implements Parameterizable,
                                                                    CacheableProcessingComponent

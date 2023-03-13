@@ -32,7 +32,7 @@ import org.xml.sax.Attributes;
  * replaced by the content of another SaxBuffer if it is present in the map
  * passed to the {@link #toSAX(ContentHandler, Map)} method.
  *
- * @version $Id$
+ * @version $Id: ParamSaxBuffer.java 591603 2007-11-03 11:45:25Z felixk $
  */
 public class ParamSaxBuffer extends SaxBuffer {
 

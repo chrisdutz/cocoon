@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!-- SVN $Id$ -->
+<!-- SVN $Id: sitemap.xmap 635981 2008-03-11 15:51:32Z reinhard $ -->
 
 <map:sitemap xmlns:map="http://apache.org/cocoon/sitemap/1.0">
 

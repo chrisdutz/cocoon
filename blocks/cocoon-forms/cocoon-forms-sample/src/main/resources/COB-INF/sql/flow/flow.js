@@ -20,7 +20,7 @@
  * showing how a few conventions, Map and List wrappers for forms and JDBC allow
  * to easily connect forms and a database.
  *
- * @version $Id$
+ * @version $Id: flow.js 534153 2007-05-01 16:49:43Z gkossakowski $
  */
 cocoon.load("servlet:forms:/resource/internal/flow/javascript/Form.js");
 cocoon.load("flow/jdbi.js");

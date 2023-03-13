@@ -28,7 +28,7 @@ import junit.framework.TestCase;
  * Test Cases for the Deprecation class.
  * @see org.apache.cocoon.util.Deprecation
  *
- * @version $Id$
+ * @version $Id: DeprecationTestCase.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class DeprecationTestCase extends TestCase {
 

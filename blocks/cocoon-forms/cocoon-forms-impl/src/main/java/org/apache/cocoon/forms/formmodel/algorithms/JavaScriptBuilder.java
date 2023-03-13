@@ -60,7 +60,7 @@ import org.w3c.dom.Element;
  * <p>As you can see, the function must return the calculated value, and not set this
  * directly in the widget. This way the value can be converted correctly if needed.</p>
  * 
- * @version $Id$
+ * @version $Id: JavaScriptBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JavaScriptBuilder implements CalculatedFieldAlgorithmBuilder {
 

@@ -39,7 +39,7 @@ import org.xml.sax.SAXException;
  *
  * <p>An Output widget is always valid and never required.
  *
- * @version $Id$
+ * @version $Id: Output.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class Output extends AbstractWidget
                     implements DataWidget, ValueChangedListenerEnabled {

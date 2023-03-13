@@ -59,7 +59,7 @@ import java.util.TreeMap;
  * <p><b>WARNING:</b> This interface is not stable and could be changed in
  * backward incompatible way without prior notice.</p>
 
- * @version $Id$
+ * @version $Id: CocoonBean.java 694110 2008-09-11 04:25:53Z crossley $
  */
 public class CocoonBean extends CocoonWrapper {
 

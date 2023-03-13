@@ -32,7 +32,7 @@ import org.apache.cocoon.classloader.DefaultClassLoaderFactory;
  * groups of servlets that use the same classloader that is still shielded from
  * the rest of the webapp.
  *
- * @version $Id$
+ * @version $Id: ShieldedGroupClassLoaderManager.java 608379 2008-01-03 08:42:43Z reinhard $
  * @since 1.0.0
  */
 public class ShieldedGroupClassLoaderManager {

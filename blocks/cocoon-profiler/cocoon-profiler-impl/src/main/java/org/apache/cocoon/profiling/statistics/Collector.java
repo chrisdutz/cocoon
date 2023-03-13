@@ -22,7 +22,7 @@ import java.util.Collection;
  * The collector is the central component collecting various statistics about
  * the current request.
  *
- * @version $Id$
+ * @version $Id: Collector.java 587761 2007-10-24 03:08:05Z vgritsenko $
  * @since 2.1.10
  */
 public interface Collector {

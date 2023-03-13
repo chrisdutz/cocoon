@@ -21,7 +21,7 @@ import java.util.EventObject;
 
 /**
  *
- * @version $Id$
+ * @version $Id: ContainerElementEndEvent.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ContainerElementEndEvent extends EventObject  {
 

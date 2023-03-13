@@ -31,7 +31,7 @@ import org.apache.excalibur.source.SourceValidity;
 import org.apache.excalibur.source.TraversableSource;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: TraversableContextSource.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class TraversableContextSource
     implements Source, TraversableSource { 

@@ -36,7 +36,7 @@ import org.apache.cocoon.webapps.session.context.SessionContext;
  * This is the default implementation for the transaction manager.
  * 
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: DefaultTransactionManager.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public final class DefaultTransactionManager
     extends AbstractLogEnabled

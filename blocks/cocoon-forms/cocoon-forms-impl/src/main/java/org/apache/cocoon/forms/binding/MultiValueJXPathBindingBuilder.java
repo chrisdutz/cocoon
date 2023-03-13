@@ -39,7 +39,7 @@ import org.w3c.dom.Element;
  * &lt;/fb:multi-value&gt;
  * </code></pre>
  *
- * @version $Id$
+ * @version $Id: MultiValueJXPathBindingBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class MultiValueJXPathBindingBuilder extends JXPathBindingBuilderBase {
 

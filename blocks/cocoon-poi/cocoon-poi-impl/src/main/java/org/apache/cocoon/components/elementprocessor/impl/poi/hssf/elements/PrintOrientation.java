@@ -25,7 +25,7 @@ import java.io.IOException;
  * Print orientation -- encapsulation of the strings representing the
  * print orientation, and a simpler way to deal with them.
  *
- * @version $Id$
+ * @version $Id: PrintOrientation.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class PrintOrientation {
     private static final String _landscape = "landscape";

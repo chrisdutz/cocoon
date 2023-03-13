@@ -125,7 +125,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * Limited. See documentation for further information.
  * @cocoon.sitemap.component.pooling.max  16
  *
- * @version $Id$
+ * @version $Id: CIncludeTransformer.java 605689 2007-12-19 20:48:43Z vgritsenko $
  */
 public class CIncludeTransformer extends AbstractSAXTransformer
                                  implements CacheableProcessingComponent {

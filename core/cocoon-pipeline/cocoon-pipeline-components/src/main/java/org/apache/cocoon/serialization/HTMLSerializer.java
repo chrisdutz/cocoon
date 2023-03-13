@@ -39,7 +39,7 @@ import java.io.OutputStream;
  * <doctype-public>-//W3C//DTD HTML 4.01 Transitional//EN</doctype-public>
  * <doctype-system>http://www.w3.org/TR/html4/loose.dtd</doctype-system>
  *
- * @version $Id$
+ * @version $Id: HTMLSerializer.java 605689 2007-12-19 20:48:43Z vgritsenko $
  */
 public class HTMLSerializer extends AbstractTextSerializer {
     

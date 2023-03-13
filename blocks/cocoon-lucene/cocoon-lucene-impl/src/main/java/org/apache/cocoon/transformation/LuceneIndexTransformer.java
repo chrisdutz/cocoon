@@ -113,7 +113,7 @@ import org.xml.sax.helpers.AttributesImpl;
   * </dd>
   * </dl>
   *
-  * @version $Id$
+  * @version $Id: LuceneIndexTransformer.java 619625 2008-02-07 20:16:19Z anathaniel $
   */
 public class LuceneIndexTransformer extends AbstractTransformer
     implements CacheableProcessingComponent,

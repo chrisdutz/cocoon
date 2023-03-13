@@ -53,7 +53,7 @@ import org.w3c.dom.Element;
  * &lt;/fb:context&gt;
  * </code></pre>
  *
- * @version $Id$
+ * @version $Id: CustomJXPathBindingBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class CustomJXPathBindingBuilder extends JXPathBindingBuilderBase implements BeanFactoryAware {
 

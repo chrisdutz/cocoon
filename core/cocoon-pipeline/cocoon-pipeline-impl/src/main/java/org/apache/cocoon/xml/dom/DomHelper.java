@@ -57,7 +57,7 @@ import org.xml.sax.XMLReader;
  * <p>This class depends specifically on the Xerces DOM implementation to be
  * able to provide information about the location of elements in their source
  * XML file. See the {@link #getLocation(Element)} method.
- * @version $Id$
+ * @version $Id: DomHelper.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class DomHelper {
 

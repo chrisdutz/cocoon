@@ -31,7 +31,7 @@ import org.apache.excalibur.source.SourceResolver;
 import org.apache.cocoon.util.AbstractLogEnabled;
 
 /**
- * @version $Id$
+ * @version $Id: XMLizableSourceFactory.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class XMLizableSourceFactory extends AbstractLogEnabled
                                     implements SourceFactory, Serviceable, ThreadSafe {

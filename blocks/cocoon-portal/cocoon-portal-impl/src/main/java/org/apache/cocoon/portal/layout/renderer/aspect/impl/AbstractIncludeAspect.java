@@ -25,7 +25,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * Base class for aspect renderers that generate include statements. Provides a single
  * method for creating the include tag.
  *
- * @version $Id$
+ * @version $Id: AbstractIncludeAspect.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public abstract class AbstractIncludeAspect
     extends AbstractAspect {

@@ -30,7 +30,7 @@ import junit.framework.TestCase;
  *    within it. Ensure this is included in build.properties by
  *    commenting out <code>exclude.webapp.test-suite=true</code>.</p>
  * 
- * @version $Id$
+ * @version $Id: CocoonBeanTestCase.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class CocoonBeanTestCase extends TestCase {
 

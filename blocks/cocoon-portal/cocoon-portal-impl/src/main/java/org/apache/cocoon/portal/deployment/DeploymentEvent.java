@@ -28,7 +28,7 @@ import org.apache.cocoon.portal.event.Receiver;
  * event. If an error occurs during deployment the status should be updated by the
  * receiver as well.
  *
- * @version $Id$
+ * @version $Id: DeploymentEvent.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public interface DeploymentEvent
     extends DeploymentStatus, Event {

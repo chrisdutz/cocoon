@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 <!--+
-    | SVN $Id$
+    | SVN $Id: cocoon-xsp-program-generator.xconf 588098 2007-10-25 01:07:46Z vgritsenko $
     +-->
 <components>
   <!--+

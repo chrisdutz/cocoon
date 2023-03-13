@@ -34,7 +34,7 @@ import org.apache.cocoon.util.HashMap;
  *
  * <p>In order to get at the logger, use <code>getLogger()</code>.</p>
  *
- * @version $Id$
+ * @version $Id: AbstractOutputModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractOutputModule extends AbstractLogEnabled
                                            implements OutputModule, Configurable, Disposable {

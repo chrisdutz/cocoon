@@ -28,7 +28,7 @@
     - <fb:value> if a @fb:path is found on any fd:* element    
   - if a <fd:binding> is present, its content is copied as is with the @id of the enclosing widget
   
-  @version $Id$
+  @version $Id: def2binding.xsl 449149 2006-09-23 03:58:05Z crossley $
 -->
 
 <xsl:stylesheet

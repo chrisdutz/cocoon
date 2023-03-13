@@ -29,7 +29,7 @@ import org.apache.cocoon.environment.internal.EnvironmentHelper;
  * EnvironmentAttributeModule provides access to the current
  * Environment, intended for internal use in VPCs.
  *
- * @version $Id$
+ * @version $Id: EnvironmentAttributeModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class EnvironmentAttributeModule implements InputModule, ThreadSafe {
 

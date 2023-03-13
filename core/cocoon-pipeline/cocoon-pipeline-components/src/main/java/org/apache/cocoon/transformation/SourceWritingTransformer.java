@@ -226,7 +226,7 @@ import org.xml.sax.SAXException;
  * @cocoon.sitemap.component.name   sourcewriting
  * @cocoon.sitemap.component.documentation.caching No
  *
- * @version $Id$
+ * @version $Id: SourceWritingTransformer.java 605605 2007-12-19 16:19:51Z vgritsenko $
  */
 public class SourceWritingTransformer extends AbstractSAXTransformer {
 

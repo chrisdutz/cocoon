@@ -32,7 +32,7 @@ import org.apache.poi.poifs.filesystem.POIFSFileSystem;
 /**
  * internal representation of a Workbook
  *
- * @version $Id$
+ * @version $Id: Workbook.java 707326 2008-10-23 09:32:44Z felixk $
  */
 
 // package scope

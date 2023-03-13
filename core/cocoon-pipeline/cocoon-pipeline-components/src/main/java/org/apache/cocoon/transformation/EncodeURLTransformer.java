@@ -80,7 +80,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * (no session or URL session tracking was used).
  * @cocoon.sitemap.component.pooling.max  32
  *
- * @version $Id$
+ * @version $Id: EncodeURLTransformer.java 605605 2007-12-19 16:19:51Z vgritsenko $
  */
 public class EncodeURLTransformer
   extends AbstractTransformer

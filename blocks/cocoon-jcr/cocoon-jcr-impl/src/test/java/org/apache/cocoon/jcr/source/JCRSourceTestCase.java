@@ -37,7 +37,7 @@ import java.util.Collection;
 import java.util.Collections;
 
 /**
- * @version $Id$
+ * @version $Id: JCRSourceTestCase.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JCRSourceTestCase extends ContainerTestCase {
 

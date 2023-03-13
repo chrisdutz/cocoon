@@ -31,7 +31,7 @@ import java.io.IOException;
  *
  * This element is not used in HSSFSerializer 1.0
  *
- * @version $Id$
+ * @version $Id: EPSelections.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EPSelections extends BaseElementProcessor {
     private static final String _cursor_col_attribute = "CursorCol";

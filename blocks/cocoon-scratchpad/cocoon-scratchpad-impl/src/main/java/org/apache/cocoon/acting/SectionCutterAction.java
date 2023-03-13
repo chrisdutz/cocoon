@@ -41,7 +41,7 @@ import org.apache.cocoon.environment.SourceResolver;
  *  of the URI). When an expression matches, the action will set the configured
  *  variable in the Map.
  *
- * @version $Id$
+ * @version $Id: SectionCutterAction.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class SectionCutterAction extends ConfigurableServiceableAction implements ThreadSafe {
 

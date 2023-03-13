@@ -34,7 +34,7 @@ import org.apache.avalon.framework.thread.ThreadSafe;
  * composed of other InputModules.  In order to get at the Logger, use
  * getLogger().
  *
- * @version $Id$
+ * @version $Id: AbstractMetaModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractMetaModule extends AbstractInputModule
     implements Serviceable {

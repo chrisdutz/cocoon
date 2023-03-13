@@ -25,7 +25,7 @@ import org.apache.cocoon.core.container.spring.avalon.ComponentInfo;
  * and destroyed correctly.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: SingleThreadedComponentHandler.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class SingleThreadedComponentHandler
 extends AbstractFactoryHandler {

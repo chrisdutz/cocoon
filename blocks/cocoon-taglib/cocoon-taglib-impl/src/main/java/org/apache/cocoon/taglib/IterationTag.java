@@ -32,7 +32,7 @@ import org.xml.sax.SAXException;
  * If doAfterBody() returns Tag.SKIP_BODY, then the body will be skipped
  * and doEndTag() will be evaluated instead.
  *
- * @version $Id$
+ * @version $Id: IterationTag.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface IterationTag extends Tag {
 

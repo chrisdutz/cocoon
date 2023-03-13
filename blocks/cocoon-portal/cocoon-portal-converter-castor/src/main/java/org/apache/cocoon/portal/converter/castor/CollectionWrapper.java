@@ -23,7 +23,7 @@ import java.util.Iterator;
 /**
  * Holds mapped instances.
  *
- * @version $Id$
+ * @version $Id: CollectionWrapper.java 610153 2008-01-08 21:02:21Z cziegeler $
  */
 public class CollectionWrapper implements Collection {
 

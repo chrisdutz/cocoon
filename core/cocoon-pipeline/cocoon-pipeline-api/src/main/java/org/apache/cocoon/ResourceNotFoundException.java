@@ -22,7 +22,7 @@ import org.apache.cocoon.util.location.Location;
  * This Exception is thrown every time there is a problem in finding
  * a resource.
  *
- * @version $Id$
+ * @version $Id: ResourceNotFoundException.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ResourceNotFoundException extends ProcessingException {
 

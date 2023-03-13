@@ -20,7 +20,7 @@
   - This is the default cocoon.xconf which is used if no custom configuration file
   - were provided in &lt;avalon:bridge&gt; element.
   -
-  - $Id$
+  - $Id: cocoon.xconf 588098 2007-10-25 01:07:46Z vgritsenko $
   -->
 <cocoon version="2.2">
 

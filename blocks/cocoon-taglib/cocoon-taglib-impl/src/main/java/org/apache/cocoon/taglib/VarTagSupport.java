@@ -29,7 +29,7 @@ import org.apache.commons.jxpath.JXPathContext;
 /**
  * Add support for setting and getting variables
  * 
- * @version $Id$
+ * @version $Id: VarTagSupport.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class VarTagSupport extends TagSupport implements Serviceable {
     protected String var;

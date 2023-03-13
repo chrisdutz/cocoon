@@ -115,7 +115,7 @@ import javax.servlet.http.HttpServletResponseWrapper;
  *   and sends it into the cocoon pipeline.
  * </p>
  *
- * @version $Id$
+ * @version $Id: CocoonFilterGeneratorImpl.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class CocoonFilterGeneratorImpl implements Filter {
 

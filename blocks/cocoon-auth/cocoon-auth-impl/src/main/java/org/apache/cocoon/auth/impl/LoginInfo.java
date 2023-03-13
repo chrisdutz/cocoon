@@ -28,7 +28,7 @@ import org.apache.cocoon.auth.User;
  * This class keeps track of the number of applications a user is logged into
  * using the same security handler.
  *
- * @version $Id$
+ * @version $Id: LoginInfo.java 587757 2007-10-24 02:52:49Z vgritsenko $
 */
 public class LoginInfo
 implements Serializable {

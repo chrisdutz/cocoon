@@ -31,7 +31,7 @@ import java.net.URL;
  *
  * **********************************************************************
  * 
- * @version $Id$
+ * @version $Id: JCO.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
  
 public class JCO {

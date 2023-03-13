@@ -30,7 +30,7 @@ import java.sql.Connection;
  * It should work with all JDBC compliant databases.
  * Unfortunately it seems NOT to work with mssql
  *
- * @version $Id$
+ * @version $Id: JdbcEsqlQuery.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 final public class JdbcEsqlQuery extends AbstractEsqlQuery {
 

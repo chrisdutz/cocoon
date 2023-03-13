@@ -52,7 +52,7 @@ import org.apache.commons.jxpath.JXPathContext;
  *
  * Using the path '#' you get the current copletId: {coplet:#}
  *
- * @version $Id$
+ * @version $Id: CopletModule.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class CopletModule
     extends AbstractModule {

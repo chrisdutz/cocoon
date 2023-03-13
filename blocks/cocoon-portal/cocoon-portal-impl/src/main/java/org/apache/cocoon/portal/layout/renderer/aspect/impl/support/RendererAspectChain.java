@@ -39,7 +39,7 @@ import org.apache.cocoon.portal.services.aspects.support.AspectChainImpl;
  *  </tr>
  * </tbody></table>
  *
- * @version $Id$
+ * @version $Id: RendererAspectChain.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public final class RendererAspectChain extends AspectChainImpl {
 

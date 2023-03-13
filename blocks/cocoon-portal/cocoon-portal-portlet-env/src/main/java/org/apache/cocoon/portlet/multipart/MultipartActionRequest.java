@@ -40,7 +40,7 @@ import java.util.Vector;
 /**
  * Portlet action request wrapper for multipart parser.
  *
- * @version $Id$
+ * @version $Id: MultipartActionRequest.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class MultipartActionRequest implements ActionRequest {
 

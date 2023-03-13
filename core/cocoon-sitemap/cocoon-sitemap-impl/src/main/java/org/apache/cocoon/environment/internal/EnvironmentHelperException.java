@@ -19,7 +19,7 @@ package org.apache.cocoon.environment.internal;
 import org.apache.avalon.framework.CascadingRuntimeException;
 
 /**
- * @version $Id$
+ * @version $Id: EnvironmentHelperException.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 public class EnvironmentHelperException extends CascadingRuntimeException {

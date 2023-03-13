@@ -40,7 +40,7 @@ import org.xml.sax.SAXException;
 import org.xml.sax.helpers.AttributesImpl;
 
 /**
- * @version $Id$
+ * @version $Id: Invoker.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class Invoker {
     private static final Attributes EMPTY_ATTRS = new AttributesImpl();

@@ -29,7 +29,7 @@ import org.w3c.dom.Node;
 /**
  * Builds {@link SelectionList}s from a JavaSelectionList classes configured in Spring context
  *
- * @version $Id$
+ * @version $Id: JavaSelectionListBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JavaSelectionListBuilder implements SelectionListBuilder, BeanFactoryAware {
 

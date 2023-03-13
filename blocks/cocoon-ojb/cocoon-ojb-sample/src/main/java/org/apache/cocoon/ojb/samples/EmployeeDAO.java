@@ -28,7 +28,7 @@ import org.apache.ojb.broker.PersistenceBrokerFactory;
 /**
  *  Employee's Impl
  *
- * @version $Id$
+ * @version $Id: EmployeeDAO.java 587761 2007-10-24 03:08:05Z vgritsenko $
 */
 public class EmployeeDAO {
 

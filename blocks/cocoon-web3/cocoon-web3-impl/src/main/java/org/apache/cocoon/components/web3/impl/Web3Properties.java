@@ -26,7 +26,7 @@ import java.io.IOException;
  * Properties helper class.
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: Web3Properties.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class Web3Properties extends Properties {
 

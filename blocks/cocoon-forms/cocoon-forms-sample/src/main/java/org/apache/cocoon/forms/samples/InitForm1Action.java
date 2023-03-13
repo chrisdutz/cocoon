@@ -35,7 +35,7 @@ import java.util.Date;
  * meant to illustrate how you can prepopulate a Form instance before its
  * initial display.
  * 
- * @version $Id$
+ * @version $Id: InitForm1Action.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class InitForm1Action extends AbstractFormsAction {
 

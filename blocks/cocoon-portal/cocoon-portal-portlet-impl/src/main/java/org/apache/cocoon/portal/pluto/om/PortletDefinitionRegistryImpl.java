@@ -64,7 +64,7 @@ import org.xml.sax.InputSource;
 
 /**
  *
- * @version $Id$
+ * @version $Id: PortletDefinitionRegistryImpl.java 633260 2008-03-03 20:21:05Z cziegeler $
  */
 public class PortletDefinitionRegistryImpl
     extends AbstractComponent

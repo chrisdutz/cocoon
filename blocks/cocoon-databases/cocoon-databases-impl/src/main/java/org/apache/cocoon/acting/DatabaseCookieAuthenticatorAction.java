@@ -70,7 +70,7 @@ import org.apache.commons.lang.StringUtils;
  *  attributes to the session without creating a new one, specify action
  *  parameter "append-session" to "yes" or "true".
  *
- * @version $Id$
+ * @version $Id: DatabaseCookieAuthenticatorAction.java 1906072 2022-12-18 21:51:22Z javier $
  */
 public class DatabaseCookieAuthenticatorAction extends AbstractDatabaseAction implements ThreadSafe {
 

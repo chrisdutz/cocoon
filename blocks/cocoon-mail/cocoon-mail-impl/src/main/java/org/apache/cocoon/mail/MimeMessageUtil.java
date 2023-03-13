@@ -32,7 +32,7 @@ import javax.mail.internet.MimePart;
  *  Description of the Class
  *
  * @since 26 October 2002
- * @version $Id$
+ * @version $Id: MimeMessageUtil.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class MimeMessageUtil {
 

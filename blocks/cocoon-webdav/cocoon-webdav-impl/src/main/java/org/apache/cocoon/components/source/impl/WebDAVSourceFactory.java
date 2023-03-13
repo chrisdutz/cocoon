@@ -34,7 +34,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
 /**
  * A factory for WebDAV sources
  *
- * @version $Id$
+ * @version $Id: WebDAVSourceFactory.java 587761 2007-10-24 03:08:05Z vgritsenko $
 */
 public class WebDAVSourceFactory extends AbstractLogEnabled
                                  implements SourceFactory, Configurable, ThreadSafe {

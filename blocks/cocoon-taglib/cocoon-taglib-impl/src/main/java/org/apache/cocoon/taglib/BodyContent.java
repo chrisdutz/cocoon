@@ -20,7 +20,7 @@ import org.apache.cocoon.xml.XMLConsumer;
 import org.apache.cocoon.xml.SaxBuffer;
 
 /**
- * @version $Id$
+ * @version $Id: BodyContent.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class BodyContent {
 

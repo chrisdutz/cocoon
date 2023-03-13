@@ -21,7 +21,7 @@ import org.apache.cocoon.forms.formmodel.Widget;
 /**
  * Event raised when a field value changes.
  * 
- * @version $Id$
+ * @version $Id: ValueChangedEvent.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class ValueChangedEvent extends WidgetEvent {
     

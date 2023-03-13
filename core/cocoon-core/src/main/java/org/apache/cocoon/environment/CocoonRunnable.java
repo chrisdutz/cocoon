@@ -30,7 +30,7 @@ import org.apache.cocoon.environment.internal.EnvironmentHelper;
  * behaviours may happen because the parent's environment has been released.
  * 
  * @since 2.1.8
- * @version $Id$
+ * @version $Id: CocoonRunnable.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class CocoonRunnable extends EnvironmentHelper.AbstractCocoonRunnable {
     Runnable target;

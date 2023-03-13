@@ -18,7 +18,7 @@
   limitations under the License.
 -->
 
-<!-- @version $Id$ -->
+<!-- @version $Id: cocoon-core-applicationContext.xml 558977 2007-07-24 09:27:18Z gkossakowski $ -->
 <beans>
   <bean name="org.apache.cocoon.processing.ProcessInfoProvider"
         class="org.apache.cocoon.processing.impl.ProcessInfoProviderImpl">

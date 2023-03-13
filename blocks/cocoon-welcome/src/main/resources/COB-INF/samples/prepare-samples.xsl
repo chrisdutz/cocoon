@@ -19,7 +19,7 @@
 <!--
   - Convert the output of the directory generator into a samples file.
   -
-  - $Id$
+  - $Id: prepare-samples.xsl 606321 2007-12-21 21:23:00Z vgritsenko $
   -->
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">

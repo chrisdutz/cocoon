@@ -23,7 +23,7 @@ import org.xml.sax.SAXException;
 
 /** Filter out annotations in the sitemap
  *  (bugzilla 25352)
- * @version $Id$
+ * @version $Id: AnnotationsFilter.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 class AnnotationsFilter implements ContentHandler {
     public static final String ANNOTATIONS_NAMESPACE = "http://apache.org/cocoon/sitemap/annotations/1.0";

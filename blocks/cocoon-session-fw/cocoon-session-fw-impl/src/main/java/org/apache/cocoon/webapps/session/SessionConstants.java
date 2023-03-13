@@ -20,7 +20,7 @@ package org.apache.cocoon.webapps.session;
  * The <code>Constants</code> used throughout the core of the session management.
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: SessionConstants.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface SessionConstants {
 

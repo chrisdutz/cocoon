@@ -31,7 +31,7 @@ import org.w3c.dom.Element;
  * as defined in {@link org.apache.cocoon.forms.util.WidgetFinder}. It also calls the LifecycleHelper
  * so that algorithms gets their logger and context.
  * </p>
- * @version $Id$
+ * @version $Id: AbstractBaseAlgorithmBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public abstract class AbstractBaseAlgorithmBuilder implements CalculatedFieldAlgorithmBuilder {
 

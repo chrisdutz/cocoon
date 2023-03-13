@@ -19,7 +19,7 @@ package org.apache.cocoon.forms.datatype.convertor;
 /**
  * Builds {@link FormattingLongConvertor}s.
  *
- * @version $Id$
+ * @version $Id: FormattingLongConvertorBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class FormattingLongConvertorBuilder extends FormattingDecimalConvertorBuilder implements LongConvertorBuilder {
     protected FormattingDecimalConvertor createConvertor() {

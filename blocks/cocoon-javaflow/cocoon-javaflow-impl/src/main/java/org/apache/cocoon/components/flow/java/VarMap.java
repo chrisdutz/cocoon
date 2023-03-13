@@ -23,7 +23,7 @@ import java.util.Map;
 /**
  * Simplified version of a map.
  *
- * @version $Id$
+ * @version $Id: VarMap.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public final class VarMap implements Serializable {
     private final Map map = new HashMap();

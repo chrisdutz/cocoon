@@ -32,7 +32,7 @@ import org.apache.cocoon.util.location.Location;
  * Helper class for the Definition implementation of widgets containing
  * other widgets.
  *
- * @version $Id$
+ * @version $Id: WidgetDefinitionList.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class WidgetDefinitionList {
 

@@ -28,7 +28,7 @@ import org.apache.commons.jxpath.JXPathContext;
  * <li>This Binding does not perform any actions when loading.</li>
  * </ol>
  *
- * @version $Id$
+ * @version $Id: SetAttributeJXPathBinding.java 640682 2008-03-25 03:23:17Z vgritsenko $
  */
 public class SetAttributeJXPathBinding extends JXPathBindingBase {
 

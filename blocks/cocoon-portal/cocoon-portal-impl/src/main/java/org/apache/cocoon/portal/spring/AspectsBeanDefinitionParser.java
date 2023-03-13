@@ -39,7 +39,7 @@ import org.w3c.dom.Element;
 
 /**
  *
- * @version $Id$
+ * @version $Id: AspectsBeanDefinitionParser.java 1828354 2018-04-04 15:25:44Z ilgrosso $
  */
 public class AspectsBeanDefinitionParser extends AbstractElementParser {
 

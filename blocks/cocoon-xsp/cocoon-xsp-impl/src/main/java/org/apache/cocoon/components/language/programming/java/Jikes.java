@@ -36,7 +36,7 @@ import EDU.oswego.cs.dl.util.concurrent.CountDown;
 /**
  * This class wraps IBM's <i>Jikes</i> Java compiler
  * NOTE: inspired by the Apache Jasper implementation.
- * @version $Id$
+ * @version $Id: Jikes.java 587761 2007-10-24 03:08:05Z vgritsenko $
  * @since 2.0
  */
 

@@ -19,7 +19,7 @@ package org.apache.cocoon.components.language.programming;
 /**
  * This class encapsulates an error message produced by a programming language
  * processor (whether interpreted or compiled)
- * @version $Id$
+ * @version $Id: CompilerError.java 587761 2007-10-24 03:08:05Z vgritsenko $
  * @since 2.0
  */
 

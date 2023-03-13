@@ -39,7 +39,7 @@ package org.apache.cocoon.xml;
  * do anything with.
  * </p>
  *
- * @version $Id$
+ * @version $Id: XMLConsumer.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface XMLConsumer extends org.apache.excalibur.xml.sax.XMLConsumer {
 }

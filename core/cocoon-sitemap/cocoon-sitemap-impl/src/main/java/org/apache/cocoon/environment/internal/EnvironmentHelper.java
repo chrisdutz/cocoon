@@ -48,7 +48,7 @@ import org.apache.cocoon.xml.XMLConsumer;
  * INTERNAL CLASS. Do not use this, can be removed without warning or deprecation cycle.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: EnvironmentHelper.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class EnvironmentHelper extends AbstractLogEnabled
                                implements SourceResolver, Serviceable, Disposable {

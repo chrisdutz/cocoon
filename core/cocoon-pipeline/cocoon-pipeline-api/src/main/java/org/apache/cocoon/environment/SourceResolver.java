@@ -22,7 +22,7 @@ package org.apache.cocoon.environment;
  * {@link org.apache.excalibur.source.SourceResolver} that is only
  * used for Cocoon sitemap components.
  *
- * @version $Id$
+ * @version $Id: SourceResolver.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface SourceResolver
 extends org.apache.excalibur.source.SourceResolver {

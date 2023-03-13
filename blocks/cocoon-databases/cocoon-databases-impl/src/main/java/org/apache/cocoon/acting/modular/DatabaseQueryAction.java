@@ -49,7 +49,7 @@ import org.apache.avalon.framework.service.ServiceException;
  * &lt;/table&gt;
  *</pre>
  *
- * @version $Id$
+ * @version $Id: DatabaseQueryAction.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class DatabaseQueryAction extends DatabaseAction {
 

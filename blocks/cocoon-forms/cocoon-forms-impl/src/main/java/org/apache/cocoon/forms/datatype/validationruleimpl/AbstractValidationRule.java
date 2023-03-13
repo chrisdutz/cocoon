@@ -30,7 +30,7 @@ import java.math.BigDecimal;
  * Abstract base class providing common functionality for many {@link ValidationRule}
  * implementations.
  * 
- * @version $Id$
+ * @version $Id: AbstractValidationRule.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public abstract class AbstractValidationRule implements ValidationRule {
     private XMLizable failMessage;

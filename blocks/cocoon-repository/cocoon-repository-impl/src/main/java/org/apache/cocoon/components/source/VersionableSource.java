@@ -22,7 +22,7 @@ import org.apache.excalibur.source.SourceException;
 /**
  * A source, which could exist in different versions
  *
- * @version $Id$
+ * @version $Id: VersionableSource.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface VersionableSource extends Source {
 

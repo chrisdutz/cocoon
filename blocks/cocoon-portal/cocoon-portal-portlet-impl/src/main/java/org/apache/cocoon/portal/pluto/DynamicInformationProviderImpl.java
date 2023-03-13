@@ -36,7 +36,7 @@ import org.apache.pluto.services.information.ResourceURLProvider;
 /**
  * Our own dynamic information provider.
  *
- * @version $Id$
+ * @version $Id: DynamicInformationProviderImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class DynamicInformationProviderImpl 
     implements DynamicInformationProvider {

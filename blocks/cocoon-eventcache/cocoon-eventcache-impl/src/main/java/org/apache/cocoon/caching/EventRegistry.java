@@ -35,7 +35,7 @@ import org.apache.cocoon.caching.validity.Event;
  * the public contract with the Cache.
  *  
  * @since 2.1
- * @version $Id$
+ * @version $Id: EventRegistry.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface EventRegistry {
     

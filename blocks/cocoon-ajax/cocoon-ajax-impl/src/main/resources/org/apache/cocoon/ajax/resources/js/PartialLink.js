@@ -22,7 +22,7 @@ dojo.require("cocoon.ajax.common");
 /**
  * Dojo widget for links that partially update the page.
  *
- * @version $Id$
+ * @version $Id: PartialLink.js 491930 2007-01-02 20:44:30Z jeremy $
  */
 
 dojo.widget.defineWidget(

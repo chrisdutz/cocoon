@@ -31,7 +31,7 @@ import org.apache.cocoon.util.NetUtils;
 /**
  * HTTP Servlet environment.
  *
- * @version $Id$
+ * @version $Id: HttpEnvironment.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class HttpEnvironment extends AbstractEnvironment {
 

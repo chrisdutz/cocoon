@@ -28,7 +28,7 @@ import org.apache.cocoon.webapps.session.context.SessionContext;
  *  allowed but if one thread wants to write, no other can read or write.
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: TransactionManager.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface TransactionManager {
 

@@ -27,7 +27,7 @@ import java.io.InputStream;
 /**
  * An <code>XScriptObject</code> created from the contents of a URL.
  *
- * @version $Id$
+ * @version $Id: XScriptObjectFromURL.java 587761 2007-10-24 03:08:05Z vgritsenko $
  * @since August 30, 2001
  */
 public class XScriptObjectFromURL extends XScriptObject {

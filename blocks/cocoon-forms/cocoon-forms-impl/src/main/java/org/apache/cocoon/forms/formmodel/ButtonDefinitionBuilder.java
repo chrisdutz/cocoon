@@ -25,7 +25,7 @@ import org.w3c.dom.Element;
  * The ButtonDefinitionBuilder has been replaced by {@link ActionDefinitionBuilder}. This implementation
  * is only left here to give a warning to users.
  *
- * @version $Id$
+ * @version $Id: ButtonDefinitionBuilder.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public class ButtonDefinitionBuilder extends AbstractWidgetDefinitionBuilder {
 

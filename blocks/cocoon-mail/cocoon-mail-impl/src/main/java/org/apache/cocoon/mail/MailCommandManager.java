@@ -43,7 +43,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * Manage invocation of mail commands.
  *
  * @since 23 October 2002
- * @version $Id$
+ * @version $Id: MailCommandManager.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class MailCommandManager extends AbstractLogEnabled {
 

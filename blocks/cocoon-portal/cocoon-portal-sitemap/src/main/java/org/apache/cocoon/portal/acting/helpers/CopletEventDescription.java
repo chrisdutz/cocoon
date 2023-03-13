@@ -22,7 +22,7 @@ import org.apache.cocoon.portal.event.Event;
 /**
  * Helper class for an coplet event.
  *
- * @version $Id$
+ * @version $Id: CopletEventDescription.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class CopletEventDescription extends CopletMapping {
 

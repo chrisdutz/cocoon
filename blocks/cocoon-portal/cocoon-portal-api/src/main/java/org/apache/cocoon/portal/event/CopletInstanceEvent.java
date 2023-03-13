@@ -22,7 +22,7 @@ import org.apache.cocoon.portal.om.CopletInstance;
 /**
  * This interface marks an event as an event for a coplet instance.
  *
- * @version $Id$
+ * @version $Id: CopletInstanceEvent.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface CopletInstanceEvent extends Event {
 

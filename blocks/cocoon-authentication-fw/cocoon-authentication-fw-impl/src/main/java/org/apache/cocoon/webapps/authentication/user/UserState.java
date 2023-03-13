@@ -25,7 +25,7 @@ import java.util.Map;
  * the user is currently logged-in to.
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: UserState.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public final class UserState
 implements java.io.Serializable {

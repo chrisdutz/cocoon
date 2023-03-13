@@ -23,7 +23,7 @@ import org.apache.cocoon.forms.util.DomHelper;
 import org.w3c.dom.Element;
 
 /**
- * @version $Id$
+ * @version $Id: ImportDefinitionBuilder.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public class ImportDefinitionBuilder extends AbstractWidgetDefinitionBuilder {
 

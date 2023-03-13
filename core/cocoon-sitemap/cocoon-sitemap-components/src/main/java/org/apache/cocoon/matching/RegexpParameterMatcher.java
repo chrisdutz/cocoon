@@ -35,7 +35,7 @@ import java.util.Map;
  * @cocoon.sitemap.component.documentation
  * Matches a sitemap parameter against a regular expression.
  *
- * @version $Id$
+ * @version $Id: RegexpParameterMatcher.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class RegexpParameterMatcher extends AbstractRegexpMatcher
                                     implements Configurable {

@@ -36,7 +36,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
 /**
  * A factory for 'module:' sources (see {@link ModuleSource}). 
  *
- * @version $Id$
+ * @version $Id: ModuleSourceFactory.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ModuleSourceFactory extends AbstractLogEnabled
                                  implements SourceFactory, Serviceable, Contextualizable, ThreadSafe {

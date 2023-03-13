@@ -23,7 +23,7 @@ import org.w3c.dom.Element;
 /**
  * Abstract base class for container widget builders.
  *
- * @version $Id$
+ * @version $Id: AbstractContainerDefinitionBuilder.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public abstract class AbstractContainerDefinitionBuilder extends AbstractWidgetDefinitionBuilder {
 

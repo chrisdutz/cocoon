@@ -32,7 +32,7 @@ import org.apache.commons.jxpath.JXPathContext;
  * <li>This expects the back-end model to be a Java Bean model.</li>
  * </ol>
  *
- * @version $Id$
+ * @version $Id: InsertBeanJXPathBinding.java 640682 2008-03-25 03:23:17Z vgritsenko $
  */
 public class InsertBeanJXPathBinding extends JXPathBindingBase {
 

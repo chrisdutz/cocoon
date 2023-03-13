@@ -20,7 +20,7 @@ package org.apache.cocoon.thread;
  * The ThreadFactory interface describes the responability of Factories
  * creating Thread for {@link ThreadPool}s of the {@link RunnableManager}
  *
- * @version $Id$
+ * @version $Id: ThreadFactory.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface ThreadFactory
     extends EDU.oswego.cs.dl.util.concurrent.ThreadFactory {

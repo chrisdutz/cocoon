@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!-- CVS: $Id$ -->
+<!-- CVS: $Id: protected.xml 491426 2006-12-31 14:42:29Z cziegeler $ -->
 <page>
   <resources>
     <resource type="file" href="descriptors/auth.xml?cocoon-view=pretty-content">Authenticator</resource>

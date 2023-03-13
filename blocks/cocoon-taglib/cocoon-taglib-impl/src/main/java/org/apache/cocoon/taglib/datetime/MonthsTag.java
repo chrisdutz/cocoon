@@ -33,7 +33,7 @@ import org.xml.sax.SAXException;
  * The script variable of name <b>var</b> is availble only within the
  * body of the <b>months</b> tag.
  *
- * @version $Id$
+ * @version $Id: MonthsTag.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class MonthsTag extends VarTagSupport implements IterationTag {
     private String[] short_months = null;

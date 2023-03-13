@@ -29,7 +29,7 @@ import org.apache.cocoon.sitemap.SitemapExecutor;
 import java.util.Map;
 
 /**
- * @version $Id$
+ * @version $Id: TransformNode.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class TransformNode extends PipelineEventComponentProcessingNode
                            implements ParameterizableProcessingNode {

@@ -22,7 +22,7 @@ import javax.mail.MessagingException;
  * This interface the basic contract of a MailCommand
  *
  * @since 23 October 2002
- * @version $Id$
+ * @version $Id: MailCommand.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface MailCommand {
 

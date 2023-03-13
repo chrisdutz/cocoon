@@ -68,7 +68,7 @@ import org.mozilla.javascript.Wrapper;
  * A ScriptableConnection is also a wrapper around a real JDBC Connection and thus 
  * provides all of methods of Connection as well
  *
- * @version $Id$
+ * @version $Id: ScriptableConnection.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ScriptableConnection extends ScriptableObject {
 

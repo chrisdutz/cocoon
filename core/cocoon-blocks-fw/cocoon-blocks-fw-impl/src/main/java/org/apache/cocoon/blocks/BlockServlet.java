@@ -42,7 +42,7 @@ import org.springframework.web.context.support.GenericWebApplicationContext;
 import org.springframework.web.context.support.WebApplicationContextUtils;
 
 /**
- * @version $Id$
+ * @version $Id: BlockServlet.java 587749 2007-10-24 02:33:18Z vgritsenko $
  */
 public class BlockServlet extends HttpServlet
     implements ApplicationContextAware, ServletContextAware, BeanNameAware, InitializingBean, DisposableBean {

@@ -18,7 +18,7 @@ package org.apache.cocoon.samples.castor;
 
 /**
  *
- * @version $Id$
+ * @version $Id: TestBean.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class TestBean {
     private String name;

@@ -72,7 +72,7 @@ import org.xml.sax.SAXException;
  * 9) (TBD) Use Axis for SOAP-RPC and SOAP-DOC bindings.
  *
  *
- * @version $Id$
+ * @version $Id: WebServiceProxyGenerator.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class WebServiceProxyGenerator extends ServiceableGenerator {
 

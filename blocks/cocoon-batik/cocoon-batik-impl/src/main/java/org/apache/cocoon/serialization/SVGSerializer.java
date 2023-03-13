@@ -54,7 +54,7 @@ import org.xml.sax.SAXException;
  * generating PNG/JPEG images
  * @cocoon.sitemap.component.documentation.caching Yes
  *
- * @version $Id$
+ * @version $Id: SVGSerializer.java 607381 2007-12-29 05:42:58Z vgritsenko $
  */
 public class SVGSerializer extends SVGBuilder
                            implements Contextualizable, Configurable, CacheableProcessingComponent,

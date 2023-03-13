@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: news.xsl 596918 2007-11-21 03:26:02Z vgritsenko $
   -->
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 

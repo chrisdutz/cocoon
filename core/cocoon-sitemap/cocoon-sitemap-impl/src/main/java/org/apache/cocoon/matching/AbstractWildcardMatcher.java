@@ -29,7 +29,7 @@ import org.apache.cocoon.util.WildcardMatcherHelper;
 /**
  * Base class for wildcard matchers
  *
- * @version $Id$
+ * @version $Id: AbstractWildcardMatcher.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractWildcardMatcher extends AbstractLogEnabled
                                               implements Matcher, ThreadSafe {

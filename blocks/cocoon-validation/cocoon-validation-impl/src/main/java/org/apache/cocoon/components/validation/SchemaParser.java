@@ -30,7 +30,7 @@ import org.xml.sax.SAXException;
  * language at the same time. The list of all supported grammar languages must be
  * returned by the {@link #getSupportedGrammars()} method.</p>
  *
- * @version $Id$
+ * @version $Id: SchemaParser.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface SchemaParser {
 

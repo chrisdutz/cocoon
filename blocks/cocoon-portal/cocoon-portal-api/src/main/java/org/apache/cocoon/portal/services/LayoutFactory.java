@@ -26,7 +26,7 @@ import org.apache.cocoon.portal.om.LayoutType;
 /**
  * This factory is for creating and managing layout objects.
  *
- * @version $Id$
+ * @version $Id: LayoutFactory.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface LayoutFactory  {
 

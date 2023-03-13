@@ -32,7 +32,7 @@ import org.apache.cocoon.environment.internal.EnvironmentHelper;
  * getting objects from the object model and other application information.
  *
  * @see org.apache.cocoon.components.ContextHelper
- * @version $Id$
+ * @version $Id: ComponentContext.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ComponentContext 
     extends DefaultContext {

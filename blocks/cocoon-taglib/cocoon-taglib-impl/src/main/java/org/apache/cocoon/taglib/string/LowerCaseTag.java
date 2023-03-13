@@ -20,7 +20,7 @@ import org.apache.cocoon.taglib.TagSupport;
 import org.apache.cocoon.taglib.i18n.LocaleTag;
 
 /**
- * @version $Id$
+ * @version $Id: LowerCaseTag.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class LowerCaseTag extends StringTagSupport {
 

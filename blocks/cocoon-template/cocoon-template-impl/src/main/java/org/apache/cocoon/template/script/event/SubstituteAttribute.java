@@ -19,7 +19,7 @@ package org.apache.cocoon.template.script.event;
 import org.apache.cocoon.template.expression.Substitutions;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: SubstituteAttribute.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class SubstituteAttribute extends AttributeEvent {
     public SubstituteAttribute(String namespaceURI, String localName,

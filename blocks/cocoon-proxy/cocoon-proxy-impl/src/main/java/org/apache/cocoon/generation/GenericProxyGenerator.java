@@ -49,7 +49,7 @@ import org.xml.sax.SAXException;
  * <br>TODO: doesn't handle authentication properly
  * <br>TODO: doesn't handle (and doubt it'll ever will) HTTP/1.1 keep-alive
  *
- * @version $Id$
+ * @version $Id: GenericProxyGenerator.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class GenericProxyGenerator extends ServiceableGenerator {
 

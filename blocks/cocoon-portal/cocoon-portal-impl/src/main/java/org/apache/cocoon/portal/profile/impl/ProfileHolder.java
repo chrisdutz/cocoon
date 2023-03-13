@@ -36,7 +36,7 @@ import org.apache.cocoon.portal.om.LayoutType;
  * This class is an utility class holding all profile information of the
  * current user.
  *
- * @version $Id$
+ * @version $Id: ProfileHolder.java 600024 2007-12-01 00:34:52Z cziegeler $
  * @since 2.2
  */
 public class ProfileHolder {

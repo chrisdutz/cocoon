@@ -71,7 +71,7 @@ import org.apache.pluto.util.impl.NamespaceMapperFactoryImpl;
  * <CODE>init()</CODE> and <CODE>destroy()</CODE> methods as appropriate.
  *
  * @see Factory
- * @version $Id$
+ * @version $Id: FactoryManagerServiceImpl.java 633260 2008-03-03 20:21:05Z cziegeler $
  */
 public class FactoryManagerServiceImpl
     extends AbstractComponent

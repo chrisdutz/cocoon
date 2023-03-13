@@ -31,7 +31,7 @@ import org.exolab.castor.mapping.AbstractFieldHandler;
 /**
  * Field handler for references.
  *
- * @version $Id$
+ * @version $Id: ReferenceFieldHandler.java 682758 2008-08-05 15:31:50Z cziegeler $
  */
 public class ReferenceFieldHandler extends AbstractFieldHandler {
 

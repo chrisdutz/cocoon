@@ -27,7 +27,7 @@ import org.xml.sax.helpers.DefaultHandler;
  * A filter for selection lists, that keeps only those items that start with a given filter value.
  *
  * @since 2.1.8
- * @version $Id$
+ * @version $Id: SelectionListFilter.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class SelectionListFilter extends AbstractXMLPipe {
     

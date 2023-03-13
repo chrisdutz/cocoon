@@ -23,7 +23,7 @@ package org.apache.cocoon.components.store.impl;
  * <p>
  * This default setting allows the store to be an in-memory front-end to the persistent store.
  * 
- * @version $Id$
+ * @version $Id: DefaultStore.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class DefaultStore extends MRUMemoryStore {
     

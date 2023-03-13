@@ -19,7 +19,7 @@ package org.apache.cocoon.util;
 import java.io.OutputStream;
 
 /**
- * @version $Id$
+ * @version $Id: NullOutputStream.java 587751 2007-10-24 02:41:36Z vgritsenko $
  *
  * @since 2.1.4
  */

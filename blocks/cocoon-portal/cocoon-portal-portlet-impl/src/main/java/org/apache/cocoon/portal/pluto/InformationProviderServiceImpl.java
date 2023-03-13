@@ -28,7 +28,7 @@ import org.apache.pluto.services.information.StaticInformationProvider;
 /**
  * Our own information provider service.
  *
- * @version $Id$
+ * @version $Id: InformationProviderServiceImpl.java 633260 2008-03-03 20:21:05Z cziegeler $
  */
 public class InformationProviderServiceImpl
     extends AbstractComponent

@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: cocoon-core-additional-sample.xml 598515 2007-11-27 04:28:19Z vgritsenko $
   -->
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"

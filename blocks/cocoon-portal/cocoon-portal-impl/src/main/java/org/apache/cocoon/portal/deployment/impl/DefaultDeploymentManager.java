@@ -43,7 +43,7 @@ import org.apache.cocoon.thread.RunnableManager;
  * TODO - Handling of sources other than files is not implemented yet.
  *
  * @see DeploymentManager
- * @version $Id$
+ * @version $Id: DefaultDeploymentManager.java 614439 2008-01-23 06:53:02Z cziegeler $
  */
 public class DefaultDeploymentManager
     extends AbstractBean

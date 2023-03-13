@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 <!--
-  @version $Id$
+  @version $Id: timedbrowserupdater.xml 448479 2006-09-21 07:33:36Z crossley $
 -->
 
 <!-- An implementation of the TimedBrowserUpdate template engine as a JXTemplate tag library -->

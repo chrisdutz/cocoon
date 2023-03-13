@@ -22,7 +22,7 @@ import java.util.Iterator;
  * Resource Reference Set as defined by the web.xml as
  * &lt;resourse-ref&gt;.
  *
- * @version $Id$
+ * @version $Id: ResourceRefSet.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class ResourceRefSet
     extends AbstractSupportSet

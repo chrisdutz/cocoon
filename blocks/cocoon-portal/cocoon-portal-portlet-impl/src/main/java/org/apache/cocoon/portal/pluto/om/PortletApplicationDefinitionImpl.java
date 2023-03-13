@@ -30,7 +30,7 @@ import org.apache.cocoon.portal.pluto.om.common.Support;
 
 /**
  *
- * @version $Id$
+ * @version $Id: PortletApplicationDefinitionImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortletApplicationDefinitionImpl 
 extends AbstractSupportSet

@@ -31,7 +31,7 @@ import org.apache.pluto.services.information.PortalContextProvider;
 /**
  * Information about the portal.
  *
- * @version $Id$
+ * @version $Id: PortalContextProviderImpl.java 598794 2007-11-27 22:40:20Z cziegeler $
  */
 public class PortalContextProviderImpl
 implements PortalContextProvider {

@@ -26,7 +26,7 @@ import org.quartz.impl.jdbcjobstore.NoSuchDelegateException;
 /**
  * Overrides JobStoreCMT's getDelegate method.
  *
- * @version $Id$
+ * @version $Id: QuartzJobStoreCMT.java 587758 2007-10-24 02:55:27Z vgritsenko $
  * @since 2.1.6
  */
 public class QuartzJobStoreCMT extends JobStoreCMT {

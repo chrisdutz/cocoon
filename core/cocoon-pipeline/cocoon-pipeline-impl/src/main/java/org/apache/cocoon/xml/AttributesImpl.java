@@ -21,7 +21,7 @@ import org.xml.sax.Attributes;
 /**
  * A helper Class creating SAX Attributes
  * 
- * @version $Id$
+ * @version $Id: AttributesImpl.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class AttributesImpl extends org.xml.sax.helpers.AttributesImpl {
 

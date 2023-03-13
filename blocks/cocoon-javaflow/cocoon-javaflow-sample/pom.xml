@@ -18,23 +18,20 @@
   under the License.
 -->
 <!--
-  - @version $Id$
+  - @version $Id: pom.xml 1907376 2023-02-04 18:37:22Z javier $
   -->
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <artifactId>cocoon-blocks-modules</artifactId>
     <groupId>org.apache.cocoon</groupId>
-    <version>7</version>
-    <relativePath>../../pom.xml</relativePath>
+    <artifactId>cocoon-javaflow</artifactId>
+    <version>2.2.1-SNAPSHOT</version>
   </parent>
 
-  <groupId>org.apache.cocoon</groupId>
   <artifactId>cocoon-javaflow-sample</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>2.2.1-SNAPSHOT</version>
   <name>Javaflow Block Samples</name>
-  <packaging>jar</packaging>
 
   <dependencies>
     <dependency>
@@ -63,4 +60,5 @@
       <scope>provided</scope>
     </dependency>
   </dependencies>
+
 </project>

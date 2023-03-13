@@ -22,7 +22,7 @@ import org.apache.wsrp4j.log.Logger;
 /**
  * A wrapper for the cocoon logger<br/>
  *
- * @version $Id$
+ * @version $Id: WSRPLogger.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class WSRPLogger implements Logger {
 

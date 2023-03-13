@@ -21,7 +21,7 @@ import org.apache.cocoon.forms.FormsException;
 /**
  * The {@link WidgetDefinition} corresponding to a {@link Union} widget.
  *
- * @version $Id$
+ * @version $Id: UnionDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class UnionDefinition extends AbstractContainerDefinition {
 

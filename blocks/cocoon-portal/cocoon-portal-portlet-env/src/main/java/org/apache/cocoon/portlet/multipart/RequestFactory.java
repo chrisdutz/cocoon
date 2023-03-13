@@ -28,7 +28,7 @@ import java.util.Hashtable;
 /**
  * This is the interface of Request Wrapper in Cocoon for JSR-168 Portlet environment.
  *
- * @version $Id$
+ * @version $Id: RequestFactory.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class RequestFactory {
 

@@ -30,7 +30,7 @@
     |       to trigger an exception and show how the sitemap
     |       error handling works!
     |
-    | $Id$
+    | $Id: error-giving-page.xml 491426 2006-12-31 14:42:29Z cziegeler $
     +-->
 
 <page>

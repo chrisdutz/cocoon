@@ -102,7 +102,7 @@ import org.xml.sax.SAXException;
  * @cocoon.sitemap.component.documentation
  * A simple parser converting a Comma Separated Values (CSV) file into XML.
  *
- * @version $Id$
+ * @version $Id: CSVGeneratorBean.java 607379 2007-12-29 05:36:49Z vgritsenko $
  */
 public class CSVGeneratorBean extends FileGeneratorBean {
 

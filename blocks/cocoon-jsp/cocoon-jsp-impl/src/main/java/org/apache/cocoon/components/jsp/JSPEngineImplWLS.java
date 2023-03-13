@@ -40,7 +40,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * jsp-response. This a WLS-specific implementation.
  * This code contain WLS 5.1 specific classes, and uses WLS internal classes.
  *
- * @version $Id$
+ * @version $Id: JSPEngineImplWLS.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class JSPEngineImplWLS extends AbstractLogEnabled
                               implements JSPEngine, Parameterizable, ThreadSafe {

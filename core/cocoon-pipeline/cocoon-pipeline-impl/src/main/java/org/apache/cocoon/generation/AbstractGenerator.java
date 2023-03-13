@@ -30,7 +30,7 @@ import java.util.Map;
  * If you need other components, use the {@link ServiceableGenerator}
  * instead.
  * 
- * @version $Id$
+ * @version $Id: AbstractGenerator.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractGenerator extends AbstractXMLProducer
                                         implements Generator {

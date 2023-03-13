@@ -19,7 +19,7 @@
 <!--
   - French (CH) message catalogue file for Cocoon 2 i18n sample
   -
-  - $Id$
+  - $Id: messages_fr_CH.xml 605414 2007-12-19 04:12:49Z vgritsenko $
   -->
 <catalogue xml:lang="fr_CH">
   <message key="a_key">Ceci est la valeur d'une clé.</message>

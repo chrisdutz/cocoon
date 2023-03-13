@@ -24,7 +24,7 @@ import java.io.InputStream;
  * An <code>XScriptObject</code> created from a JAXP
  * <code>Result</code> object.
  *
- * @version $Id$
+ * @version $Id: XScriptObjectResult.java 587761 2007-10-24 03:08:05Z vgritsenko $
  * @since   August 30, 2001
  */
 public class XScriptObjectResult extends XScriptObject {

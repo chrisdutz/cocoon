@@ -21,7 +21,7 @@ import org.apache.cocoon.thread.ThreadFactory;
 /**
  * This class is responsible to create new Thread instances to run a command.
  *
- * @version $Id$
+ * @version $Id: DefaultThreadFactory.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class DefaultThreadFactory
     implements ThreadFactory, EDU.oswego.cs.dl.util.concurrent.ThreadFactory {

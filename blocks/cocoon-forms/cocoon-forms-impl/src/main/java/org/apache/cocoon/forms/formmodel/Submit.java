@@ -22,7 +22,7 @@ import org.apache.cocoon.xml.AttributesImpl;
  * A submit is an action that exits of the current form.
  * 
  * @see SubmitDefinitionBuilder
- * @version $Id$
+ * @version $Id: Submit.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class Submit extends Action {
 

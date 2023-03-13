@@ -43,7 +43,7 @@ import org.xml.sax.SAXException;
  * using the servlet authentication mechanisms.
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: ServletAuthenticator.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public class ServletAuthenticator
     extends AbstractLogEnabled

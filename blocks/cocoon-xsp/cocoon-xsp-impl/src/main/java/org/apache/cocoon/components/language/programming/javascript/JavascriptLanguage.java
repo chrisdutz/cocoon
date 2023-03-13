@@ -37,7 +37,7 @@ import org.apache.cocoon.util.IOUtils;
  * </pre>
  * The class specified will be used as a Java wrapper interpreting javascript program.
  *
- * @version $Id$
+ * @version $Id: JavascriptLanguage.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class JavascriptLanguage extends AbstractProgrammingLanguage {
 

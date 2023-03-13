@@ -33,7 +33,7 @@ import org.xml.sax.SAXException;
 
 /**
  *
- * @version $Id$
+ * @version $Id: PortalServlet.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortalServlet implements HttpRequestHandler {
 

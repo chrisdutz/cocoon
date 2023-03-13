@@ -43,7 +43,7 @@ import org.apache.commons.collections.iterators.AbstractIteratorDecorator;
  * <code>null</code>. This is to allow global retrieving or filling of the map values.
  * 
  * @since 2.1.8
- * @version $Id$
+ * @version $Id: ContainerWidgetAsMap.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class ContainerWidgetAsMap extends AbstractMap {
     protected AbstractContainerWidget container;

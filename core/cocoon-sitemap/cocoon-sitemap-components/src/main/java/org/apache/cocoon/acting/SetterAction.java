@@ -38,7 +38,7 @@ import org.apache.cocoon.environment.SourceResolver;
  * This action can be used to set information in either the object model,
  * the request or the session.
  *
- * @version $Id$
+ * @version $Id: SetterAction.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class SetterAction
     extends AbstractAction

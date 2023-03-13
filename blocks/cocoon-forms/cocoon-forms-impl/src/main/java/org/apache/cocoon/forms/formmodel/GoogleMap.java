@@ -30,7 +30,7 @@ import org.xml.sax.ContentHandler;
 import org.xml.sax.SAXException;
 
 /**
- * @version $Id$
+ * @version $Id: GoogleMap.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class GoogleMap extends AbstractWidget   {
 

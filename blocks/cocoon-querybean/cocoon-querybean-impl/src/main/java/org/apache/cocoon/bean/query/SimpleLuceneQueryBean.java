@@ -44,7 +44,7 @@ import org.apache.cocoon.ProcessingException;
  *   This Bean is designed to be persistable.
  * </p>
  *
- * @version $Id$
+ * @version $Id: SimpleLuceneQueryBean.java 603171 2007-12-11 08:11:42Z giacomo $
  */
 public class SimpleLuceneQueryBean implements SimpleLuceneQuery, Cloneable, Serializable {
 

@@ -20,7 +20,7 @@ package org.apache.cocoon.forms.formmodel;
  * A container {@link Widget} which can hold zero or more child widgets.
  *
  * @deprecated replaced by {@link Group}
- * @version $Id$
+ * @version $Id: Struct.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class Struct extends Group {
 

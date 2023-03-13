@@ -31,7 +31,7 @@ import org.xml.sax.SAXException;
  * The section method {@link #render(ContentHandler, Properties)}
  * starts rendering the portal.
  *
- * @version $Id$
+ * @version $Id: PortalManager.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface PortalManager {
 

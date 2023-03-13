@@ -26,7 +26,7 @@ import java.util.Map;
  * This is also a regular matcher, meaning the sitemap can decide either to prepare the pattern
  * or to match with a request-time evaluated pattern (for {..} substitution).
  *
- * @version $Id$
+ * @version $Id: PreparableMatcher.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface PreparableMatcher extends Matcher {
 

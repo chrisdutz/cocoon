@@ -29,7 +29,7 @@ import org.xml.sax.SAXException;
  * An Avalon <code>Configuration</code> factory that allows {variables} to be
  * replaced with values from a lookup table.
  *
- * @version $Id$
+ * @version $Id: VariableConfiguration.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class VariableConfiguration {
     public static final String UNSET_VAR="unset";

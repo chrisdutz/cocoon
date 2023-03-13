@@ -35,7 +35,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
 /**
  * This module allows access to properties defined in the settings.
  *
- * @version $Id$
+ * @version $Id: SettingsInputModule.java 591307 2007-11-02 11:38:05Z thorsten $
  */
 public final class SettingsInputModule extends AbstractLogEnabled
                                        implements InputModule, ThreadSafe, Serviceable,

@@ -37,7 +37,7 @@ import org.xml.sax.SAXException;
  * amount of time (in seconds).
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: PauseGeneratorBean.java 607380 2007-12-29 05:39:06Z vgritsenko $
  */
 public class PauseGeneratorBean extends FileGeneratorBean {
 

@@ -24,7 +24,7 @@ import org.apache.cocoon.portal.om.Layout;
 /**
  * Helper class for a layout event.
  *
- * @version $Id$
+ * @version $Id: LayoutMapping.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class LayoutMapping extends Mapping {
 

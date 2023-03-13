@@ -34,7 +34,7 @@ import org.apache.avalon.framework.thread.ThreadSafe;
  * string. Format given through attribute "format" of configuration
  * root node or nested &lt;format/&gt; tag on module declaration.
  *
- * @version $Id$
+ * @version $Id: DateInputModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @see java.text.SimpleDateFormat
  */
 public class DateInputModule extends AbstractInputModule implements ThreadSafe {

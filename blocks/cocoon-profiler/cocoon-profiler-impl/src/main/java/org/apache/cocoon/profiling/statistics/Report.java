@@ -21,7 +21,7 @@ package org.apache.cocoon.profiling.statistics;
  * It collects the information from all {@link Statistics} objects
  * for the specific category.
  *
- * @version $Id$
+ * @version $Id: Report.java 587761 2007-10-24 03:08:05Z vgritsenko $
  * @since 2.1.10
  */
 public interface Report {

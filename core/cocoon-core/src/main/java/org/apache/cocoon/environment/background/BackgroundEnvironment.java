@@ -30,7 +30,7 @@ import org.apache.cocoon.util.NullOutputStream;
  * A simple implementation of <code>org.apache.cocoon.environment.Environment</code>
  * for pipeline calls which are not externally triggered.
  *
- * @version $Id$
+ * @version $Id: BackgroundEnvironment.java 587750 2007-10-24 02:35:22Z vgritsenko $
  *
  * @since 2.1.4
  */

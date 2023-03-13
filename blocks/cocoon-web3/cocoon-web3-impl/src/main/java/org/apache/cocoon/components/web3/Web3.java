@@ -20,7 +20,7 @@ package org.apache.cocoon.components.web3;
  * Constants in Web3.
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: Web3.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface Web3 {
 

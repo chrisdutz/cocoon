@@ -26,7 +26,7 @@ import org.apache.cocoon.portal.om.LayoutFeatures;
 /**
  * This event can be used to remove a layout object from the profile.
  *
- * @version $Id$
+ * @version $Id: RemoveLayoutEvent.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class RemoveLayoutEvent
     extends LayoutEvent

@@ -42,7 +42,7 @@ import java.io.IOException;
  * endElement event, the POIFSSerializer calls the ElementProcessor's
  * endProcessing method.
  *
- * @version $Id$
+ * @version $Id: ElementProcessor.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface ElementProcessor {
 

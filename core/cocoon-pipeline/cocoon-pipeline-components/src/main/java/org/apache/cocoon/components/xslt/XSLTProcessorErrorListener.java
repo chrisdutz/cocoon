@@ -27,7 +27,7 @@ import org.apache.commons.logging.Log;
  * A smart error listener for <code>javax.xml.tranform</code> that does its best to provide
  * useful error messages.
  *
- * @version $Id$
+ * @version $Id: XSLTProcessorErrorListener.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class XSLTProcessorErrorListener implements ErrorListener{
 

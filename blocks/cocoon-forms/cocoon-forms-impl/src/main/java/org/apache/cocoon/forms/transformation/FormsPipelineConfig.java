@@ -42,7 +42,7 @@ import org.xml.sax.SAXException;
 import org.xml.sax.helpers.AttributesImpl;
 
 /**
- * @version $Id$
+ * @version $Id: FormsPipelineConfig.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class FormsPipelineConfig {
 

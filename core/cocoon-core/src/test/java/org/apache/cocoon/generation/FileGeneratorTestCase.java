@@ -54,7 +54,7 @@ import org.xml.sax.helpers.XMLReaderFactory;
 
 /**
  *
- * @version $Id$
+ * @version $Id: FileGeneratorTestCase.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class FileGeneratorTestCase extends MockObjectTestCase {
     private Map objectModel = new HashMap();

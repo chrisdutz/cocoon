@@ -22,7 +22,7 @@ import java.net.URL;
 /**
  * A collection of class management utility methods.
  *
- * @version $Id$
+ * @version $Id: ClassUtils.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ClassUtils {
 

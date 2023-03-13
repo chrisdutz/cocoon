@@ -26,7 +26,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * This is the interface of Request Wrapper in Cocoon.
  *
- * @version $Id$
+ * @version $Id: RequestFactory.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class RequestFactory {
 

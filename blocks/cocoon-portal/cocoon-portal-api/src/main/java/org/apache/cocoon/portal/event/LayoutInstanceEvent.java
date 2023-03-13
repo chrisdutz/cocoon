@@ -22,7 +22,7 @@ import org.apache.cocoon.portal.om.LayoutInstance;
  * This interface marks an event as targetted at a
  * {@link org.apache.cocoon.portal.om.LayoutInstance} object.
  *
- * @version $Id$
+ * @version $Id: LayoutInstanceEvent.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface LayoutInstanceEvent extends Event {
 

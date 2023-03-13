@@ -17,7 +17,7 @@
 -->
 <!--+
     |
-    | $Id$
+    | $Id: cocoon-serializers-sitemap.xconf 822603 2009-10-07 07:10:45Z cziegeler $
     +-->
 <map:components xmlns:map="http://apache.org/cocoon/sitemap/1.0">
   <map:serializers>

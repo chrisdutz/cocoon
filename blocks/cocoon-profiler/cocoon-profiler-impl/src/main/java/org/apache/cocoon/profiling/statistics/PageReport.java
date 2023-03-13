@@ -22,7 +22,7 @@ import java.util.List;
 /**
  * Reports for a specific page.
  *
- * @version $Id$
+ * @version $Id: PageReport.java 587761 2007-10-24 03:08:05Z vgritsenko $
  * @since 2.1.10
  */
 public interface PageReport {

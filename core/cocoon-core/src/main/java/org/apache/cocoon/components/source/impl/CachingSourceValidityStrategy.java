@@ -20,7 +20,7 @@ import org.apache.excalibur.source.Source;
 import org.apache.excalibur.source.SourceValidity;
 
 /**
- * @version $Id$
+ * @version $Id: CachingSourceValidityStrategy.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public interface CachingSourceValidityStrategy {
 

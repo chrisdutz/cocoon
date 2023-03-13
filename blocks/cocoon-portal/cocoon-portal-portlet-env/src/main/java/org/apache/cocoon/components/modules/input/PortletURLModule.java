@@ -49,7 +49,7 @@ import java.util.Map;
  * Outside of portlet environment, prefixes (<code>portlet:action:</code>,
  * <code>portlet:render:</code>, <code>portlet:resource:</code>) are omitted.
  *
- * @version $Id$
+ * @version $Id: PortletURLModule.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortletURLModule extends AbstractInputModule implements ThreadSafe {
 

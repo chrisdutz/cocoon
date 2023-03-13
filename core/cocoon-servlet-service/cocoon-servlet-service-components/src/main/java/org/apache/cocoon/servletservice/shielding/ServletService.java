@@ -53,7 +53,7 @@ import org.springframework.web.context.support.WebApplicationContextUtils;
  * TODO: Make the shielding work together with the ServletBeanFactory.
  * </p>
  *
- * @version $Id$
+ * @version $Id: ServletService.java 608379 2008-01-03 08:42:43Z reinhard $
  * @since 1.0.0
  */
 public class ServletService extends HttpServlet

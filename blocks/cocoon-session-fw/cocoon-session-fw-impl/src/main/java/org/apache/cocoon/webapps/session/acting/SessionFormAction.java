@@ -92,7 +92,7 @@ import org.apache.cocoon.webapps.session.SessionConstants;
  * @see org.apache.cocoon.acting.AbstractValidatorAction
  * 
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: SessionFormAction.java 587761 2007-10-24 03:08:05Z vgritsenko $
 */
 public class SessionFormAction extends FormValidatorAction {
 

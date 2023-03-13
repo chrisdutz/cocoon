@@ -21,7 +21,7 @@ package org.apache.cocoon.portal.om;
  * events. The URI may contain any URI that can be resolved by the Cocoon
  * {@link org.apache.cocoon.environment.SourceResolver}.
  *
- * @version $Id$
+ * @version $Id: FrameLayout.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public class FrameLayout extends Layout {
 

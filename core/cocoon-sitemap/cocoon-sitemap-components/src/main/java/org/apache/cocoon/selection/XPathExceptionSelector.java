@@ -62,7 +62,7 @@ import org.apache.commons.jxpath.JXPathContext;
  * given in the thrown exception.
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: XPathExceptionSelector.java 720182 2008-11-24 12:46:38Z felixk $
  */
 public class XPathExceptionSelector extends ExceptionSelector {
 

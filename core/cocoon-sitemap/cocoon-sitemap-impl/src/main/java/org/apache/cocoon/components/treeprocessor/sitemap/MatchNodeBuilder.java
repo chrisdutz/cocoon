@@ -29,7 +29,7 @@ import org.apache.cocoon.matching.PreparableMatcher;
 
 /**
  *
- * @version $Id$
+ * @version $Id: MatchNodeBuilder.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class MatchNodeBuilder extends AbstractParentProcessingNodeBuilder
   implements ThreadSafe {

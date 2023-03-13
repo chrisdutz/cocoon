@@ -25,7 +25,7 @@ import java.util.Set;
 /**
  * Context attributes map
  *
- * @version $Id$
+ * @version $Id: ContextMap.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ContextMap extends BaseMap {
 

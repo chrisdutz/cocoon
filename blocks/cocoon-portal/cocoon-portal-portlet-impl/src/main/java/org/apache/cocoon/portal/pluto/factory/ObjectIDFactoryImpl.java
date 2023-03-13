@@ -22,7 +22,7 @@ import org.apache.pluto.om.common.ObjectID;
 /**
  *
  *
- * @version $Id$
+ * @version $Id: ObjectIDFactoryImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class ObjectIDFactoryImpl
     extends AbstractFactory

@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- SVN $Id$ -->
+<!-- SVN $Id: path.xsp 449173 2006-09-23 05:52:37Z crossley $ -->
 <xsp:page language="java" xmlns:xsp="http://apache.org/xsp">
 <xsp:structure>
 <xsp:include>org.apache.cocoon.portal.acting.helpers.*</xsp:include>

@@ -31,7 +31,7 @@ import org.xml.sax.SAXException;
  * typesafe enum</a> pattern.
  *
  * @see org.apache.cocoon.forms.datatype.typeimpl.EnumType
- * @version $Id$
+ * @version $Id: EnumConvertor.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class EnumConvertor implements Convertor {
 

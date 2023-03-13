@@ -68,7 +68,7 @@ import org.springframework.web.context.WebApplicationContext;
  * Implementation of FOM (Flow Object Model).
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: FOM_Cocoon.java 669294 2008-06-18 21:21:57Z anathaniel $
  */
 public class FOM_Cocoon extends ScriptableObject {
 

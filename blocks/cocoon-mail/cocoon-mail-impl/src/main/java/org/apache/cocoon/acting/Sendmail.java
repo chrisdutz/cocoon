@@ -121,7 +121,7 @@ import javax.mail.internet.AddressException;
  * The <code>Sendmail</code> action class sends email.
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: Sendmail.java 607381 2007-12-29 05:42:58Z vgritsenko $
  */
 public class Sendmail extends ServiceableAction
                       implements ThreadSafe, Configurable {

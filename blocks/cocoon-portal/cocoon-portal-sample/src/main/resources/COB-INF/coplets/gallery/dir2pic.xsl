@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- SVN $Id$ -->
+<!-- SVN $Id: dir2pic.xsl 449173 2006-09-23 05:52:37Z crossley $ -->
 <xsl:stylesheet version="1.0" 
      xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
      xmlns:dir="http://apache.org/cocoon/directory/2.0">

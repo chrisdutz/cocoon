@@ -40,7 +40,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * A <code>Selector</code> that matches a string against a configurable session
  * attribute's string representation.
  *
- * @version $Id$
+ * @version $Id: SessionAttributeSelector.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class SessionAttributeSelector extends AbstractLogEnabled
                                       implements Configurable, ThreadSafe, Selector {

@@ -26,7 +26,7 @@ import org.apache.cocoon.portal.util.AbstractBean;
 /**
  * Base class for renderer aspects.
  *
- * @version $Id$
+ * @version $Id: AbstractAspect.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public abstract class AbstractAspect
     extends AbstractBean

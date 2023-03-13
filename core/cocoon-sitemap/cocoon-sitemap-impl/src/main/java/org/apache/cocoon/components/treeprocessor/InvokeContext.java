@@ -47,7 +47,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  *   <li>Hold pipelines, and provide "just in time" lookup for them.</li>
  * </ul>
  *
- * @version $Id$
+ * @version $Id: InvokeContext.java 606651 2007-12-24 01:21:51Z vgritsenko $
  */
 public class InvokeContext extends AbstractLogEnabled
                            implements Serviceable, Disposable {

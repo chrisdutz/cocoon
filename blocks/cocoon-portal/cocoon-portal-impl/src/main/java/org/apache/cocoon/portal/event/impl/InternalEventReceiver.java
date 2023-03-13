@@ -49,7 +49,7 @@ import org.apache.commons.jxpath.JXPathContext;
  *
  * The receiver is automatically added by the {@link DefaultEventManager}.
  *
- * @version $Id$
+ * @version $Id: InternalEventReceiver.java 682758 2008-08-05 15:31:50Z cziegeler $
  */
 public final class InternalEventReceiver 
     implements Receiver {

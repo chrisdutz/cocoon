@@ -29,7 +29,7 @@ import org.w3c.dom.Document;
  * An authenticator must be implemented in a thread safe manner!
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: Authenticator.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public interface Authenticator {
 

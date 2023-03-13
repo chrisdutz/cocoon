@@ -25,7 +25,7 @@ import org.apache.cocoon.portal.PortalException;
  * Reusable implementation of an aspect chain.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: AspectChain.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface AspectChain {
 

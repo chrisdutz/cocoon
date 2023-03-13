@@ -32,7 +32,7 @@ import org.apache.cocoon.auth.User;
  * This object represents the current user. Each user must have a unique
  * identifier (per {@link org.apache.cocoon.auth.SecurityHandler}).
  *
- * @version $Id$
+ * @version $Id: StandardUser.java 587757 2007-10-24 02:52:49Z vgritsenko $
 */
 public class StandardUser
 implements User, Serializable {

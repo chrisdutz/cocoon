@@ -23,7 +23,7 @@ package org.apache.cocoon.webapps.session.transformation;
  * So those three do all the work
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: SessionTransformer.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class SessionTransformer
 extends SessionPostTransformer {

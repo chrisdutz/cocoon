@@ -40,7 +40,7 @@ import org.apache.cocoon.spring.configurator.WebAppContextUtils;
  * ApplesProcessor is the core Cocoon component that provides the 'Apples' flow
  * implementation.
  *
- * @version $Id$
+ * @version $Id: ApplesProcessor.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public class ApplesProcessor extends AbstractInterpreter
                              implements ContinuationsDisposer {

@@ -31,7 +31,7 @@ import org.apache.cocoon.configuration.Settings;
 /**
  * Builds a &lt;map:pipeline&gt;
  *
- * @version $Id$
+ * @version $Id: PipelineNodeBuilder.java 607152 2007-12-28 01:32:07Z vgritsenko $
  */
 public class PipelineNodeBuilder extends AbstractParentProcessingNodeBuilder {
 

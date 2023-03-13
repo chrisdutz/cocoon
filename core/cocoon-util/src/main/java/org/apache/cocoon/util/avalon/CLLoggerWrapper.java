@@ -22,7 +22,7 @@ import org.apache.commons.logging.Log;
 /**
  * Commons Logging to Avalon Logger adapter.
  *
- * @version $Id$
+ * @version $Id: CLLoggerWrapper.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class CLLoggerWrapper implements Logger {
 

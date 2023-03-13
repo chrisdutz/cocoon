@@ -29,7 +29,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
 /**
  * Abstract base class for Cocoon Forms actions.
  * 
- * @version $Id$
+ * @version $Id: AbstractFormsAction.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public abstract class AbstractFormsAction extends AbstractLogEnabled
                                           implements Action, ThreadSafe, Serviceable,

@@ -19,7 +19,7 @@
 <!--
   - Example showing aggrgation of 3 sources using Include transformer.
   -
-  - $Id$
+  - $Id: aggregate.xml 596918 2007-11-21 03:26:02Z vgritsenko $
   -->
 <page xmlns:i="http://apache.org/cocoon/include/1.0">
   <group name="Include Transformer Aggregation">

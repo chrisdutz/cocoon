@@ -28,7 +28,7 @@ import javax.servlet.ServletException;
  * A component for providing CC/PP and UAProf support using the DELI
  * library.
  *
- * @version $Id$
+ * @version $Id: Deli.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public interface Deli {
 

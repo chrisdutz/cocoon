@@ -43,7 +43,7 @@ import org.apache.pluto.om.portlet.PortletDefinition;
 /**
  * This is an invoker for a "local" portlet, which is a portlet running inside Cocoon.
  *
- * @version $Id$
+ * @version $Id: LocalPortletInvokerImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class LocalPortletInvokerImpl
 extends AbstractLogEnabled

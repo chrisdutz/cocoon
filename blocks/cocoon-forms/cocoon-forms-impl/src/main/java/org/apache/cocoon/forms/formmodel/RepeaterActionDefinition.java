@@ -26,7 +26,7 @@ import org.apache.cocoon.forms.event.ActionListener;
  * event handler that will act on the repeater.
  *
  * @see RepeaterActionDefinitionBuilder
- * @version $Id$
+ * @version $Id: RepeaterActionDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public abstract class RepeaterActionDefinition extends ActionDefinition {
 

@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: calendar2html.xslt 605398 2007-12-19 03:08:16Z vgritsenko $
   -->
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform"

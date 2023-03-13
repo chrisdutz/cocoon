@@ -39,7 +39,7 @@ import org.xml.sax.SAXException;
  * Abstract base class for Widget implementations. Provides functionality
  * common to many widgets.
  *
- * @version $Id$
+ * @version $Id: AbstractWidget.java 687702 2008-08-21 10:48:42Z gkossakowski $
  */
 public abstract class AbstractWidget implements Widget {
 

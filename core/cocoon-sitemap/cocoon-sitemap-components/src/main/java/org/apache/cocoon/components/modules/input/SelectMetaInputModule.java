@@ -45,7 +45,7 @@ import org.apache.avalon.framework.thread.ThreadSafe;
  * </tr>
  * </tbody></table>
  *
- * @version $Id$
+ * @version $Id: SelectMetaInputModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class SelectMetaInputModule extends AbstractMetaModule implements ThreadSafe {
 

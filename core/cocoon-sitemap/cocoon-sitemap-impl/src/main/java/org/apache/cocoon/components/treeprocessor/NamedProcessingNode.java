@@ -20,7 +20,7 @@ package org.apache.cocoon.components.treeprocessor;
  * A <code>ProcessingNode</code> that has a name. This is primarily used by
  * <code>CategoryNode</code> to access its children.
  *
- * @version $Id$
+ * @version $Id: NamedProcessingNode.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface NamedProcessingNode extends ProcessingNode {
 

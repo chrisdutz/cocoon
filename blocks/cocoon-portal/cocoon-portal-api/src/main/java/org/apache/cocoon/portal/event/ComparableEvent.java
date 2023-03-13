@@ -21,7 +21,7 @@ package org.apache.cocoon.portal.event;
  * This interface should be used, if each url should only contain one (or zero)
  * events of this specific type.
  *
- * @version $Id$
+ * @version $Id: ComparableEvent.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface ComparableEvent
     extends Event {

@@ -73,7 +73,7 @@ import org.xml.sax.SAXException;
  *
  * @see org.apache.cocoon.transformation.ReadDOMSessionTransformer
  * @see org.apache.cocoon.transformation.WriteDOMSessionTransformer
- * @version $Id$
+ * @version $Id: SessionAttributeGenerator.java 605605 2007-12-19 16:19:51Z vgritsenko $
  */
 public class SessionAttributeGenerator extends AbstractGenerator {
 

@@ -26,7 +26,7 @@ import org.apache.pluto.om.window.PortletWindow;
 /**
  * Implementation for the action request object.
  *
- * @version $Id$
+ * @version $Id: ActionRequestImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class ActionRequestImpl
     extends org.apache.pluto.core.impl.ActionRequestImpl {

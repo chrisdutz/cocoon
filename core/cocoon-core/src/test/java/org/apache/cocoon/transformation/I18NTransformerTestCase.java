@@ -23,7 +23,7 @@ import org.apache.cocoon.SitemapComponentTestCase;
 /**
  * A simple testcase for I18nTransformer.
  *
- * @version $Id$
+ * @version $Id: I18NTransformerTestCase.java 597557 2007-11-23 05:24:33Z joerg $
  */
 public class I18NTransformerTestCase extends SitemapComponentTestCase {
     

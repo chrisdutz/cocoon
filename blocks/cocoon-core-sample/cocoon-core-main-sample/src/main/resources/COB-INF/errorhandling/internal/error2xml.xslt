@@ -17,7 +17,7 @@
 -->
 
 <!--+
-    | $Id$
+    | $Id: error2xml.xslt 491426 2006-12-31 14:42:29Z cziegeler $
     +-->
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform"

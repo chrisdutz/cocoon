@@ -24,7 +24,7 @@ package org.apache.cocoon.template;
  * Provides a XML stream with embedded JSTL and XPath expression substitution
  * access to data sent by Cocoon Flowscripts.
  *
- * @version $Id$
+ * @version $Id: JXTemplateTransformer.java 607381 2007-12-29 05:42:58Z vgritsenko $
  */
 public class JXTemplateTransformer extends TransformerAdapter {
     /**

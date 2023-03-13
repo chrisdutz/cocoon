@@ -30,7 +30,7 @@ import org.apache.cocoon.processing.ProcessInfoProvider;
 /**
  * {@link ObjectModelProvider} for <code>cocoon</code> entry.
  *
- * @version $Id$
+ * @version $Id: CocoonEntryObjectModelProvider.java 636423 2008-03-12 17:08:18Z gkossakowski $
  * @since 2.2
  */
 public class CocoonEntryObjectModelProvider implements ObjectModelProvider {

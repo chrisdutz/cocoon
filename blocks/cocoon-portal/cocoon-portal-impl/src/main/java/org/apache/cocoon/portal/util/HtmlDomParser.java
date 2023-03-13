@@ -29,7 +29,7 @@ import org.w3c.dom.Document;
 /**
  * This parser uses the nekohtml parser to parse html and generate a document.
  *
- * @version $Id$
+ * @version $Id: HtmlDomParser.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class HtmlDomParser extends AbstractDOMParser {
 

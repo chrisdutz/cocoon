@@ -99,7 +99,7 @@ import org.apache.cocoon.components.source.helpers.SourceRefresher;
  * It is also possible to override dependencies partially there.
  * </p>
  * 
- * @version $Id$
+ * @version $Id: CachingSourceFactory.java 587750 2007-10-24 02:35:22Z vgritsenko $
  * @since 2.1.1
  */
 public class CachingSourceFactory implements URIAbsolutizer, SourceFactory, BeanNameAware {

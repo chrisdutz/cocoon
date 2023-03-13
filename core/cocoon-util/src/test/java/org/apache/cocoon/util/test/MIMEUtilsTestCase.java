@@ -29,7 +29,7 @@ import org.apache.commons.lang.SystemUtils;
  * @see org.apache.cocoon.util.MIMEUtils
  * Specifically, code for testing the parsing of mime.types files.
  *
- * @version $Id$
+ * @version $Id: MIMEUtilsTestCase.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class MIMEUtilsTestCase extends TestCase
 {

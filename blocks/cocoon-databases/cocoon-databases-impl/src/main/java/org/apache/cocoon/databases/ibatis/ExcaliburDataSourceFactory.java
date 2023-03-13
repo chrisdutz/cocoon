@@ -41,7 +41,7 @@ import com.ibatis.sqlmap.engine.datasource.DataSourceFactory;
  *   &lt;property name="connection" value="Name of the Excalibur data source from the cocoon.xconf"/&gt;
  * &lt;/dataSource&gt;
  *
- * @version $Id$
+ * @version $Id: ExcaliburDataSourceFactory.java 1906073 2022-12-18 21:52:30Z javier $
  * @since 2.1.10
  */
 public class ExcaliburDataSourceFactory implements DataSourceFactory {

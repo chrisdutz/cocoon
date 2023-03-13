@@ -26,7 +26,7 @@ package org.apache.cocoon.sitemap;
  * Please note that you should only implement this interface for Spring managed
  * beans. In the case of Avalon components, use the Recyclable interface instead!
  *
- * @version $Id$
+ * @version $Id: DisposableSitemapComponent.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface DisposableSitemapComponent {
 

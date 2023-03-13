@@ -19,7 +19,7 @@ package org.apache.cocoon.portal.pluto.om.common;
 /**
  * Security Constraint Mapping.
  *
- * @version $Id$
+ * @version $Id: SecurityConstraintImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class SecurityConstraintImpl {
     // empty class

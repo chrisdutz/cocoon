@@ -31,7 +31,7 @@ import java.io.IOException;
  * This element has no attributes, but has string content, which is
  * numeric.
  *
- * @version $Id$
+ * @version $Id: EP_Type.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EP_Type extends BaseElementProcessor {
     private NumericResult _type;

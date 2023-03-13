@@ -103,7 +103,7 @@ import org.apache.cocoon.environment.ObjectModelHelper;
  *  &lt;/map:pipelines&gt;
  * </code></pre>
  *
- * @version $Id$
+ * @version $Id: DateSelector.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class DateSelector extends AbstractSwitchSelector
                           implements Configurable, ThreadSafe {

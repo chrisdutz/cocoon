@@ -37,7 +37,7 @@ import org.xml.sax.SAXException;
  *
  * TODO: Support target attribute
  *
- * @version $Id$
+ * @version $Id: HTMLEventLinkTransformer.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class HTMLEventLinkTransformer
 extends AbstractCopletTransformer {

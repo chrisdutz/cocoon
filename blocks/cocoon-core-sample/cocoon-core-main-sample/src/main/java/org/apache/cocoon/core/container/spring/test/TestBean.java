@@ -22,7 +22,7 @@ import org.apache.cocoon.configuration.Settings;
 
 /**
  * This is a simple test bean.
- * $Id$
+ * $Id: TestBean.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class TestBean {
 

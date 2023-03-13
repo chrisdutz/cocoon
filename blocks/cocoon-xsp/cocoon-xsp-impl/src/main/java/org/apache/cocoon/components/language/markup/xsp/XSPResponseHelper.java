@@ -29,7 +29,7 @@ import java.util.Locale;
 /**
  * The XSP <code>Response</code> object helper
  *
- * @version $Id$
+ * @version $Id: XSPResponseHelper.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class XSPResponseHelper {
     /**

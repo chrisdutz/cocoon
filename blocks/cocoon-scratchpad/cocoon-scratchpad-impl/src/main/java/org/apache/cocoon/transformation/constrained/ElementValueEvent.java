@@ -20,7 +20,7 @@ import org.xml.sax.Attributes;
 
 /**
  *
- * @version $Id$
+ * @version $Id: ElementValueEvent.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ElementValueEvent extends ContainerElementEndEvent {
 

@@ -78,7 +78,7 @@ import org.xml.sax.SAXException;
  *   </tr>
  * </tbody></table>
  *
- * @version $Id$
+ * @version $Id: WindowAspect.java 633260 2008-03-03 20:21:05Z cziegeler $
  */
 public final class WindowAspect extends AbstractAspect {
 

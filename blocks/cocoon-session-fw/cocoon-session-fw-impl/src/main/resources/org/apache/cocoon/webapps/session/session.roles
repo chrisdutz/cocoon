@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- @version $Id$ -->
+<!-- @version $Id: session.roles 497464 2007-01-18 15:44:52Z cziegeler $ -->
 <role-list>
 
   <role name="org.apache.cocoon.webapps.session.ContextManager"

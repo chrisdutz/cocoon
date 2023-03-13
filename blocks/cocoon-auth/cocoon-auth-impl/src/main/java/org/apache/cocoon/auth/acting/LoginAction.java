@@ -37,7 +37,7 @@ import org.apache.cocoon.auth.User;
  * authentication is successful, a map is returned with the authentication
  * information and a session is created (if it not already exists).
  *
- * @version $Id$
+ * @version $Id: LoginAction.java 607381 2007-12-29 05:42:58Z vgritsenko $
 */
 public final class LoginAction extends AbstractAuthAction {
 

@@ -35,7 +35,7 @@ import org.w3c.dom.Element;
 /**
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: SitemapElementParser.java 1828354 2018-04-04 15:25:44Z ilgrosso $
  */
 public class SitemapElementParser extends BridgeElementParser {
 

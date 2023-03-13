@@ -28,7 +28,7 @@ import org.apache.cocoon.environment.ObjectModelHelper;
 /**
  * Handles &lt;map:handle-errors&gt;
  *
- * @version $Id$
+ * @version $Id: HandleErrorsNode.java 607152 2007-12-28 01:32:07Z vgritsenko $
  */
 public final class HandleErrorsNode extends AbstractParentProcessingNode {
 

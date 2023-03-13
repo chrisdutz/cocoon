@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!-- CVS: $Id$ -->
+<!-- CVS: $Id: relativize-linkmap.xsl 449161 2006-09-23 05:11:27Z crossley $ -->
 
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 

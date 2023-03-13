@@ -33,7 +33,7 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 
 /**
- * @version $Id$
+ * @version $Id: PipelineComponentInfoInitializerDecorator.java 1828354 2018-04-04 15:25:44Z ilgrosso $
  * @since 2.2
  */
 public class PipelineComponentInfoInitializerDecorator implements BeanDefinitionDecorator {

@@ -26,7 +26,7 @@ import org.apache.cocoon.environment.Session;
 /**
  * Base class for any session
  *
- * @version $Id$
+ * @version $Id: AbstractSession.java 685540 2008-08-13 13:27:36Z gkossakowski $
  * @deprecated This class implements deprecated interface and will be removed in the future.
  *             See {@link Session} interface for details. 
  */

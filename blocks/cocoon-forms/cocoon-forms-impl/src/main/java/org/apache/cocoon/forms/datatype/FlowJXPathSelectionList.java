@@ -35,7 +35,7 @@ import org.xml.sax.SAXException;
  * A selection list that takes its values from the flow page data.
  *
  * @see org.apache.cocoon.forms.datatype.FlowJXPathSelectionListBuilder
- * @version $Id$
+ * @version $Id: FlowJXPathSelectionList.java 597535 2007-11-23 03:49:58Z joerg $
  */
 public class FlowJXPathSelectionList implements SelectionList {
 

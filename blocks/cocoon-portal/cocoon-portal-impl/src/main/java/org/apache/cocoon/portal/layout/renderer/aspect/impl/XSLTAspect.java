@@ -74,7 +74,7 @@ import org.xml.sax.ext.LexicalHandler;
  * </tbody></table>
  *
  * TODO - Remove all dependencies to Avalon.
- * @version $Id$
+ * @version $Id: XSLTAspect.java 633288 2008-03-03 21:54:41Z cziegeler $
  */
 public class XSLTAspect
     extends AbstractAspect {

@@ -65,7 +65,7 @@ import org.xml.sax.SAXException;
  * paths refering to other blocks (<code>servlet:</code> links).
  * @cocoon.sitemap.component.documentation.caching Yes
  *
- * @version $Id$
+ * @version $Id: LinkRewriterReader.java 608379 2008-01-03 08:42:43Z reinhard $
  * @since 1.0.0
  */
 public class LinkRewriterReader extends AbstractReader

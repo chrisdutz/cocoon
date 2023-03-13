@@ -24,7 +24,7 @@ import org.apache.cocoon.components.source.helpers.SourceLock;
 /**
  * A source, which could be locked
  *
- * @version $Id$
+ * @version $Id: LockableSource.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface LockableSource extends Source {
 

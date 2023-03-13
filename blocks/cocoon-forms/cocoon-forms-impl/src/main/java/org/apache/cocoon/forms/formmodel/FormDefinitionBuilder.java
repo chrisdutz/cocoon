@@ -26,7 +26,7 @@ import org.w3c.dom.Element;
 /**
  * Builds {@link FormDefinition}s.
  *
- * @version $Id$
+ * @version $Id: FormDefinitionBuilder.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public final class FormDefinitionBuilder extends AbstractContainerDefinitionBuilder {
 

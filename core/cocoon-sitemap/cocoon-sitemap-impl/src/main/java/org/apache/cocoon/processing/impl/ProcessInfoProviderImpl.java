@@ -30,7 +30,7 @@ import org.apache.cocoon.processing.ProcessInfoProvider;
 /**
  * Default implementation of the process info provider.
  *
- * @version $Id$
+ * @version $Id: ProcessInfoProviderImpl.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 public class ProcessInfoProviderImpl

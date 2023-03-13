@@ -38,7 +38,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * Sample sitemap executor that prints out everything to a logger
  * 
  * @since 2.2
- * @version $Id$
+ * @version $Id: SimpleSitemapExecutor.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class SimpleSitemapExecutor extends AbstractLogEnabled
                                    implements ThreadSafe, SitemapExecutor {

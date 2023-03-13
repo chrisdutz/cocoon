@@ -21,7 +21,7 @@
 <!--
   - See http://maven.apache.org/plugins/maven-changes-plugin/usage.html
   -
-  - $Id$
+  - $Id: changes.xml 608087 2008-01-02 11:38:37Z reinhard $
   -->
 <document>
   <body>

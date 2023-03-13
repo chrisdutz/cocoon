@@ -58,7 +58,7 @@ import org.xml.sax.SAXException;
  *   <dd>The HTML 4.01 Frameset document type.</dd>
  * </dl>
  *
- * @version $Id$
+ * @version $Id: HTMLSerializer.java 587752 2007-10-24 02:47:02Z vgritsenko $
  */
 public class HTMLSerializer
     extends org.apache.cocoon.components.serializers.util.HTMLSerializer

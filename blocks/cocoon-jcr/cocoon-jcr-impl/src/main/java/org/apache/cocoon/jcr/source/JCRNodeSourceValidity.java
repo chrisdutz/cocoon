@@ -24,7 +24,7 @@ import org.apache.excalibur.source.SourceValidity;
  * Validity of a {@link JCRNodeSource}. It's a wrapper around a JCR
  * <code>Value</code>.
  *
- * @version $Id$
+ * @version $Id: JCRNodeSourceValidity.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JCRNodeSourceValidity implements SourceValidity {
 

@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- $Id$ -->
+<!-- $Id: it.xml 680697 2008-07-29 13:54:14Z reinhard $ -->
 <eventcache>
   <key>${cocoon.parameters.KEY}</key>
   <date>${cocoon.parameters.DATE}</date>

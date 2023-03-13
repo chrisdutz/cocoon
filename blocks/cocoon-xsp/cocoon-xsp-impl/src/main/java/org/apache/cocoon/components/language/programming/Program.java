@@ -26,7 +26,7 @@ import org.apache.cocoon.xsp.handler.ComponentHandler;
  * This interface states the functionality of a program.
  * For compilable languages this is the wrapper for a Java Class object.
  *
- * @version $Id$
+ * @version $Id: Program.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface Program {
 

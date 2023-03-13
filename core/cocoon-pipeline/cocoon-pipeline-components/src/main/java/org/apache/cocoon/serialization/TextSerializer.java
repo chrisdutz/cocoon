@@ -45,7 +45,7 @@ import java.io.OutputStream;
  * It omits all XML tags and writes only character events to the output.
  * @cocoon.sitemap.component.documentation.caching Yes
  * 
- * @version $Id$
+ * @version $Id: TextSerializer.java 607379 2007-12-29 05:36:49Z vgritsenko $
  */
 public class TextSerializer extends AbstractTextSerializer {
 

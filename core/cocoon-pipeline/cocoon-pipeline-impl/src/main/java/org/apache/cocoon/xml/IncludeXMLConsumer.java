@@ -45,7 +45,7 @@ import org.w3c.dom.Node;
  * optional operations described above.</p>
  *
  * @see EmbeddedXMLPipe
- * @version $Id$
+ * @version $Id: IncludeXMLConsumer.java 608309 2008-01-03 02:28:20Z joerg $
  */
 public class IncludeXMLConsumer implements XMLConsumer {
 

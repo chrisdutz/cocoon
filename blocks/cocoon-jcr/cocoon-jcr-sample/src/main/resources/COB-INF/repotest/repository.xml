@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: repository.xml 449153 2006-09-23 04:27:50Z crossley $
   -->
 <Repository>
     <FileSystem class="org.apache.jackrabbit.core.fs.local.LocalFileSystem">

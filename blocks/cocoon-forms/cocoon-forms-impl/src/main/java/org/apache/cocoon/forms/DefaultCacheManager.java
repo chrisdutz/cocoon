@@ -26,7 +26,7 @@ import org.apache.commons.collections.FastHashMap;
 /**
  * Component implementing the {@link CacheManager} role.
  *
- * @version $Id$
+ * @version $Id: DefaultCacheManager.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class DefaultCacheManager implements CacheManager {
     // NOTE: Component is there to allow this block to also run in the 2.1 branch

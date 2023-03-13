@@ -24,7 +24,7 @@ import org.apache.cocoon.forms.event.WidgetEventMulticaster;
 /**
  * The {@link WidgetDefinition} part of a Repeater widget, see {@link Repeater} for more information.
  *
- * @version $Id$
+ * @version $Id: RepeaterDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class RepeaterDefinition extends AbstractContainerDefinition {
 

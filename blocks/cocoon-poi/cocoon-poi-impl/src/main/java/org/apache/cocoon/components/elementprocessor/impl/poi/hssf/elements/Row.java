@@ -25,7 +25,7 @@ import java.io.IOException;
 /**
  * internal representation of a Row
  *
- * @version $Id$
+ * @version $Id: Row.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 
 // package scope

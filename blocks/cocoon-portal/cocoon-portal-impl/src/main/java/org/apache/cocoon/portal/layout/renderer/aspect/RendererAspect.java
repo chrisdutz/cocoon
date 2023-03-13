@@ -29,7 +29,7 @@ import org.xml.sax.SAXException;
  * It can add a particular decoration like a border or buttons for example.
  * A renderer aspect has to be thread safe!
  *
- * @version $Id$
+ * @version $Id: RendererAspect.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public interface RendererAspect {
 

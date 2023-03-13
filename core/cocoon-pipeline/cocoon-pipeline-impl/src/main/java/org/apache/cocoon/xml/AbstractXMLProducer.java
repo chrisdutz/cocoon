@@ -28,7 +28,7 @@ import org.xml.sax.helpers.DefaultHandler;
  * This abstract class provides default implementation of the methods specified
  * by the <code>XMLProducer</code> interface.
  *
- * @version $Id$
+ * @version $Id: AbstractXMLProducer.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractXMLProducer extends AbstractLogEnabled
                                           implements XMLProducer, Recyclable {

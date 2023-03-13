@@ -25,7 +25,7 @@ package org.apache.cocoon.classloader.reloading;
  * the notification event to the treeprocessor and force the component reloading in cocoon
  * TODO Extend TransactionalResourceStore, if store is not private.
  *
- * @version $Id$
+ * @version $Id: NotifyingResourceStore.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class NotifyingResourceStore { // TODO rcl implements ResourceStore {
 

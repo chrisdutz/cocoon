@@ -63,7 +63,7 @@ import org.xml.sax.helpers.AttributesImpl;
 /**
  * Source implementation for XML Javadoc.
  *
- * @version $Id$ $Date$
+ * @version $Id: QDoxSource.java 587761 2007-10-24 03:08:05Z vgritsenko $ $Date: 2007-10-24 05:08:05 +0200 (Wed, 24 Oct 2007) $
  */
 public final class QDoxSource extends AbstractSource
                               implements XMLizable, Recyclable {

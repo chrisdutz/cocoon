@@ -116,7 +116,7 @@ import java.util.Map;
  * An action that locates and provides to the pipeline locale information
  * looked up in a range of ways.
  *
- * @version $Id$
+ * @version $Id: LocaleAction.java 607380 2007-12-29 05:39:06Z vgritsenko $
  */
 public class LocaleAction extends ServiceableAction implements ThreadSafe, Configurable {
 

@@ -19,7 +19,7 @@ package org.apache.cocoon.forms.datatype.convertor;
 /**
  * Builds {@link FormattingDoubleConvertor}s.
  *
- * @version $Id$
+ * @version $Id: FormattingDoubleConvertorBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class FormattingDoubleConvertorBuilder extends FormattingDecimalConvertorBuilder implements DoubleConvertorBuilder {
     protected FormattingDecimalConvertor createConvertor() {

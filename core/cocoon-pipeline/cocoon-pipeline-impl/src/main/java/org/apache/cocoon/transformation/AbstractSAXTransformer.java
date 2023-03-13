@@ -103,7 +103,7 @@ import java.util.Stack;
  * Before the document is processed the <code>setupTransforming</code> hook
  * is invoked.
  *
- * @version $Id$
+ * @version $Id: AbstractSAXTransformer.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractSAXTransformer extends AbstractTransformer
                                              implements Serviceable, Configurable, Disposable {

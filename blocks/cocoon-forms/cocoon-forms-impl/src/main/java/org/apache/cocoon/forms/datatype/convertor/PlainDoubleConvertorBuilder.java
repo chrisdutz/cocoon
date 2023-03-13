@@ -20,7 +20,7 @@ import org.w3c.dom.Element;
 
 /**
  *
- * @version $Id$
+ * @version $Id: PlainDoubleConvertorBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class PlainDoubleConvertorBuilder implements DoubleConvertorBuilder {
     public Convertor build(Element configElement) throws Exception {

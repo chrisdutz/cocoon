@@ -32,7 +32,7 @@ import org.springframework.web.context.support.ServletContextResourcePatternReso
  * <code>&lt;map:flow&gt;</code> element in the sitemap.
  *
  * @since September 13, 2002
- * @version $Id$
+ * @version $Id: FlowNodeBuilder.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class FlowNodeBuilder extends AbstractParentProcessingNodeBuilder {
 

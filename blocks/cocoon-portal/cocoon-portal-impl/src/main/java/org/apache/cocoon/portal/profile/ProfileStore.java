@@ -27,7 +27,7 @@ import org.apache.excalibur.source.SourceValidity;
  *
  * @see PersistenceType
  *
- * @version $Id$
+ * @version $Id: ProfileStore.java 609777 2008-01-07 21:06:04Z cziegeler $
  */
 public interface ProfileStore {
 

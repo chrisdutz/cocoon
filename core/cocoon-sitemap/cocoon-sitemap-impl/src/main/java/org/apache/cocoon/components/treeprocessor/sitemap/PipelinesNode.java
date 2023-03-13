@@ -30,7 +30,7 @@ import org.apache.cocoon.environment.Environment;
 /**
  * Handles &lt;map:pipelines&gt;
  *
- * @version $Id$
+ * @version $Id: PipelinesNode.java 607152 2007-12-28 01:32:07Z vgritsenko $
  */
 public final class PipelinesNode extends SimpleParentProcessingNode
                                  implements Serviceable, Disposable {

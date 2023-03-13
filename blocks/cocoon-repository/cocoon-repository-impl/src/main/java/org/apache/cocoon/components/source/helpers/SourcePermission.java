@@ -19,7 +19,7 @@ package org.apache.cocoon.components.source.helpers;
 /**
  * This interface represents a permission for a source
  *
- * @version $Id$
+ * @version $Id: SourcePermission.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface SourcePermission {
 

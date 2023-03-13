@@ -45,7 +45,7 @@ import org.apache.cocoon.portal.util.AbstractBean;
  * of mapping class names for session sharing.
  * It is advisable to map all event class to custom keys instead of using a hash.
  *
- * @version $Id$
+ * @version $Id: DefaultEventConverter.java 633260 2008-03-03 20:21:05Z cziegeler $
  */
 public class DefaultEventConverter
     extends AbstractBean

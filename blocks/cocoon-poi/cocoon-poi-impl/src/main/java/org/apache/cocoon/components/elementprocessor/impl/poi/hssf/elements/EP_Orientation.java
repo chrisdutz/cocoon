@@ -29,7 +29,7 @@ import java.io.IOException;
  * print orientation (landscape or portrait)
  *
  *
- * @version $Id$
+ * @version $Id: EP_Orientation.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EP_Orientation extends BaseElementProcessor {
     private NumericResult _print_orientation;

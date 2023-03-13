@@ -40,7 +40,7 @@ import org.xml.sax.SAXException;
 /**
  * Provides functionality that is common across many WidgetDefinition implementations.
  *
- * @version $Id$
+ * @version $Id: AbstractWidgetDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public abstract class AbstractWidgetDefinition implements WidgetDefinition {
 

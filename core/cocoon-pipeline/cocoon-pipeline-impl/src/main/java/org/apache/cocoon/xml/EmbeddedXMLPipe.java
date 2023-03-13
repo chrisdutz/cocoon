@@ -28,7 +28,7 @@ import org.xml.sax.ext.LexicalHandler;
  * and startDTD/endDTD events, as well as all comment events within
  * the DTD.
  *
- * @version $Id$
+ * @version $Id: EmbeddedXMLPipe.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class EmbeddedXMLPipe extends AbstractXMLPipe {
 

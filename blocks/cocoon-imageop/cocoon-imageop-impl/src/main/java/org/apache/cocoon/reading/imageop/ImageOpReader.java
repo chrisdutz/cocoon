@@ -63,7 +63,7 @@ import org.xml.sax.SAXException;
  * or if it can signal that it hasn't changed.
  * @cocoon.sitemap.component.documentation.caching Yes
  *
- * @version $Id$
+ * @version $Id: ImageOpReader.java 607739 2007-12-31 15:22:35Z joerg $
  */
 final public class ImageOpReader extends ResourceReader
                                  implements Configurable, Serviceable, Disposable {

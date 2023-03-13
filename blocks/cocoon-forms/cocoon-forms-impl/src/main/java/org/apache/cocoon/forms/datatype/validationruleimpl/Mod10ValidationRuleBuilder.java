@@ -22,7 +22,7 @@ import org.w3c.dom.Element;
 /**
  * Builds {@link Mod10ValidationRule}s.
  * 
- * @version $Id$
+ * @version $Id: Mod10ValidationRuleBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class Mod10ValidationRuleBuilder extends AbstractValidationRuleBuilder {
     public ValidationRule build(Element validationRuleElement) throws Exception {

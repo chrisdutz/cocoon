@@ -21,7 +21,7 @@ import org.apache.cocoon.portal.om.PortalUser;
 /**
  * This event is send when a new user logs into the portal.
  *
- * @version $Id$
+ * @version $Id: UserDidLoginEvent.java 587755 2007-10-24 02:50:56Z vgritsenko $
  * @since 2.2
  */
 public class UserDidLoginEvent extends UserEvent {

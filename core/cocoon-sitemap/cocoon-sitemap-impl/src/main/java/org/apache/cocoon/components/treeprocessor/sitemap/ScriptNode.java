@@ -25,7 +25,7 @@ import org.apache.cocoon.environment.Environment;
  * Handler for &lt;map:script&gt; elements in the sitemap. It registers the 
  *
  * @since March 13, 2002
- * @version $Id$
+ * @version $Id: ScriptNode.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ScriptNode extends AbstractProcessingNode {
 

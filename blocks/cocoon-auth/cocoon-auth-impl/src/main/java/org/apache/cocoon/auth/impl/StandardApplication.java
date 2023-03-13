@@ -32,7 +32,7 @@ import org.apache.commons.logging.LogFactory;
 /**
  * This is the default implementation for an {@link Application}.
  *
- * @version $Id$
+ * @version $Id: StandardApplication.java 587757 2007-10-24 02:52:49Z vgritsenko $
 */
 public class StandardApplication
     implements Application {

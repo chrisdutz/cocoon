@@ -37,7 +37,7 @@ import org.hsqldb.Trigger;
  * Example Trigger for HSQLDB doing cache invalidation through the eventcache
  * block and JMS messages. 
  * 
- * @version $Id$
+ * @version $Id: JMSTrigger.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class JMSTrigger implements Trigger {
 

@@ -22,7 +22,7 @@ import org.apache.pluto.spi.optional.PortletInfoService;
 
 /**
  *
- * @version $Id$
+ * @version $Id: PortletInfoServiceImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortletInfoServiceImpl
     extends AbstractBean

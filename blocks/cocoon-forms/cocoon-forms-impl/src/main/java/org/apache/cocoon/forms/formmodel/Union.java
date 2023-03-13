@@ -31,7 +31,7 @@ import org.apache.commons.lang.ObjectUtils;
  * for the widget id, just wrap the widget(s) in a container widget named
  * with the desired case id.
  *
- * @version $Id$
+ * @version $Id: Union.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class Union extends AbstractContainerWidget {
 

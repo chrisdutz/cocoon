@@ -36,7 +36,7 @@ import java.math.BigDecimal;
  *  <li>check min and max string length
  * </ul>
  * 
- * @version $Id$
+ * @version $Id: LengthValidationRule.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class LengthValidationRule extends AbstractValidationRule {
     private Expression exactExpr;

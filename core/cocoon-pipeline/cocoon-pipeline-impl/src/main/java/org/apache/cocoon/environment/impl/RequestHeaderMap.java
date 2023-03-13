@@ -25,7 +25,7 @@ import java.util.Set;
 /**
  * Request headers map
  *
- * @version $Id$
+ * @version $Id: RequestHeaderMap.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class RequestHeaderMap extends BaseMap {
 

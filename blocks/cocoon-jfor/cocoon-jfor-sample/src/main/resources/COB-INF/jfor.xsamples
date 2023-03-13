@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: jfor.xsamples 588722 2007-10-26 17:50:42Z vgritsenko $
   -->
 <xsamples xpath="/samples" unless="group[@name='jfor']">
 

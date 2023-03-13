@@ -30,7 +30,7 @@ import org.mozilla.javascript.ScriptableObject;
 
 /**
  *
- * @version $Id$
+ * @version $Id: ScriptableResult.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ScriptableResult extends ScriptableObject {
 

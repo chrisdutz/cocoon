@@ -26,7 +26,7 @@ import org.apache.regexp.RESyntaxException;
  *  A drawing ascii art pad.
  *
  * @since 18. Dezember 2002
- * @version $Id$
+ * @version $Id: AsciiArtPad.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public class AsciiArtPad {
 

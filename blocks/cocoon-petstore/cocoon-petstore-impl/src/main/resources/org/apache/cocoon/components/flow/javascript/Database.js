@@ -15,7 +15,7 @@
 * limitations under the License.
 */
 //
-// CVS $Id$
+// CVS $Id: Database.js 511819 2007-02-26 14:33:42Z cziegeler $
 //
 // Prototype Database API
 //

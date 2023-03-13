@@ -22,7 +22,7 @@ import org.apache.fop.render.Renderer;
  * Apache FOP Renderer factory.
  * When given a MIME type, find a Renderer which supports that MIME type.
  *
- * @version $Id$
+ * @version $Id: RendererFactory.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface RendererFactory {
 

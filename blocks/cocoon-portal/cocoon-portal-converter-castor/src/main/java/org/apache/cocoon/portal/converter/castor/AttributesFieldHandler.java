@@ -29,7 +29,7 @@ import org.exolab.castor.mapping.MapItem;
 /**
  * Field handler for attributes of a CopletDefinition and a CopletInstanceData object.
  *
- * @version $Id$
+ * @version $Id: AttributesFieldHandler.java 610153 2008-01-08 21:02:21Z cziegeler $
  */
 public class AttributesFieldHandler extends AbstractFieldHandler {
 

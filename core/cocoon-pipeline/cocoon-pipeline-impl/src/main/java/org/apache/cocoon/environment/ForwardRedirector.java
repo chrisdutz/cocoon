@@ -28,7 +28,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * <p>
  * Concrete subclasses have to define the <code>cocoonRedirect()</code> method.
  *
- * @version $Id$
+ * @version $Id: ForwardRedirector.java 687706 2008-08-21 10:51:09Z gkossakowski $
  */
 public abstract class ForwardRedirector extends AbstractLogEnabled
                                         implements Redirector, PermanentRedirector {

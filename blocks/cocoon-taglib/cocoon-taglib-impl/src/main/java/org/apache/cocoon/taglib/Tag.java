@@ -32,7 +32,7 @@ import org.xml.sax.SAXException;
  *
  * @see org.apache.cocoon.transformation.TagTransformer
  *
- * @version $Id$
+ * @version $Id: Tag.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface Tag {
     

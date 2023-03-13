@@ -24,7 +24,7 @@ import org.apache.wsrp4j.exception.WSRPException;
 /**
  * Implements a consumer based group session<br/>
  *
- * @version $Id$
+ * @version $Id: GroupSessionImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class GroupSessionImpl extends GenericGroupSessionImpl {
 

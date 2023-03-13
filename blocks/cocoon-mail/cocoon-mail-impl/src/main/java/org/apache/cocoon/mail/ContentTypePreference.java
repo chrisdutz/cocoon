@@ -20,7 +20,7 @@ import javax.mail.internet.MimePart;
 
 /**
  * @since 26 October 2002
- * @version $Id$
+ * @version $Id: ContentTypePreference.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface ContentTypePreference {
 

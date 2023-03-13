@@ -19,7 +19,7 @@
 <!--
  * ESQL Logicsheet
  *
- * @version $Id$
+ * @version $Id: esql.xsl 1906076 2022-12-18 21:54:22Z javier $
 -->
 
 <xsl:stylesheet version="1.0"

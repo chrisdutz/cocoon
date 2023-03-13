@@ -33,7 +33,7 @@
   - The sitemap language.
   - This file defines all possible sitemap elements and theirs implementations.
   -
-  - $Id$
+  - $Id: sitemap-language.xml 585863 2007-10-18 04:43:24Z vgritsenko $
   -->
 <sitemap-language>
 

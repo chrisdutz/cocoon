@@ -58,7 +58,7 @@ import java.util.Map;
  * in order to receive not only the data but also the formatting information
  * of the workbook.</p>
  *
- * @version $Id$
+ * @version $Id: HSSFGenerator.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class HSSFGenerator extends AbstractLogEnabled implements Generator, DisposableSitemapComponent {
 

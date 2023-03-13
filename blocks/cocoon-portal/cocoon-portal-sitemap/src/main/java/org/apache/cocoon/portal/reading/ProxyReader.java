@@ -48,7 +48,7 @@ import org.xml.sax.SAXException;
  * connection data for the external request (like session id, cookies, 
  * document base, etc.) from the application coplet instance data.
  *
- * @version $Id$
+ * @version $Id: ProxyReader.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class ProxyReader extends ServiceableReader implements Disposable {
 

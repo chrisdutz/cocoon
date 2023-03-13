@@ -32,7 +32,7 @@ import org.apache.pluto.om.portlet.PortletDefinition;
 
 /**
  *
- * @version $Id$
+ * @version $Id: PortletEntityListImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortletEntityListImpl 
     implements PortletEntityList, PortletEntityListCtrl {

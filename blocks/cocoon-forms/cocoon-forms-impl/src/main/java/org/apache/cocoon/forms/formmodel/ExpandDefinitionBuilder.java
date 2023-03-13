@@ -24,7 +24,7 @@ import org.w3c.dom.Element;
 /**
  * Builds definitions by using library definitions.
  *
- * @version $Id$
+ * @version $Id: ExpandDefinitionBuilder.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public class ExpandDefinitionBuilder extends AbstractWidgetDefinitionBuilder {
 

@@ -39,7 +39,7 @@ import java.util.Vector;
 /**
  * Implements the {@link Request} interface for the JSR-168 (Portlet) environment.
  *
- * @version $Id$
+ * @version $Id: PortletRequest.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public abstract class PortletRequest extends AbstractRequest {
 

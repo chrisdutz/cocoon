@@ -40,7 +40,7 @@ import org.xml.sax.helpers.AttributesImpl;
  *
  * @see org.apache.cocoon.util.location.LocationAttributes.Pipe
  * @since 2.1.8
- * @version $Id$
+ * @version $Id: LocationAttributes.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class LocationAttributes {
     /** Prefix for the location namespace */

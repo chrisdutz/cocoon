@@ -41,7 +41,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * logicsheets as the only means of code generation. Code generation
  * should be decoupled from this context!!!
  *
- * @version $Id$
+ * @version $Id: CocoonMarkupLanguage.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class CocoonMarkupLanguage extends AbstractMarkupLanguage {
 

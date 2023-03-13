@@ -85,7 +85,7 @@ import org.apache.commons.lang.BooleanUtils;
  * <tr><td>fail-on-empty    </td><td>(boolean) fail is statement affected zero rows (true)</td></tr>
  * </table>
  *
- * @version $Id$
+ * @version $Id: DatabaseAction.java 587758 2007-10-24 02:55:27Z vgritsenko $
  * @see org.apache.cocoon.components.modules.input
  * @see org.apache.cocoon.components.modules.output
  * @see org.apache.cocoon.components.modules.database

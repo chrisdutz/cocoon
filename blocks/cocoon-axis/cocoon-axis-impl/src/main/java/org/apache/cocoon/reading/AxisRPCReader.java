@@ -67,7 +67,7 @@ import org.xml.sax.SAXException;
  *  <code>org.apache.axis.http.transport.AxisServlet</code>.
  * </p>
  *
- * @version $Id$
+ * @version $Id: AxisRPCReader.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public class AxisRPCReader extends ServiceableReader
                            implements Configurable, Disposable {

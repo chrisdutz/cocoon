@@ -38,7 +38,7 @@ import org.xml.sax.SAXException;
 import org.xml.sax.SAXParseException;
 
 /**
- * @version $Id$
+ * @version $Id: Attribute.java 670345 2008-06-22 11:49:21Z gkossakowski $
  */
 public class Attribute extends Instruction {
     public static  final String XML_ATTR_NAME_BLANK = "parameter: \"name\" is required";

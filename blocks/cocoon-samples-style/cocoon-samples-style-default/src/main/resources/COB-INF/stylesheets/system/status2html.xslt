@@ -19,7 +19,7 @@
 <!--
   - Converts output of the StatusGenerator into HTML page
   -
-  - $Id$
+  - $Id: status2html.xslt 606214 2007-12-21 14:59:27Z vgritsenko $
   -->
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform"

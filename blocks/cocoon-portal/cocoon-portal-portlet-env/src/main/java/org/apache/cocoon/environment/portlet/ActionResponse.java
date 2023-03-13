@@ -33,7 +33,7 @@ import java.util.Map;
  * Implements the {@link org.apache.cocoon.environment.Response} interface for
  * the JSR-168 (Portlet) environment.
  *
- * @version $Id$
+ * @version $Id: ActionResponse.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public final class ActionResponse extends PortletResponse {
 

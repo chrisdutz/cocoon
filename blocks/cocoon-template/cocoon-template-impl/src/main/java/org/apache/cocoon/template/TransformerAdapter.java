@@ -34,7 +34,7 @@ import org.xml.sax.SAXException;
  * Adapter that makes this generator usable as a transformer (Note there is a performance penalty
  * for this however: you effectively recompile the template for every instance document)
  *
- * @version $Id$
+ * @version $Id: TransformerAdapter.java 607381 2007-12-29 05:42:58Z vgritsenko $
  */
 public class TransformerAdapter extends AbstractTransformer {
     private TemplateConsumer templateConsumer;

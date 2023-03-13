@@ -18,7 +18,7 @@
 <!--+
     | This is the default configuration for the portal beans.
     |
-    | @version $Id$
+    | @version $Id: cocoon-portal-sample-components.xml 893125 2009-12-22 09:51:41Z cziegeler $
     +-->
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"

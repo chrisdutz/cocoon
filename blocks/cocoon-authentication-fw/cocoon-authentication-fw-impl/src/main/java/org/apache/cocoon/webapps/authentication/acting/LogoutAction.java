@@ -32,7 +32,7 @@ import org.apache.cocoon.webapps.authentication.user.RequestState;
  *  This action logs the current user out of a given handler
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: LogoutAction.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public final class LogoutAction
 extends ServiceableAction

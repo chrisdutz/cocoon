@@ -25,7 +25,7 @@ import org.xml.sax.Locator;
 import org.xml.sax.SAXException;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: StartDTD.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class StartDTD extends Event {
     public StartDTD(Locator location, String name, String publicId,

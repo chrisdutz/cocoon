@@ -20,7 +20,7 @@ package org.apache.cocoon.thread;
  * The RunnableManager interface describes the functionality of an
  * implementation running commands in the background.
  *
- * @version $Id$
+ * @version $Id: RunnableManager.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface RunnableManager {
 

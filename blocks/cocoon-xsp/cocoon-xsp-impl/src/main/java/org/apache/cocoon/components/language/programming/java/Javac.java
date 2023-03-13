@@ -31,7 +31,7 @@ import org.apache.cocoon.components.language.programming.CompilerError;
 /**
  * This class wraps the Sun's Javac Compiler.
  *
- * @version $Id$
+ * @version $Id: Javac.java 587761 2007-10-24 03:08:05Z vgritsenko $
  * @since 2.0
  */
 public class Javac extends AbstractJavaCompiler {

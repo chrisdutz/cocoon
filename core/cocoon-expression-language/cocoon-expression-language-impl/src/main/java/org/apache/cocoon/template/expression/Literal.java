@@ -30,7 +30,7 @@ import org.apache.cocoon.el.parsing.Subst;
   avoid copying there. 
 */
 /**
- * @version $Id$
+ * @version $Id: Literal.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class Literal implements Subst {
     

@@ -37,7 +37,7 @@ import org.apache.cocoon.sitemap.SitemapExecutor;
 /**
  * Handles &lt;map:pipeline&gt;
  *
- * @version $Id$
+ * @version $Id: PipelineNode.java 638936 2008-03-19 17:04:02Z reinhard $
  */
 public class PipelineNode extends AbstractParentProcessingNode
                           implements Serviceable, ParameterizableProcessingNode {

@@ -74,7 +74,7 @@ import javax.servlet.http.HttpSession;
  * The "session" variable will be undefined if there is no session for this servlet.
  * JXPath does not automatically create sessions.</p>
  *
- * @version $Id$
+ * @version $Id: JXPathCocoonContexts.java 669294 2008-06-18 21:21:57Z anathaniel $
  */
 public final class JXPathCocoonContexts implements Contextualizable, ThreadSafe {
 

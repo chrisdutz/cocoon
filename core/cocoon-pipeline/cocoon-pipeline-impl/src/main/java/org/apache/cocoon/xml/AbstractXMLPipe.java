@@ -24,7 +24,7 @@ import org.xml.sax.SAXException;
  * This class provides a bridge class to connect to existing content
  * handlers and lexical handlers.
  *
- * @version $Id$
+ * @version $Id: AbstractXMLPipe.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractXMLPipe extends AbstractXMLProducer
                                       implements XMLPipe {

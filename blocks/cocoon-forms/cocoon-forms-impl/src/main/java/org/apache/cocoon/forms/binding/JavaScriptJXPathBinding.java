@@ -31,7 +31,7 @@ import org.mozilla.javascript.Scriptable;
 
 /**
  *
- * @version $Id$
+ * @version $Id: JavaScriptJXPathBinding.java 640682 2008-03-25 03:23:17Z vgritsenko $
  */
 public class JavaScriptJXPathBinding extends JXPathBindingBase {
 

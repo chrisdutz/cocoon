@@ -50,7 +50,7 @@ import org.springframework.core.Ordered;
  * comes to event processing. For example some components need to receive the event first,
  * as they might be used by other components during event processing.
  *
- * @version $Id$
+ * @version $Id: DefaultEventManager.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class DefaultEventManager
     extends AbstractBean

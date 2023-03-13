@@ -28,7 +28,7 @@ import org.springframework.beans.factory.HierarchicalBeanFactory;
  * Spring factory bean to setup a child Commons Logging logger.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: ChildLoggerFactoryBean.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ChildLoggerFactoryBean extends LoggerFactoryBean
                                     implements FactoryBean, BeanFactoryAware {

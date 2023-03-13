@@ -33,7 +33,7 @@ import org.springframework.beans.factory.xml.NamespaceHandlerSupport;
  * "bridge" : This adds all Avalon configured components to the bean factory.
  * "sitemap":
  *
- * @version $Id$
+ * @version $Id: AvalonNamespaceHandler.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 public class AvalonNamespaceHandler extends NamespaceHandlerSupport {

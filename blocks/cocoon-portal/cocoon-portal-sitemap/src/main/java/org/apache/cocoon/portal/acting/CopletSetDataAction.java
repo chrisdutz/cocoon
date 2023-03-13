@@ -31,7 +31,7 @@ import org.apache.cocoon.portal.sitemap.Constants;
 /**
  * Using this action, you can set values in a coplet.
  *
- * @version $Id$
+ * @version $Id: CopletSetDataAction.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class CopletSetDataAction
     extends AbstractPortalAction {

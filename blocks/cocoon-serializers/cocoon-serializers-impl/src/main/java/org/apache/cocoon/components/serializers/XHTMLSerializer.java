@@ -63,7 +63,7 @@ import org.xml.sax.SAXException;
  *   <dd>The XHTML 1.0 Frameset document type.</dd>
  * </dl>
  *
- * @version $Id$
+ * @version $Id: XHTMLSerializer.java 587752 2007-10-24 02:47:02Z vgritsenko $
  */
 public class XHTMLSerializer extends org.apache.cocoon.components.serializers.util.XHTMLSerializer
                              implements Serializer, SitemapModelComponent, Recyclable, Configurable  {

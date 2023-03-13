@@ -34,7 +34,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * <p>A {@link org.apache.cocoon.components.validation.Schema} will be cached until its
  * {@link org.apache.excalibur.source.SourceValidity} expires.</p>
  *
- * @version $Id$
+ * @version $Id: AbstractSchemaParser.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class AbstractSchemaParser extends AbstractLogEnabled
                 implements Serviceable, Initializable, Disposable, SchemaParser {

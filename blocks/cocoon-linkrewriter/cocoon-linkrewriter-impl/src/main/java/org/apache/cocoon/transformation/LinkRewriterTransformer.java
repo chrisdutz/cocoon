@@ -222,7 +222,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * The URI scheme identifies the InputModule to use, and the rest of the URI is
  * used as the attribute name.
  *
- * @version $Id$
+ * @version $Id: LinkRewriterTransformer.java 607381 2007-12-29 05:42:58Z vgritsenko $
  */
 public class LinkRewriterTransformer extends AbstractSAXTransformer
                                      implements Initializable, Disposable {

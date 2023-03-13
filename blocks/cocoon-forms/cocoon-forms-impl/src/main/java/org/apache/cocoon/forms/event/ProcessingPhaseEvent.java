@@ -21,7 +21,7 @@ import org.apache.cocoon.forms.formmodel.Form;
 /**
  * Event raised when a form processing phase is finished.
  * 
- * @version $Id$
+ * @version $Id: ProcessingPhaseEvent.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class ProcessingPhaseEvent extends WidgetEvent {
     

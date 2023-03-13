@@ -29,7 +29,7 @@ import org.w3c.dom.Element;
 
 /**
 *
-* @version $Id$
+* @version $Id: LayoutTypeDefinitionParser.java 682758 2008-08-05 15:31:50Z cziegeler $
 */
 public class LayoutTypeDefinitionParser extends AbstractElementParser {
 

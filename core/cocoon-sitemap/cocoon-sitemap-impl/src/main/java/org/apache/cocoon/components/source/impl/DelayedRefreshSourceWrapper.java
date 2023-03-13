@@ -28,7 +28,7 @@ import java.io.InputStream;
  * A wrapper around a <code>Source</code> that reduces the number of calls to
  * <code>Source.getLastModified()</code> which can be a costly operation.
  *
- * @version $Id$
+ * @version $Id: DelayedRefreshSourceWrapper.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public final class DelayedRefreshSourceWrapper
     implements Source, Recyclable {

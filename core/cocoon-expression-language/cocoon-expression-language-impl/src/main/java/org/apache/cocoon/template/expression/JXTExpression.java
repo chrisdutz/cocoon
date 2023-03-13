@@ -25,7 +25,7 @@ import org.apache.cocoon.el.objectmodel.ObjectModel;
 import org.apache.cocoon.el.parsing.Subst;
 
 /**
- * @version $Id$
+ * @version $Id: JXTExpression.java 605961 2007-12-20 15:15:35Z vgritsenko $
  */
 public class JXTExpression implements Subst {
 

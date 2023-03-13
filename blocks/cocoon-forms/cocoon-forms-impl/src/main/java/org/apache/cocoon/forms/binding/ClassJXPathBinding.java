@@ -28,7 +28,7 @@ import org.apache.commons.jxpath.JXPathContext;
  * <li>This Binding uses the provided widget-id as the name for the class.</li>
  * </ol>
  *
- * @version $Id$
+ * @version $Id: ClassJXPathBinding.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class ClassJXPathBinding extends ComposedJXPathBindingBase {
 

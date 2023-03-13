@@ -19,7 +19,7 @@ package org.apache.cocoon.webservices.memory;
 /**
  * Class which provides JVM memory related SOAP services.
  *
- * @version $Id$
+ * @version $Id: Memory.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public class Memory {
 

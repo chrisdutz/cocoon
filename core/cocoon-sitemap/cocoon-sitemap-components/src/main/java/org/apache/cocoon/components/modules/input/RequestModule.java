@@ -35,7 +35,7 @@ import java.util.Map;
  * request.getUserPrincipal() method. If requested object is not found then
  * an exception will be thrown.
  *
- * @version $Id$
+ * @version $Id: RequestModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class RequestModule extends AbstractJXPathModule
     implements ThreadSafe {

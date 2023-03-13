@@ -22,7 +22,7 @@ import java.util.Map;
 /**
  *  A simple bean implementation of Notifying.
  *
- * @version $Id$
+ * @version $Id: SimpleNotifyingBean.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class SimpleNotifyingBean implements Notifying {
 

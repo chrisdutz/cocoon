@@ -49,7 +49,7 @@ import javax.servlet.http.HttpSession;
  * <code>ServerPagesGenerator</code> programs
  * written in Javascript language
  *
- * @version $Id$
+ * @version $Id: JSGenerator.java 669294 2008-06-18 21:21:57Z anathaniel $
  */
 public class JSGenerator extends XSPGenerator
         implements Configurable, Initializable {

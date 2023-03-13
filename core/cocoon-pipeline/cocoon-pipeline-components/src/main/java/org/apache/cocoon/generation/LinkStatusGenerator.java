@@ -53,7 +53,7 @@ import java.util.ArrayList;
  * @cocoon.sitemap.component.label  content
  * @cocoon.sitemap.component.documentation.caching No
  *
- * @version $Id$
+ * @version $Id: LinkStatusGenerator.java 605605 2007-12-19 16:19:51Z vgritsenko $
  */
 public class LinkStatusGenerator extends ServiceableGenerator
                                  implements Configurable {

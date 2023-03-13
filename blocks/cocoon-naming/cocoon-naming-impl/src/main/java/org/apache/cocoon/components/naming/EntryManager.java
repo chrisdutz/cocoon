@@ -26,7 +26,7 @@ import org.apache.cocoon.ProcessingException;
 /**
  *	The <code>EntryManager</code> is an Avalon Component for managing the Entries in a Javax Naming Directory.
  *  This is the interface implemented by {@link org.apache.cocoon.components.naming.LDAPEntryManager LDAPEntryManager}.
- *  @version $Id$
+ *  @version $Id: EntryManager.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface EntryManager {
 

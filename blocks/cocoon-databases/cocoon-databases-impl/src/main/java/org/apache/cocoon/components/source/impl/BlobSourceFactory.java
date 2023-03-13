@@ -31,7 +31,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
 /**
  * A factory for 'blob:' sources.
  *
- * @version $Id$
+ * @version $Id: BlobSourceFactory.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class BlobSourceFactory extends AbstractLogEnabled
                                implements Serviceable, SourceFactory, ThreadSafe {

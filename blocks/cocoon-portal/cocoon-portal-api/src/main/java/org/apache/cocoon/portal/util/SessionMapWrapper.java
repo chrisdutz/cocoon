@@ -33,7 +33,7 @@ import org.apache.cocoon.portal.spi.RequestContextProvider;
  * The idea is to have a global map for all users that delegates at run
  * time to a user specific map stored in a session.
  *
- * @version $Id$
+ * @version $Id: SessionMapWrapper.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public class SessionMapWrapper implements Map {
 

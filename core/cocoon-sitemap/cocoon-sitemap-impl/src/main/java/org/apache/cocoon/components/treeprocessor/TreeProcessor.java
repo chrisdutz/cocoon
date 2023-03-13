@@ -57,7 +57,7 @@ import org.xml.sax.SAXException;
 /**
  * Interpreted tree-traversal implementation of a pipeline assembly language.
  *
- * @version $Id$
+ * @version $Id: TreeProcessor.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class TreeProcessor extends AbstractLogEnabled
                            implements ThreadSafe, Processor, Serviceable,

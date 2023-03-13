@@ -27,7 +27,7 @@ import java.util.Map;
 /**
  * This class is an utility class that perform wildcard-patterns matching and isolation.
  *
- * @version $Id$
+ * @version $Id: WildcardMatcherHelper.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class WildcardMatcherHelper {
     //~ Static fields/initializers -----------------------------------------------------------------

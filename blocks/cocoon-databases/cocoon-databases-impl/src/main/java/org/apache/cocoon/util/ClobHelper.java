@@ -29,7 +29,7 @@ import java.io.Writer;
  * database. Advanced methods and all methods for modifying the CLOB
  * are not implemented.
  *
- * @version $Id$
+ * @version $Id: ClobHelper.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class ClobHelper implements Clob{
 

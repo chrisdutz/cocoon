@@ -23,7 +23,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Defines an interface to provide client response information.
  *
- * @version $Id$
+ * @version $Id: Response.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface Response extends HttpServletResponse {
 

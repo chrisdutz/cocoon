@@ -25,7 +25,7 @@ import org.apache.cocoon.forms.FormsException;
 /**
  * The {@link AbstractContainerDefinition} corresponding to an {@link AbstractContainerWidget}.
  *
- * @version $Id$
+ * @version $Id: AbstractContainerDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public abstract class AbstractContainerDefinition extends AbstractWidgetDefinition
                                                   implements ContainerDefinition {

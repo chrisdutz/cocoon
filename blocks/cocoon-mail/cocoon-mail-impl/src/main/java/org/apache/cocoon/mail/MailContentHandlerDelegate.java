@@ -51,7 +51,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * </p>
  *
  * @since 24 October 2002
- * @version $Id$
+ * @version $Id: MailContentHandlerDelegate.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 
 /*

@@ -52,7 +52,7 @@ import java.util.Map;
  * private static String returnCookieProperty(Map ,String ,int ,String );
  * </pre>
  *
- * @version $Id$
+ * @version $Id: XSPCookieHelper.java 591596 2007-11-03 11:21:13Z felixk $
  */
 public class XSPCookieHelper extends XSPObjectHelper {
     /**

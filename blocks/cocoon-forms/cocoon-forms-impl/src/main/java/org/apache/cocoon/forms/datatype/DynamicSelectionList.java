@@ -54,7 +54,7 @@ import org.xml.sax.SAXException;
  * <code>fd:selection-list</code> XML, so if anything changes here to how that
  * XML is interpreted, it also needs to change over there and vice versa.</p>
  *
- * @version $Id$
+ * @version $Id: DynamicSelectionList.java 607755 2007-12-31 17:16:08Z joerg $
  */
 public class DynamicSelectionList implements FilterableSelectionList {
     private String src;

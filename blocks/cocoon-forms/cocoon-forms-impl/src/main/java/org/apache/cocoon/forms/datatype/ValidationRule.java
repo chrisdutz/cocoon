@@ -24,7 +24,7 @@ import org.outerj.expression.ExpressionContext;
  * perform their validation by checking a number of these validation rules
  * (though strictly spoken this is not required).
  * 
- * @version $Id$
+ * @version $Id: ValidationRule.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface ValidationRule {
     /**

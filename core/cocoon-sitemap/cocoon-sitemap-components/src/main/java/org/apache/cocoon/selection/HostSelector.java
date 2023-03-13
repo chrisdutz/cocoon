@@ -50,7 +50,7 @@ import org.apache.cocoon.environment.ObjectModelHelper;
  * A <code>Selector</code> that matches a string from within the host parameter
  * of the HTTP request.
  *
- * @version $Id$
+ * @version $Id: HostSelector.java 746648 2009-02-22 08:49:25Z joerg $
  */
 public class HostSelector extends NamedPatternsSelector {
 

@@ -28,7 +28,7 @@ import org.apache.excalibur.source.SourceException;
  * in response to an external event.</p>
  *
  * @since 2.1.1
- * @version $Id$
+ * @version $Id: SourceRefresher.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public interface SourceRefresher extends Component {
 

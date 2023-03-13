@@ -42,7 +42,7 @@ import org.apache.cocoon.portal.util.AbstractBean;
 /**
  * Default implementation of the layout factory.
  *
- * @version $Id$
+ * @version $Id: DefaultLayoutFactory.java 682758 2008-08-05 15:31:50Z cziegeler $
  */
 public class DefaultLayoutFactory
 	extends AbstractBean

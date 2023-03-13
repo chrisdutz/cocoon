@@ -46,7 +46,7 @@ import org.xml.sax.SAXException;
  * </pre>
  *
  * @see <a href="http://www.captcha.net/">captcha.net</a>
- * @version $Id$
+ * @version $Id: CaptchaField.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class CaptchaField extends Field {
 

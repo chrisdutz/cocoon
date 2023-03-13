@@ -34,7 +34,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @version $Id$
+ * @version $Id: LinkGatherer.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class LinkGatherer extends ExtendedXLinkPipe implements Transformer, CacheableProcessingComponent {
     private List links;

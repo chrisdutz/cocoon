@@ -33,7 +33,7 @@ import java.io.Serializable;
  * Base implementation of <code>ServerPagesGenerator</code>. This class
  * declares variables that must be explicitly initialized by code generators.
  *
- * @version $Id$
+ * @version $Id: AbstractServerPage.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class AbstractServerPage extends ServletGenerator
                                          implements CompiledComponent, CacheableProcessingComponent {

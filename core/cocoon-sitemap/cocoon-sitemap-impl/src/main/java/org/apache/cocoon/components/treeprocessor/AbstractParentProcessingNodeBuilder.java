@@ -30,7 +30,7 @@ import java.util.List;
  * Base class for parent <code>ProcessingNodeBuilders</code>, providing services for parsing
  * children nodes.
  *
- * @version $Id$
+ * @version $Id: AbstractParentProcessingNodeBuilder.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractParentProcessingNodeBuilder extends AbstractProcessingNodeBuilder
                                                           implements Configurable {

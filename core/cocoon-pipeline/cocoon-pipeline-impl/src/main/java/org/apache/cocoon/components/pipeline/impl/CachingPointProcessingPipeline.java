@@ -40,7 +40,7 @@ import org.apache.excalibur.source.SourceValidity;
  * The CachingPointProcessingPipeline
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: CachingPointProcessingPipeline.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class CachingPointProcessingPipeline
     extends AbstractCachingProcessingPipeline {

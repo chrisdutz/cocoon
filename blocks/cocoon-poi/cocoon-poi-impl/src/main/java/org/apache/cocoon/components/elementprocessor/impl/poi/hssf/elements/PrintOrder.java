@@ -25,7 +25,7 @@ import java.io.IOException;
  * Print order -- encapsulation of the strings representing the print
  * ordering, and a simpler way to deal with them.
  *
- * @version $Id$
+ * @version $Id: PrintOrder.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class PrintOrder {
     private static final String _right_then_down = "r_then_d";

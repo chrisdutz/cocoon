@@ -31,7 +31,7 @@ import org.apache.pluto.spi.optional.PortletRegistryService;
 
 /**
  *
- * @version $Id$
+ * @version $Id: ContainerServicesImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  *
  */
 public class ContainerServicesImpl

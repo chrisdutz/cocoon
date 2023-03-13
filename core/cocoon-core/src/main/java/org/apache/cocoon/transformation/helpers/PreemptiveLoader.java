@@ -37,7 +37,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * and loads content into the cache.
  * 
  * @since   2.1
- * @version $Id$
+ * @version $Id: PreemptiveLoader.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public final class PreemptiveLoader extends AbstractLogEnabled {
 

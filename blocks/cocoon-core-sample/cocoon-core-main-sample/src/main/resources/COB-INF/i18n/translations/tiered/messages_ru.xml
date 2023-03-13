@@ -19,7 +19,7 @@
 <!--
   - Russian override message catalogue file for Cocoon 2 i18n sample
   -
-  - $Id$
+  - $Id: messages_ru.xml 597553 2007-11-23 05:19:31Z vgritsenko $
   -->
 <catalogue xml:lang="ru">
     <message key="a_key">Это локально перекрытое значение по ключу.</message>

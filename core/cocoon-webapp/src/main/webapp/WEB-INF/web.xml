@@ -19,7 +19,7 @@
 <!--
   - This is the Cocoon web-app configurations file
   -
-  - $Id$
+  - $Id: web.xml 648148 2008-04-15 07:45:47Z reinhard $
   -->
 <web-app version="2.4"
          xmlns="http://java.sun.com/xml/ns/j2ee"

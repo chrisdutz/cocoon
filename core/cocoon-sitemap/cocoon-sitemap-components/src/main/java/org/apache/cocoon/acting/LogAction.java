@@ -63,7 +63,7 @@ import org.apache.commons.logging.LogFactory;
  * @cocoon.sitemap.component.documentation
  * A simple Action that logs a given message for a given log level.
  *
- * @version $Id$
+ * @version $Id: LogAction.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class LogAction extends AbstractAction implements ThreadSafe {
 

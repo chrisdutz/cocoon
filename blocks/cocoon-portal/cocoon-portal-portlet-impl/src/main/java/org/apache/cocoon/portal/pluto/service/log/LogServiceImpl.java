@@ -23,7 +23,7 @@ import org.apache.pluto.services.log.Logger;
 /**
  * Our own log service logging to an avalon logger.
  *
- * @version $Id$
+ * @version $Id: LogServiceImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class LogServiceImpl 
 implements LogService {

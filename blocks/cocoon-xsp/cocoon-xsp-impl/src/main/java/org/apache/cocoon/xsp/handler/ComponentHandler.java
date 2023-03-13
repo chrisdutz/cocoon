@@ -22,7 +22,7 @@ package org.apache.cocoon.xsp.handler;
  * This class acts like a Factory to instantiate the correct version
  * of the component handler that you need.
  *
- * @version $Id$
+ * @version $Id: ComponentHandler.java 587761 2007-10-24 03:08:05Z vgritsenko $
  * @since 2.2
  */
 public interface ComponentHandler {

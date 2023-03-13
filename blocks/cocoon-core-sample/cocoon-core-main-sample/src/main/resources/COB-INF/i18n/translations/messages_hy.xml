@@ -19,7 +19,7 @@
 <!--
   - Armenian message catalogue file for Cocoon 2 i18n sample
   -
-  - $Id$
+  - $Id: messages_hy.xml 605414 2007-12-19 04:12:49Z vgritsenko $
   -->
 <catalogue xml:lang="hy">
   <message key="count_title">Այս էջը այցելվել է {0} անգամ, վերջին անգամ {1}-ին:</message>

@@ -21,7 +21,7 @@ import org.apache.cocoon.forms.formmodel.Repeater.RepeaterRow;
 import org.apache.commons.jxpath.JXPathContext;
 
 /**
- * @version $Id$
+ * @version $Id: RepeaterItem.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class RepeaterItem {
 

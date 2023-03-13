@@ -145,7 +145,7 @@ import org.xml.sax.helpers.AttributesImpl;
  *       startSerializedXMLRecording(...) should be used.
  * </p>
  *
- * @version $Id$
+ * @version $Id: SQLTransformer.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class SQLTransformer extends AbstractSAXTransformer {
 

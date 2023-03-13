@@ -21,7 +21,7 @@ import org.apache.cocoon.el.ExpressionCompiler;
 import org.apache.cocoon.el.ExpressionException;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: JXPathCompiler.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class JXPathCompiler implements ExpressionCompiler {
     public Expression compile(String language, String expression)

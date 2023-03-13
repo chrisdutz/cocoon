@@ -67,7 +67,7 @@ import org.apache.excalibur.source.SourceValidity;
  *  sources that are described by this SourceDescriptor will NOT be cacheable.
  * </p>
  * 
- * @version $Id$
+ * @version $Id: SimpleJdbcSourceDescriptor.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class SimpleJdbcSourceDescriptor
 extends AbstractConfigurableSourceDescriptor

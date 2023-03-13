@@ -27,7 +27,7 @@ import org.apache.excalibur.xml.sax.XMLizable;
  * An object that holds a validation error message. The error message can
  * be a simple string or a piece of XML.
  * 
- * @version $Id$
+ * @version $Id: ValidationError.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class ValidationError {
 

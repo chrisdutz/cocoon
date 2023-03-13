@@ -24,7 +24,7 @@ import java.util.StringTokenizer;
 /**
  * Color codes
  *
- * @version $Id$
+ * @version $Id: ColorCode.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ColorCode {
     private static final int _red             = 0;

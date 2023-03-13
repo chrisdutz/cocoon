@@ -34,7 +34,7 @@ import java.util.Map;
  * will return the substring of id property of the session object.
  * <strong>NOTE:</strong> The module does not create a new session.
  *
- * @version $Id$
+ * @version $Id: SessionModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class SessionModule extends AbstractJXPathModule
     implements ThreadSafe {

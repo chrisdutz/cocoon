@@ -29,7 +29,7 @@ import org.outerj.expression.ExpressionContext;
  * and prefix, but those properties are depended on the credit card type and such validation
  * is not performed by this validation rule.
  * 
- * @version $Id$
+ * @version $Id: Mod10ValidationRule.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class Mod10ValidationRule extends AbstractValidationRule {
     public ValidationError validate(Object value, ExpressionContext expressionContext) {

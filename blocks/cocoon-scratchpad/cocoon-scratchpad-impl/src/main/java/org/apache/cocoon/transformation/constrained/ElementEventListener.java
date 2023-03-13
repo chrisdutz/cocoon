@@ -21,7 +21,7 @@ import java.util.EventListener;
 
 /**
  *
- * @version $Id$
+ * @version $Id: ElementEventListener.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface ElementEventListener extends EventListener {
 

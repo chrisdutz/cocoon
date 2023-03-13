@@ -32,7 +32,7 @@ import org.apache.lucene.store.Directory;
 /**
  * This is a sample helper class that can be used from flow to create an index.
  * 
- * @version $Id$
+ * @version $Id: LuceneUtil.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class LuceneUtil {
 

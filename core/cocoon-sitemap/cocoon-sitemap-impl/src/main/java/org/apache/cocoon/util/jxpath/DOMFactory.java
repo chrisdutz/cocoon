@@ -28,7 +28,7 @@ import org.w3c.dom.Node;
  * A <a href="http://jakarta.apache.org/commons/jxpath">JXPath</a> <code>AbstractFactory</code>
  * that creates DOM elements.
  *
- * @version $Id$
+ * @version $Id: DOMFactory.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 
 public class DOMFactory extends AbstractFactory {

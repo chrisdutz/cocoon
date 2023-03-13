@@ -21,7 +21,7 @@ import org.w3c.dom.Element;
 
 /**
  * Description of EnumSelectionListBuilder.
- * @version $Id$
+ * @version $Id: EnumSelectionListBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class EnumSelectionListBuilder implements SelectionListBuilder {
 

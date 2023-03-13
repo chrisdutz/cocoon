@@ -26,7 +26,7 @@ import org.odmg.ODMGException;
  * the ODMG Implementation object to interact with object database
  * through ODMG API.
  *
- * @version $Id$
+ * @version $Id: ODMG.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface ODMG extends Component {
 

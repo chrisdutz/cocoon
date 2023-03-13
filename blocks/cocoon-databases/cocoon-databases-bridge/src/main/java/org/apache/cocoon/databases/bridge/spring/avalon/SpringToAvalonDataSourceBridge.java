@@ -31,7 +31,7 @@ import org.apache.avalon.framework.service.ServiceSelector;
  * This class replaces standard Avalon's DataSourceSelector to provide access to database connections
  * defined as Spring beans.
  *  
- * @version $Id$
+ * @version $Id: SpringToAvalonDataSourceBridge.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class SpringToAvalonDataSourceBridge implements ServiceSelector {
     private ServiceSelector dataSourceSelector;

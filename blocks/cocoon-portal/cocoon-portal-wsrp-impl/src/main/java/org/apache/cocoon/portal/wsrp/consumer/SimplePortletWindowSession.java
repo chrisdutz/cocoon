@@ -23,7 +23,7 @@ import org.apache.wsrp4j.consumer.PortletWindowSession;
  * In additional to <code>SimplePortletWindowSession</code>
  * it contains information about the current window state and mode of a portlet window.<br/>
  *
- * @version $Id$
+ * @version $Id: SimplePortletWindowSession.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public interface SimplePortletWindowSession extends PortletWindowSession {
 

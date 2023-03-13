@@ -45,7 +45,7 @@ import org.apache.excalibur.source.TraversableSource;
 /**
  * A Source for a JCR node.
  *
- * @version $Id$
+ * @version $Id: JCRNodeSource.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JCRNodeSource implements Source, TraversableSource, ModifiableTraversableSource {
 

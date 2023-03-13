@@ -18,7 +18,7 @@
 
 <!--+
     |
-    | SVN $Id$
+    | SVN $Id: cocoon-faces.samplesxconf 448874 2006-09-22 09:37:04Z crossley $
     +-->
 <components>
   <!-- Include dependencies -->

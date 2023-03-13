@@ -20,7 +20,7 @@ package org.apache.cocoon.components.elementprocessor;
  * Create instances of specific ElementProcessor implementations to
  * handle specific XML elements and their content.
  *
- * @version $Id$
+ * @version $Id: ElementProcessorFactory.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface ElementProcessorFactory {
 

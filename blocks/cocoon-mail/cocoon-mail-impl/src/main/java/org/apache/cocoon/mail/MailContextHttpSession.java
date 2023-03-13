@@ -28,7 +28,7 @@ import org.apache.avalon.framework.context.Context;
  *  </p>
  *
  * @since 02 January 2003
- * @version $Id$
+ * @version $Id: MailContextHttpSession.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class MailContextHttpSession extends MailContext implements HttpSessionBindingListener {
 

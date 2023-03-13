@@ -30,7 +30,7 @@ import javax.servlet.http.HttpServletResponseWrapper;
 /**
  * Our response wrapper.
  *
- * @version $Id$
+ * @version $Id: ServletResponseImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class ServletResponseImpl extends HttpServletResponseWrapper {
 

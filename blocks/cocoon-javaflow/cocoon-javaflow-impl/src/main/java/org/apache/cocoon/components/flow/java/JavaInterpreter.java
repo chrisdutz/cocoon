@@ -38,7 +38,7 @@ import org.apache.cocoon.environment.Redirector;
 /**
  * Implementation of the java flow interpreter.
  *
- * @version $Id$
+ * @version $Id: JavaInterpreter.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public final class JavaInterpreter extends AbstractInterpreter {
 

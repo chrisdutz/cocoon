@@ -22,7 +22,7 @@ import java.io.InputStream;
 /**
  * This object describes an artifact to be deployed.
  *
- * @version $Id$
+ * @version $Id: DeploymentObject.java 609787 2008-01-07 21:37:46Z cziegeler $
  */
 public interface DeploymentObject {
 

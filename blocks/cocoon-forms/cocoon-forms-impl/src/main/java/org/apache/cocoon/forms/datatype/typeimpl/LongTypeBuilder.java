@@ -22,7 +22,7 @@ import org.w3c.dom.Element;
 
 /**
  * Builds {@link LongType}s.
- * @version $Id$
+ * @version $Id: LongTypeBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class LongTypeBuilder extends AbstractDatatypeBuilder {
     public Datatype build(Element datatypeElement, boolean arrayType, DatatypeManager datatypeManager) throws Exception {

@@ -26,7 +26,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * This is the entry point for Cocoon execution as an HTTP Servlet.
  *
- * @version $Id$
+ * @version $Id: SitemapServlet.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 
 // FIXME: This class should be merged with the o.a.c.sitemap.SitemapServlet

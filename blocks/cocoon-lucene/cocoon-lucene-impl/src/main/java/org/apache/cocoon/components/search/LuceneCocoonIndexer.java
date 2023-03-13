@@ -25,7 +25,7 @@ import java.net.URL;
 /**
  * The avalon behavioural component interface of an indexer.
  *
- * @version $Id$
+ * @version $Id: LuceneCocoonIndexer.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface LuceneCocoonIndexer {
     

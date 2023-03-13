@@ -43,7 +43,7 @@ import org.xml.sax.SAXException;
  *  <li>{@link org.apache.cocoon.portal.om.Layout}</li>
  * </ul>
  *
- * @version $Id$
+ * @version $Id: RemovableAspect.java 633260 2008-03-03 20:21:05Z cziegeler $
  */
 public class RemovableAspect
     extends AbstractAspect {

@@ -23,7 +23,7 @@ import org.xml.sax.Locator;
 import org.xml.sax.SAXException;
 
 /**
- * @version $Id$
+ * @version $Id: Instruction.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class Instruction extends Event {
 

@@ -100,7 +100,7 @@ import java.util.TreeSet;
  * @cocoon.sitemap.component.documentation.caching No
  * @cocoon.sitemap.component.pooling.max  16
  *
- * @version $Id$
+ * @version $Id: StatusGenerator.java 644184 2008-04-03 06:45:43Z joerg $
  */
 public class StatusGenerator extends ServiceableGenerator
                              implements Contextualizable, Configurable {

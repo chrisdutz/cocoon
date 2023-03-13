@@ -20,7 +20,7 @@ package org.apache.cocoon.environment;
  * A class of this interface is able to store and retrieve references to
  * other objects by a key.
  * 
- * @version $Id$
+ * @version $Id: ValueHolder.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface ValueHolder {
 	/**

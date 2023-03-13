@@ -31,7 +31,7 @@ import org.springframework.jms.core.JmsTemplate;
  * Abstract {@link javax.jms.MessageListener} implementation. Registers as listener for an injected {@link Destination},
  * where Destination could either be a Topic or a Queue.
  * 
- * @version $Id$
+ * @version $Id: AbstractMessageListener.java 680957 2008-07-30 10:13:35Z reinhard $
  */
 public abstract class AbstractMessageListener extends AbstractLogEnabled implements MessageListener {
 

@@ -28,7 +28,7 @@ import org.apache.excalibur.source.Source;
  *
  * @see org.apache.excalibur.source.Source
  * @see javax.activation.DataSource
- * @version $Id$
+ * @version $Id: SourceDataSource.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class SourceDataSource extends AbstractDataSource {
 

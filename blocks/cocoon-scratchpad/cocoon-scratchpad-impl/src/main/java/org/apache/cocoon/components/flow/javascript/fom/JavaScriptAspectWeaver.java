@@ -84,7 +84,7 @@ import org.apache.cocoon.util.WildcardMatcherHelper;
  * </ul>
  * 
  * @since Sept, 2003
- * @version $Id$
+ * @version $Id: JavaScriptAspectWeaver.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class JavaScriptAspectWeaver extends AbstractLogEnabled
                                     implements Serviceable {

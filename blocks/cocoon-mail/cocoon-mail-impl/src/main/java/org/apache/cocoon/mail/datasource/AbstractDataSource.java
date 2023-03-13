@@ -27,7 +27,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * The AbstractDataSource class is a base class for other {@link DataSource}
  * implementation.
  *
- * @version $Id$
+ * @version $Id: AbstractDataSource.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class AbstractDataSource extends AbstractLogEnabled
                                          implements DataSource {

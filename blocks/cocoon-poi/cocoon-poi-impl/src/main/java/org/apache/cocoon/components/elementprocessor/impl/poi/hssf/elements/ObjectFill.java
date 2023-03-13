@@ -20,7 +20,7 @@ package org.apache.cocoon.components.elementprocessor.impl.poi.hssf.elements;
 /**
  * ObjectFill codes
  *
- * @version $Id$
+ * @version $Id: ObjectFill.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ObjectFill {
     public static final int OBJECT_FILL_LINE = 1;

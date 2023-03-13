@@ -31,7 +31,7 @@ import org.apache.cocoon.environment.SourceResolver;
  * This action starts the preemptive loader and runs forever.
  * 
  * @since 2.1
- * @version $Id$
+ * @version $Id: PreemptiveLoaderAction.java 607380 2007-12-29 05:39:06Z vgritsenko $
  */
 public class PreemptiveLoaderAction extends ServiceableAction
                                     implements ThreadSafe {

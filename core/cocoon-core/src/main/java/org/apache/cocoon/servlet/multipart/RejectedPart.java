@@ -23,7 +23,7 @@ import java.util.Map;
 /**
  * An upload part that was rejected because request length exceeded the maximum upload size.
  * 
- * @version $Id$
+ * @version $Id: RejectedPart.java 587750 2007-10-24 02:35:22Z vgritsenko $
  * @since 2.1.8
  */
 public class RejectedPart extends Part {

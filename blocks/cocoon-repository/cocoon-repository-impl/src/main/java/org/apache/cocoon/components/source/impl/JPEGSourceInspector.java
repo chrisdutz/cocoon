@@ -26,7 +26,7 @@ import org.apache.excalibur.source.SourceException;
 /**
  * This source inspector adds extra attributes for image files.
  *
- * @version $Id$
+ * @version $Id: JPEGSourceInspector.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class JPEGSourceInspector extends AbstractImageSourceInspector implements ThreadSafe {
 

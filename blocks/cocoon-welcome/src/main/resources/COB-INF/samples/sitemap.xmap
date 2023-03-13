@@ -19,7 +19,7 @@
 <!--
   - This sitemap maps empty URL to the page listing all installed samples.
   -
-  - $Id$
+  - $Id: sitemap.xmap 606321 2007-12-21 21:23:00Z vgritsenko $
   -->
 <map:sitemap xmlns:map="http://apache.org/cocoon/sitemap/1.0">
 

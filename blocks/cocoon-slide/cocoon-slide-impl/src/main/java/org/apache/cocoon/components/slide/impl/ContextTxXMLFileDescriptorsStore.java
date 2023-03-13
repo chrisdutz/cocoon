@@ -28,7 +28,7 @@ import org.apache.slide.store.txfile.TxXMLFileDescriptorsStore;
  * Specialized version of the TxXMLFileDescriptorStore from the
  * Jakarta Slide project, which respects the context path and work directory.
  *
- * @version $Id$
+ * @version $Id: ContextTxXMLFileDescriptorsStore.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ContextTxXMLFileDescriptorsStore extends TxXMLFileDescriptorsStore {
 

@@ -33,7 +33,7 @@ import org.springframework.core.Ordered;
 
 
 /**
- * @version $Id$
+ * @version $Id: DefaultUserService.java 595791 2007-11-16 19:39:32Z cziegeler $
  */
 public class DefaultUserService
     extends AbstractBean

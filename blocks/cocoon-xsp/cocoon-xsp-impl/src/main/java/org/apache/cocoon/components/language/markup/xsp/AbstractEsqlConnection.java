@@ -26,7 +26,7 @@ import org.apache.commons.lang.BooleanUtils;
 import org.apache.cocoon.util.AbstractLogEnabled;
 
 /**
- * @version $Id$
+ * @version $Id: AbstractEsqlConnection.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class AbstractEsqlConnection extends AbstractLogEnabled {
 

@@ -29,7 +29,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * but also replaces variables of the form {var} with values from a map.
  *
  * @see VariableConfiguration
- * @version $Id$
+ * @version $Id: InterpolatingConfigurationHandler.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class InterpolatingConfigurationHandler extends SAXConfigurationHandler {
     final private Map vars;

@@ -37,7 +37,7 @@ import org.apache.commons.lang.StringUtils;
  * A widget that serves as a container for other widgets, the top-level widget in
  * a form description file.
  *
- * @version $Id$
+ * @version $Id: Form.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class Form extends AbstractContainerWidget
                   implements ValidationErrorAware {

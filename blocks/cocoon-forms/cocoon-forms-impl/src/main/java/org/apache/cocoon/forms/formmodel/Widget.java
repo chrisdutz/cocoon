@@ -52,7 +52,7 @@ import java.util.Locale;
  * keeps the Widgets small and light to create. This mechanism is similar to
  * classes and objects in Java.
  *
- * @version $Id$
+ * @version $Id: Widget.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface Widget extends Locatable {
 

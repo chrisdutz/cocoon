@@ -49,7 +49,7 @@ import org.apache.avalon.framework.parameters.Parameters;
  * A very simple selector that operates on string literals, useful especially
  * in conjunction with input modules.
  *
- * @version $Id$
+ * @version $Id: SimpleSelector.java 607378 2007-12-29 05:36:16Z vgritsenko $
  * @since 2.1
  */
 public class SimpleSelector extends AbstractSwitchSelector {

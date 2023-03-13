@@ -53,7 +53,7 @@ import org.apache.commons.lang.StringUtils;
  * This class is used in {@link org.apache.cocoon.forms.formmodel.CalculatedField}s and 
  * {@link org.apache.cocoon.forms.formmodel.CalculatedFieldAlgorithm}s. 
  * </p>
- * @version $Id$
+ * @version $Id: WidgetFinder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class WidgetFinder {
 

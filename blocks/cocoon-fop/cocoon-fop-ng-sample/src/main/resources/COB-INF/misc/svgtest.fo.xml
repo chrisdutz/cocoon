@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- CVS $Id$ -->
+<!-- CVS $Id: svgtest.fo.xml 448875 2006-09-22 09:38:56Z crossley $ -->
 <fo:root xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="http://www.w3.org/1999/XSL/Format">
   <fo:layout-master-set>
     <fo:simple-page-master margin-right="0.5in" margin-left="0.5in" margin-bottom="0.5in" margin-top="0.5in" page-width="8.5in" page-height="11.5in" master-name="all">

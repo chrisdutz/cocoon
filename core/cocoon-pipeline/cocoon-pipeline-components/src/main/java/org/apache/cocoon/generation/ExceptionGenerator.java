@@ -85,7 +85,7 @@ import java.util.Map;
  * pipeline execution.
  *
  * @since 2.1.8
- * @version $Id$
+ * @version $Id: ExceptionGenerator.java 607379 2007-12-29 05:36:49Z vgritsenko $
  */
 public class ExceptionGenerator extends AbstractGenerator {
 

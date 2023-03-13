@@ -20,7 +20,7 @@ import java.io.PrintStream;
 import java.io.PrintWriter;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: ErrorHolder.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ErrorHolder extends Exception {
 

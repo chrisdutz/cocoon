@@ -19,7 +19,7 @@
 <!--
  * Simple demo that inserts a row into hsqldb using OJB with PB
  *
- * @version $Id$
+ * @version $Id: demo1.xsp 449170 2006-09-23 05:36:36Z crossley $
 -->
 
 <xsp:page language="java" xmlns:xsp="http://apache.org/xsp">

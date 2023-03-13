@@ -33,7 +33,7 @@ import java.io.IOException;
 import java.util.Map;
 
 /**
- * @version $Id$
+ * @version $Id: LinkTranslator.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class LinkTranslator extends ExtendedXLinkPipe implements Transformer, CacheableProcessingComponent {
     

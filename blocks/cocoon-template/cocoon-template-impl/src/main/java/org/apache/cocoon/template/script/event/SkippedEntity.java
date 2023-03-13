@@ -25,7 +25,7 @@ import org.xml.sax.Locator;
 import org.xml.sax.SAXException;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: SkippedEntity.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class SkippedEntity extends Event {
     public SkippedEntity(Locator location, String name) {

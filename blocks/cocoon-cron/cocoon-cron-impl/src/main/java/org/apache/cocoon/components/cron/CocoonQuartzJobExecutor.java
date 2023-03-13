@@ -43,7 +43,7 @@ import org.quartz.JobExecutionException;
  * methods using the "<code>cron-parameters</code>" and "<code>cron-objectmap</code>" request
  * attributes, respectively.
  *
- * @version $Id$
+ * @version $Id: CocoonQuartzJobExecutor.java 587758 2007-10-24 02:55:27Z vgritsenko $
  *
  * @since 2.1.1
  */

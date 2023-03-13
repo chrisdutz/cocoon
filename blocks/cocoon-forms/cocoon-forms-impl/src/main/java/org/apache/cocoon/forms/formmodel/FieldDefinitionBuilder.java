@@ -24,7 +24,7 @@ import org.w3c.dom.Element;
 /**
  * Builds {@link FieldDefinition}s.
  *
- * @version $Id$
+ * @version $Id: FieldDefinitionBuilder.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public class FieldDefinitionBuilder extends AbstractDatatypeWidgetDefinitionBuilder {
 

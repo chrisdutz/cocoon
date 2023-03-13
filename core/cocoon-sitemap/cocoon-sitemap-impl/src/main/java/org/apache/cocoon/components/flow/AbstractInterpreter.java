@@ -51,7 +51,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * handle all flow calls for a given sitemap, and must therefore be thread safe.
  *
  * @since March 15, 2002
- * @version $Id$
+ * @version $Id: AbstractInterpreter.java 688684 2008-08-25 09:43:00Z gkossakowski $
  */
 public abstract class AbstractInterpreter extends AbstractLogEnabled
                                           implements Serviceable, Contextualizable, Interpreter,

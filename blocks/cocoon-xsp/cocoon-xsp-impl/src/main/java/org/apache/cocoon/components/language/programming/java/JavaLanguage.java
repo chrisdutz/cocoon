@@ -45,7 +45,7 @@ import org.apache.cocoon.util.avalon.CLLoggerWrapper;
 /**
  * The Java programming language processor
  *
- * @version $Id$
+ * @version $Id: JavaLanguage.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class JavaLanguage extends CompiledProgrammingLanguage
         implements Initializable, ThreadSafe, Serviceable, Disposable {

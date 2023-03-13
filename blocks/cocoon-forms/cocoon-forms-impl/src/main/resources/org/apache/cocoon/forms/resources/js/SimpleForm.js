@@ -28,7 +28,7 @@ dojo.require("cocoon.forms.common");
  *
  * NOTE: Introduced in 2.1.11, replaces functionality in forms-lib.js
  *
- * @version $Id$
+ * @version $Id: SimpleForm.js 491930 2007-01-02 20:44:30Z jeremy $
  */
 
 dojo.widget.defineWidget(

@@ -24,7 +24,7 @@ import org.apache.commons.jxpath.JXPathContext;
 
 /**
  * AbstractCustomBinding
- * @version $Id$
+ * @version $Id: AbstractCustomBinding.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public abstract class AbstractCustomBinding implements Binding {
 

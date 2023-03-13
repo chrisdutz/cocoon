@@ -47,7 +47,7 @@ import org.apache.excalibur.source.TraversableSource;
  * The CopySourceAction copies the content of it's "src" attribute to its "dest" parameter.
  * The destination must of course resolve to a <code>WriteableSource</code>
  *
- * @version $Id$
+ * @version $Id: CopySourceAction.java 607380 2007-12-29 05:39:06Z vgritsenko $
  */
 public class CopySourceAction 
     extends ServiceableAction 

@@ -22,7 +22,7 @@ import org.xml.sax.SAXException;
  * Implements support for the XPointer xmlns() Scheme.
  * See also <a href="http://www.w3.org/TR/xptr-xmlns/">http://www.w3.org/TR/xptr-xmlns/</a>.
  *
- * @version $Id$
+ * @version $Id: XmlnsPart.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class XmlnsPart implements PointerPart {
     private String prefix;

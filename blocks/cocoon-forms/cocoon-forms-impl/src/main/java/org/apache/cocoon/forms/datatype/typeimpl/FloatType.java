@@ -19,7 +19,7 @@ package org.apache.cocoon.forms.datatype.typeimpl;
 /**
  * A {@link org.apache.cocoon.forms.datatype.Datatype Datatype} implementation
  * for float numbers (backed by the java.lang.Float class).
- * @version $Id$
+ * @version $Id: FloatType.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class FloatType extends AbstractDatatype {
     public Class getTypeClass() {

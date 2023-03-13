@@ -31,7 +31,7 @@ import org.xml.sax.ContentHandler;
  * TBD
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: DefaultWeb3StreamerImpl.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class DefaultWeb3StreamerImpl implements Web3Streamer, Poolable {
 

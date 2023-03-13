@@ -36,7 +36,7 @@ import java.util.Map;
  * rollback or commit is called. Then values are either discarded or
  * copied to the final destination.</p>
  *
- * @version $Id$
+ * @version $Id: RequestAttributeOutputModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class RequestAttributeOutputModule extends AbstractOutputModule implements ThreadSafe {
 

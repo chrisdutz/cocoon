@@ -34,7 +34,7 @@ import org.apache.pluto.om.window.PortletWindow;
 /**
  * Our request wrapper.
  *
- * @version $Id$
+ * @version $Id: ServletRequestImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class ServletRequestImpl extends HttpServletRequestWrapper {
 

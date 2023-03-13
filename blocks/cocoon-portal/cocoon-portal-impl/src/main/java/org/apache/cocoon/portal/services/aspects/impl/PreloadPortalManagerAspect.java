@@ -35,7 +35,7 @@ import org.xml.sax.helpers.DefaultHandler;
  * TODO - preload all coplets for the first page rendering (as changed list is empty)
  * TODO - provide hook in CopletAdapter for preloading.
  *
- * @version $Id$
+ * @version $Id: PreloadPortalManagerAspect.java 600025 2007-12-01 00:43:11Z cziegeler $
  */
 public class PreloadPortalManagerAspect
 	extends AbstractBean

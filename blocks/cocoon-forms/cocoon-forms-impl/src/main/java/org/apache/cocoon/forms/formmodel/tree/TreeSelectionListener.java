@@ -21,7 +21,7 @@ import org.apache.cocoon.forms.event.WidgetListener;
 /**
  * Listener for changes in a {@link Tree}'s selection.
  * 
- * @version $Id$
+ * @version $Id: TreeSelectionListener.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface TreeSelectionListener extends WidgetListener {
 

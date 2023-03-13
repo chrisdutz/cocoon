@@ -30,7 +30,7 @@ import org.apache.commons.jxpath.JXPathContext;
  * union widget.</li>
  * </ol>
  *
- * @version $Id$
+ * @version $Id: UnionJXPathBinding.java 640682 2008-03-25 03:23:17Z vgritsenko $
  */
 public class UnionJXPathBinding extends ComposedJXPathBindingBase {
 

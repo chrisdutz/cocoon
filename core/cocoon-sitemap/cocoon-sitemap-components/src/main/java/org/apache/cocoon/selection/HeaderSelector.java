@@ -41,7 +41,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * A <code>Selector</code> that matches a string against a configurable
  * request header, e.g. "referer".
  *
- * @version $Id$
+ * @version $Id: HeaderSelector.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class HeaderSelector extends AbstractLogEnabled
                             implements Configurable, ThreadSafe, Selector {

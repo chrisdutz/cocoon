@@ -26,7 +26,7 @@ import org.w3c.dom.Element;
 /**
  * Builds {@link ActionDefinition}s.
  *
- * @version $Id$
+ * @version $Id: ActionDefinitionBuilder.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public class ActionDefinitionBuilder extends AbstractWidgetDefinitionBuilder {
 

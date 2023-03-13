@@ -19,7 +19,7 @@ package org.apache.cocoon;
 
 /**
  * TODO - We need to find a way to setup the bean factory!
- * @version $Id$
+ * @version $Id: SitemapTestCase.java 587750 2007-10-24 02:35:22Z vgritsenko $
  *
  */
 public class SitemapTestCase extends AbstractTestCase {

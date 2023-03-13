@@ -22,7 +22,7 @@ import org.apache.cocoon.portal.event.Event;
 /**
  * Helper class for a layout event.
  *
- * @version $Id$
+ * @version $Id: LayoutEventDescription.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class LayoutEventDescription extends LayoutMapping {
 

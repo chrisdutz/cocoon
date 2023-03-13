@@ -40,7 +40,7 @@ import org.xml.sax.SAXException;
 /**
  * Verify if a user can be authenticated.
  *
- * @version $Id$
+ * @version $Id: PipelineSecurityHandler.java 611252 2008-01-11 18:27:17Z cziegeler $
 */
 public class PipelineSecurityHandler
     extends AbstractSecurityHandler {

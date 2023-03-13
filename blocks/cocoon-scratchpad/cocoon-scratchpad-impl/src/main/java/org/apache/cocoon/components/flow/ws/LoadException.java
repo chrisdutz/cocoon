@@ -19,7 +19,7 @@ package org.apache.cocoon.components.flow.ws;
 import org.apache.cocoon.ProcessingException;
 
 /**
- * @version $Id$
+ * @version $Id: LoadException.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class LoadException extends ProcessingException {
 

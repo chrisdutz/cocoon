@@ -19,7 +19,7 @@ package org.apache.cocoon.portal;
 /**
  * Base class for all portal related exceptions.
  *
- * @version $Id$
+ * @version $Id: PortalException.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortalException extends Exception {
 

@@ -32,7 +32,7 @@ package org.apache.cocoon.classloader.reloading;
 
 /**
  * @see AbstractClassLoaderFactory
- * @version $Id$
+ * @version $Id: ReloadingClassLoaderFactory.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 public class ReloadingClassLoaderFactory { // extends AbstractClassLoaderFactory {

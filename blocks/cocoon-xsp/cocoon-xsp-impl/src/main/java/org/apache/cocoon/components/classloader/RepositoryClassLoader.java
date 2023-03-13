@@ -37,7 +37,7 @@ import org.apache.cocoon.util.ClassUtils;
  *     compatibility reasons.  It doesn't hurt that it runs quicker
  *     now as well.
  *
- * @version $Id$
+ * @version $Id: RepositoryClassLoader.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class RepositoryClassLoader extends URLClassLoader {
 

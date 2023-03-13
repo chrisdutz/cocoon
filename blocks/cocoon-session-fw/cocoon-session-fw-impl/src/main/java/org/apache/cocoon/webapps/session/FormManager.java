@@ -23,7 +23,7 @@ import org.w3c.dom.DocumentFragment;
  * Form manager
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: FormManager.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface FormManager {
 

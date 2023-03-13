@@ -21,7 +21,7 @@ import java.util.Collection;
 /**
  * Profiler component interface.
  *
- * @version $Id$
+ * @version $Id: Profiler.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface Profiler {
     

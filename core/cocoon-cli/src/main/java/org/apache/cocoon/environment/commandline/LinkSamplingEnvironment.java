@@ -34,7 +34,7 @@ import org.apache.cocoon.environment.ObjectModelHelper;
 /**
  * This environment is sample the links of the resource.
  *
- * @version $Id$
+ * @version $Id: LinkSamplingEnvironment.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class LinkSamplingEnvironment extends AbstractCommandLineEnvironment {
 

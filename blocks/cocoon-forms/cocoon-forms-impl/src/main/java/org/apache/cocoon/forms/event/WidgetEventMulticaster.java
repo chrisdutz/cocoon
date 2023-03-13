@@ -26,7 +26,7 @@ import org.apache.cocoon.forms.formmodel.tree.TreeSelectionListener;
  * Convenience class to handle all widget event listeners. See
  * <code>java.awt.AWTEventMulticaster</code> for more information on its use.
  * 
- * @version $Id$
+ * @version $Id: WidgetEventMulticaster.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class WidgetEventMulticaster extends AWTEventMulticaster implements
     ActionListener, ValueChangedListener, ProcessingPhaseListener, RepeaterListener {

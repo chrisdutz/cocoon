@@ -62,7 +62,7 @@ import org.w3c.dom.Element;
  * as beans in the Spring bean definition registry.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: BridgeElementParser.java 1828354 2018-04-04 15:25:44Z ilgrosso $
  */
 public class BridgeElementParser extends AbstractElementParser {
 

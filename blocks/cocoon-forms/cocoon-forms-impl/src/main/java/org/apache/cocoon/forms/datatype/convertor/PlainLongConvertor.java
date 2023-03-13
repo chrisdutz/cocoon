@@ -25,7 +25,7 @@ import java.util.Locale;
  * Convertor for java.lang.Longs that does not do any (Locale-dependent)
  * formatting. It simply uses String.valueOf() and Long.parseLong().
  *
- * @version $Id$
+ * @version $Id: PlainLongConvertor.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class PlainLongConvertor implements Convertor {
     public ConversionResult convertFromString(String value, Locale locale, Convertor.FormatCache formatCache) {

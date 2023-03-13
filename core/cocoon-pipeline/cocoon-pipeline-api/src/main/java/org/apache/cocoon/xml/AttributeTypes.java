@@ -19,7 +19,7 @@ package org.apache.cocoon.xml;
 /**
  * Insert the type's description here.
  * 
- * @version $Id$
+ * @version $Id: AttributeTypes.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface AttributeTypes {
 

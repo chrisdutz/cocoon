@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!-- $Id$ -->
+<!-- $Id: block-paths.xsl 534414 2007-05-02 12:23:27Z gkossakowski $ -->
 
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 

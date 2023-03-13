@@ -25,7 +25,7 @@ import org.apache.cocoon.forms.datatype.typeimpl.IntegerType;
 /**
  * Test case for CForm's group widget and inheritance
  *
- * @version $Id$
+ * @version $Id: GroupTestCase.java 606939 2007-12-26 19:51:41Z gkossakowski $
  */
 
 public class GroupTestCase extends CocoonTestCase {

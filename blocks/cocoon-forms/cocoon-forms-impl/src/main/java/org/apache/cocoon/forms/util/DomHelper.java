@@ -62,7 +62,7 @@ import org.xml.sax.SAXException;
  * able to provide information about the location of elements in their source
  * XML file. See the {@link #getLocation(Element)} method.
  *
- * @version $Id$
+ * @version $Id: DomHelper.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class DomHelper {
 

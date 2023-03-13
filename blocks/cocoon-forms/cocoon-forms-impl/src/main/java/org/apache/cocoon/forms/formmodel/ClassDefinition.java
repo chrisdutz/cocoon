@@ -20,7 +20,7 @@ package org.apache.cocoon.forms.formmodel;
  * A {@link WidgetDefinition} which holds a collection of {@link Widget}s
  * and which can be instantiated with a {@link NewDefinition}.
  *
- * @version $Id$
+ * @version $Id: ClassDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class ClassDefinition extends AbstractContainerDefinition {
     public Widget createInstance() {

@@ -36,7 +36,7 @@ import org.apache.cocoon.caching.EventRegistry;
  * disk.
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: DefaultEventRegistryImpl.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class DefaultEventRegistryImpl extends AbstractDoubleMapEventRegistry
                                       implements EventRegistry, Contextualizable {

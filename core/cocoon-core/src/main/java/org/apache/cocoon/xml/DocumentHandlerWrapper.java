@@ -36,7 +36,7 @@ import org.xml.sax.helpers.AttributeListImpl;
  * calls into appropriate <code>xmlns</code> and <code>xmlns:...</code> element
  * attributes.
  *
- * @version $Id$
+ * @version $Id: DocumentHandlerWrapper.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class DocumentHandlerWrapper extends AbstractXMLConsumer {
 

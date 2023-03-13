@@ -41,7 +41,7 @@ import java.util.Map;
  *  <li><strong>attribute-name</strong>: name of the request attribute in which to store the form instance
  * </ul>
  * 
- * @version $Id$
+ * @version $Id: MakeFormAction.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class MakeFormAction implements Action, ThreadSafe, Serviceable {
 

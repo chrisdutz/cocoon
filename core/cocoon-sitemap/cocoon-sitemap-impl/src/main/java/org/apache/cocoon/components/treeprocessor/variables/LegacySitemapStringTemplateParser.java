@@ -32,7 +32,7 @@ import org.apache.cocoon.template.expression.AbstractStringTemplateParser;
 import org.apache.commons.io.IOUtils;
 
 /**
- * @version $Id$
+ * @version $Id: LegacySitemapStringTemplateParser.java 605955 2007-12-20 15:03:43Z vgritsenko $
  */
 public class LegacySitemapStringTemplateParser extends AbstractStringTemplateParser {
     

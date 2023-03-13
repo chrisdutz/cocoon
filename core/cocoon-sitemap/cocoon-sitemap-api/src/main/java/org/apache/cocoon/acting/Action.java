@@ -24,7 +24,7 @@ import java.util.Map;
 
 /**
  *
- * @version $Id$
+ * @version $Id: Action.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface Action {
 

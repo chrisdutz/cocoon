@@ -20,7 +20,7 @@
     | This stylesheets transforms hello world XML page to ZIP serializer's format.
     | After the serializer, result is an OpenOffice Draw document (sxd).
     |
-    | @version $Id$
+    | @version $Id: page2sxd.xsl 448813 2006-09-22 04:45:31Z crossley $
     +-->
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform"

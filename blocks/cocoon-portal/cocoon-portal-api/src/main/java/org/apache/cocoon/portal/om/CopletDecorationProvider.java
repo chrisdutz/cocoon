@@ -20,7 +20,7 @@ import java.util.List;
 
 
 /**
- * @version $Id$
+ * @version $Id: CopletDecorationProvider.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface CopletDecorationProvider extends CopletAdapter {
 

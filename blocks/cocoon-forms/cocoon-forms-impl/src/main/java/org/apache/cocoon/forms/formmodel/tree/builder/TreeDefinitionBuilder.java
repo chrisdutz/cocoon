@@ -34,7 +34,7 @@ import org.w3c.dom.Element;
 /**
  * Builds a {@link org.apache.cocoon.forms.formmodel.tree.Tree}.
  *
- * @version $Id$
+ * @version $Id: TreeDefinitionBuilder.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public class TreeDefinitionBuilder extends AbstractWidgetDefinitionBuilder {
 

@@ -19,7 +19,7 @@
 <!--
   - Greek message catalogue file for Cocoon 2 i18n sample
   -
-  - $Id$
+  - $Id: messages_el.xml 605414 2007-12-19 04:12:49Z vgritsenko $
   -->
 <catalogue xml:lang="el">
   <message key="a_key">Αυτή είναι μία τιμή κλειδί.</message>

@@ -20,7 +20,7 @@ package org.apache.cocoon.portal.util;
  * A Parameter is just a name/value pair consisting of strings.
  * This class is used by Castor.
  *
- * @version $Id$
+ * @version $Id: ParameterImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class ParameterImpl implements java.io.Serializable {
 

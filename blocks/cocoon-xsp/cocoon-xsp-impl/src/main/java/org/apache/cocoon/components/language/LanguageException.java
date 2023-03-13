@@ -27,7 +27,7 @@ import java.io.FileReader;
 /**
  * The language exception.
  *
- * @version $Id$
+ * @version $Id: LanguageException.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class LanguageException extends CascadingException {
 

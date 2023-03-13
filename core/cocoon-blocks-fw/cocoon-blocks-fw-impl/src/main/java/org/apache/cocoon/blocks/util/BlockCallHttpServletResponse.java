@@ -29,7 +29,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Creates a HttpServletResponse object that is usable for internal block calls.
  * 
- * @version $Id$
+ * @version $Id: BlockCallHttpServletResponse.java 587749 2007-10-24 02:33:18Z vgritsenko $
  */
 public class BlockCallHttpServletResponse implements HttpServletResponse {
 

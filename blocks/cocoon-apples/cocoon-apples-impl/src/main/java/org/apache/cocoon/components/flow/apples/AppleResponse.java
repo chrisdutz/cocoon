@@ -21,7 +21,7 @@ import org.apache.cocoon.environment.Response;
 /**
  * AppleResponse defines the parts of the 'response' an AppleController can set.
  * 
- * @version $Id$
+ * @version $Id: AppleResponse.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public interface AppleResponse {
 	

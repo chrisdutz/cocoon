@@ -26,7 +26,7 @@ import org.apache.avalon.framework.parameters.Parameters;
 /**
  * This component schedules jobs.
  *
- * @version $Id$
+ * @version $Id: JobScheduler.java 587758 2007-10-24 02:55:27Z vgritsenko $
  *
  * @since 2.1.1
  */

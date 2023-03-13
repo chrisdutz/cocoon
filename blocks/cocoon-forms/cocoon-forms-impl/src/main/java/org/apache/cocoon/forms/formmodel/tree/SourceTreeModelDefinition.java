@@ -23,7 +23,7 @@ import org.apache.excalibur.source.SourceResolver;
 /**
  * Definition for {@link SourceTreeModel}
  * 
- * @version $Id$
+ * @version $Id: SourceTreeModelDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class SourceTreeModelDefinition implements TreeModelDefinition {
 

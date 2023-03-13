@@ -22,7 +22,7 @@ package org.apache.cocoon.components.elementprocessor.impl.poi.hssf.elements;
 /**
  * Direction codes
  *
- * @version $Id$
+ * @version $Id: Direction.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class Direction
 {

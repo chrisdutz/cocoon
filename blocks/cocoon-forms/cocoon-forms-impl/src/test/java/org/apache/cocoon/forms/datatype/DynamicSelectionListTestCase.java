@@ -32,7 +32,7 @@ import org.w3c.dom.Element;
 
 /**
  * Test case for CForms's DynamicSelectionList datatype.
- * @version $Id$
+ * @version $Id: DynamicSelectionListTestCase.java 607747 2007-12-31 16:18:01Z joerg $
  */
 public class DynamicSelectionListTestCase extends AbstractSelectionListTestCase {
 

@@ -32,7 +32,7 @@ import org.apache.pluto.services.property.PropertyManagerService;
  * @see javax.portlet.PortletResponse#addProperty(String, String)
  * @see javax.portlet.PortletResponse#setProperty(String, String) 
  *
- * @version $Id$
+ * @version $Id: PropertyManagerServiceImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PropertyManagerServiceImpl implements PropertyManagerService {
 

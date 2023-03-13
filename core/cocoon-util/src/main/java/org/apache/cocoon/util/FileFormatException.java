@@ -19,7 +19,7 @@ package org.apache.cocoon.util;
 import org.apache.avalon.framework.CascadingException;
 
 /**
- * @version $Id$
+ * @version $Id: FileFormatException.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class FileFormatException extends CascadingException {
     public FileFormatException(String s) {

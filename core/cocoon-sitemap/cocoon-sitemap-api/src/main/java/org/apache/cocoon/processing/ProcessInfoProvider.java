@@ -26,7 +26,7 @@ import javax.servlet.http.HttpServletResponse;
  * This component can be used to retrieve information about the current
  * process.
  *
- * @version $Id$
+ * @version $Id: ProcessInfoProvider.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 public interface ProcessInfoProvider {

@@ -30,7 +30,7 @@ import java.util.Map;
  *
  * A {@link SecurityHandler} must be implemented in a thread safe manner.
  *
- * @version $Id$
+ * @version $Id: SecurityHandler.java 587757 2007-10-24 02:52:49Z vgritsenko $
 */
 public interface SecurityHandler {
 

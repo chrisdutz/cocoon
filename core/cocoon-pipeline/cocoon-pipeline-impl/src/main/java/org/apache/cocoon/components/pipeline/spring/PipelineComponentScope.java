@@ -23,7 +23,7 @@ import org.springframework.beans.factory.config.Scope;
 /**
  * Pipeline component scope that scopes objects per one pipeline component.
  *
- * @version $Id$
+ * @version $Id: PipelineComponentScope.java 1828354 2018-04-04 15:25:44Z ilgrosso $
  * @since 2.2
  */
 public final class PipelineComponentScope implements Scope {

@@ -45,7 +45,7 @@ import org.xml.sax.InputSource;
  * usage of the <a href="http://jakarta.apache.org/commons/jxpath/index.html">
  * JXPath package </a>.
  *
- * @version $Id$
+ * @version $Id: JXPathBindingManager.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JXPathBindingManager implements BindingManager {
 

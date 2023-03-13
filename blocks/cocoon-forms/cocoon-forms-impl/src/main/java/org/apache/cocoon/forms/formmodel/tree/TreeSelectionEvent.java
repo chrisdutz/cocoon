@@ -21,7 +21,7 @@ import org.apache.cocoon.forms.event.WidgetEvent;
 /**
  * An event fired when the selection of a {@link Tree} changes.
  * 
- * @version $Id$
+ * @version $Id: TreeSelectionEvent.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class TreeSelectionEvent extends WidgetEvent {
     

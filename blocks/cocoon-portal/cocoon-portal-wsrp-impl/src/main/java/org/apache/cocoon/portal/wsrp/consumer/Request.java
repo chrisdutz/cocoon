@@ -27,7 +27,7 @@ import oasis.names.tc.wsrp.v1.types.NamedString;
  * which need to be passed back to the producer in order to process the 
  * interaction at the producer-side.<br/>
  * 
- * @version $Id$
+ * @version $Id: Request.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public interface Request {
 

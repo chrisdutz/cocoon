@@ -20,7 +20,7 @@ import org.apache.cocoon.taglib.VarTransformerTagSupport;
 import org.xml.sax.SAXException;
 
 /**
- * @version $Id$
+ * @version $Id: TextRecordingTag.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class TextRecordingTag extends VarTransformerTagSupport {
     StringBuffer bodyContent = new StringBuffer();

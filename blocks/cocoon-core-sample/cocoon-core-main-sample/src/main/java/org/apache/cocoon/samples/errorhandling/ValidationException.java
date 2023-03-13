@@ -19,7 +19,7 @@ package org.apache.cocoon.samples.errorhandling;
 /**
  * @author Bj&ouml;rn L&uuml;tkemeier <bluetkemeier@s-und-n.de>
  * @since April 23, 2003
- * @version $Id$
+ * @version $Id: ValidationException.java 433543 2006-08-22 06:22:54Z crossley $
  */
 public class ValidationException extends Exception {
     public ValidationException() {

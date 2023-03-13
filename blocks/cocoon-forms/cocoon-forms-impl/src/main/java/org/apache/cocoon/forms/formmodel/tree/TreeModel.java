@@ -22,7 +22,7 @@ import java.util.Collection;
  * Data model for the {@link Tree} widget, inspired by Swing's <code>TreeModel</code>, with
  * the difference that child nodes are accessed through keys rather than indices.
  * 
- * @version $Id$
+ * @version $Id: TreeModel.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface TreeModel {
 

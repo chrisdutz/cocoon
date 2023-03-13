@@ -25,7 +25,7 @@ import org.xml.sax.SAXException;
 /**
  * Base class for XSP-generated <code>ServerPagesGenerator</code> classes
  *
- * @version $Id$
+ * @version $Id: XSPGenerator.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class XSPGenerator extends AbstractServerPage
                                    implements Contextualizable {

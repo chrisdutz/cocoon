@@ -29,7 +29,7 @@ import org.apache.cocoon.environment.ValueHolder;
 /**
  * Servlet request wrapper for multipart parser.
  *
- * @version $Id$
+ * @version $Id: MultipartHttpServletRequest.java 648938 2008-04-17 03:17:53Z joerg $
  */
 public class MultipartHttpServletRequest extends HttpServletRequestWrapper implements ValueHolder {
 

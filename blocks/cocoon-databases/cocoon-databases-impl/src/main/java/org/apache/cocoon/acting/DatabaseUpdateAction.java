@@ -37,7 +37,7 @@ import java.util.Map;
  * Update a record in a database.  This Action assumes that there is
  * only one table at a time to update.
  *
- * @version $Id$
+ * @version $Id: DatabaseUpdateAction.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class DatabaseUpdateAction extends AbstractDatabaseAction implements ThreadSafe {
     private static final Map updateStatements = new HashMap();

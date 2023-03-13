@@ -24,7 +24,7 @@ import org.apache.cocoon.el.ExpressionException;
 import org.apache.cocoon.el.ExpressionFactory;
 
 /**
- * @version $Id$
+ * @version $Id: DefaultExpressionFactory.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class DefaultExpressionFactory implements ExpressionFactory {
 

@@ -36,7 +36,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
 /**
  * SourceRepository implementation.
  * 
- * @version $Id$
+ * @version $Id: SourceRepositoryImpl.java 932756 2010-04-10 16:32:09Z jasha $
  */
 public class SourceRepositoryImpl extends AbstractLogEnabled
                                   implements Serviceable, ThreadSafe, SourceRepository {

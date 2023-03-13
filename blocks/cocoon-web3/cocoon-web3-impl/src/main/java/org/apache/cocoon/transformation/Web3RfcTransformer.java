@@ -46,7 +46,7 @@ import com.sap.mw.jco.JCO;
  * TBD
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: Web3RfcTransformer.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class Web3RfcTransformer extends AbstractTransformer 
 implements Serviceable, Disposable, Configurable, Poolable, Recyclable {

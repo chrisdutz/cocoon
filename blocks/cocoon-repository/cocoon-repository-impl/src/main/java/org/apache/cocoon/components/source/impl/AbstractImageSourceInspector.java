@@ -29,7 +29,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * Abstract base class for inspectors that can calculate 
  * the size of an image of a particular type.
  *
- * @version $Id$
+ * @version $Id: AbstractImageSourceInspector.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class AbstractImageSourceInspector extends AbstractLogEnabled
                                                    implements SourceInspector {

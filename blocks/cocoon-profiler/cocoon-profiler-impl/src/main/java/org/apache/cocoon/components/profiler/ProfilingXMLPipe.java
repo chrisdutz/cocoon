@@ -30,7 +30,7 @@ import org.xml.sax.SAXException;
  * seperate the measurement of the time. The SAX fragments were also stored
  * into the ProfilerData.
  *
- * @version $Id$
+ * @version $Id: ProfilingXMLPipe.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ProfilingXMLPipe implements XMLPipe {
 

@@ -22,7 +22,7 @@ import java.io.Serializable;
 /**
  *  Employee's Bean
  *
- * @version $Id$
+ * @version $Id: Employee.java 587761 2007-10-24 03:08:05Z vgritsenko $
 */
 public class Employee implements Serializable {
 

@@ -31,7 +31,7 @@ dojo.require("dojo.widget.ComboBox");
  * a 2-item array containing a label (displayed) and a value (not displayed but
  * sent back to the server as the "{widget}_selected parameter".
  *
- * @version $Id$
+ * @version $Id: CFormsSuggest.js 508307 2007-02-16 04:28:15Z antonio $
  */
 
 dojo.widget.defineWidget(

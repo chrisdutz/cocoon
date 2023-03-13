@@ -31,7 +31,7 @@ import org.w3c.dom.Element;
 
 /**
  * This is the parser for the coplet type element.
- * @version $Id$
+ * @version $Id: CopletTypeDefinitionParser.java 600025 2007-12-01 00:43:11Z cziegeler $
  */
 public class CopletTypeDefinitionParser extends AbstractElementParser {
 

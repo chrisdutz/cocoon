@@ -38,7 +38,7 @@ import org.apache.cocoon.sitemap.PatternException;
 /**
  * Prepared implementation of {@link VariableResolver} for fast evaluation.
  *
- * @version $Id$
+ * @version $Id: PreparedVariableResolver.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 final public class PreparedVariableResolver extends VariableResolver
                                             implements Disposable {

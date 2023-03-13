@@ -21,7 +21,7 @@ import org.w3c.dom.Element;
 /**
  * A {@link WidgetListener} that can receive a configuration {@link Element}
  * 
- * @version $Id$
+ * @version $Id: ConfigurableWidgetListener.java 1857502 2019-04-14 05:20:19Z ilgrosso $
  */
 public interface ConfigurableWidgetListener extends WidgetListener {
 

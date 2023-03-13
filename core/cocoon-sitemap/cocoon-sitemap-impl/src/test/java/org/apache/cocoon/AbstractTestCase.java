@@ -47,7 +47,7 @@ import org.springframework.beans.factory.xml.XmlBeanDefinitionReader;
 /**
  * This class sets up all necessary environment information to implement own test cases.
  *
- * @version $Id$
+ * @version $Id: AbstractTestCase.java 1828354 2018-04-04 15:25:44Z ilgrosso $
  * @since 2.2
  */
 public abstract class AbstractTestCase extends TestCase {

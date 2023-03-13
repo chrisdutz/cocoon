@@ -28,7 +28,7 @@ import org.apache.cocoon.ProcessingException;
 
 /**
  *
- * @version $Id$
+ * @version $Id: CallNode.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class CallNode extends AbstractProcessingNode
                       implements ParameterizableProcessingNode {

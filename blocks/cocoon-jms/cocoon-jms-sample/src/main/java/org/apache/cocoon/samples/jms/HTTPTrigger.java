@@ -23,7 +23,7 @@ import org.apache.cocoon.util.NetUtils;
 import org.hsqldb.Trigger;
 
 /**
- * @version $Id$
+ * @version $Id: HTTPTrigger.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class HTTPTrigger implements Trigger {
 

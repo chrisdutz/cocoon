@@ -71,7 +71,7 @@ import org.apache.commons.lang.StringUtils;
  * "false". No values are then propagated to the sesion and session object is
  * not verified.
  *
- * @version $Id$
+ * @version $Id: DatabaseAuthenticatorAction.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class DatabaseAuthenticatorAction extends AbstractDatabaseAction implements ThreadSafe
 {

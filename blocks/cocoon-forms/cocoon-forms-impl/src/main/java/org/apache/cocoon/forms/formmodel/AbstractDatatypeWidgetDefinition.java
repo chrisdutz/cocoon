@@ -32,7 +32,7 @@ import org.apache.excalibur.xmlizer.XMLizer;
 /**
  * Base class for WidgetDefinitions that use a Datatype and SelectionList.
  *
- * @version $Id$
+ * @version $Id: AbstractDatatypeWidgetDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public abstract class AbstractDatatypeWidgetDefinition extends AbstractWidgetDefinition {
 

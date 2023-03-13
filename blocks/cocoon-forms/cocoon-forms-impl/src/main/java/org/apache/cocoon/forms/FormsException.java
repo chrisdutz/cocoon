@@ -23,7 +23,7 @@ import org.apache.cocoon.util.location.Location;
  * An exception raised when an error occurs during form handling. This is a
  * located exception, which points to the relevant element declaration.
  *
- * @version $Id$
+ * @version $Id: FormsException.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class FormsException extends ProcessingException {
 

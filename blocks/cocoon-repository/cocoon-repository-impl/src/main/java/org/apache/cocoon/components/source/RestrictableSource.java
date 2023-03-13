@@ -25,7 +25,7 @@ import org.apache.excalibur.source.SourceException;
 /**
  * A source, which is restrictable, which means you need a username and password.
  *
- * @version $Id$
+ * @version $Id: RestrictableSource.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface RestrictableSource extends Source {
 

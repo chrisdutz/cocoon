@@ -21,7 +21,7 @@ package org.apache.cocoon.forms.formmodel.tree;
  * is necessary here as tree models are mutable things, and therefore a new instance
  * must be created for each tree widget.
  * 
- * @version $Id$
+ * @version $Id: TreeModelDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface TreeModelDefinition {
 

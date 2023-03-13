@@ -37,7 +37,7 @@ import org.xml.sax.SAXException;
 /**
  * A tree widget, heavily inspired by Swing's <code>JTree</code>.
  *
- * @version $Id$
+ * @version $Id: Tree.java 642868 2008-03-31 03:49:27Z joerg $
  */
 public class Tree extends AbstractWidget {
 

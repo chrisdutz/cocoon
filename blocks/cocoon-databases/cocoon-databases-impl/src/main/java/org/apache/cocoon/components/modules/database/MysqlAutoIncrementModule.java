@@ -33,7 +33,7 @@ import org.apache.avalon.framework.thread.ThreadSafe;
  *
  * Here: <a href="http://www.mysql.com">MYSQL</a> AUTO_INCREMENT columns
  *
- * @version $Id$
+ * @version $Id: MysqlAutoIncrementModule.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class MysqlAutoIncrementModule implements AutoIncrementModule, ThreadSafe {
 

@@ -18,7 +18,7 @@
 
 <!--
     Convert slop output to HTML for the javateach sample
-    $Id$
+    $Id: jt-to-html.xsl 449184 2006-09-23 06:42:24Z crossley $
 -->
 <xsl:stylesheet
     version="1.0"

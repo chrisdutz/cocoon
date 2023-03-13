@@ -25,7 +25,7 @@ import org.apache.commons.lang.enums.ValuedEnum;
 /**
  * Type-safe enumeration of the various repeater actions that triggers events.
  * 
- * @version $Id$
+ * @version $Id: RepeaterEventAction.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class RepeaterEventAction extends ValuedEnum {
 

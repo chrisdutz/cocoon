@@ -19,7 +19,7 @@
 <!--
   - Prints out all passed parameters.
   -
-  - $Id$
+  - $Id: properties.xml 598514 2007-11-27 04:27:27Z vgritsenko $
   -->
 <properties xmlns:jx="http://apache.org/cocoon/templates/jx/1.0">
   <jx:forEach var="name" items="${cocoon.parameters.keySet()}">

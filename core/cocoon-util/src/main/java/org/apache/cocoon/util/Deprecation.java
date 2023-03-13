@@ -36,7 +36,7 @@ import org.apache.commons.logging.impl.SimpleLog;
  * an exception, and can therefore be used when detecting old features that have been completely
  * removed.
  *
- * @version $Id$
+ * @version $Id: Deprecation.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class Deprecation {
     

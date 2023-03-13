@@ -26,7 +26,7 @@ dojo.require("cocoon.ajax.BUHandler");
  *
  * NOTE: Introduced in 2.1.11
  *
- * @version $Id$
+ * @version $Id: AjaxForm.js 608305 2008-01-03 01:41:18Z joerg $
  */
 
 dojo.widget.defineWidget(

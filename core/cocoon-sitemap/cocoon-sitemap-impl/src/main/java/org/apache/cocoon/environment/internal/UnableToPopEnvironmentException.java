@@ -17,7 +17,7 @@
 package org.apache.cocoon.environment.internal;
 
 /**
- * @version $Id$
+ * @version $Id: UnableToPopEnvironmentException.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 public final class UnableToPopEnvironmentException extends EnvironmentHelperException {

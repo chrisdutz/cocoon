@@ -30,7 +30,7 @@
     session.
 
     Written by Theodore B. Achacoso, MD 991122 ted@groupserve.com
-    $Id$
+    $Id: page2vml.xsl 605414 2007-12-19 04:12:49Z vgritsenko $
 -->
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">

@@ -21,7 +21,7 @@ import org.apache.cocoon.environment.Request;
 /**
  * Helper class to handle Ajax requests
  * 
- * @version $Id$
+ * @version $Id: AjaxHelper.java 587757 2007-10-24 02:52:49Z vgritsenko $
  * @since 2.1.8
  */
 public class AjaxHelper {

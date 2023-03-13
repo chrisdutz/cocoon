@@ -42,7 +42,7 @@ import org.apache.excalibur.source.impl.AbstractSource;
 /**
  * CachingSource (cached: protocol) tests
  *
- * @version $Id$
+ * @version $Id: CachingSourceTestCase.java 701884 2008-10-05 20:44:32Z gkossakowski $
  */
 public class CachingSourceTestCase extends SitemapComponentTestCase {
 

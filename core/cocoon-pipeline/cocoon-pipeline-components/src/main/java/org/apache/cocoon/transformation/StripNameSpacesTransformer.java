@@ -43,7 +43,7 @@ import org.xml.sax.SAXException;
  * @cocoon.sitemap.component.documentation.caching Yes
  * @cocoon.sitemap.component.pooling.max  32
  *
- * @version $Id$
+ * @version $Id: StripNameSpacesTransformer.java 805800 2009-08-19 13:37:09Z jasha $
  * @author ard schrijvers
  */
 public class StripNameSpacesTransformer extends AbstractTransformer

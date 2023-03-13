@@ -19,7 +19,7 @@ package org.apache.cocoon.template.environment;
 import java.io.Serializable;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: JXCacheKey.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public final class JXCacheKey implements Serializable {
     private final String templateUri;

@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!-- $Id$-->
+<!-- $Id: capture.xsl 449196 2006-09-23 07:09:48Z crossley $-->
 
 <!--
  * Logicsheet for capturing parts of the generated XML as SAX XML fragments or

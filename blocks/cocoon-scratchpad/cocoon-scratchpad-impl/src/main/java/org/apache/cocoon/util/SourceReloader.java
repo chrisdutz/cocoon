@@ -22,7 +22,7 @@ import org.apache.excalibur.source.Source;
  * Load data from a source and return an object.
  * 
  * @since 2.1.4
- * @version $Id$
+ * @version $Id: SourceReloader.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface SourceReloader {
 

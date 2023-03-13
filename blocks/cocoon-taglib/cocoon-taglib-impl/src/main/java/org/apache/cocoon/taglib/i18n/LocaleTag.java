@@ -22,7 +22,7 @@ import org.apache.cocoon.environment.ObjectModelHelper;
 import org.apache.cocoon.taglib.TagSupport;
 
 /**
- * @version $Id$
+ * @version $Id: LocaleTag.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class LocaleTag extends TagSupport {
     private Locale locale;

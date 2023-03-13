@@ -69,7 +69,7 @@ import java.util.Map;
  * Simple helper action to allow passing sitemap variables to InputModules.
  *
  * @see org.apache.cocoon.components.modules.input.InputModule
- * @version $Id$
+ * @version $Id: InputModuleAction.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class InputModuleAction extends ConfigurableServiceableAction implements ThreadSafe {
 

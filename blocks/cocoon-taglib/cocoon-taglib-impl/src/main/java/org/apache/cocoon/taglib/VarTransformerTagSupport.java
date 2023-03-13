@@ -23,7 +23,7 @@ import org.xml.sax.Locator;
 import org.xml.sax.SAXException;
 
 /**
- * @version $Id$
+ * @version $Id: VarTransformerTagSupport.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class VarTransformerTagSupport extends VarTagSupport implements TransformerTag {
     protected XMLConsumer xmlConsumer;

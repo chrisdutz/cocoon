@@ -29,7 +29,7 @@ import java.util.Map;
  *
  * @see org.xml.sax.XMLFilter
  * @see org.xml.sax.ContentHandler
- * @version $Id$
+ * @version $Id: LogicsheetFilter.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class LogicsheetFilter extends XMLFilterImpl {
 

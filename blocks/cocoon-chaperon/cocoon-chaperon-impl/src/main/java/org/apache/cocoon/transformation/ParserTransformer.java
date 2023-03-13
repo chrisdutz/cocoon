@@ -75,7 +75,7 @@ import org.xml.sax.SAXException;
  * &lt;/sentence&gt;
  * </pre>
  *
- * @version $Id$
+ * @version $Id: ParserTransformer.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class ParserTransformer extends ParserProcessor
                                implements Transformer, Serviceable, Parameterizable,

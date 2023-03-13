@@ -70,7 +70,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * @cocoon.sitemap.component.documentation.caching Yes
  * @cocoon.sitemap.component.pooling.max  16
  *
- * @version $Id$
+ * @version $Id: XIncludeTransformer.java 933386 2010-04-12 19:49:09Z jasha $
  */
 public class XIncludeTransformer extends AbstractTransformer
                                  implements Serviceable, CacheableProcessingComponent {

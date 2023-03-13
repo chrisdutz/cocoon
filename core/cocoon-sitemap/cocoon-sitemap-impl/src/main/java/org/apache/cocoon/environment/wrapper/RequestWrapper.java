@@ -29,7 +29,7 @@ import org.apache.commons.collections.iterators.IteratorEnumeration;
  * It has the same properties except that the url and the parameters
  * are different.
  *
- * @version $Id$
+ * @version $Id: RequestWrapper.java 609282 2008-01-06 09:35:48Z rgoers $
  */
 public final class RequestWrapper extends AbstractRequestWrapper {
 

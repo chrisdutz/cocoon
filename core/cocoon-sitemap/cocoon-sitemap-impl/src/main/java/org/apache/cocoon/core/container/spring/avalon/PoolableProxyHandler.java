@@ -28,7 +28,7 @@ import org.springframework.web.context.request.RequestContextHolder;
 /**
  * Proxy for all poolable components.
  *
- * @version $Id$
+ * @version $Id: PoolableProxyHandler.java 1369782 2012-08-06 11:17:32Z thorsten $
  * @since 2.2
  */
 public class PoolableProxyHandler implements InvocationHandler, Runnable {

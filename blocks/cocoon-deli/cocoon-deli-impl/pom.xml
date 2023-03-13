@@ -18,43 +18,30 @@
   under the License.
 -->
 <!--
-  - @version $Id$
+  - @version $Id: pom.xml 1907376 2023-02-04 18:37:22Z javier $
   -->
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
     <groupId>org.apache.cocoon</groupId>
-    <artifactId>cocoon-blocks-modules</artifactId>
-    <version>7</version>
-    <relativePath>../../pom.xml</relativePath>
+    <artifactId>cocoon-deli</artifactId>
+    <version>2.2.1-SNAPSHOT</version>
   </parent>
 
   <artifactId>cocoon-deli-impl</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
-  <name>Deli Block Implementation</name>
+  <version>2.2.1-SNAPSHOT</version>
 
-  <repositories>
-    <!-- Repository for the deli -->
-    <repository>
-      <id>apache-cvs</id>
-      <name>Apache Maven 1 Repository</name>
-      <url>http://people.apache.org/repo/m1-snapshot-repository</url>
-      <layout>legacy</layout>
-    </repository>
-  </repositories>
+  <name>Deli Block Implementation</name>
 
   <dependencies>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-core</artifactId>
-
     </dependency>
     <dependency>
       <groupId>net.sourceforge.jena</groupId>
       <artifactId>jena</artifactId>
-
       <exclusions>
         <exclusion>
           <groupId>avalon-framework</groupId>
@@ -69,12 +56,11 @@
     <dependency>
       <groupId>deli</groupId>
       <artifactId>deli</artifactId>
-
+      <!-- http://svn.apache.org/repos/asf/cocoon/branches/BRANCH_2_1_X/lib/optional/deli-x050330.jar -->
     </dependency>
     <dependency>
       <groupId>javax.servlet</groupId>
       <artifactId>servlet-api</artifactId>
-
       <scope>provided</scope>
     </dependency>
   </dependencies>

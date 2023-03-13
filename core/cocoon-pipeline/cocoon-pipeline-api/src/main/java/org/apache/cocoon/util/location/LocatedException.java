@@ -27,7 +27,7 @@ import org.apache.commons.lang.exception.ExceptionUtils;
  * stack traces.
  *
  * @since 2.1.8
- * @version $Id$
+ * @version $Id: LocatedException.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class LocatedException extends Exception
                               implements LocatableException, MultiLocatable {

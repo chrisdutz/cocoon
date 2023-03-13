@@ -59,7 +59,7 @@ import org.xml.sax.InputSource;
  * profiletype: specifying the mapping (e.g. in the portal this is one of layout, copletinstancedata, copletdata or copletbasedate)
  * suppressXSIType: Sets whether or not the xsi:type attributes should appear on the marshalled document.
  *
- * @version $Id$
+ * @version $Id: CastorSourceConverter.java 633631 2008-03-04 20:46:48Z cziegeler $
  */
 public class CastorSourceConverter
     extends AbstractBean

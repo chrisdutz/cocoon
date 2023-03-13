@@ -32,7 +32,7 @@ import org.apache.cocoon.environment.Request;
 import org.apache.cocoon.environment.SourceResolver;
 
 /**
- * @version $Id$
+ * @version $Id: TagtestAction.java 669294 2008-06-18 21:21:57Z anathaniel $
  */
 public class TagtestAction extends ServiceableAction implements ThreadSafe {
 

@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- CVS $Id$ -->
+<!-- CVS $Id: search-index-transformer2html.xsl 554248 2007-07-07 20:03:19Z felixk $ -->
 <xsl:stylesheet
   version="1.0"
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"

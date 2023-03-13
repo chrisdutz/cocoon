@@ -23,7 +23,7 @@ import org.xml.sax.SAXException;
  * If you want to reuse this interpreter make sure to call first {@link #recycle()}
  * and then set the new consumer for the sax events.
  *
- * @version $Id$
+ * @version $Id: XMLByteStreamInterpreter.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public final class XMLByteStreamInterpreter extends AbstractXMLByteStreamInterpreter {
 

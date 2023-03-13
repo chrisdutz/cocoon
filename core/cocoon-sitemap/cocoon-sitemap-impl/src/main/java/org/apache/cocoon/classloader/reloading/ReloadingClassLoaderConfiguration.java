@@ -26,7 +26,7 @@ package org.apache.cocoon.classloader.reloading;
 //import org.apache.commons.jci.stores.ResourceStore;
 
 /**
- * @version $Id$
+ * @version $Id: ReloadingClassLoaderConfiguration.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 public class ReloadingClassLoaderConfiguration { // extends ClassLoaderConfiguration {

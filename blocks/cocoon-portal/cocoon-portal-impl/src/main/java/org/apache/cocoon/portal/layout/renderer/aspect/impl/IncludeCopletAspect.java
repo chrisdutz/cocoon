@@ -61,7 +61,7 @@ import org.xml.sax.helpers.AttributesImpl;
  *      <td></td><td>String</td><td><code>"content"</code></td></tr>
  * </tbody></table>
  *
- * @version $Id$
+ * @version $Id: IncludeCopletAspect.java 633260 2008-03-03 20:21:05Z cziegeler $
  */
 public class IncludeCopletAspect
     extends AbstractIncludeAspect {

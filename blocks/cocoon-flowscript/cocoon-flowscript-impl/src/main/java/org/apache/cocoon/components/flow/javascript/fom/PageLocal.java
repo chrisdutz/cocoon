@@ -19,7 +19,7 @@ package org.apache.cocoon.components.flow.javascript.fom;
 import org.mozilla.javascript.Scriptable;
 
 /**
- * @version $Id$
+ * @version $Id: PageLocal.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface PageLocal extends Scriptable {
 

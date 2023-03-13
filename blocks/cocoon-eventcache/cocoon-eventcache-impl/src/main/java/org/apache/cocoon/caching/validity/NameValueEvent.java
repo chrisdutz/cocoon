@@ -20,7 +20,7 @@ package org.apache.cocoon.caching.validity;
  * An external uncache event that consists of a name/value pair.  
  * An example might be "table_name", "primary_key"
  * 
- * @version $Id$
+ * @version $Id: NameValueEvent.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class NameValueEvent extends Event {
 

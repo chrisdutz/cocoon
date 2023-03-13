@@ -35,7 +35,7 @@ import org.apache.cocoon.environment.Request;
  * Encapsulation of context info of this webmail application
  *
  * @since 29 December 2002
- * @version $Id$
+ * @version $Id: MailContext.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class MailContext extends DefaultContext {
 

@@ -31,7 +31,7 @@ import java.util.Map;
  *  parameters are described via the external xml file.
  *  @see org.apache.cocoon.acting.AbstractValidatorAction 
  *
- * @version $Id$
+ * @version $Id: CookieValidatorAction.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class CookieValidatorAction extends AbstractValidatorAction {
 

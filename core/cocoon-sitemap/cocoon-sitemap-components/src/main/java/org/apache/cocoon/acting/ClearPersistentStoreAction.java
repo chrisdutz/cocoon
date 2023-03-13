@@ -30,7 +30,7 @@ import java.util.Map;
  * @cocoon.sitemap.component.documentation
  * Simple action which ensures the persistent store is cleared.
  *
- * @version $Id$
+ * @version $Id: ClearPersistentStoreAction.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class ClearPersistentStoreAction extends ServiceableAction implements ThreadSafe {
 

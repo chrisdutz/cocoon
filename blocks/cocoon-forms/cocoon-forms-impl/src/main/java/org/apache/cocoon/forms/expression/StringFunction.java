@@ -25,7 +25,7 @@ import org.outerj.expression.Expression;
  * Converts argument to the string. Useful when concatenating non-string
  * values, such as numbers.
  *
- * @version $Id$
+ * @version $Id: StringFunction.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class StringFunction extends AbstractExpression {
 

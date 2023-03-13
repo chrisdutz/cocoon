@@ -25,7 +25,7 @@ import org.apache.pluto.om.common.ParameterSetCtrl;
 import org.apache.pluto.util.StringUtils;
 
 /**
- * @version $Id$
+ * @version $Id: ParameterSetImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class ParameterSetImpl extends HashSet
 implements ParameterSet, ParameterSetCtrl, java.io.Serializable {

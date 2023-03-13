@@ -33,7 +33,7 @@ import javax.servlet.http.HttpServletResponse;
  *
  * **********************************************************************
  * 
- * @version $Id$
+ * @version $Id: ServletResponseImpl.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
  
 public class ServletResponseImpl implements HttpServletResponse {

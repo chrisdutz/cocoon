@@ -57,7 +57,7 @@ import org.xml.sax.SAXException;
  * <code>nullable="false"</code> attribute to the
  * <code>fd:selection-list</code> element.</p>
  *
- * @version $Id$
+ * @version $Id: EnumSelectionList.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class EnumSelectionList implements SelectionList {
     public static final String TEXT_EL = "text";

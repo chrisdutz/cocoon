@@ -55,7 +55,7 @@ import java.io.StringReader;
  *   &lt;/add-languages&gt;
  * </pre>
  *
- * @version $Id$
+ * @version $Id: ScriptGenerator.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class ScriptGenerator extends ServiceableGenerator implements Configurable {
 

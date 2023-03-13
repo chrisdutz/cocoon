@@ -20,7 +20,7 @@ package org.apache.cocoon.forms.datatype;
 /**
  * Description of Sex.
  *
- * @version $Id$
+ * @version $Id: Sex.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class Sex {
 

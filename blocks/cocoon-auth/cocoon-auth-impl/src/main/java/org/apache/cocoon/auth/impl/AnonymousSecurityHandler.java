@@ -27,7 +27,7 @@ import org.apache.cocoon.auth.User;
  * This security handlers doesn't check any credentials of the user.
  * It just creates a new user object.
  *
- * @version $Id$
+ * @version $Id: AnonymousSecurityHandler.java 587757 2007-10-24 02:52:49Z vgritsenko $
 */
 public class AnonymousSecurityHandler
     extends AbstractSecurityHandler {

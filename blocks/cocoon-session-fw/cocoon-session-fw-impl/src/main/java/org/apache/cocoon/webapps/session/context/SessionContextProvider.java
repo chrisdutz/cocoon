@@ -26,7 +26,7 @@ import org.apache.cocoon.ProcessingException;
  * per request, an authentication context once per session etc.
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: SessionContextProvider.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface SessionContextProvider {
 

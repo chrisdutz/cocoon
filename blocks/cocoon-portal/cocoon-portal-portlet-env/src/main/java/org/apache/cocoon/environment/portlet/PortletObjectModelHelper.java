@@ -34,7 +34,7 @@ import java.util.Map;
  * calling environment to the sitemap and its components (matchers, actions,
  * transformers, etc).
  *
- * @version $Id$
+ * @version $Id: PortletObjectModelHelper.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public final class PortletObjectModelHelper {
 

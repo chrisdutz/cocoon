@@ -34,7 +34,7 @@ import java.util.Set;
  *
  * @since March 19, 2002
  * @see WebContinuation
- * @version $Id$
+ * @version $Id: ContinuationsManager.java 643752 2008-04-02 06:01:30Z joerg $
  */
 public interface ContinuationsManager {
     public final String ROLE = ContinuationsManager.class.getName();

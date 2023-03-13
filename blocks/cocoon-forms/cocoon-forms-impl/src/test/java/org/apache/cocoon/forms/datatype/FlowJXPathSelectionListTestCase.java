@@ -36,7 +36,7 @@ import org.w3c.dom.Element;
 
 /**
  * Test case for CForms's FlowModelSelectionList datatype.
- * @version $Id$
+ * @version $Id: FlowJXPathSelectionListTestCase.java 607747 2007-12-31 16:18:01Z joerg $
  */
 public class FlowJXPathSelectionListTestCase extends AbstractSelectionListTestCase {
 	

@@ -36,7 +36,7 @@ import org.w3c.dom.CharacterData;
  * to support namespaces in DOMs.
  * @since 2.1.10
  *
- * @version $Id$
+ * @version $Id: ConfigurationUtil.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ConfigurationUtil {
     /**

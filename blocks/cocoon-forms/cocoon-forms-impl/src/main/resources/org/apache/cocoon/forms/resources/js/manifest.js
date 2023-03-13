@@ -26,7 +26,7 @@
   *
   * NOTE: Introduced in 2.1.11, replaces functionality in cocoon.js
   *
-  * @version $Id$
+  * @version $Id: manifest.js 680303 2008-07-28 10:00:34Z felixk $
   */
   
 dojo.provide("cocoon.forms.manifest");

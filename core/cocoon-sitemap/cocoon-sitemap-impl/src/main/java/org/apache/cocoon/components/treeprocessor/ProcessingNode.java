@@ -23,7 +23,7 @@ import org.apache.cocoon.util.location.Locatable;
 import org.apache.cocoon.util.location.Location;
 
 /**
- * @version $Id$
+ * @version $Id: ProcessingNode.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface ProcessingNode extends ThreadSafe, Locatable {
 

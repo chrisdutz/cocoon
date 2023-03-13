@@ -35,7 +35,7 @@ import org.apache.avalon.framework.configuration.Configuration;
  * the tree builder.
  * <p>
  *
- * @version $Id$
+ * @version $Id: ProcessingNodeBuilder.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface ProcessingNodeBuilder {
 

@@ -18,7 +18,7 @@ package org.apache.cocoon.profiling.statistics;
 
 /**
  * 
- * @version $Id$
+ * @version $Id: SimpleStatistics.java 587761 2007-10-24 03:08:05Z vgritsenko $
  * @since 2.1.10
  */
 public class SimpleStatistics implements Statistics {

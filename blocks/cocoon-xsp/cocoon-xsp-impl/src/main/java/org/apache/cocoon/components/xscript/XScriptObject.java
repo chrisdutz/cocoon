@@ -44,7 +44,7 @@ import java.util.Date;
  * object types in XScript. Every XScriptObject is essentially a
  * Source object.
  *
- * @version $Id$
+ * @version $Id: XScriptObject.java 587761 2007-10-24 03:08:05Z vgritsenko $
  * @since August  4, 2001
  */
 public abstract class XScriptObject implements Source, Serviceable {

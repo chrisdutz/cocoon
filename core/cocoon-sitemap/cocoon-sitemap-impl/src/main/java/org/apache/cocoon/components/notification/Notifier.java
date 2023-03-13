@@ -32,7 +32,7 @@ import java.util.Map;
 /**
  * Generates a representations of the specified Notifying Object.
  *
- * @version $Id$
+ * @version $Id: Notifier.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class Notifier {
 

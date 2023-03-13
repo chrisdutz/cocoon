@@ -21,7 +21,7 @@ import java.util.Locale;
 import org.apache.commons.lang.StringUtils;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: ValueHelper.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ValueHelper {
 

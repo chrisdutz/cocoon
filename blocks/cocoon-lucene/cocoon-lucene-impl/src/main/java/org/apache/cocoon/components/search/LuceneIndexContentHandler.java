@@ -38,7 +38,7 @@ import java.util.Stack;
  *  to store specific tags in Lucene, so that you can
  *  display them with hits.
  *
- * @version $Id$
+ * @version $Id: LuceneIndexContentHandler.java 602900 2007-12-10 13:41:28Z giacomo $
  */
 public class LuceneIndexContentHandler implements ContentHandler {
 

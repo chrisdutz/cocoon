@@ -38,7 +38,7 @@ import java.util.Map;
 /**
  * Component implementing the {@link FormManager} role.
  *
- * @version $Id$
+ * @version $Id: DefaultFormManager.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class DefaultFormManager implements FormManager {
     // NOTE: Component is there to allow this block to run in the 2.1 branch

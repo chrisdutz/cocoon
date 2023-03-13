@@ -60,7 +60,7 @@ import org.xml.sax.SAXException;
  * @cocoon.sitemap.component.name   readDOMsession
  * @cocoon.sitemap.component.documentation.caching No
  *
- * @version $Id$
+ * @version $Id: ReadDOMSessionTransformer.java 605605 2007-12-19 16:19:51Z vgritsenko $
  */
 public class ReadDOMSessionTransformer extends AbstractTransformer  {
 

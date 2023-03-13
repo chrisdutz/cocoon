@@ -19,7 +19,7 @@ package org.apache.cocoon.forms.event;
 /**
  * Listeners for {@link RepeaterEvent}s
  * 
- * @version $Id$
+ * @version $Id: RepeaterListener.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface RepeaterListener extends WidgetListener {
     public void repeaterModified(RepeaterEvent event);

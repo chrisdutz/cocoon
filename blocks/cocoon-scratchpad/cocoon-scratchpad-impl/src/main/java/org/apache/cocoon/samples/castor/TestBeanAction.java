@@ -30,7 +30,7 @@ import org.apache.cocoon.environment.SourceResolver;
 
 /**
  *
- * @version $Id$
+ * @version $Id: TestBeanAction.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class TestBeanAction extends AbstractAction {
 

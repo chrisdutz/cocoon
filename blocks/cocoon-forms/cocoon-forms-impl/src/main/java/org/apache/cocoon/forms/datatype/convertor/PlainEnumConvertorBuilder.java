@@ -23,7 +23,7 @@ import org.w3c.dom.Element;
 /**
  * Builds {@link EnumConvertor}s.
  * 
- * @version $Id$
+ * @version $Id: PlainEnumConvertorBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class PlainEnumConvertorBuilder implements EnumConvertorBuilder {
 

@@ -24,7 +24,7 @@ import org.apache.cocoon.forms.datatype.Datatype;
  * Common interface for an algorithm to calculate the value of a 
  * {@link org.apache.cocoon.forms.formmodel.CalculatedField}.
  * 
- * @version $Id$
+ * @version $Id: CalculatedFieldAlgorithm.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface CalculatedFieldAlgorithm {
 

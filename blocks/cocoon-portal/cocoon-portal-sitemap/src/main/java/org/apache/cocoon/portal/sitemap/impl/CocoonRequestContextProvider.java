@@ -29,7 +29,7 @@ import org.apache.cocoon.processing.ProcessInfoProvider;
 /**
  * This service provides the current request context.
  *
- * @version $Id$
+ * @version $Id: CocoonRequestContextProvider.java 609768 2008-01-07 20:13:49Z cziegeler $
  */
 public class CocoonRequestContextProvider implements RequestContextProvider {
 

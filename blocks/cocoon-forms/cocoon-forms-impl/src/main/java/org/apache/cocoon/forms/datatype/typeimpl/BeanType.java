@@ -22,7 +22,7 @@ import org.apache.cocoon.forms.datatype.convertor.Convertor;
 /**
  * The CForm type of a bean
  *
- * @version $Id$
+ * @version $Id: BeanType.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class BeanType
     extends AbstractDatatype {

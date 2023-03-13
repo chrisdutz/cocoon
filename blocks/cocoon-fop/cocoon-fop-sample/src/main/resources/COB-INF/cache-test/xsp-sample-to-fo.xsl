@@ -20,7 +20,7 @@
     Convert the output of the XSP caching sample to XSL-FO,
     in order to test caching of the whole pipeline, up to PDF
 
-    $Id$
+    $Id: xsp-sample-to-fo.xsl 448875 2006-09-22 09:38:56Z crossley $
 -->
 
 <xsl:stylesheet

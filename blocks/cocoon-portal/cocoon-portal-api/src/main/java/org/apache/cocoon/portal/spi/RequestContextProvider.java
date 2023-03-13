@@ -21,7 +21,7 @@ import org.apache.cocoon.portal.RequestContext;
 /**
  * This service provides the current request context.
  *
- * @version $Id$
+ * @version $Id: RequestContextProvider.java 598794 2007-11-27 22:40:20Z cziegeler $
  */
 public interface RequestContextProvider {
 

@@ -33,7 +33,7 @@ import java.io.IOException;
  * documented even in their code, and I don't think the features that use
  * anchors are terribly mature yet.
  *
- * @version $Id$
+ * @version $Id: Anchors.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class Anchors
 {

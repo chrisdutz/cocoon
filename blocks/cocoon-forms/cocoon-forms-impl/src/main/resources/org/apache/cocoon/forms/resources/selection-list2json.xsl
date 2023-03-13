@@ -18,7 +18,7 @@
 <!--
   Transforms a fi:selection-list into a JSON fragment.
   
-  @version $Id$
+  @version $Id: selection-list2json.xsl 453411 2006-10-05 22:41:26Z antonio $
 -->
 
 <xsl:stylesheet

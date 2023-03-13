@@ -21,7 +21,7 @@ import java.util.Properties;
 
 /**
 *
-* @version $Id$
+* @version $Id: ProfileKey.java 609777 2008-01-07 21:06:04Z cziegeler $
 */
 public class ProfileKey extends Properties {
 

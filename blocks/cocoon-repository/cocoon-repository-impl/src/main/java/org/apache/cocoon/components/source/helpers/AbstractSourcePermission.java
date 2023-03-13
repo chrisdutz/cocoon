@@ -19,7 +19,7 @@ package org.apache.cocoon.components.source.helpers;
 /**
  * This class is an abstract implementation of a source permission
  *
- * @version $Id$
+ * @version $Id: AbstractSourcePermission.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class AbstractSourcePermission implements SourcePermission{
 

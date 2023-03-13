@@ -31,7 +31,7 @@ import org.apache.cocoon.portal.services.aspects.AspectChain;
  * of it). The portal profile stores all information about the portal
  * view of the current user, like the layout and the contained coplets.
  *
- * @version $Id$
+ * @version $Id: ProfileManager.java 682464 2008-08-04 18:55:57Z cziegeler $
  */
 public interface ProfileManager {
 

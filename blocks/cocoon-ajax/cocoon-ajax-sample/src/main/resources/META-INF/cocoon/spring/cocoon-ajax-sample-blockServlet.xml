@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: cocoon-ajax-sample-blockServlet.xml 680398 2008-07-28 17:00:59Z felixk $
   -->
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"

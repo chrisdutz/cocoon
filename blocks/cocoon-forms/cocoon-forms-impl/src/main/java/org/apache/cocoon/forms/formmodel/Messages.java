@@ -35,7 +35,7 @@ import java.util.Iterator;
  * <p>This widget is typically used to communicate extra validation errors or other messages
  * to the user, that aren't associated with any other widget in particular.
  *
- * @version $Id$
+ * @version $Id: Messages.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class Messages extends AbstractWidget {
 

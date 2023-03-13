@@ -30,7 +30,7 @@ import org.apache.cocoon.environment.Environment;
 import org.apache.cocoon.selection.Selector;
 
 /**
- * @version $Id$
+ * @version $Id: SelectNode.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class SelectNode extends SimpleSelectorProcessingNode
                         implements ParameterizableProcessingNode {

@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 <!--+
-    | SVN $Id$
+    | SVN $Id: xsp.roles 449196 2006-09-23 07:09:48Z crossley $
     +-->
 <role-list>
   <role name="org.apache.cocoon.components.language.generator.ServerPagesSelector"

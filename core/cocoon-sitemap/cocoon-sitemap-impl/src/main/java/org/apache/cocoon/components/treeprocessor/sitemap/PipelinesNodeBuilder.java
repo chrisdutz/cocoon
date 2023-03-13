@@ -30,7 +30,7 @@ import java.util.List;
 /**
  * Builds a &lt;map:pipelines&gt;
  *
- * @version $Id$
+ * @version $Id: PipelinesNodeBuilder.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class PipelinesNodeBuilder extends ContainerNodeBuilder implements ThreadSafe {
 

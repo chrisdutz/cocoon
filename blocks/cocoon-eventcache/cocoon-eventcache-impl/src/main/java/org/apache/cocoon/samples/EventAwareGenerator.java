@@ -34,7 +34,7 @@ import org.xml.sax.SAXException;
 /**
  * This is a sample generator to demonstrate the event aware caching. We simply extend the JXTG.
  * 
- * @version $Id$
+ * @version $Id: EventAwareGenerator.java 680697 2008-07-29 13:54:14Z reinhard $
  */
 public class EventAwareGenerator extends JXTemplateGenerator {
 

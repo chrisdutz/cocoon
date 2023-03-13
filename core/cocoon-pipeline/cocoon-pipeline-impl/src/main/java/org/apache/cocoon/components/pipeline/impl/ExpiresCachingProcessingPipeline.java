@@ -57,7 +57,7 @@ import javax.servlet.http.HttpServletResponse;
  * cache entry.
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: ExpiresCachingProcessingPipeline.java 685810 2008-08-14 08:39:26Z gkossakowski $
  */
 public class ExpiresCachingProcessingPipeline
     extends BaseCachingProcessingPipeline {

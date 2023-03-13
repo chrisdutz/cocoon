@@ -25,7 +25,7 @@ import java.io.IOException;
  * This element has three attributes: Left, Middle, and Top, and no
  * contents.
  *
- * @version $Id$
+ * @version $Id: EPFooter.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EPFooter extends BaseElementProcessor {
     private String _left;

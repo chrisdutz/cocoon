@@ -149,7 +149,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * range of ways.
  *
  * @since 2.1.6
- * @version $Id$
+ * @version $Id: LocaleMatcher.java 607380 2007-12-29 05:39:06Z vgritsenko $
  */
 public class LocaleMatcher extends AbstractLogEnabled
                            implements Matcher, ThreadSafe, Serviceable, Configurable,

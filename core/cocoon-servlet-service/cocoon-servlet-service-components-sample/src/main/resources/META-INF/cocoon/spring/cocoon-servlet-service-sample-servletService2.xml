@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!-- @version $Id$ -->
+<!-- @version $Id: cocoon-servlet-service-sample-servletService2.xml 650234 2008-04-21 19:44:24Z reinhard $ -->
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xmlns:servlet="http://cocoon.apache.org/schema/servlet"

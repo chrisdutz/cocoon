@@ -177,7 +177,7 @@ import org.xml.sax.ext.LexicalHandler;
  * @cocoon.sitemap.component.documentation.caching Yes
  * @cocoon.sitemap.component.pooling.max 16
  * 
- * @version $Id$
+ * @version $Id: IncludeTransformer.java 608310 2008-01-03 02:29:29Z joerg $
  */
 public class IncludeTransformer extends AbstractTransformer
                                 implements Serviceable, Configurable,

@@ -22,7 +22,7 @@ import org.xml.sax.Locator;
 import org.xml.sax.SAXParseException;
 
 /**
- * @version $Id$
+ * @version $Id: ScriptManager.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface ScriptManager {
 

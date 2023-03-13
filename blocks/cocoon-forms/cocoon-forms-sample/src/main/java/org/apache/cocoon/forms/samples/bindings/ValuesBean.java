@@ -18,7 +18,7 @@ package org.apache.cocoon.forms.samples.bindings;
 
 /**
  * ValuesBean used in the 01values test.
- * @version $Id$
+ * @version $Id: ValuesBean.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class ValuesBean {
     private String simple = "Simple";

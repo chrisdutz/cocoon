@@ -28,7 +28,7 @@ import org.apache.excalibur.source.SourceResolver;
  * is currently used for this request.
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: RequestState.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public final class RequestState
 implements java.io.Serializable {

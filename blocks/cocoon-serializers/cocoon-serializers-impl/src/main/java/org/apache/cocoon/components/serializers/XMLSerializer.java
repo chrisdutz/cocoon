@@ -41,7 +41,7 @@ import org.xml.sax.SAXException;
  * <p>For configuration options of this serializer, please look at the
  * {@link EncodingSerializer}.</p>
  *
- * @version CVS $Id$
+ * @version CVS $Id: XMLSerializer.java 587752 2007-10-24 02:47:02Z vgritsenko $
  */
 public class XMLSerializer
     extends org.apache.cocoon.components.serializers.util.XMLSerializer

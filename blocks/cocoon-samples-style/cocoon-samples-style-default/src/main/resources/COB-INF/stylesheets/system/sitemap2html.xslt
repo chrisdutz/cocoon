@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: sitemap2html.xslt 606214 2007-12-21 14:59:27Z vgritsenko $
   -->
 <xsl:stylesheet version="1.0"
                 xmlns:map="http://apache.org/cocoon/sitemap/1.0"

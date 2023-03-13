@@ -35,7 +35,7 @@ import org.apache.cocoon.components.modules.database.AutoIncrementModule;
  * tables, and can add more than one row to a table at a time. See
  * {@link DatabaseAction} for details.
  *
- * @version $Id$
+ * @version $Id: DatabaseAddAction.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class DatabaseAddAction extends DatabaseAction {
 

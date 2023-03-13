@@ -24,7 +24,7 @@ import org.apache.cocoon.forms.event.ValueChangedEvent;
  * Example FormHandler for the "Form1" sample form.
  * This implementation currently doesn't do anything interesting.
  * 
- * @version $Id$
+ * @version $Id: Form1Handler.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class Form1Handler extends AbstractFormHandler {
     public void handleActionEvent(ActionEvent actionEvent) {

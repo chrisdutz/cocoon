@@ -23,7 +23,7 @@ import org.apache.cocoon.environment.Cookie;
  *
  * Portlet preferences are available in the Cocoon as Cookie objects.
  *
- * @version $Id$
+ * @version $Id: PortletCookie.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public final class PortletCookie implements Cookie {
 

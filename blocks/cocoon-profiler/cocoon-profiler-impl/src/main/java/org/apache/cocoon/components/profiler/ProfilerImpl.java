@@ -31,7 +31,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * Profiler component implementation. Stores profiler data for
  * all pipelines.
  *
- * @version $Id$
+ * @version $Id: ProfilerImpl.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ProfilerImpl extends AbstractLogEnabled
                           implements Profiler, ThreadSafe, Configurable {

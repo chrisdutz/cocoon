@@ -19,7 +19,7 @@ package org.apache.cocoon.portal.pluto.om;
 
 /**
  *
- * @version $Id$
+ * @version $Id: ServletMapping.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class ServletMapping implements java.io.Serializable {
 

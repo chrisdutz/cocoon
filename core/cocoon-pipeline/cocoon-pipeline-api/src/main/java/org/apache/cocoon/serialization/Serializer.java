@@ -27,7 +27,7 @@ import org.apache.cocoon.xml.XMLConsumer;
  * <code>source</code> or <code>parameters</code> objects.
  * 
  *
- * @version $Id$
+ * @version $Id: Serializer.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface Serializer extends XMLConsumer, SitemapOutputComponent {
 

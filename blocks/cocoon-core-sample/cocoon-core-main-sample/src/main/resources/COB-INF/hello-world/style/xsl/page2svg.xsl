@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: page2svg.xsl 448813 2006-09-22 04:45:31Z crossley $
   -->
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform"

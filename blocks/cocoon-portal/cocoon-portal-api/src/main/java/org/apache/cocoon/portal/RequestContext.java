@@ -23,7 +23,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Information and object dealing with the current request response cycle.
  *
- * @version $Id$
+ * @version $Id: RequestContext.java 609768 2008-01-07 20:13:49Z cziegeler $
  * @since 2.2
  */
 public interface RequestContext {

@@ -21,7 +21,7 @@ import org.apache.cocoon.portal.om.LayoutInstance;
 /**
  * This event is fired when a new layout instance has been added.
  *
- * @version $Id$
+ * @version $Id: LayoutInstanceAddedEvent.java 587755 2007-10-24 02:50:56Z vgritsenko $
  * @since 2.2
  */
 public class LayoutInstanceAddedEvent

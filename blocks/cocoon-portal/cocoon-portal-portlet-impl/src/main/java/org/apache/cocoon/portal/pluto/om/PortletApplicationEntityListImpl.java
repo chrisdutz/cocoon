@@ -29,7 +29,7 @@ import org.apache.pluto.om.portlet.PortletApplicationDefinitionList;
 
 /**
  *
- * @version $Id$
+ * @version $Id: PortletApplicationEntityListImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortletApplicationEntityListImpl
 implements PortletApplicationEntityList, PortletApplicationEntityListCtrl {

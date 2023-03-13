@@ -46,7 +46,7 @@ import java.util.Locale;
  * that XML is interpreted, it also needs to change over there and vice
  * versa.</p>
  *
- * @version $Id$
+ * @version $Id: DefaultSelectionListBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class DefaultSelectionListBuilder implements SelectionListBuilder {
 

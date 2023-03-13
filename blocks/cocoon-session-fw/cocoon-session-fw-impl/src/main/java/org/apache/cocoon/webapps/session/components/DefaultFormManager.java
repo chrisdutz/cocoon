@@ -46,7 +46,7 @@ import org.w3c.dom.DocumentFragment;
  * Form handling
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: DefaultFormManager.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public final class DefaultFormManager
     extends AbstractLogEnabled

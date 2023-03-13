@@ -43,7 +43,7 @@ import org.apache.cocoon.util.NetUtils;
  * This is the XMLResourceBundleFactory, the method for getting and creating
  * XMLResourceBundles.
  *
- * @version $Id$
+ * @version $Id: XMLResourceBundleFactory.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class XMLResourceBundleFactory extends AbstractLogEnabled
                                       implements BundleFactory, Serviceable, Configurable,

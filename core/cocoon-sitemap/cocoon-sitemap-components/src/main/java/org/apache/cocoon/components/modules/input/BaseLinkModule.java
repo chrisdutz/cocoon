@@ -35,7 +35,7 @@ import org.apache.cocoon.environment.ObjectModelHelper;
  *
  * <p>Based on {@link RequestURIModule}
  *
- * @version $Id$
+ * @version $Id: BaseLinkModule.java 604095 2007-12-14 03:43:31Z vgritsenko $
  */
 public class BaseLinkModule extends AbstractInputModule
                             implements ThreadSafe {

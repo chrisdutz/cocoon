@@ -30,7 +30,7 @@ import java.util.Map;
  * Currently the list of datatype and validationrule builders is hardcoded, but this will
  * become externally configurable in the future.
  *
- * @version $Id$
+ * @version $Id: DefaultDatatypeManager.java 587759 2007-10-24 03:00:37Z vgritsenko $
  *
  */
 public class DefaultDatatypeManager implements DatatypeManager {

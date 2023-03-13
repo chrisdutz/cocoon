@@ -52,7 +52,7 @@ import org.w3c.dom.Element;
  * </li>
  * </ul>
  *
- * @version $Id$
+ * @version $Id: RepeaterActionDefinitionBuilder.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public class RepeaterActionDefinitionBuilder extends AbstractWidgetDefinitionBuilder {
 

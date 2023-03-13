@@ -38,7 +38,7 @@ import org.apache.axis.MessageContext;
  *  </pre>
  * </p>
  *
- * @version $Id$
+ * @version $Id: SoapServer.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public interface SoapServer {
     

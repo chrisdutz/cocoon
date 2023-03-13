@@ -29,7 +29,7 @@ import org.mozilla.javascript.Wrapper;
 
 /**
  *
- * @version $Id$
+ * @version $Id: ScriptablePointer.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class ScriptablePointer extends DynamicPointer {
 

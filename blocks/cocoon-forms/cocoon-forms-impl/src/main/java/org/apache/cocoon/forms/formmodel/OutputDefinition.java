@@ -21,7 +21,7 @@ import org.apache.cocoon.forms.validation.WidgetValidator;
 /**
  * The {@link WidgetDefinition} part of a {@link Output} widget.
  *
- * @version $Id$
+ * @version $Id: OutputDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class OutputDefinition extends AbstractDatatypeWidgetDefinition {
 

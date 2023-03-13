@@ -23,7 +23,7 @@ import java.util.Map;
  * Mock class providing the declarations required to compile the Cocoon code when
  * the actual library is not present.
  *
- * @version $Id$
+ * @version $Id: DataSourceFactory.java 587758 2007-10-24 02:55:27Z vgritsenko $
  * @since 2.1.10
  */
 public interface DataSourceFactory {

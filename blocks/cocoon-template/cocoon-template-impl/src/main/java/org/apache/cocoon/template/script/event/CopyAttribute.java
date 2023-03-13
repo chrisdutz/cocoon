@@ -17,7 +17,7 @@
 package org.apache.cocoon.template.script.event;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: CopyAttribute.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class CopyAttribute extends AttributeEvent {
     public CopyAttribute(String namespaceURI, String localName, String raw,

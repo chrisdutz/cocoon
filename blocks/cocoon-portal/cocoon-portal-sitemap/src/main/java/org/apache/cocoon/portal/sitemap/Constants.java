@@ -19,7 +19,7 @@ package org.apache.cocoon.portal.sitemap;
 /**
  * Defines constants used within portal classes.
  *
- * @version $Id$
+ * @version $Id: Constants.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public abstract class Constants {
 

@@ -23,7 +23,7 @@ import java.util.HashMap;
  * scope. A variable has a unique name within a scope, but multiple
  * variables with the same name can exist within different scopes.
  *
- * @version $Id$
+ * @version $Id: XScriptVariableScope.java 587761 2007-10-24 03:08:05Z vgritsenko $
  * @since August 4, 2001
  */
 public class XScriptVariableScope {

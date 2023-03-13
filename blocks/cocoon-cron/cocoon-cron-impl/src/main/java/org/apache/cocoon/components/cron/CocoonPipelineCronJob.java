@@ -37,7 +37,7 @@ import java.util.Map;
  * Your supplied pipeline String will have "cocoon://" prepended to it.
  * If you set info log enabled, this will write the output of the pipeline to the cron log
  *
- * @version $Id$
+ * @version $Id: CocoonPipelineCronJob.java 587758 2007-10-24 02:55:27Z vgritsenko $
  *
  * @since 2.1.5
  */

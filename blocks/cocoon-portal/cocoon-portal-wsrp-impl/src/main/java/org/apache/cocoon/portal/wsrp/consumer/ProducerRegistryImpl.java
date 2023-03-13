@@ -38,7 +38,7 @@ import org.apache.cocoon.portal.wsrp.adapter.WSRPAdapter;
  * in memory.<br/>
  * On startup/login the registry is full by the wsrp adapter.
  *
- * @version $Id$
+ * @version $Id: ProducerRegistryImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class ProducerRegistryImpl extends GenericProducerRegistryImpl
                                   implements Configurable, RequiresConsumerEnvironment, RequiresWSRPAdapter {

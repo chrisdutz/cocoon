@@ -34,7 +34,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
 /**
  * Servlet filter for printing request debug information into log file.
  * 
- * @version $Id$
+ * @version $Id: DebugFilter.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class DebugFilter extends AbstractLogEnabled
                          implements Filter {

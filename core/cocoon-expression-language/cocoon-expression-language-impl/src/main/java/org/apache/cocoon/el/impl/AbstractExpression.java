@@ -22,7 +22,7 @@ import java.util.NoSuchElementException;
 import org.apache.cocoon.el.Expression;
 
 /**
- * @version $Id$
+ * @version $Id: AbstractExpression.java 591681 2007-11-03 20:40:47Z felixk $
  */
 public abstract class AbstractExpression implements Expression {
 

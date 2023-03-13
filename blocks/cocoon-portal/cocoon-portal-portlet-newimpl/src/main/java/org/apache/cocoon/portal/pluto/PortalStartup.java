@@ -25,7 +25,7 @@ import org.apache.pluto.PortletContainerFactory;
 import org.springframework.web.context.ServletContextAware;
 
 /**
- * @version $Id$
+ * @version $Id: PortalStartup.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortalStartup
     extends AbstractBean

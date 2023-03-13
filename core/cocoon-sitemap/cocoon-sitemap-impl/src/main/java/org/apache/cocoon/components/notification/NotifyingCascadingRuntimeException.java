@@ -23,7 +23,7 @@ import java.util.Map;
 /**
  * A CascadingRuntimeException that is also Notifying.
  *
- * @version $Id$
+ * @version $Id: NotifyingCascadingRuntimeException.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class NotifyingCascadingRuntimeException
   extends CascadingRuntimeException

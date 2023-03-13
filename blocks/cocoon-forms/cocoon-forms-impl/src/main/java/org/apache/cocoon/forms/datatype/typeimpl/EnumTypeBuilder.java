@@ -23,7 +23,7 @@ import org.w3c.dom.Element;
 /**
  * Builds {@link EnumType}s.
  * 
- * @version $Id$
+ * @version $Id: EnumTypeBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class EnumTypeBuilder extends AbstractDatatypeBuilder {
 

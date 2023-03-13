@@ -22,7 +22,7 @@ import org.w3c.dom.Element;
 /**
  * Builds {UnionDefinition}s.
  *
- * @version $Id$
+ * @version $Id: UnionDefinitionBuilder.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public final class UnionDefinitionBuilder extends AbstractContainerDefinitionBuilder {
 

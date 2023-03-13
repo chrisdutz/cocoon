@@ -32,7 +32,7 @@ import org.apache.cocoon.util.IOUtils;
 /**
  * A compiled programming language. This class extends <code>AbstractProgrammingLanguage</code> adding support for compilation
  * and object program files
- * @version $Id$
+ * @version $Id: CompiledProgrammingLanguage.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class CompiledProgrammingLanguage extends AbstractProgrammingLanguage
                                                   implements Contextualizable {

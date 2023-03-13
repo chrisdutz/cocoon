@@ -23,7 +23,7 @@ import org.apache.commons.jxpath.Pointer;
 import java.util.*;
 
 /**
- * @version $Id$
+ * @version $Id: RepeaterJXPathAdapter.java 933416 2010-04-12 21:09:57Z jreijn $
  */
 public class RepeaterJXPathAdapter implements RepeaterAdapter {
 

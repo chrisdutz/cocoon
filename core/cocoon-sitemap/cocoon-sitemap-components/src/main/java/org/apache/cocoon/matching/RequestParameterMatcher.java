@@ -41,7 +41,7 @@ import java.util.Map;
  * If the specified request parameter exists, its value is retrieved for later
  * sitemap substitution.
  *
- * @version $Id$
+ * @version $Id: RequestParameterMatcher.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class RequestParameterMatcher implements Matcher, ThreadSafe
 {

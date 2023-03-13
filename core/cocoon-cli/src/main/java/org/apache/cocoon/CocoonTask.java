@@ -42,7 +42,7 @@ import org.w3c.dom.Node;
 /**
  * Ant task for running Cocoon. Allows for the embedding of Cocoon into 
  *
- * @version $Id$
+ * @version $Id: CocoonTask.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class CocoonTask extends Task implements DynamicConfigurator {
 

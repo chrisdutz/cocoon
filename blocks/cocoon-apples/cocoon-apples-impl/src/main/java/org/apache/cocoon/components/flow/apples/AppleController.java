@@ -22,7 +22,7 @@ package org.apache.cocoon.components.flow.apples;
  * <p>
  * Implementations are advised to implement Avalon lifecycle interfaces.
  * 
- * @version $Id$
+ * @version $Id: AppleController.java 586258 2007-10-19 04:19:27Z vgritsenko $
  */
 public interface AppleController {
 

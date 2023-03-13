@@ -32,7 +32,7 @@ import org.w3c.dom.Element;
  * subclass, the build process will be delegated to
  *  {@link org.apache.cocoon.forms.formmodel.algorithms.AbstractBaseAlgorithmBuilder}.
  *
- * @version $Id$
+ * @version $Id: JavaAlgorithmBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JavaAlgorithmBuilder extends AbstractBaseAlgorithmBuilder implements BeanFactoryAware{
 

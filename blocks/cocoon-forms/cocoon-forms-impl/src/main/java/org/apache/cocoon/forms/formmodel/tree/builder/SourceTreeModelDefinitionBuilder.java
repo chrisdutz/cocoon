@@ -29,7 +29,7 @@ import org.w3c.dom.Element;
 /**
  * Builds a {@link org.apache.cocoon.forms.formmodel.tree.SourceTreeModel}.
  * 
- * @version $Id$
+ * @version $Id: SourceTreeModelDefinitionBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class SourceTreeModelDefinitionBuilder implements TreeModelDefinitionBuilder {
 

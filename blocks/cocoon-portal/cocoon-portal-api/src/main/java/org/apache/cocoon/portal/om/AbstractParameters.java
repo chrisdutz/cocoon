@@ -24,7 +24,7 @@ import org.apache.commons.collections.map.LinkedMap;
 
 /**
  *
- * @version $Id$
+ * @version $Id: AbstractParameters.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public abstract class AbstractParameters {
 

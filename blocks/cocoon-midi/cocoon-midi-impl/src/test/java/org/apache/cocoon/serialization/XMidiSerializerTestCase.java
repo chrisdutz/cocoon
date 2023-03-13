@@ -22,7 +22,7 @@ import org.apache.cocoon.SitemapComponentTestCase;
 
 /**
  * Test case for the MIDISerializer
- * @version $Id$
+ * @version $Id: XMidiSerializerTestCase.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class XMidiSerializerTestCase extends SitemapComponentTestCase {
 

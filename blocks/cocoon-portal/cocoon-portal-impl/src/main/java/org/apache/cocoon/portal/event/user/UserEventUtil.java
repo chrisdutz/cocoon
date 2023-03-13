@@ -23,7 +23,7 @@ import org.apache.cocoon.portal.om.PortalUser;
 /**
  * Utility class for user events.
  *
- * @version $Id$
+ * @version $Id: UserEventUtil.java 587755 2007-10-24 02:50:56Z vgritsenko $
  * @since 2.2
  */
 public class UserEventUtil {

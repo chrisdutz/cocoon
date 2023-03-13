@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: sitemap.xmap 587738 2007-10-24 01:23:52Z vgritsenko $
   -->
 <map:sitemap xmlns:map="http://apache.org/cocoon/sitemap/1.0">
   <map:pipelines>

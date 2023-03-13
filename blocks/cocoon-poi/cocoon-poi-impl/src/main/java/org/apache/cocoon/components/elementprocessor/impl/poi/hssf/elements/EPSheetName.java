@@ -26,7 +26,7 @@ package org.apache.cocoon.components.elementprocessor.impl.poi.hssf.elements;
  * This element is not used in HSSFSerializer 1.0 and probably never
  * will be, as the gnumeric code indicates that it is a kludge
  *
- * @version $Id$
+ * @version $Id: EPSheetName.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EPSheetName extends BaseElementProcessor {
 

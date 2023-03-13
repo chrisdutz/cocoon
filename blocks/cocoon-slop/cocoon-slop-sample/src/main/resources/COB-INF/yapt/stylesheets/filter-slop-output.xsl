@@ -18,7 +18,7 @@
 
 <!--
     Convert the slop parser output to a collection of slides
-    $Id$
+    $Id: filter-slop-output.xsl 449184 2006-09-23 06:42:24Z crossley $
 -->
 <xsl:stylesheet
     version="1.0"

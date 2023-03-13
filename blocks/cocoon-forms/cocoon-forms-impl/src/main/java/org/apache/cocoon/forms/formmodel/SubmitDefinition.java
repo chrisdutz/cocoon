@@ -22,7 +22,7 @@ import org.apache.cocoon.forms.FormsException;
  * Definition for a {@link Submit}.
  *
  * @see SubmitDefinitionBuilder
- * @version $Id$
+ * @version $Id: SubmitDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class SubmitDefinition extends ActionDefinition {
 

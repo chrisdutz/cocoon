@@ -24,7 +24,7 @@ import org.apache.commons.lang.ObjectUtils;
 
 /**
  *
- * @version $Id$
+ * @version $Id: LayoutInstanceChangeAttributeEvent.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class LayoutInstanceChangeAttributeEvent
     extends AbstractLayoutInstanceEvent

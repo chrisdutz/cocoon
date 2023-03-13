@@ -34,7 +34,7 @@ import org.apache.commons.jxpath.JXPathContext;
  * Implements a collection that takes care about removed, updated and inserted
  * elements, obtaining from a {@link RepeaterAdapter} all the needed objects.
  *
- * @version $Id$
+ * @version $Id: RepeaterJXPathCollection.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class RepeaterJXPathCollection {
 

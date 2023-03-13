@@ -32,7 +32,7 @@ import java.io.IOException;
  * code, and I don't think the features that use offsets are terribly
  * mature yet.
  *
- * @version $Id$
+ * @version $Id: Offsets.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class Offsets {
     private static final int _component_count = 4;

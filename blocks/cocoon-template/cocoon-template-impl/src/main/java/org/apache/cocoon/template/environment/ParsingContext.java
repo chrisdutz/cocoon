@@ -20,7 +20,7 @@ import org.apache.cocoon.el.parsing.StringTemplateParser;
 import org.apache.cocoon.template.script.InstructionFactory;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: ParsingContext.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ParsingContext {
     private InstructionFactory instructionFactory;

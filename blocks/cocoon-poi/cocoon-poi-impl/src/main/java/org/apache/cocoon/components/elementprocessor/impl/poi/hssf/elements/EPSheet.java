@@ -41,7 +41,7 @@ import java.io.IOException;
  * <li>OutlineSymbolsRight
  * </ul>
  *
- * @version $Id$
+ * @version $Id: EPSheet.java 707318 2008-10-23 08:54:21Z felixk $
  */
 public class EPSheet extends BaseElementProcessor {
     private Sheet _sheet;

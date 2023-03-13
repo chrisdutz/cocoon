@@ -28,7 +28,7 @@ import org.apache.cocoon.portal.event.Receiver;
  * event. If an error occurs during undeployment the status should be updated by the
  * receiver as well.
  *
- * @version $Id$
+ * @version $Id: UndeploymentEvent.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public interface UndeploymentEvent
     extends DeploymentStatus, Event {

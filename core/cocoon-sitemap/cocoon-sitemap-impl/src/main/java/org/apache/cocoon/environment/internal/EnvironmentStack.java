@@ -31,7 +31,7 @@ import org.xml.sax.SAXException;
  * This is a special implementation of a stack for the handling of the
  * cocoon protocol and the sitemap source resolving.
  *
- * @version $Id$
+ * @version $Id: EnvironmentStack.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 final class EnvironmentStack 

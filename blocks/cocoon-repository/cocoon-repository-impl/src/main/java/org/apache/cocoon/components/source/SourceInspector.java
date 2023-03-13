@@ -24,7 +24,7 @@ import org.apache.excalibur.source.SourceValidity;
 /**
  * A source inspector exposes source properties.
  *
- * @version $Id$
+ * @version $Id: SourceInspector.java 1857502 2019-04-14 05:20:19Z ilgrosso $
  */
 public interface SourceInspector {
 

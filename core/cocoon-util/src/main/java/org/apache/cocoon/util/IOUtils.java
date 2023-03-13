@@ -40,7 +40,7 @@ import org.apache.commons.lang.StringUtils;
  * A collection of <code>File</code>, <code>URL</code> and filename
  * utility methods
  *
- * @version $Id$
+ * @version $Id: IOUtils.java 634152 2008-03-06 04:14:38Z joerg $
  */
 public class IOUtils {
 

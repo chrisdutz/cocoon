@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: page2html.xsl 597525 2007-11-23 02:45:15Z vgritsenko $
   -->
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                               xmlns="http://www.w3.org/1999/xhtml">

@@ -25,7 +25,7 @@ import org.apache.cocoon.environment.PermanentRedirector;
 
 /**
  *
- * @version $Id$
+ * @version $Id: RedirectToURINode.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class RedirectToURINode extends AbstractProcessingNode {
 

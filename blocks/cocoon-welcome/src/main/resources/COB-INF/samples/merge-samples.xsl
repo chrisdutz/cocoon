@@ -19,7 +19,7 @@
 <!--
   - Merge groups with same name.
   -
-  - $Id$
+  - $Id: merge-samples.xsl 588509 2007-10-26 04:12:29Z vgritsenko $
   -->
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">

@@ -23,7 +23,7 @@ import org.apache.commons.lang.BooleanUtils;
  * Helper class for managing Cocoon servlet specific settings.
  * 
  * @since 2.2
- * @version $Id$
+ * @version $Id: ServletSettings.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class ServletSettings {
 

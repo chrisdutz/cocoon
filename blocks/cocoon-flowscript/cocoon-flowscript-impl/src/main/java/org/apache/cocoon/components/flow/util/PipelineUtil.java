@@ -41,7 +41,7 @@ import org.xml.sax.SAXException;
  * This class must be setup from the flowscript before being used. This means that instances must
  * be created with <code>cocoon.createObject(Packages.org.apache.cocoon.components.flow.util.PipelineUtil);
  *
- * @version $Id$
+ * @version $Id: PipelineUtil.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class PipelineUtil {
 

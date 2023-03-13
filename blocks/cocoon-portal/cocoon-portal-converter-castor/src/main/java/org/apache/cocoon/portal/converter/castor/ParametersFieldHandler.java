@@ -29,7 +29,7 @@ import org.exolab.castor.mapping.MapItem;
 /**
  * Field handler for parameters of a layout or an item.
  *
- * @version $Id$
+ * @version $Id: ParametersFieldHandler.java 610153 2008-01-08 21:02:21Z cziegeler $
  */
 public class ParametersFieldHandler extends AbstractFieldHandler {
 

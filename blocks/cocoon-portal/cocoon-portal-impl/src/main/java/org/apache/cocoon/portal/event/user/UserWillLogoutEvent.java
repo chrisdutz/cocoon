@@ -23,7 +23,7 @@ import org.apache.cocoon.portal.om.PortalUser;
  * Note, that not in all circumstances a logout is received from a user, e.g. when
  * the session expires and the user does not explicitly logout.
  *
- * @version $Id$
+ * @version $Id: UserWillLogoutEvent.java 587755 2007-10-24 02:50:56Z vgritsenko $
  * @since 2.2
  */
 public class UserWillLogoutEvent extends UserEvent {

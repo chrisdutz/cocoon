@@ -42,7 +42,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * @cocoon.sitemap.component.documentation
  * A <code>Selector</code> that matches a string against a configurable cookie's value.
  *
- * @version $Id$
+ * @version $Id: CookieSelector.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class CookieSelector extends AbstractLogEnabled
                             implements Configurable, Selector, ThreadSafe {

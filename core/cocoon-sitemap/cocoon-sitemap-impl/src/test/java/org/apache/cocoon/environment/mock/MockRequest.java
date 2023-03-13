@@ -41,7 +41,7 @@ import org.apache.cocoon.environment.Session;
 import org.apache.cocoon.environment.impl.AbstractRequest;
 
 /**
- * @version $Id$
+ * @version $Id: MockRequest.java 609282 2008-01-06 09:35:48Z rgoers $
  */
 public class MockRequest extends AbstractRequest {
     

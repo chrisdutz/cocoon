@@ -30,7 +30,7 @@ import org.w3c.dom.Element;
  *                      value="<i>attribute-value</i>"/&gt;
  * </code></pre>
  *
- * @version $Id$
+ * @version $Id: SetAttributeJXPathBindingBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class SetAttributeJXPathBindingBuilder extends JXPathBindingBuilderBase {
 

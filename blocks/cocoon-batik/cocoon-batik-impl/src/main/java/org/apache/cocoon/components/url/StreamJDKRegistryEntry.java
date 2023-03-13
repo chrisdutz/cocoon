@@ -40,7 +40,7 @@ import org.apache.batik.util.ParsedURL;
 /**
  * This Image tag registy entry is setup to wrap the core JDK Image stream tools.  
  * 
- * @version $Id$
+ * @version $Id: StreamJDKRegistryEntry.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class StreamJDKRegistryEntry extends AbstractRegistryEntry 
     implements URLRegistryEntry {

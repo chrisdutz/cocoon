@@ -29,7 +29,7 @@ import java.net.URL;
 /**
  * This is a simple cli client for the {@link Debugger}.
  * @since 2.2
- * @version $Id$
+ * @version $Id: Client.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class Client implements Runnable {
 

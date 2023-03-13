@@ -59,7 +59,7 @@ import java.util.Map;
  * <p>For more information about the supported tags and their function,
  * see the user documentation for the forms template transformer.</p>
  *
- * @version $Id$
+ * @version $Id: EffectWidgetReplacingPipe.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class EffectWidgetReplacingPipe extends EffectPipe {
 

@@ -24,7 +24,7 @@ import org.apache.pluto.om.common.DescriptionSet;
 
 /**
  *
- * @version $Id$
+ * @version $Id: DescriptionSetImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class DescriptionSetImpl 
     extends AbstractSupportSet 

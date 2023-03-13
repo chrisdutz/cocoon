@@ -52,7 +52,7 @@ import org.xml.sax.SAXException;
  * the Connection to use, parameters specify the table and column
  * to pull the image from, and source specifies the source key information.
  *
- * @version $Id$
+ * @version $Id: DatabaseReader.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class DatabaseReader extends ServiceableReader
                             implements Configurable, Disposable, CacheableProcessingComponent {

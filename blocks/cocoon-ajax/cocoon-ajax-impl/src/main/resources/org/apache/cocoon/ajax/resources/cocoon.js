@@ -29,7 +29,7 @@
  *    </script>
  * </pre>
  *
- * @version $Id$
+ * @version $Id: cocoon.js 544780 2007-06-06 09:41:02Z felixk $
  */
 
 dojo.provide("cocoon");

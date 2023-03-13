@@ -35,7 +35,7 @@ import org.apache.wsrp4j.consumer.driver.GenericWSRPBaseRequestImpl;
  * {@link org.apache.cocoon.portal.wsrp.consumer#consumerEnvironment} for all 
  * other information.<br/>
  * 
- * @version $Id$
+ * @version $Id: WSRPRequestImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class WSRPRequestImpl extends GenericWSRPBaseRequestImpl 
                              implements InteractionRequest, MarkupRequest {

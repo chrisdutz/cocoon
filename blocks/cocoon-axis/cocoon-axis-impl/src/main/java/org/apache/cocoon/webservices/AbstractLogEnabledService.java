@@ -36,7 +36,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  *  using the AvalonProvider support built into Axis itself.
  * </p>
  *
- * @version $Id$
+ * @version $Id: AbstractLogEnabledService.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public abstract class AbstractLogEnabledService extends AbstractLogEnabled
                                                 implements ServiceLifecycle {

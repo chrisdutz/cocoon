@@ -21,7 +21,7 @@ import org.apache.cocoon.portal.om.CopletDefinition;
 /**
  * This event is fired when a new coplet is created.
  *
- * @version $Id$
+ * @version $Id: CopletDefinitionAddedEvent.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class CopletDefinitionAddedEvent
     extends AbstractCopletDefinitionEvent {

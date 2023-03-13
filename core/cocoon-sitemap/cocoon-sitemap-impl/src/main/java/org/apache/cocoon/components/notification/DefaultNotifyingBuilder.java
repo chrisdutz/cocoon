@@ -30,7 +30,7 @@ import java.util.Map;
 /**
  *  Generates an Notifying representation of widely used objects.
  *
- * @version $Id$
+ * @version $Id: DefaultNotifyingBuilder.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class DefaultNotifyingBuilder implements NotifyingBuilder {
 

@@ -59,7 +59,7 @@ import org.xml.sax.XMLFilter;
  * error reporting. This is a bean implementation that can be configured in
  * a spring context.
  *
- * @version $Id$
+ * @version $Id: XSLTProcessorImpl.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class XSLTProcessorImpl
     extends AbstractLogEnabled

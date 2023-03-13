@@ -19,7 +19,7 @@
 -->
 
 <!--
-  - @version $Id$
+  - @version $Id: cocoon-rcl-plugin-demo-blockServlet.xml 588465 2007-10-26 01:49:53Z vgritsenko $
   -->
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"

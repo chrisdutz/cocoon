@@ -184,7 +184,7 @@ import java.util.Vector;
  *     <td>equals-to</td><td>string constant</td>
  * </tr>
  * </table>
- * @version $Id$
+ * @version $Id: AbstractValidatorAction.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractValidatorAction
     extends AbstractComplementaryConfigurableAction {

@@ -30,7 +30,7 @@ import org.apache.cocoon.selection.SwitchSelector;
 
 /**
  *
- * @version $Id$
+ * @version $Id: SwitchSelectNode.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class SwitchSelectNode extends SimpleSelectorProcessingNode
     implements ParameterizableProcessingNode {

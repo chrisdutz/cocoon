@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!-- CVS $Id$ -->
+<!-- CVS $Id: sitemap.xmap 491426 2006-12-31 14:42:29Z cziegeler $ -->
 
 <map:sitemap xmlns:map="http://apache.org/cocoon/sitemap/1.0">
 

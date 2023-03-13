@@ -17,7 +17,7 @@
 -->
 
 <!-- 
-     @version $Id$
+     @version $Id: proper.xsl 449193 2006-09-23 07:03:36Z crossley $
 -->
 
 <xsl:stylesheet 

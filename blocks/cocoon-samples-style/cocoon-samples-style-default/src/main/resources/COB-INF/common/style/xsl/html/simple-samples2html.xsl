@@ -19,7 +19,7 @@
 <!--
   - Convert samples file to the HTML page. Uses styles/main.css stylesheet.
   -
-  - $Id$
+  - $Id: simple-samples2html.xsl 606303 2007-12-21 20:43:21Z vgritsenko $
   -->
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">

@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: exception2html.xslt 606326 2007-12-21 21:34:42Z vgritsenko $
   -->
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform"

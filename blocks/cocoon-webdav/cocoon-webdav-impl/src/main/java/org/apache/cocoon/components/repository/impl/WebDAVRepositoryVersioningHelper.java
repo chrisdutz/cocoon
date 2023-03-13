@@ -29,7 +29,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * A versioning helper class
  * intended to be used by flowscripts or corresponding wrapper components.
  *
- * @version $Id$
+ * @version $Id: WebDAVRepositoryVersioningHelper.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class WebDAVRepositoryVersioningHelper extends AbstractLogEnabled
                                               implements RepositoryVersioningHelper {

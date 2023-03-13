@@ -29,7 +29,7 @@ import java.io.IOException;
  *
  * This element is not used in HSSFSerializer 1.0
  *
- * @version $Id$
+ * @version $Id: EP_Titles.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EP_Titles extends BaseElementProcessor {
     private static final String _value_attribute = "value";

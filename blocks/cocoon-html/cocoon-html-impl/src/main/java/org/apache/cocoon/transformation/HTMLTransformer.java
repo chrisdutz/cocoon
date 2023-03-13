@@ -56,7 +56,7 @@ import org.xml.sax.SAXException;
  * elements and pass it thru JTidy to obtain valid XHTML.
  * @cocoon.sitemap.component.documentation.caching Not Implemented
  *
- * @version $Id$
+ * @version $Id: HTMLTransformer.java 607381 2007-12-29 05:42:58Z vgritsenko $
  */
 public class HTMLTransformer extends AbstractSAXTransformer
                              implements Configurable {

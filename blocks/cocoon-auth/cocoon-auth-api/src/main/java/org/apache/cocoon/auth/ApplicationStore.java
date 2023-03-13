@@ -26,7 +26,7 @@ package org.apache.cocoon.auth;
  * Calling the {@link #saveApplicationData(User, Application, Object)} is the
  * task of the application.
  *
- * @version $Id$
+ * @version $Id: ApplicationStore.java 587757 2007-10-24 02:52:49Z vgritsenko $
 */
 public interface ApplicationStore {
 

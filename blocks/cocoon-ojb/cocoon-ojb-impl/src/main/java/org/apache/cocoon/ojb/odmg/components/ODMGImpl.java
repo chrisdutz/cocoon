@@ -35,7 +35,7 @@ import org.odmg.ODMGException;
  * OJB backed implementation of the ODMG component. Creates a ODMG Implementation
  * Object and stores it for the future use.
  *
- * @version $Id$
+ * @version $Id: ODMGImpl.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ODMGImpl extends AbstractLogEnabled
                       implements ODMG, ThreadSafe, Initializable, Disposable {

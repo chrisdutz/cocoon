@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!-- CVS: $Id$ -->
+<!-- CVS: $Id: samples.xml 491426 2006-12-31 14:42:29Z cziegeler $ -->
 
 <samples xmlns:xlink="http://www.w3.org/1999/xlink" name="simple form handling">
 

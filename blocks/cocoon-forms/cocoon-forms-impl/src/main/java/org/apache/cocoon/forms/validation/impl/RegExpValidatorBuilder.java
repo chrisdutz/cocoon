@@ -25,7 +25,7 @@ import org.w3c.dom.Element;
 /**
  * Adapter for {@link org.apache.cocoon.forms.datatype.validationruleimpl.RegExpValidationRuleBuilder}
  * 
- * @version $Id$
+ * @version $Id: RegExpValidatorBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class RegExpValidatorBuilder
     extends RegExpValidationRuleBuilder

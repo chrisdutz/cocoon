@@ -36,7 +36,7 @@ import org.apache.cocoon.environment.Context;
 /**
  * Base class for any context
  *
- * @version $Id$
+ * @version $Id: AbstractContext.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractContext 
     implements Context, ServletContext {

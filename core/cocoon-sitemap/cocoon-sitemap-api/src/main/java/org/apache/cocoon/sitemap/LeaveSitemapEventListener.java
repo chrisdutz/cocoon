@@ -18,7 +18,7 @@ package org.apache.cocoon.sitemap;
 
 /**
  *
- * @version $Id$
+ * @version $Id: LeaveSitemapEventListener.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 public interface LeaveSitemapEventListener extends SitemapListener {

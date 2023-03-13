@@ -40,7 +40,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
 /**
  * A factory for sources from a Jakarta Slide repository.
  *
- * @version $Id$ 
+ * @version $Id: SlideSourceFactory.java 587761 2007-10-24 03:08:05Z vgritsenko $ 
  */
 public class SlideSourceFactory extends AbstractLogEnabled
                                 implements SourceFactory, Contextualizable, Serviceable,

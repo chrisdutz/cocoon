@@ -40,7 +40,7 @@ import java.util.Map;
  * keep them synchronized because the order of SAX events affects the validity
  * of your XML document.
  * 
- * @version $Id$
+ * @version $Id: SitemapModelComponent.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface SitemapModelComponent {
     /**

@@ -15,7 +15,7 @@
 * limitations under the License.
 */
 //
-// SVN $Id$
+// SVN $Id: sample.js 448774 2006-09-22 02:35:42Z crossley $
 //
 cocoon.load("resource://org/apache/cocoon/webapps/authentication/flow/javascript/auth.js");
 

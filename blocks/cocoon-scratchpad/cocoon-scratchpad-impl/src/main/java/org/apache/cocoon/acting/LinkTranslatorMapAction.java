@@ -34,7 +34,7 @@ import org.apache.cocoon.util.NetUtils;
  * This action sets a new LINK_OBJECT entry in the objectModel entry.
  *
  * @since 16 December 2002
- * @version $Id$
+ * @version $Id: LinkTranslatorMapAction.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class LinkTranslatorMapAction extends AbstractAction
                                      implements ThreadSafe {

@@ -46,7 +46,7 @@ import org.xml.sax.SAXException;
  * @cocoon.sitemap.component.documentation.caching Yes.
  * Uses the last modification date of the xml document for validation
  *
- * @version $Id$
+ * @version $Id: FileGenerator.java 605687 2007-12-19 20:27:35Z vgritsenko $
  */
 public class FileGenerator extends ServiceableGenerator
                            implements CacheableProcessingComponent {

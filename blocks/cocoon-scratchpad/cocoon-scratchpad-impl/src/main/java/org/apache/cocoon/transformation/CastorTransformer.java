@@ -84,7 +84,7 @@ import org.xml.sax.SAXException;
  * The <code>command</code> attribute specifies the class that implements CastorUnmarshalCommand
  * and will be called before and after unmarshaling.</p>
  *
- * @version $Id$
+ * @version $Id: CastorTransformer.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class CastorTransformer extends AbstractTransformer implements Configurable {
 

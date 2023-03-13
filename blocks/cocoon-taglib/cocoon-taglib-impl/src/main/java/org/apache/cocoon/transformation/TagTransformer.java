@@ -59,7 +59,7 @@ import java.util.Map;
  * <p>Transformer processes incoming SAX events and for each element it tries to
  * find {@link Tag} component with matching namespace and tag name.
  *
- * @version $Id$
+ * @version $Id: TagTransformer.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class TagTransformer extends AbstractXMLProducer
                             implements Transformer, Serviceable, Configurable,

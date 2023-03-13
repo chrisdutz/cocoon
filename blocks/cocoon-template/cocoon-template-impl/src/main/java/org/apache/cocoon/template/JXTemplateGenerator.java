@@ -62,7 +62,7 @@ import org.xml.sax.SAXException;
  * Caching key and validity should be supplied by jx template.
  * @cocoon.sitemap.component.pooling.max 16
  *
- * @version $Id$
+ * @version $Id: JXTemplateGenerator.java 605689 2007-12-19 20:48:43Z vgritsenko $
  */
 public class JXTemplateGenerator extends AbstractLogEnabled
                                  implements Generator, CacheableProcessingComponent {

@@ -29,7 +29,7 @@ import java.io.InputStream;
  * If you want to reuse this interpreter make sure to call first {@link #recycle()}
  * and then set the new consumer for the sax events before restarting with the {@link #deserialize(InputStream)} method.
  *
- * @version $Id$
+ * @version $Id: XMLInputStreamInterpreter.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public final class XMLInputStreamInterpreter
     extends AbstractXMLByteStreamInterpreter {

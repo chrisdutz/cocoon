@@ -18,7 +18,7 @@
 <!--+
     | This file defines core components for the sitemap.
     |
-    | SVN $Id$
+    | SVN $Id: cocoon-core-sitemapcomponents.xconf 651157 2008-04-24 05:24:00Z joerg $
     +-->
 
 <map:components xmlns:map="http://apache.org/cocoon/sitemap/1.0">

@@ -108,7 +108,7 @@ import org.xml.sax.ext.LexicalHandler;
  * It provides the wsrp support by initializing wsrp4j <br/>
  * The aspect/adapter can be configured at the portal manager.<br/>
  *
- * @version $Id$
+ * @version $Id: WSRPAdapter.java 600025 2007-12-01 00:43:11Z cziegeler $
  */
 public class WSRPAdapter
     extends AbstractCopletAdapter

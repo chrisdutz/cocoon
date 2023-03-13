@@ -36,7 +36,7 @@ import org.w3c.dom.Element;
  * Helper methods to use JavaScript in various locations of the Cocoon Forms configuration files
  * such as event listeners and bindings.
  * 
- * @version $Id$
+ * @version $Id: JavaScriptHelper.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JavaScriptHelper {
 

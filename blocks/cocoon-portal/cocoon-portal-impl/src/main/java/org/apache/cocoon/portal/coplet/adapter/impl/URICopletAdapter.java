@@ -33,7 +33,7 @@ import org.xml.sax.SAXException;
  *
  * TODO - We should provide a configuration option to directly stream the output
  *        into the resulting output stream like the portlet adapter does.
- * @version $Id$
+ * @version $Id: URICopletAdapter.java 598794 2007-11-27 22:40:20Z cziegeler $
  */
 public class URICopletAdapter
     extends AbstractCopletAdapter {

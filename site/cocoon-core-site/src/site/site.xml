@@ -17,7 +17,7 @@
   specific language governing permissions and limitations
   under the License.
 -->
-<!-- $Id$ -->
+<!-- $Id: site.xml 1329674 2012-04-24 12:33:07Z ilgrosso $ -->
 <project xmlns="http://maven.apache.org/DECORATION/1.1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/DECORATION/1.1.0 http://maven.apache.org/xsd/decoration-1.1.0.xsd"
          name="Cocoon Core Modules">

@@ -50,7 +50,7 @@ import org.xml.sax.SAXException;
  * @cocoon.sitemap.component.name   writeDOMsession
  * @cocoon.sitemap.component.documentation.caching No
  *
- * @version $Id$
+ * @version $Id: WriteDOMSessionTransformer.java 605605 2007-12-19 16:19:51Z vgritsenko $
  */
 public class WriteDOMSessionTransformer extends AbstractTransformer {
 

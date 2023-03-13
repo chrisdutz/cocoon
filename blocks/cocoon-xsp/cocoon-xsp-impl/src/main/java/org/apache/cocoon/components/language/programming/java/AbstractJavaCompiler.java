@@ -31,7 +31,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * This class implements the functionality common to all Java compilers.
  *
  * @since 2.0
- * @version $Id$
+ * @version $Id: AbstractJavaCompiler.java 1857502 2019-04-14 05:20:19Z ilgrosso $
  */
 public abstract class AbstractJavaCompiler extends AbstractLogEnabled
                                            implements LanguageCompiler, Recyclable {

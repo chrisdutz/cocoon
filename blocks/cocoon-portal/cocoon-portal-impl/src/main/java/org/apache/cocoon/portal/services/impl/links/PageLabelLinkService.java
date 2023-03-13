@@ -45,7 +45,7 @@ import org.apache.cocoon.portal.services.aspects.RequestProcessorAspectContext;
  * The PageLabelLinkService generates links for named items defined in the layout portal.xml.
  * Links for other entities are passed to the DefaultLinkService to be resolved.
  *
- * @version $Id$
+ * @version $Id: PageLabelLinkService.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PageLabelLinkService
     extends DefaultLinkService

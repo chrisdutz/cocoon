@@ -17,7 +17,7 @@
 -->
 
 <!--+
-    | $Id$
+    | $Id: include.xslt 491426 2006-12-31 14:42:29Z cziegeler $
     +-->
 <xsl:stylesheet version="1.0"
                 xmlns:i="http://apache.org/cocoon/include/1.0"

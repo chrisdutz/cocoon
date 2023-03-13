@@ -23,7 +23,7 @@ import org.apache.excalibur.source.Source;
  * The InspectableAwareCachingSourceFactory inherits from {@link CachingSourceFactory} and only
  * adds support for wrapped sources of type {@link InspectableSource}.
  * 
- * @version $Id$
+ * @version $Id: InspectableAwareCachingSourceFactory.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class InspectableAwareCachingSourceFactory extends CachingSourceFactory {
 

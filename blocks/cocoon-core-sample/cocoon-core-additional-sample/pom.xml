@@ -18,22 +18,20 @@
   under the License.
 -->
 <!--
-  - @version $Id$
+  - @version $Id: pom.xml 1907429 2023-02-05 12:48:32Z javier $
   -->
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-
   <modelVersion>4.0.0</modelVersion>
-  <packaging>jar</packaging>
 
   <parent>
-    <artifactId>cocoon-blocks-modules</artifactId>
     <groupId>org.apache.cocoon</groupId>
-    <version>7</version>
-    <relativePath>../../pom.xml</relativePath>
+    <artifactId>cocoon-core-sample</artifactId>
+    <version>2.2.1-SNAPSHOT</version>
   </parent>
-  <groupId>org.apache.cocoon</groupId>
+
   <artifactId>cocoon-core-additional-sample</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>2.2.1-SNAPSHOT</version>
+
   <name>Cocoon Additional Sample Block</name>
 
   <scm>
@@ -48,4 +46,5 @@
       <artifactId>cocoon-core</artifactId>
     </dependency>
   </dependencies>
+
 </project>

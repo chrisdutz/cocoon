@@ -22,7 +22,7 @@ import java.util.Set;
 /**
  * Base class for context maps
  *
- * @version $Id$
+ * @version $Id: BaseMap.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class BaseMap extends java.util.AbstractMap {
 

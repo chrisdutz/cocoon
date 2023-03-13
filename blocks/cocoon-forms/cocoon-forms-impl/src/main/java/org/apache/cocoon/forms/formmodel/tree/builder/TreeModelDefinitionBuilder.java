@@ -22,7 +22,7 @@ import org.w3c.dom.Element;
 /**
  * Builds {@link TreeModel}s from an XML description.
  * 
- * @version $Id$
+ * @version $Id: TreeModelDefinitionBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface TreeModelDefinitionBuilder {
     

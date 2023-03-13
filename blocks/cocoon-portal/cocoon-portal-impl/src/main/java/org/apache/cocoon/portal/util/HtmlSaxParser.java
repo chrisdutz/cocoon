@@ -33,7 +33,7 @@ import org.xml.sax.ext.LexicalHandler;
 /**
  * This parser uses the nekohtml parser to parse html and generate sax streams.
  *
- * @version $Id$
+ * @version $Id: HtmlSaxParser.java 598833 2007-11-28 00:40:36Z cziegeler $
  */
 public class HtmlSaxParser extends AbstractSAXParser {
 

@@ -46,7 +46,7 @@ import java.util.Map;
  * @cocoon.sitemap.component.documentation.caching
  * Uses the last modification date of the xml document for validation
  *
- * @version $Id$
+ * @version $Id: FileGeneratorBean.java 605687 2007-12-19 20:27:35Z vgritsenko $
  */
 public class FileGeneratorBean extends AbstractLogEnabled
                                implements Generator, CacheableProcessingComponent, DisposableSitemapComponent {

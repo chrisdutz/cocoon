@@ -40,7 +40,7 @@ import java.util.Map;
  * If the specified request attribute exists, its string representation
  * is retrieved for later sitemap substitution.
  *
- * @version $Id$
+ * @version $Id: RequestAttributeMatcher.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class RequestAttributeMatcher implements Matcher, ThreadSafe
 {

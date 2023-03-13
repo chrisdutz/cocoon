@@ -144,7 +144,7 @@ import java.util.Map;
  * @cocoon.sitemap.component.name   simple-form
  * @cocoon.sitemap.component.documentation.caching No
  *
- * @version $Id$
+ * @version $Id: SimpleFormTransformer.java 605689 2007-12-19 20:48:43Z vgritsenko $
  */
 public class SimpleFormTransformer extends AbstractSAXTransformer {
 

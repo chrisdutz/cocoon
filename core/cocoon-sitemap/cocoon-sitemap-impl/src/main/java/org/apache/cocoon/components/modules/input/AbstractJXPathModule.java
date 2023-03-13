@@ -65,7 +65,7 @@ import org.apache.avalon.framework.configuration.ConfigurationException;
  * </tr>
  * </table>
  *
- * @version $Id$
+ * @version $Id: AbstractJXPathModule.java 609282 2008-01-06 09:35:48Z rgoers $
  */
 public abstract class AbstractJXPathModule extends AbstractInputModule {
 

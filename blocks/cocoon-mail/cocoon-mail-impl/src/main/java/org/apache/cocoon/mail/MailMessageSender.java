@@ -70,7 +70,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * </tbody></table>
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: MailMessageSender.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class MailMessageSender extends AbstractLogEnabled
                                implements MailSender, Configurable, Serviceable,

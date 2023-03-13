@@ -33,7 +33,7 @@ import org.xml.sax.SAXException;
  * <p>
  * This is a the most simple use of {@link NamespacesTable}.
  *
- * @version $Id$
+ * @version $Id: RedundantNamespacesFilter.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class RedundantNamespacesFilter extends AbstractXMLPipe {
 

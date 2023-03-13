@@ -51,7 +51,7 @@ import java.util.Map;
  * @cocoon.sitemap.component.name   filter
  * @cocoon.sitemap.component.documentation.caching Yes
  *
- * @version $Id$
+ * @version $Id: FilterTransformer.java 605605 2007-12-19 16:19:51Z vgritsenko $
  */
 public class FilterTransformer extends AbstractTransformer
                                implements CacheableProcessingComponent {

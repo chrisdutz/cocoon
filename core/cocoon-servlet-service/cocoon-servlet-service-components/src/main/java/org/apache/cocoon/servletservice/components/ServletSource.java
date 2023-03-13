@@ -45,7 +45,7 @@ import org.apache.excalibur.store.Store;
 /**
  * Implementation of a {@link Source} that gets its content by invoking a servlet service.
  *
- * @version $Id$
+ * @version $Id: ServletSource.java 685509 2008-08-13 10:56:48Z gkossakowski $
  * @since 1.0.0
  */
 public class ServletSource extends AbstractSource

@@ -46,7 +46,7 @@ import org.xml.sax.SAXException;
  * Migration from JSTL1.0
  * @see org.apache.taglibs.standard.tag.common.core
  * 
- * @version $Id$
+ * @version $Id: ForEachSupport.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class ForEachSupport extends LoopTagSupport {
 

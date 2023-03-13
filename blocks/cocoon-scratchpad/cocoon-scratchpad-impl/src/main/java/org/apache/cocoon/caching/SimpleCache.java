@@ -44,7 +44,7 @@ import org.apache.excalibur.source.impl.validity.FileTimeStampValidity;
  * by running batch processes.
  *
  * @since 2.1.1
- * @version $Id$
+ * @version $Id: SimpleCache.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class SimpleCache extends CacheImpl {
 

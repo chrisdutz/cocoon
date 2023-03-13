@@ -17,7 +17,7 @@
 package org.apache.cocoon.components.flow.javascript.fom;
 
 /**
- * @version $Id$
+ * @version $Id: PageLocalScope.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface PageLocalScope {
 

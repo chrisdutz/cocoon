@@ -59,7 +59,7 @@ import org.xml.sax.SAXException;
  * If this loader cannot be started, only an error is logged into the
  * log, so actually cached content is never updated!
  * 
- *  @version $Id$
+ *  @version $Id: DefaultIncludeCacheManager.java 587750 2007-10-24 02:35:22Z vgritsenko $
  *  @since   2.1
  */
 public final class DefaultIncludeCacheManager extends AbstractLogEnabled

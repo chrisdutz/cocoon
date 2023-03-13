@@ -17,7 +17,7 @@
 -->
 
 <!-- 
-     @version $Id$
+     @version $Id: pics2view.xsl 449193 2006-09-23 07:03:36Z crossley $
 -->
 
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:rfc="http://efp.cc/Web3-Rfc/1.0">

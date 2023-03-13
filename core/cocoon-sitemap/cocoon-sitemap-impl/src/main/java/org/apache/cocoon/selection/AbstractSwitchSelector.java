@@ -25,7 +25,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
 /**
  * Abstract SwitchSelector class.
  *
- * @version $Id$
+ * @version $Id: AbstractSwitchSelector.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractSwitchSelector extends AbstractLogEnabled
                                              implements SwitchSelector {

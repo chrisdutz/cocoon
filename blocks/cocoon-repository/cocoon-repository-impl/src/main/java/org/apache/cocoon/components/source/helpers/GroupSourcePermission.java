@@ -19,7 +19,7 @@ package org.apache.cocoon.components.source.helpers;
 /**
  * This class represents a source permission for groups
  *
- * @version $Id$
+ * @version $Id: GroupSourcePermission.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class GroupSourcePermission extends AbstractSourcePermission {
 

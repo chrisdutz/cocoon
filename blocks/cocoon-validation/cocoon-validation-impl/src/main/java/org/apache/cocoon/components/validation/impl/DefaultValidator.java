@@ -53,7 +53,7 @@ import org.apache.cocoon.util.avalon.CLLoggerWrapper;
  * <p>That said, normally selection would occur using the methods declared by the
  * {@link AbstractValidator} class and implemented here.</p>
  *
- * @version $Id$
+ * @version $Id: DefaultValidator.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class DefaultValidator extends AbstractValidator
                               implements ServiceSelector, ThreadSafe, Contextualizable,

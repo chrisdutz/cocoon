@@ -38,7 +38,7 @@ import org.apache.cocoon.portal.services.VariableResolver;
  * from there.
  * The portal service is a singleton.
  *
- * @version $Id$
+ * @version $Id: PortalService.java 682464 2008-08-04 18:55:57Z cziegeler $
  */
 public interface PortalService {
 

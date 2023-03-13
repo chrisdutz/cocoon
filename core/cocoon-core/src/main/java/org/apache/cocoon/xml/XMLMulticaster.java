@@ -23,7 +23,7 @@ import org.xml.sax.SAXException;
 import org.xml.sax.ext.LexicalHandler;
 
 /**
- * @version $Id$
+ * @version $Id: XMLMulticaster.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public final class XMLMulticaster implements XMLConsumer {
 

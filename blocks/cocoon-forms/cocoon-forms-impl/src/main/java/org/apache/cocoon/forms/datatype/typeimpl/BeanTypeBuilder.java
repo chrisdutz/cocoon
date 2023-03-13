@@ -25,7 +25,7 @@ import org.w3c.dom.Element;
 /**
  * Builder for {@link BeanType}
  *
- * @version $Id$
+ * @version $Id: BeanTypeBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class BeanTypeBuilder
     extends AbstractDatatypeBuilder

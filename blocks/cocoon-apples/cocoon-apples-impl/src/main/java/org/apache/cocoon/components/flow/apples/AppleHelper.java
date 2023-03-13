@@ -27,7 +27,7 @@ import org.apache.cocoon.components.flow.Interpreter.Argument;
  * AppleHelper holds some static utility classes used in the Apples flow
  * implementation.
  * 
- * @version $Id$
+ * @version $Id: AppleHelper.java 510922 2007-02-23 12:19:07Z cziegeler $
  */
 public class AppleHelper {
     /**

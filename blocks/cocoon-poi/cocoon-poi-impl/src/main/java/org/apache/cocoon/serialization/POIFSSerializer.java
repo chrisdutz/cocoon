@@ -37,7 +37,7 @@ import org.xml.sax.SAXException;
  *    </li>
  *  </ul>
  *
- * @version $Id$
+ * @version $Id: POIFSSerializer.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class POIFSSerializer extends ElementProcessorSerializer {
 

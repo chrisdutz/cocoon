@@ -39,7 +39,7 @@ import java.net.MalformedURLException;
 /**
  * This environment is used to save the requested file to disk.
  *
- * @version $Id$
+ * @version $Id: AbstractCommandLineEnvironment.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public abstract class AbstractCommandLineEnvironment
 extends AbstractEnvironment {

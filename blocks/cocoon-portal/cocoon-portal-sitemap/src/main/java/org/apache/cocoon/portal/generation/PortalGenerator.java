@@ -38,7 +38,7 @@ import org.xml.sax.SAXException;
  * This generator needs one runtime configuration: the name of
  * the portal to render as a sitemap parameter named "portal-name".
  *
- * @version $Id$
+ * @version $Id: PortalGenerator.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortalGenerator 
 extends ServiceableGenerator {

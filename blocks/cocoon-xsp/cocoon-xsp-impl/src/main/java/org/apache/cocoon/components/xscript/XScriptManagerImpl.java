@@ -40,7 +40,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * The actual implementation of the <code>XScriptManager</code> interface.
  *
  * @since August  4, 2001
- * @version $Id$
+ * @version $Id: XScriptManagerImpl.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class XScriptManagerImpl extends AbstractLogEnabled
                                 implements XScriptManager, Serviceable, Parameterizable,

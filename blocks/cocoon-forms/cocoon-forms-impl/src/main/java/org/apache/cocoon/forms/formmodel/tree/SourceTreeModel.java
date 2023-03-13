@@ -29,7 +29,7 @@ import org.apache.excalibur.source.TraversableSource;
 /**
  * A {@link TreeModel} that builds a hierarchy of <code>TraversableSource</code>s.
  * 
- * @version $Id$
+ * @version $Id: SourceTreeModel.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class SourceTreeModel implements TreeModel {
     

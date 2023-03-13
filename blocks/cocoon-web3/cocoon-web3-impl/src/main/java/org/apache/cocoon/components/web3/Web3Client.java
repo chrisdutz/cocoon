@@ -24,7 +24,7 @@ import com.sap.mw.jco.JCO.Function;
  * The standard interface for R3Clients in Web3.
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: Web3Client.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface Web3Client {
 

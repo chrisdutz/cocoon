@@ -28,7 +28,7 @@ import org.w3c.dom.Element;
  * Builds a JavaScript validator.
  * 
  * @see org.apache.cocoon.forms.validation.impl.JavaScriptValidator
- * @version $Id$
+ * @version $Id: JavaScriptValidatorBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JavaScriptValidatorBuilder 
     implements WidgetValidatorBuilder {

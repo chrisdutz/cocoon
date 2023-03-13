@@ -40,7 +40,7 @@ import java.util.Locale;
  * influence on the {@link #validate(Object, ExpressionContext)} method, which should in that case be passed
  * an array of objects. See also {@link #isArrayType()}.
  * 
- * @version $Id$
+ * @version $Id: Datatype.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface Datatype {
     /**

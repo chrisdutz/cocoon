@@ -50,7 +50,7 @@ import org.xml.sax.SAXException;
  * to be prepared for possible extensions to this interface in future versions.
  *
  * TODO - init and destroy are not invoked when profile is loaded.
- * @version $Id$
+ * @version $Id: CopletAdapter.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface CopletAdapter {
 

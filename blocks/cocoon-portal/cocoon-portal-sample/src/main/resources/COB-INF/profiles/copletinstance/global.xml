@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- SVN $Id$ -->
+<!-- SVN $Id: global.xml 609777 2008-01-07 21:06:04Z cziegeler $ -->
 <coplets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <coplet-instance id="Newsweek_1">
       <coplet-definition>Newsweek</coplet-definition>

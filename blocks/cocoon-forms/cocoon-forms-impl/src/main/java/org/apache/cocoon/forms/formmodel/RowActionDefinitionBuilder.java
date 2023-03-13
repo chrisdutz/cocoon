@@ -27,7 +27,7 @@ import org.w3c.dom.Element;
 
 /**
  *
- * @version $Id$
+ * @version $Id: RowActionDefinitionBuilder.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public class RowActionDefinitionBuilder extends AbstractWidgetDefinitionBuilder {
 

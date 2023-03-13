@@ -28,7 +28,7 @@ import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: LocaleAwareInstruction.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class LocaleAwareInstruction extends Instruction {
     private Subst locale;

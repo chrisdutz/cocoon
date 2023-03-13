@@ -70,7 +70,7 @@ import org.apache.commons.collections.iterators.FilterIterator;
  *
  * @since March 19, 2002
  * @see ContinuationsManager
- * @version $Id$
+ * @version $Id: ContinuationsManagerImpl.java 692265 2008-09-04 21:47:05Z joerg $
  */
 public class ContinuationsManagerImpl extends AbstractLogEnabled
                                       implements ContinuationsManager, Configurable, ThreadSafe,

@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- $Id$ -->
+<!-- $Id: repository.roles 449179 2006-09-23 06:25:44Z crossley $ -->
 <role-list>
     <role name="org.apache.cocoon.components.repository.SourceRepository" 
     shorthand="source-repository" 

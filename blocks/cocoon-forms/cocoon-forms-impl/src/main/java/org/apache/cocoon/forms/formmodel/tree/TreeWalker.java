@@ -37,7 +37,7 @@ import org.apache.commons.collections.ArrayStack;
  * <code>org/apache/cocoon/forms/generation/jx-macros.xml</code>) but can of course be
  * used in other places as well.
  * 
- * @version $Id$
+ * @version $Id: TreeWalker.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class TreeWalker implements Iterator {
     ArrayStack stack = new ArrayStack();

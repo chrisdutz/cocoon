@@ -29,7 +29,7 @@ import org.apache.regexp.REProgram;
  * Matches the request URIs against a regular expression pattern.
  *
  * @since 03 January 2003
- * @version $Id$
+ * @version $Id: RegexpURIDefaultsMatcher.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class RegexpURIDefaultsMatcher extends AbstractRegexpMatcher {
 

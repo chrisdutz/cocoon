@@ -24,7 +24,7 @@ import org.apache.cocoon.portal.om.CopletType;
 /**
  * This factory is for creating and managing coplet objects.
  *
- * @version $Id$
+ * @version $Id: CopletFactory.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface CopletFactory  {
 

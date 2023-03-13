@@ -49,7 +49,7 @@ import org.xml.sax.SAXException;
 /**
  * Helper class for the implementation of the CForms template language with JXTemplate macros.
  *
- * @version $Id$
+ * @version $Id: JXMacrosHelper.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JXMacrosHelper {
 
@@ -450,7 +450,7 @@ public class JXMacrosHelper {
      * A SAX pipe that buffers the <code>endElement()</code> event of the root element.
      * This is needed by the generator version of the FormsTransformer (see jx-macros.xml).
      *
-     * @version $Id$
+     * @version $Id: JXMacrosHelper.java 587759 2007-10-24 03:00:37Z vgritsenko $
      */
     private static class RootBufferingPipe extends AbstractXMLPipe {
         private int depth = 0;

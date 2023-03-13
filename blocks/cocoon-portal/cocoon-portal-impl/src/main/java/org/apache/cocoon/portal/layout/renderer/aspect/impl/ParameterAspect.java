@@ -53,7 +53,7 @@ import org.xml.sax.helpers.AttributesImpl;
  *  <td></td><td>String</td><td><code>"parameter"</code></td></tr>
  * </tbody></table>
  *
- * @version $Id$
+ * @version $Id: ParameterAspect.java 633260 2008-03-03 20:21:05Z cziegeler $
  */
 public final class ParameterAspect extends AbstractAspect {
 

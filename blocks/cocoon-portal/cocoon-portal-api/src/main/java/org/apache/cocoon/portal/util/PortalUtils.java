@@ -21,7 +21,7 @@ import org.apache.commons.lang.StringUtils;
 /**
  * Some utility methods.
  *
- * @version $Id$
+ * @version $Id: PortalUtils.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortalUtils {
 

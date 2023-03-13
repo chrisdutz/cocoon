@@ -31,7 +31,7 @@ import org.apache.excalibur.source.SourceResolver;
 /**
  * A simple test CronJob which also calls a pipeline internally.
  *
- * @version $Id$
+ * @version $Id: TestCronJob.java 587758 2007-10-24 02:55:27Z vgritsenko $
  * @since 2.1.1
  */
 public class TestCronJob extends ServiceableCronJob

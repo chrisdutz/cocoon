@@ -23,7 +23,7 @@
 ]>
 
 <!--
-  - $Id$
+  - $Id: style.xsl 606392 2007-12-22 04:22:38Z vgritsenko $
   -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 version='1.0'>

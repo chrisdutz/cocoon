@@ -82,7 +82,7 @@ import org.apache.cocoon.util.location.LocationUtils;
 /**
  * The tree builder for the sitemap language.
  *
- * @version $Id$
+ * @version $Id: SitemapLanguage.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class SitemapLanguage extends AbstractLogEnabled
                              implements TreeBuilder, Contextualizable, Serviceable,

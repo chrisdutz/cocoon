@@ -44,7 +44,7 @@ import org.apache.commons.lang.BooleanUtils;
  * The test value can be either "<code>true</code>" or "<code>false</code>".
  *
  * @since 2.1.8
- * @version $Id$
+ * @version $Id: AjaxRequestSelector.java 607381 2007-12-29 05:42:58Z vgritsenko $
  */
 public class AjaxRequestSelector extends AbstractSwitchSelector {
     

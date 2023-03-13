@@ -34,7 +34,7 @@ import org.w3c.dom.Element;
 /**
  * Form binding library.
  *
- * @version $Id$
+ * @version $Id: Library.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class Library {
 

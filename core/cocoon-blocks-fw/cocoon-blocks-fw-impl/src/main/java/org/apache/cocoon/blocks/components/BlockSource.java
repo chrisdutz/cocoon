@@ -29,7 +29,7 @@ import org.apache.excalibur.source.impl.AbstractSource;
  * Implementation of a {@link Source} that gets its content by
  * invoking the Block. 
  *
- * @version $Id$
+ * @version $Id: BlockSource.java 587749 2007-10-24 02:33:18Z vgritsenko $
  */
 public class BlockSource extends AbstractSource {
     

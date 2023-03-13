@@ -25,7 +25,7 @@ import org.apache.cocoon.configuration.Settings;
 
 /**
  *
- * @version $Id$
+ * @version $Id: MountNodeBuilder.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class MountNodeBuilder
     extends AbstractProcessingNodeBuilder

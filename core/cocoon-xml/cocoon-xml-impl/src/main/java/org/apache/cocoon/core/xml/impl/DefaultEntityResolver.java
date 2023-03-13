@@ -39,7 +39,7 @@ import org.xml.sax.SAXException;
  * found at
  * http://xml.apache.org/cocoon/userdocs/concepts/catalog.html
  *
- * @version $Id$
+ * @version $Id: DefaultEntityResolver.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 public class DefaultEntityResolver

@@ -26,7 +26,7 @@ import org.apache.cocoon.portal.PortalService;
 /**
  * This abstract action provides access to the {@link PortalService}.
  *
- * @version $Id$
+ * @version $Id: AbstractPortalAction.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public abstract class AbstractPortalAction
     extends ServiceableAction

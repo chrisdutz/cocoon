@@ -48,7 +48,7 @@ import org.apache.fop.apps.FopFactory;
 /**
  * FOP 0.93 (and newer) based serializer.
  *  
- * @version $Id$
+ * @version $Id: FOPNGSerializer.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class FOPNGSerializer extends AbstractSerializer
                              implements Configurable, CacheableProcessingComponent,

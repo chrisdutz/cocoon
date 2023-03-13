@@ -27,7 +27,7 @@ import org.apache.cocoon.util.location.LocationUtils;
  * A smart error listener for <code>javax.xml.tranform</code> that does its best to provide
  * useful error messages.
  * 
- * @version $Id$
+ * @version $Id: TraxErrorListener.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.1.8
  */
 public class TraxErrorListener extends AbstractLogEnabled

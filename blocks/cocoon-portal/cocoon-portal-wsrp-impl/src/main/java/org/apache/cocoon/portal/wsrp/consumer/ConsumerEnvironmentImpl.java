@@ -43,7 +43,7 @@ import org.apache.wsrp4j.util.WindowStates;
 /**
  * Implements the consumer environment interface. <br/>
  *
- * @version $Id$
+ * @version $Id: ConsumerEnvironmentImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  **/
 public class ConsumerEnvironmentImpl
     extends GenericConsumerEnvironment

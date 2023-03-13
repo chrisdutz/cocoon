@@ -79,7 +79,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * modifying the main sitemap. This is especially useful for prototypes and demos where installing
  * a separate instance of Cocoon is overkill.
  *
- * @version $Id$
+ * @version $Id: MountTableMatcher.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class MountTableMatcher extends AbstractLogEnabled
                                implements Matcher, ThreadSafe, Serviceable, Parameterizable {

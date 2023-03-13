@@ -26,7 +26,7 @@ import java.io.IOException;
  * basically gives us the Gnumeric major version. At some point we
  * might care about that, but not today.
  *
- * @version $Id$
+ * @version $Id: EPWorkbook.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EPWorkbook extends BaseElementProcessor {
     private Workbook _workbook;

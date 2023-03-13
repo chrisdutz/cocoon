@@ -49,7 +49,7 @@ import org.xml.sax.SAXException;
  * <p>Using the methods {@link #getSize()} and {@link #getWidget(int, java.lang.String)}
  * you can access all of the repeated widget instances.
  *
- * @version $Id$
+ * @version $Id: Repeater.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class Repeater extends AbstractWidget
                       implements ValidationErrorAware {

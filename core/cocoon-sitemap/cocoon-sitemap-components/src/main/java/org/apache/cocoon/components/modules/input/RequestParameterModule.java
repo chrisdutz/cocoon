@@ -40,7 +40,7 @@ import java.util.TreeSet;
  * precedence over real arrays. In that case only the first value of
  * such array is returned.
  *
- * @version $Id$
+ * @version $Id: RequestParameterModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class RequestParameterModule extends AbstractInputModule implements ThreadSafe {
 

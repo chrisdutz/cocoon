@@ -34,7 +34,7 @@ import org.xml.sax.helpers.AttributesImpl;
 /**
  * The <code>Request</code> object helper
  *
- * @version $Id$
+ * @version $Id: XSPRequestHelper.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class XSPRequestHelper {
     /**

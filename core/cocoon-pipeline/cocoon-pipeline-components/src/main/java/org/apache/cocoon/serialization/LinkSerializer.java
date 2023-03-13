@@ -26,7 +26,7 @@ import java.io.OutputStream;
 import java.io.PrintStream;
 
 /**
- * @version $Id$
+ * @version $Id: LinkSerializer.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 
 public class LinkSerializer 

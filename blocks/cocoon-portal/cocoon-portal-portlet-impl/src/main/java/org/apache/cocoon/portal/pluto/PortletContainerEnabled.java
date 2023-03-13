@@ -24,7 +24,7 @@ import org.apache.pluto.services.PortletContainerEnvironment;
  * This method is invoke in the component initialization phase just
  * before the initialize method.
  *
- * @version $Id$
+ * @version $Id: PortletContainerEnabled.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public interface PortletContainerEnabled {
     

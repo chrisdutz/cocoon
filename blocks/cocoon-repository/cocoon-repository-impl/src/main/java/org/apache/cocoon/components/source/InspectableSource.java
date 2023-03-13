@@ -24,7 +24,7 @@ import org.apache.excalibur.source.SourceException;
 /**
  * A source, which owns meta informations in form of properties
  *
- * @version $Id$
+ * @version $Id: InspectableSource.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface InspectableSource extends Source {
 

@@ -30,7 +30,7 @@ import java.util.Map;
  * type. This factory is extendable as new <code>Renderer</code>s can
  * be added at runtime.
  *
- * @version $Id$
+ * @version $Id: ExtendableRendererFactory.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class ExtendableRendererFactory implements RendererFactory {
 

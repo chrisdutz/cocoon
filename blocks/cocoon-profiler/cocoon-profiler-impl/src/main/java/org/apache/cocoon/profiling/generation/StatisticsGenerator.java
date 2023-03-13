@@ -43,7 +43,7 @@ import org.xml.sax.SAXException;
 /**
  * Statistic-Generator.
  *
- * @version $Id$
+ * @version $Id: StatisticsGenerator.java 587761 2007-10-24 03:08:05Z vgritsenko $
  * @since 2.1.10
  */
 public class StatisticsGenerator

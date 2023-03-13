@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- CVS $Id$ -->
+<!-- CVS $Id: messages_el.xml 449197 2006-09-23 07:15:17Z crossley $ -->
 <!-- Default English message catalogue file for cocoon2 sample webapp -->
 <catalogue xml:lang="el">
   <message key="locale_lang">el</message>

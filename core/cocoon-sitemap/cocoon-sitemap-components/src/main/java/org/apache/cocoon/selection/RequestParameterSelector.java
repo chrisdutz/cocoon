@@ -36,7 +36,7 @@ import java.util.Map;
  * @cocoon.sitemap.component.documentation
  * A <code>Selector</code> that matches a string against a configurable request parameter's value.
  *
- * @version $Id$
+ * @version $Id: RequestParameterSelector.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class RequestParameterSelector extends AbstractSwitchSelector
   implements Configurable {

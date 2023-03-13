@@ -32,7 +32,7 @@ import org.mozilla.javascript.Wrapper;
 
 /**
  *
- * @version $Id$
+ * @version $Id: JavaScriptExpression.java 630360 2008-02-22 23:52:33Z vgritsenko $
  */
 public class JavaScriptExpression extends AbstractExpression {
 

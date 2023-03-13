@@ -83,7 +83,7 @@ import javax.xml.rpc.server.ServiceLifecycle;
  *
  * </p>
  *
- * @version $Id$
+ * @version $Id: AvalonProvider.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public class AvalonProvider extends RPCProvider {
     /**

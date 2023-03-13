@@ -17,7 +17,7 @@
 package org.apache.cocoon.xml;
 
 /**
- * @version $Id$
+ * @version $Id: NamespacesTable.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * 
  * @deprecated Use {@link org.apache.cocoon.xml.util.NamespacesTable} instead.
  */

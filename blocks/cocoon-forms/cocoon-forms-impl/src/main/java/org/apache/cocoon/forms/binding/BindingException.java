@@ -22,7 +22,7 @@ import org.apache.cocoon.forms.FormsException;
 /**
  * This exception is thrown when something goes wrong with the binding.
  *
- * @version $Id$
+ * @version $Id: BindingException.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class BindingException extends FormsException {
 

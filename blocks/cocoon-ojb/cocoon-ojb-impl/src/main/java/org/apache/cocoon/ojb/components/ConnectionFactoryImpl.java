@@ -52,7 +52,7 @@ import org.apache.ojb.broker.metadata.JdbcConnectionDescriptor;
  * It is important that Avalon component is initialized before any access
  * to OJB API is made.</p>
  *
- * @version $Id$
+ * @version $Id: ConnectionFactoryImpl.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ConnectionFactoryImpl implements Component, ThreadSafe, Serviceable, Disposable,
                                               ConnectionFactory {

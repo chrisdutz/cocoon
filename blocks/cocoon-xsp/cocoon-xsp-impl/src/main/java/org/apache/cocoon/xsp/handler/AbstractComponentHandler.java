@@ -34,7 +34,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * of the component handler that you need.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: AbstractComponentHandler.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class AbstractComponentHandler extends AbstractLogEnabled
                                                implements ComponentHandler {

@@ -35,7 +35,7 @@ import org.apache.cocoon.xsp.handler.ComponentHandler;
 /**
  * This class represents program in the Javascript language.
  *
- * @version $Id$
+ * @version $Id: JavascriptProgram.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class JavascriptProgram extends AbstractLogEnabled
                                implements Program {

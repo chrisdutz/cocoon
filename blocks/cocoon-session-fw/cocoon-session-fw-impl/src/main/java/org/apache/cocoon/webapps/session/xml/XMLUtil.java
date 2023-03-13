@@ -47,7 +47,7 @@ import org.xml.sax.helpers.DefaultHandler;
  * A utility class which will soon be removed...
  * 
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: XMLUtil.java 587761 2007-10-24 03:08:05Z vgritsenko $
 */
 public final class XMLUtil {
 

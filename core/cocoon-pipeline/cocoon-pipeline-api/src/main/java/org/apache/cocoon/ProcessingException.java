@@ -27,7 +27,7 @@ import org.apache.cocoon.util.location.MultiLocatable;
  * This Exception is thrown every time there is a problem in processing
  * a request.
  *
- * @version $Id$
+ * @version $Id: ProcessingException.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ProcessingException extends LocatedException {
     

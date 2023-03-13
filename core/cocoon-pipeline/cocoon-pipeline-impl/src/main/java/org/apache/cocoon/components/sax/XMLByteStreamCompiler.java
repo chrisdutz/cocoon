@@ -22,7 +22,7 @@ package org.apache.cocoon.components.sax;
  * If you want to reuse this instance, make sure to call {@link #recycle()}
  * inbetween two compilation tasks.
  *
- * @version $Id$
+ * @version $Id: XMLByteStreamCompiler.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public final class XMLByteStreamCompiler extends AbstractXMLByteStreamCompiler {
 

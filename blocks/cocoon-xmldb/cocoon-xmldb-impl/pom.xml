@@ -35,16 +35,6 @@
   <name>XMLDB Block's Implementation</name>
   <packaging>jar</packaging>
 
-  <repositories>
-    <!-- Repository for the xmldb -->
-    <repository>
-      <id>apache-cvs</id>
-      <name>Apache Maven 1 Repository</name>
-      <url>http://people.apache.org/repo/m1-snapshot-repository</url>
-      <layout>legacy</layout>
-    </repository>
-  </repositories>
-
   <dependencies>
     <dependency>
       <groupId>org.apache.cocoon</groupId>

@@ -24,7 +24,7 @@ import org.w3c.dom.Element;
 /**
  * Builds {@link LengthValidationRule}s.
  * 
- * @version $Id$
+ * @version $Id: LengthValidationRuleBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class LengthValidationRuleBuilder extends AbstractValidationRuleBuilder {
     public ValidationRule build(Element validationRuleElement) throws Exception {

@@ -21,7 +21,7 @@ import org.apache.cocoon.forms.event.ActionListener;
 
 /**
  * 
- * @version $Id$
+ * @version $Id: RowActionDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class RowActionDefinition extends ActionDefinition {
     

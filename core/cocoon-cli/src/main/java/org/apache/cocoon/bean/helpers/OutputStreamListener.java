@@ -33,7 +33,7 @@ import org.apache.cocoon.bean.Target;
  * Command line entry point. Parses command line, create Cocoon bean and invokes it
  * with file destination.
  *
- * @version $Id$
+ * @version $Id: OutputStreamListener.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class OutputStreamListener implements BeanListener {
 

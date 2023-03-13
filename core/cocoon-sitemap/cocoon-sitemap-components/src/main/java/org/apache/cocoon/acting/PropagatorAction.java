@@ -116,7 +116,7 @@ import java.util.Map;
  * simply propagates given expression. Additionaly it will make all propagated values
  * available via returned Map.
  *
- * @version $Id$
+ * @version $Id: PropagatorAction.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class PropagatorAction extends ServiceableAction
                               implements Configurable, ThreadSafe {

@@ -21,7 +21,7 @@ import org.xml.sax.Attributes;
 /**
  * A helper class for generating a lucene document in a SAX ContentHandler.
  *
- * @version $Id$
+ * @version $Id: IndexHelperField.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 class IndexHelperField {
 

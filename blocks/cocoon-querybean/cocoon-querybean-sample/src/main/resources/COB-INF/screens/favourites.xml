@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!-- $Id$ -->
+<!-- $Id: favourites.xml 449178 2006-09-23 06:22:19Z crossley $ -->
 <page
 	xmlns:jx="http://apache.org/cocoon/templates/jx/1.0"
 	xmlns:i18n="http://apache.org/cocoon/i18n/2.1"

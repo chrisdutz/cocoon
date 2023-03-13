@@ -25,7 +25,7 @@ import org.apache.cocoon.forms.datatype.convertor.Convertor;
  *
  * <p>These builders should be threadsafe (Spring scope="singleton").
  *
- * @version $Id$
+ * @version $Id: DatatypeBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface DatatypeBuilder {
     public Datatype build(Element datatypeElement, boolean arrayType, DatatypeManager datatypeManager) throws Exception;

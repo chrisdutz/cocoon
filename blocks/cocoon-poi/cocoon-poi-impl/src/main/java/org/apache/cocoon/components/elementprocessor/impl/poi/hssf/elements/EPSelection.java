@@ -31,7 +31,7 @@ import java.io.IOException;
  *
  * This element is not used in HSSFSerializer 1.0
  *
- * @version $Id$
+ * @version $Id: EPSelection.java 707326 2008-10-23 09:32:44Z felixk $
  */
 public class EPSelection extends BaseElementProcessor {
     private static final String _start_col_attribute = "startCol";

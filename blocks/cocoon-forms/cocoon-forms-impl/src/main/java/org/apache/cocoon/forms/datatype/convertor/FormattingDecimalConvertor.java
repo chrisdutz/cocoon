@@ -39,7 +39,7 @@ import java.math.BigInteger;
  * pattern for nl-BE will be sought, then one for nl, and if that is not
  * found, finally the locale-independent formatting pattern will be used.
  *
- * @version $Id$
+ * @version $Id: FormattingDecimalConvertor.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class FormattingDecimalConvertor implements Convertor {
     private int variant;

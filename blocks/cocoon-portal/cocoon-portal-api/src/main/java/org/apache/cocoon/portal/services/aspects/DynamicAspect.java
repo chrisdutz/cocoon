@@ -29,7 +29,7 @@ package org.apache.cocoon.portal.services.aspects;
  * @see org.apache.cocoon.portal.layout.renderer.aspect.RendererAspect
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: DynamicAspect.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface DynamicAspect {
 

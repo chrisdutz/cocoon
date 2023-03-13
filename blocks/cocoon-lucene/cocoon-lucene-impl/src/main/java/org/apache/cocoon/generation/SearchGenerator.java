@@ -84,7 +84,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * &lt;/search:results&gt;
  * </tt></pre>
  * 
- * @version $Id$
+ * @version $Id: SearchGenerator.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class SearchGenerator extends AbstractLogEnabled implements Generator, InitializingBean,
         DisposableSitemapComponent {

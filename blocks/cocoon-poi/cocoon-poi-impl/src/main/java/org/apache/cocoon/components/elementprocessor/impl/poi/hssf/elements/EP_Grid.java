@@ -28,7 +28,7 @@ import java.io.IOException;
  * This element has a single attribute, value, which is boolean.
  *
  *
- * @version $Id$
+ * @version $Id: EP_Grid.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EP_Grid extends BaseElementProcessor {
     private static final String _value_attribute = "value";

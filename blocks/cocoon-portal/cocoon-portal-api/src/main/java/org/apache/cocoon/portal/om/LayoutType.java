@@ -28,7 +28,7 @@ import java.util.List;
  * columns or rows and layout types for content like coplets.
  * A layout type requires a class name which has to be of type {@link Layout}.
  *
- * @version $Id$
+ * @version $Id: LayoutType.java 682464 2008-08-04 18:55:57Z cziegeler $
  */
 public class LayoutType {
 

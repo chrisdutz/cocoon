@@ -36,7 +36,7 @@ import java.util.Map;
  * @cocoon.sitemap.component.documentation
  * Matches a session attribute against a regular expression.
  *
- * @version $Id$
+ * @version $Id: RegexpSessionAttributeMatcher.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class RegexpSessionAttributeMatcher extends AbstractRegexpMatcher
                                            implements Configurable {

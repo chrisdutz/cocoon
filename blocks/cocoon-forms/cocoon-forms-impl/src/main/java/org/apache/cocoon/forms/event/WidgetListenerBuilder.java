@@ -21,7 +21,7 @@ import org.w3c.dom.Element;
 /**
  * A component that build widget event listeners.
  * 
- * @version $Id$
+ * @version $Id: WidgetListenerBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface WidgetListenerBuilder {
     

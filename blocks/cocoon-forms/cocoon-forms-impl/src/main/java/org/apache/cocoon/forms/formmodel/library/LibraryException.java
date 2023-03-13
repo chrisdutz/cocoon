@@ -22,7 +22,7 @@ import org.apache.cocoon.util.location.Location;
 /**
  * This exception is thrown when something specific to the library system goes wrong.
  *
- * @version $Id$
+ * @version $Id: LibraryException.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class LibraryException extends FormsException {
 

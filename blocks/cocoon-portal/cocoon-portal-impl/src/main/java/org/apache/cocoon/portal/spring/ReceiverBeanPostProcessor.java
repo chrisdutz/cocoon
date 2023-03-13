@@ -27,7 +27,7 @@ import org.springframework.beans.factory.config.BeanPostProcessor;
  * This is a Spring bean post processor for adding all registered beans
  * implementing the {@link Receiver} interface to the {@link EventManager}.
  *
- * @version $Id$
+ * @version $Id: ReceiverBeanPostProcessor.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class ReceiverBeanPostProcessor
     implements BeanPostProcessor, BeanFactoryAware {

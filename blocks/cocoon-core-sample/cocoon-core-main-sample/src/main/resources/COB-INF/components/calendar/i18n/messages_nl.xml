@@ -19,7 +19,7 @@
 <!--
   - Dutch message catalogue file for Cocoon 2 CalendarGenerator sample
   -
-  - $Id$
+  - $Id: messages_nl.xml 605398 2007-12-19 03:08:16Z vgritsenko $
   -->
 <catalogue xml:lang="nl">
   <message key="SUNDAY">Zondag</message>

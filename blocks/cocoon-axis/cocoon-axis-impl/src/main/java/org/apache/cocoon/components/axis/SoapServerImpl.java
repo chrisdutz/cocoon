@@ -79,7 +79,7 @@ import org.xml.sax.InputSource;
  *  <code>org.apache.axis.http.transport.AxisServlet</code>.
  * </p>
  *
- * @version $Id$
+ * @version $Id: SoapServerImpl.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public class SoapServerImpl extends AbstractLogEnabled
                             implements SoapServer, Serviceable, Configurable,

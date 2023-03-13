@@ -35,7 +35,7 @@ import org.apache.avalon.framework.CascadingRuntimeException;
  *
  * Based on the orginal esql.xsl.
  *
- * @version $Id$
+ * @version $Id: EsqlHelper.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EsqlHelper {
 

@@ -22,7 +22,7 @@ import junit.framework.TestCase;
 
 
 /**
- * @version $Id$
+ * @version $Id: WildcardMatcherHelperTestCase.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class WildcardMatcherHelperTestCase
     extends TestCase {

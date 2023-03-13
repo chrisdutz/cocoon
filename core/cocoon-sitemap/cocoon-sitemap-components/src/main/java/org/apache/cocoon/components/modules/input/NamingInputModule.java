@@ -59,7 +59,7 @@ import java.util.Properties;
  *   &lt;/env-entry&gt;
  * </pre>
  *
- * @version $Id$
+ * @version $Id: NamingInputModule.java 1906077 2022-12-18 21:54:58Z javier $
  */
 public class NamingInputModule extends AbstractInputModule implements ThreadSafe, Initializable {
 

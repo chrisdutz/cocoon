@@ -18,7 +18,7 @@
 
 <!--+
     |
-    | SVN $Id$
+    | SVN $Id: cocoon-xmldb.xconf 588098 2007-10-25 01:07:46Z vgritsenko $
     +-->
 <components>
   <source-factories>

@@ -25,7 +25,7 @@ import org.apache.cocoon.portal.om.Layout;
  * or more profile manager aspects to the profile manager.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: ProfileManagerAspect.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface ProfileManagerAspect {
 

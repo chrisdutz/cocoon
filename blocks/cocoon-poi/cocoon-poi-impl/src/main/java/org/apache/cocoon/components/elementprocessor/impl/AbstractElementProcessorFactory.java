@@ -30,7 +30,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * Create instances of specific ElementProcessor implementations to
  * handle specific XML elements and their content.
  *
- * @version $Id$
+ * @version $Id: AbstractElementProcessorFactory.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class AbstractElementProcessorFactory extends AbstractLogEnabled
                                                       implements ElementProcessorFactory {

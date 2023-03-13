@@ -37,7 +37,7 @@ import org.quartz.JobExecutionException;
  * This component is resposible to launch a {@link CronJob}s in a Quart Scheduler.
  *
  * @since 2.1.1
- * @version $Id$
+ * @version $Id: QuartzJobExecutor.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class QuartzJobExecutor extends AbstractLogEnabled
                                implements Job {

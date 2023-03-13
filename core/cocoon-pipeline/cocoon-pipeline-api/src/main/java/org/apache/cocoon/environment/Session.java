@@ -38,7 +38,7 @@ import javax.servlet.http.HttpSession;
  *
  * @see javax.servlet.HttpSession
  * @deprecated This interface is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: Session.java 669294 2008-06-18 21:21:57Z anathaniel $
  */
 
 public interface Session extends HttpSession {

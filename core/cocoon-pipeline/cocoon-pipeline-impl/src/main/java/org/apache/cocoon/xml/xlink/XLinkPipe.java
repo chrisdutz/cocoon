@@ -30,7 +30,7 @@ import org.xml.sax.helpers.AttributesImpl;
  *
  * NOTE: this is based on XLink W3C Candidate Recommendation 3 July 2000
  *
- * @version $Id$
+ * @version $Id: XLinkPipe.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class XLinkPipe extends AbstractXMLPipe implements XLinkHandler {
 

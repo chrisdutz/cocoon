@@ -25,7 +25,7 @@ import org.apache.cocoon.forms.formmodel.Widget;
  * This allows widget validity to be checked only if a listener actually uses the
  * value, thus avoiding unnecessary validation warnings when a user clicks an action.
  * 
- * @version $Id$
+ * @version $Id: DeferredValueChangedEvent.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class DeferredValueChangedEvent extends ValueChangedEvent {
     

@@ -26,7 +26,7 @@ import org.apache.cocoon.ProcessingException;
  * means the height of the image is half of the width.
  * Add summary documentation here.
  *
- * @version $Id$
+ * @version $Id: CropOperation.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class CropOperation
     implements ImageOperation {

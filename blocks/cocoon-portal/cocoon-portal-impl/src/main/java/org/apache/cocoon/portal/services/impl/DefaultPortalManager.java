@@ -47,7 +47,7 @@ import org.xml.sax.helpers.AttributesImpl;
 
 /**
  *
- * @version $Id$
+ * @version $Id: DefaultPortalManager.java 682758 2008-08-05 15:31:50Z cziegeler $
  */
 public class DefaultPortalManager
 	extends AbstractBean

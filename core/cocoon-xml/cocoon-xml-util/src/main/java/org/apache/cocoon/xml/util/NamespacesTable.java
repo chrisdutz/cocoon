@@ -54,7 +54,7 @@ import org.xml.sax.SAXException;
  *   }
  * </pre>
  *
- * @version $Id$
+ * @version $Id: NamespacesTable.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class NamespacesTable {
     /** The last namespace declaration. */

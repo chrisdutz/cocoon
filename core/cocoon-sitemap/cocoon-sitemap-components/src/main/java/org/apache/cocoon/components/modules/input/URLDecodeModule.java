@@ -32,7 +32,7 @@ import org.apache.cocoon.util.NetUtils;
  * Module configuration takes only one configuration parameter:
  * "encoding" which is a target string encoding. This is utf-8 by default.
  * 
- * @version $Id$
+ * @version $Id: URLDecodeModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public final class URLDecodeModule extends AbstractInputModule
                                    implements ThreadSafe {

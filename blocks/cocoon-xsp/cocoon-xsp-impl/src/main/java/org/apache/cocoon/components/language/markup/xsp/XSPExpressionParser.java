@@ -38,7 +38,7 @@ import org.xml.sax.SAXException;
  * src=&quot;image_{#image.getId()}&quot;/&gt;
  * <p>
  *
- * @version SVN $Id$
+ * @version SVN $Id: XSPExpressionParser.java 1906076 2022-12-18 21:54:22Z javier $
  */
 public class XSPExpressionParser {
 

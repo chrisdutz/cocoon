@@ -27,7 +27,7 @@ import org.w3c.dom.Element;
  * Abstract base class for implementing an own Java validator which gets build by 
  * the {@link JavaClassValidatorBuilder}.
  *
- * @version $Id$
+ * @version $Id: AbstractJavaValidator.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public abstract class AbstractJavaValidator implements ConfigurableWidgetValidator {
 

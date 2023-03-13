@@ -20,7 +20,7 @@ package org.apache.cocoon.forms.formmodel;
  * An action that acts on a repeater.
  *
  * @see RepeaterActionDefinitionBuilder
- * @version $Id$
+ * @version $Id: RepeaterAction.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class RepeaterAction extends Action {
 

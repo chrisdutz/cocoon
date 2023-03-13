@@ -33,7 +33,7 @@ import org.apache.cocoon.environment.Environment;
  * Some utility methods for request handling etc.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: RequestUtil.java 597795 2007-11-24 03:56:00Z vgritsenko $
  */
 public class RequestUtil {
 

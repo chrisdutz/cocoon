@@ -38,7 +38,7 @@ import org.apache.cocoon.environment.ObjectModelHelper;
  * file.
  *
  * @see org.apache.cocoon.acting.AbstractValidatorAction
- * @version $Id$
+ * @version $Id: SessionValidatorAction.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class SessionValidatorAction extends AbstractValidatorAction implements ThreadSafe {
 

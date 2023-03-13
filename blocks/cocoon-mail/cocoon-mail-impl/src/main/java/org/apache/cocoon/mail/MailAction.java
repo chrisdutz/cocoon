@@ -55,7 +55,7 @@ import org.apache.cocoon.mail.command.AbstractMailCommand;
  *
  * @see MailContext
  *
- * @version $Id$
+ * @version $Id: MailAction.java 607381 2007-12-29 05:42:58Z vgritsenko $
  * @since Cocoon 2.1, 16 December 2002
  */
 public class MailAction extends ServiceableAction

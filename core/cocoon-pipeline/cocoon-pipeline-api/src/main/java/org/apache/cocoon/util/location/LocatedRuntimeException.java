@@ -32,7 +32,7 @@ import org.apache.commons.lang.exception.NestableRuntimeException;
  * stack.
  *
  * @since 2.1.8
- * @version $Id$
+ * @version $Id: LocatedRuntimeException.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class LocatedRuntimeException extends NestableRuntimeException
                                      implements LocatableException, MultiLocatable {

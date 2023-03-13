@@ -42,7 +42,7 @@ import org.apache.cocoon.portal.util.PortalUtils;
  *   SIZE_MAXIMIZED - the coplet gets the most available space, but still shares
  *                  its space with other coplets, e.g. a navigation etc.
  *
- * @version $Id$
+ * @version $Id: CopletInstance.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public final class CopletInstance {
 

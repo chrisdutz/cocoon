@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- $Id$ -->
+<!-- $Id: cocoon.roles 550065 2007-06-23 17:33:48Z joerg $ -->
 <!DOCTYPE role-list [
 <!ELEMENT role-list (role+)>
 <!ELEMENT role (hint*)>

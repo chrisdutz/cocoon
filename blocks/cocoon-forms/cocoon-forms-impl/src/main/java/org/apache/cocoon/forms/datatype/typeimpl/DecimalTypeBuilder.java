@@ -22,7 +22,7 @@ import org.w3c.dom.Element;
 
 /**
  * Builds {@link DecimalType}s.
- * @version $Id$
+ * @version $Id: DecimalTypeBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class DecimalTypeBuilder extends AbstractDatatypeBuilder {
     public Datatype build(Element datatypeElement, boolean arrayType, DatatypeManager datatypeManager) throws Exception {

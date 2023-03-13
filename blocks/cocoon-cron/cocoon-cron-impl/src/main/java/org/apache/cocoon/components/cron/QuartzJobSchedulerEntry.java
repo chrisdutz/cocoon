@@ -30,7 +30,7 @@ import org.quartz.Trigger;
 /**
  * Implementation of the JobSchedulerEntry interface for the QuartzJobScheduler
  *
- * @version $Id$
+ * @version $Id: QuartzJobSchedulerEntry.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class QuartzJobSchedulerEntry implements JobSchedulerEntry {
 

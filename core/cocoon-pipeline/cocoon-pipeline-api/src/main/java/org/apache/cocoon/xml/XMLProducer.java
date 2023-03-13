@@ -39,7 +39,7 @@ package org.apache.cocoon.xml;
  * through the <code>setConsumer()</code> method.
  * </p>
  *
- * @version $Id$
+ * @version $Id: XMLProducer.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface XMLProducer {
 

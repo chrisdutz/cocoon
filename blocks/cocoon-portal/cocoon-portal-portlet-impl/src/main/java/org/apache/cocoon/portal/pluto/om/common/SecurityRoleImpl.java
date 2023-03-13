@@ -21,7 +21,7 @@ import org.apache.pluto.util.StringUtils;
 
 /**
  *
- * @version $Id$
+ * @version $Id: SecurityRoleImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class SecurityRoleImpl implements SecurityRole,  java.io.Serializable {
 

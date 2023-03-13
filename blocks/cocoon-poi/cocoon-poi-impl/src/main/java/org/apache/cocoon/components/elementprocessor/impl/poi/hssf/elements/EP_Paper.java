@@ -29,7 +29,7 @@ import java.io.IOException;
  * content describes the paper to be used (e.g., A4)
  *
  *
- * @version $Id$
+ * @version $Id: EP_Paper.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EP_Paper extends BaseElementProcessor {
 

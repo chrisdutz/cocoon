@@ -37,7 +37,7 @@ import org.apache.cocoon.environment.SourceResolver;
  * The <code>ValidatorActionResult</code> object helper.
  * Used by XSP.
  *
- * @version $Id$
+ * @version $Id: FormValidatorHelper.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class FormValidatorHelper {
 

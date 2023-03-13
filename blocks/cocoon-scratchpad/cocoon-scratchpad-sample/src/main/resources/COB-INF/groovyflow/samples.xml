@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- $Id$-->
+<!-- $Id: samples.xml 449197 2006-09-23 07:15:17Z crossley $-->
 <samples name="Java Flow Block Samples">
  <group name="Back">
    <sample name="Back" href="../../..">to Cocoon Samples main page</sample>

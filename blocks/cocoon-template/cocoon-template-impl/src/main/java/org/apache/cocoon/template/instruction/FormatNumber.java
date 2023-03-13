@@ -40,7 +40,7 @@ import org.xml.sax.SAXException;
 import org.xml.sax.SAXParseException;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: FormatNumber.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class FormatNumber extends LocaleAwareInstruction {
     private Subst value;

@@ -24,7 +24,7 @@ import org.apache.cocoon.forms.datatype.convertor.Convertor;
  *
  * <p>See also {@link Datatype} and {@link DefaultDatatypeManager}.
  * 
- * @version $Id$
+ * @version $Id: DatatypeManager.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface DatatypeManager {
     

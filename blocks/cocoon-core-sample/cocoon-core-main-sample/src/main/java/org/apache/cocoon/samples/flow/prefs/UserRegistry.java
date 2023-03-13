@@ -36,7 +36,7 @@ import java.util.Map;
  *
  * @author <a href="mailto:ovidiu@apache.org">Ovidiu Predescu</a>
  * @since August 28, 2002
- * @version CVS $Id$
+ * @version CVS $Id: UserRegistry.java 433543 2006-08-22 06:22:54Z crossley $
  */
 public class UserRegistry
 {

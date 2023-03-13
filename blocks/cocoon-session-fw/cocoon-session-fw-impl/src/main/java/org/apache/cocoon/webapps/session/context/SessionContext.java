@@ -40,7 +40,7 @@ import org.apache.cocoon.ProcessingException;
  *  As this context is used in a web context, all methods must be synchronized.
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: SessionContext.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface SessionContext
 extends Serializable {

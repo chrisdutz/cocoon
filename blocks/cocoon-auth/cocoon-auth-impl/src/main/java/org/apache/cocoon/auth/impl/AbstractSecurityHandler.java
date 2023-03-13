@@ -26,7 +26,7 @@ import org.springframework.beans.factory.BeanNameAware;
 /**
  * This is a base class that can be used for own {@link SecurityHandler}s.
  *
- * @version $Id$
+ * @version $Id: AbstractSecurityHandler.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public abstract class AbstractSecurityHandler
     implements SecurityHandler, BeanNameAware {

@@ -22,7 +22,7 @@ import org.apache.cocoon.util.EnumerationFactory;
  * A number of constants to represent the possible outcomes of a
  * validation.
  *
- * @version $Id$
+ * @version $Id: ValidatorActionResult.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ValidatorActionResult extends EnumerationFactory {
 

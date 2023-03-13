@@ -25,7 +25,7 @@ import org.apache.pluto.services.ContainerService;
 
 /**
  *
- * @version $Id$
+ * @version $Id: PortletDefinitionRegistry.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public interface PortletDefinitionRegistry 
     extends ContainerService {

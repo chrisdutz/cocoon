@@ -23,7 +23,7 @@ import java.io.OutputStream;
 /**
  *   A output stream writing to a ByteArrayOutputStream, until an OutputStream target is defined.
  *
- * @version $Id$
+ * @version $Id: DelayedOutputStream.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class DelayedOutputStream extends OutputStream {
     /**

@@ -23,7 +23,7 @@ import java.io.IOException;
  * This interface allows a client of NumericConverter to apply more
  * restrictive rules to the number that the NumericConverter obtained.
  *
- * @version $Id$
+ * @version $Id: Validator.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface Validator
 {

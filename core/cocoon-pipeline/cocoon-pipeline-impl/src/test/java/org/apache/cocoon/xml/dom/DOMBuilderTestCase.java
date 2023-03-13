@@ -27,7 +27,7 @@ import org.xml.sax.helpers.AttributesImpl;
 /**
  * JUnit Testcase for {@link DOMBuilder}.
  * 
- * @version $Id$
+ * @version $Id: DOMBuilderTestCase.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class DOMBuilderTestCase extends TestCase {
 

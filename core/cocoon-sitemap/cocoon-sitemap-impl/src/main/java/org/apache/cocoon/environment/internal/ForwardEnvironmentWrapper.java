@@ -24,7 +24,7 @@ import org.apache.cocoon.environment.wrapper.EnvironmentWrapper;
  * Local extension of EnvironmentWrapper to propagate otherwise blocked
  * methods to the actual environment.
  * 
- * @version $Id$
+ * @version $Id: ForwardEnvironmentWrapper.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 public final class ForwardEnvironmentWrapper extends EnvironmentWrapper {

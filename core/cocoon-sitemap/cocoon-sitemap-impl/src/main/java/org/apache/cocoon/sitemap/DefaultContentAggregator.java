@@ -53,7 +53,7 @@ import java.util.Map;
  * It combines several parts into one big XML document which is streamed
  * into the pipeline.
  *
- * @version $Id$
+ * @version $Id: DefaultContentAggregator.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class DefaultContentAggregator extends ContentHandlerWrapper
                                       implements Generator, CacheableProcessingComponent,

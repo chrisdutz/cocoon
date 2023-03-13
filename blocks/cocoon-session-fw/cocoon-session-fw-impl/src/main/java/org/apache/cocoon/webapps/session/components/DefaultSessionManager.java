@@ -48,7 +48,7 @@ import org.xml.sax.SAXException;
  *  This is the default implementation of the session manager
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: DefaultSessionManager.java 685543 2008-08-13 13:28:45Z gkossakowski $
  */
 public final class DefaultSessionManager
 extends AbstractLogEnabled

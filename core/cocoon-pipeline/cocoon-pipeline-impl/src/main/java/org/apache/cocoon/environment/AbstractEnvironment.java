@@ -31,7 +31,7 @@ import org.apache.cocoon.util.BufferedOutputStream;
 /**
  * Base class for any environment
  *
- * @version $Id$
+ * @version $Id: AbstractEnvironment.java 665972 2008-06-10 04:18:56Z joerg $
  */
 public abstract class AbstractEnvironment extends AbstractLogEnabled
                                           implements Environment {

@@ -23,7 +23,7 @@ import java.sql.SQLException;
  * Mock class providing the declarations required to compile the Cocoon code when
  * the actual library is not present.
  * 
- * @version $Id$
+ * @version $Id: BLOB.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public abstract class BLOB implements java.sql.Blob {
 

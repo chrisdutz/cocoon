@@ -20,7 +20,7 @@ package org.apache.cocoon.components.elementprocessor.impl.poi.hssf.elements;
 /**
  * No-op implementation of ElementProcessor to handle the "Sheets" tag
  *
- * @version $Id$
+ * @version $Id: EPSheets.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EPSheets extends BaseElementProcessor {
 

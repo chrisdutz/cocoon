@@ -32,7 +32,7 @@ import org.w3c.dom.Element;
  *   &lt;fd:value type="repeatedformula" [inital-result="..."] eval="..." [triggers="..."]/&gt;
  * </code>
  * </p>
- * @version $Id$
+ * @version $Id: RepeatedFormulaBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class RepeatedFormulaBuilder extends SimpleFormulaBuilder {
 

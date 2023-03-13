@@ -20,7 +20,7 @@ package org.apache.cocoon;
  * This Exception is thrown every time a component detects an exception
  * due to a connection reset by peer.
  *
- * @version $Id$
+ * @version $Id: ConnectionResetException.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ConnectionResetException extends ProcessingException {
 

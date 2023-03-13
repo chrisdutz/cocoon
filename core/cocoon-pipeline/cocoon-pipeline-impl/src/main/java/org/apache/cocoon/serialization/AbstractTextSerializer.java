@@ -56,7 +56,7 @@ import org.xml.sax.ext.LexicalHandler;
 import org.xml.sax.helpers.AttributesImpl;
 
 /**
- * @version $Id$
+ * @version $Id: AbstractTextSerializer.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractTextSerializer extends AbstractSerializer
                                              implements Configurable, Serviceable, CacheableProcessingComponent {

@@ -48,7 +48,7 @@ import org.apache.pluto.om.servlet.ServletDefinition;
 
 /**
  *
- * @version $Id$
+ * @version $Id: PortletDefinitionImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortletDefinitionImpl 
 implements PortletDefinition, PortletDefinitionCtrl, java.io.Serializable, Support {

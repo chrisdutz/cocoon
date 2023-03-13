@@ -29,7 +29,7 @@ import org.apache.lucene.search.Query;
  *   The idea is to abstract the process of searching into a Bean to be manipulated by CForms.
  * </p>
  *
- * @version $Id$
+ * @version $Id: SimpleLuceneCriterion.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface SimpleLuceneCriterion {
 

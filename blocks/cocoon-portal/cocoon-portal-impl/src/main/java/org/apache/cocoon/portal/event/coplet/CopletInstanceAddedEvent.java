@@ -21,7 +21,7 @@ import org.apache.cocoon.portal.om.CopletInstance;
 /**
  * This event is fired if a new instance is created.
  *
- * @version $Id$
+ * @version $Id: CopletInstanceAddedEvent.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class CopletInstanceAddedEvent
     extends AbstractCopletInstanceEvent {

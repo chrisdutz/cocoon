@@ -32,7 +32,7 @@ import org.xml.sax.helpers.AttributesImpl;
 import org.xml.sax.helpers.LocatorImpl;
 
 /**
- * @version $Id$
+ * @version $Id: Parser.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class Parser implements ContentHandler, LexicalHandler {
     StartDocument startEvent;

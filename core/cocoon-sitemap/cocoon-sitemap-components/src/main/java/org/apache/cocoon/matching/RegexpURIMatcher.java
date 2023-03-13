@@ -27,7 +27,7 @@ import java.util.Map;
  * @cocoon.sitemap.component.documentation
  * Matches the request URIs against a regular expression pattern.
  *
- * @version $Id$
+ * @version $Id: RegexpURIMatcher.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class RegexpURIMatcher extends AbstractRegexpMatcher {
 

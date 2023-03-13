@@ -23,7 +23,7 @@ import org.apache.excalibur.source.SourceException;
  * TODO describe class
  *
  * Instances must be thread safe.
- * @version $Id$
+ * @version $Id: RepositoryInterceptor.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface RepositoryInterceptor {
 

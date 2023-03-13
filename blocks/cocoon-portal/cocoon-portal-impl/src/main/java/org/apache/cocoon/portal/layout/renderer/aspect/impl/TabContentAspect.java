@@ -107,7 +107,7 @@ import org.xml.sax.helpers.AttributesImpl;
  *      <td></td><td>boolean</td><td><code>false</code></td></tr>
  * </tbody></table>
  *
- * @version $Id$
+ * @version $Id: TabContentAspect.java 633260 2008-03-03 20:21:05Z cziegeler $
  */
 public class TabContentAspect
     extends CompositeContentAspect {

@@ -33,7 +33,7 @@ import org.apache.excalibur.store.Store;
  * This component will grow!
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: CacheImpl.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class CacheImpl implements Cache {
 

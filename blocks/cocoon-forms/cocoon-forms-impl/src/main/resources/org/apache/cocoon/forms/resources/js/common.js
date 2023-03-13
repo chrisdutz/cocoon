@@ -22,7 +22,7 @@
  *
  * NOTE: (2.1.11) Functionality from forms-lib.js has been refactored, namespaced and moved here
  *
- * @version $Id$
+ * @version $Id: common.js 493015 2007-01-05 12:35:36Z bruno $
  */
  
 // Can be loaded either through "cocoon.forms" or "cocoon.forms.common"

@@ -18,7 +18,7 @@
 /**
  * A JavaScript wrapper for the JDBI library (http://jdbi.codehaus.org)
  *
- * @version $Id$
+ * @version $Id: jdbi.js 449149 2006-09-23 03:58:05Z crossley $
  */
 
 function JDBI(datasource) {

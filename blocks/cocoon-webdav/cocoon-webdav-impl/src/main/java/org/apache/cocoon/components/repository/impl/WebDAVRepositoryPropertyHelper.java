@@ -38,7 +38,7 @@ import org.w3c.dom.Node;
  * A property helper class for the WebDAV repository
  * intended to be used by flowscripts or corresponding wrapper components.
  *
- * @version $Id$
+ * @version $Id: WebDAVRepositoryPropertyHelper.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class WebDAVRepositoryPropertyHelper extends AbstractLogEnabled
                                             implements RepositoryPropertyHelper {

@@ -37,7 +37,7 @@ import java.net.URL;
 /**
  * Helper for the SOAP logicsheet.
  *
- * @version $Id$
+ * @version $Id: SOAPHelper.java 587761 2007-10-24 03:08:05Z vgritsenko $
  * @since July 16, 2001
  */
 public class SOAPHelper {

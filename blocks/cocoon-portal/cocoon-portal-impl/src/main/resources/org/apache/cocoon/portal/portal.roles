@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- @version $Id$ -->
+<!-- @version $Id: portal.roles 613972 2008-01-21 19:02:31Z cziegeler $ -->
 <role-list>
   <!--+
       | Coplet and Layout Source.

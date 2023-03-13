@@ -16,7 +16,7 @@
 */
 
 /*
-* @version $Id$
+* @version $Id: swan.js 534153 2007-05-01 16:49:43Z gkossakowski $
 */
 
   importPackage(org.apache.cocoon.forms.formmodel);

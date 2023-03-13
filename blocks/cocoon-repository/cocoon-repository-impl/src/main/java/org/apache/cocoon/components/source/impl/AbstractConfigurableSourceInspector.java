@@ -39,7 +39,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * greatly improves property management performance.
  * </p>
  *
- * @version $Id$
+ * @version $Id: AbstractConfigurableSourceInspector.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class AbstractConfigurableSourceInspector extends AbstractLogEnabled
                                                           implements SourceInspector, Configurable {

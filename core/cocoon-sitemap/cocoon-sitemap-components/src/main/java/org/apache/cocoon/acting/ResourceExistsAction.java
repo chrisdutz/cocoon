@@ -42,7 +42,7 @@ import java.util.Map;
  * sitemap attribute exists or not. The action returns empty <code>Map</code> if
  * resource exists, <code>null</code> otherwise.
  *
- * @version $Id$
+ * @version $Id: ResourceExistsAction.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class ResourceExistsAction extends ServiceableAction implements ThreadSafe {
 

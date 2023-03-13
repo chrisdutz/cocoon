@@ -23,7 +23,7 @@ import org.apache.cocoon.util.location.Location;
  * An exception raised when some runtime error occurs in form handling. This is a
  * located exception, which points to the relevant element declaration.
  *
- * @version $Id$
+ * @version $Id: FormsRuntimeException.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class FormsRuntimeException extends LocatedRuntimeException {
 

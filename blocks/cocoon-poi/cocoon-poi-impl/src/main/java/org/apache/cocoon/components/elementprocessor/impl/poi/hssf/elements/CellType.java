@@ -22,7 +22,7 @@ import org.apache.poi.hssf.usermodel.HSSFCell;
 /**
  * Cell type codes
  *
- * @version $Id$
+ * @version $Id: CellType.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class CellType {
 

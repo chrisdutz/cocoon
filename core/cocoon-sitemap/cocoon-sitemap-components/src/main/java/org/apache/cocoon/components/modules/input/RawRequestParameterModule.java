@@ -39,7 +39,7 @@ import java.util.Vector;
  * <code>getAttributeValues()</code> will either convert the Vector to an array,
  * place the result in a new array, or return the array as is.</p>
  *
- * @version $Id$
+ * @version $Id: RawRequestParameterModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class RawRequestParameterModule extends AbstractInputModule implements ThreadSafe {
 

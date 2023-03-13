@@ -26,7 +26,7 @@ import java.util.Map;
  * @cocoon.sitemap.component.documentation
  * Matches the target host ("Host" request header) against a regular expression.
  *
- * @version $Id$
+ * @version $Id: RegexpHostMatcher.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class RegexpHostMatcher extends AbstractRegexpMatcher {
 

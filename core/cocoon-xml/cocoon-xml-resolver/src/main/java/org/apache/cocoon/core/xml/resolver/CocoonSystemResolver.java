@@ -24,7 +24,7 @@ import org.apache.cocoon.core.xml.impl.DefaultEntityResolver;
 
 /**
  *
- * @version $Id$
+ * @version $Id: CocoonSystemResolver.java 648147 2008-04-15 07:44:49Z reinhard $
  * @since 2.2
  */
 public class CocoonSystemResolver extends DefaultEntityResolver {

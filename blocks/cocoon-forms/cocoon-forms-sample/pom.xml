@@ -18,22 +18,21 @@
   under the License.
 -->
 <!--
-  - @version $Id$
+  - @version $Id: pom.xml 1907400 2023-02-04 19:10:23Z javier $
   -->
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <artifactId>cocoon-blocks-modules</artifactId>
     <groupId>org.apache.cocoon</groupId>
-    <version>7</version>
-    <relativePath>../../pom.xml</relativePath>
+    <artifactId>cocoon-forms</artifactId>
+    <version>2.2.1-SNAPSHOT</version>
   </parent>
 
   <artifactId>cocoon-forms-sample</artifactId>
-  <version>1.1.1-SNAPSHOT</version>
+  <version>2.2.1-SNAPSHOT</version>
+
   <name>Cocoon Forms Block Samples</name>
-  <packaging>jar</packaging>
 
   <scm>
     <connection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/blocks/cocoon-forms/cocoon-forms-sample</connection>

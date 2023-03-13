@@ -29,7 +29,7 @@ import java.io.IOException;
  * This element has an attribute (DefaultSizePts) and is a container
  * element
  *
- * @version $Id$
+ * @version $Id: EPRows.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EPRows extends BaseElementProcessor {
     private NumericResult _default_size_pts;

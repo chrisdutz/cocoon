@@ -21,7 +21,7 @@ import javax.servlet.http.HttpServletRequestWrapper;
 
 /**
  * 
- * @version $Id$
+ * @version $Id: UriHttpServletRequestWrapper.java 587750 2007-10-24 02:35:22Z vgritsenko $
  * @since 2.2
  */
 public class UriHttpServletRequestWrapper extends HttpServletRequestWrapper {

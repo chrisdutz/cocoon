@@ -21,7 +21,7 @@ package org.apache.cocoon.portal.event;
  *
  * Each event should be convertable.
  *
- * @version $Id$
+ * @version $Id: ConvertableEvent.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface ConvertableEvent extends Event {
 

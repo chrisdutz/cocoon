@@ -53,7 +53,7 @@ import org.xml.sax.ext.LexicalHandler;
  * Implementation of a {@link Source} that gets its content
  * by invoking a pipeline.
  *
- * @version $Id$
+ * @version $Id: SitemapSource.java 606651 2007-12-24 01:21:51Z vgritsenko $
  */
 public final class SitemapSource extends AbstractLogEnabled
                                  implements Source, XMLizable {

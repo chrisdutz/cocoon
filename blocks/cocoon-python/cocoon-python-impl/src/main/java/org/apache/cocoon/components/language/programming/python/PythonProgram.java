@@ -35,7 +35,7 @@ import org.apache.cocoon.xsp.handler.ComponentHandler;
 /**
  * This class represents program in the Python language.
  *
- * @version $Id$
+ * @version $Id: PythonProgram.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class PythonProgram extends AbstractLogEnabled
                            implements Program {

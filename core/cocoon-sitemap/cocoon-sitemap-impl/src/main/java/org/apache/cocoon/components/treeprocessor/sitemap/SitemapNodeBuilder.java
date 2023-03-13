@@ -28,7 +28,7 @@ import org.apache.cocoon.components.treeprocessor.ProcessingNodeBuilder;
  * &lt;pipelines&gt; node. There is no node for &gt;sitemap&lt; since no processing
  * occurs at this level.
  *
- * @version $Id$
+ * @version $Id: SitemapNodeBuilder.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class SitemapNodeBuilder extends AbstractParentProcessingNodeBuilder implements ThreadSafe {
     

@@ -37,7 +37,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * <code>startPrefixMapping(...)</code> and <code>endPrefixMapping(...)</code>
  * calls.
  *
- * @version $Id$
+ * @version $Id: DocumentHandlerAdapter.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class DocumentHandlerAdapter extends AbstractXMLProducer
 implements DocumentHandler {

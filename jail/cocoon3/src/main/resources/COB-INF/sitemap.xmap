@@ -17,7 +17,7 @@
  specific language governing permissions and limitations
  under the License.
 -->
-<!-- $Id$ -->
+<!-- $Id: sitemap.xmap 1450268 2013-02-26 16:39:32Z ilgrosso $ -->
 <map:sitemap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:map="http://apache.org/cocoon/sitemap"
              xmlns:servlet="http://apache.org/cocoon/servlet" xmlns:controller="http://apache.org/cocoon/controller">
 

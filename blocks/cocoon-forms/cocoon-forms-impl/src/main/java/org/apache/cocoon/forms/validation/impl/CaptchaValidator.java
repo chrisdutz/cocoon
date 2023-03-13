@@ -27,7 +27,7 @@ import org.apache.cocoon.forms.validation.WidgetValidator;
  * test.
  * 
  * @see <a href="http://www.captcha.net">www.captcha.net</a>
- * @version $Id$
+ * @version $Id: CaptchaValidator.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class CaptchaValidator implements WidgetValidator {
 

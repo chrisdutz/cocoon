@@ -27,7 +27,7 @@ import org.w3c.dom.Document;
 /**
  * Test case for CForm's Field widget
  *
- * @version $Id$
+ * @version $Id: FieldTestCase.java 606939 2007-12-26 19:51:41Z gkossakowski $
  */
 
 public class FieldTestCase extends CocoonTestCase {

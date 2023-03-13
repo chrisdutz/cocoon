@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- @version $Id$ -->
+<!-- @version $Id: transformer-index-src.xml 554248 2007-07-07 20:03:19Z felixk $ -->
 <lucene:index xmlns:lucene="http://apache.org/cocoon/lucene/1.0" 
      merge-factor="20" 
      create="false" 

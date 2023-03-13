@@ -36,7 +36,7 @@ import org.apache.excalibur.source.SourceValidity;
  * {@link org.apache.cocoon.util.SourceReloader}.
  * 
  * @since 2.1.4
- * @version $Id$
+ * @version $Id: SoftSourceCache.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class SoftSourceCache implements SourceCache {
 

@@ -20,7 +20,7 @@
  *
  * WARNING   -  THIS IS EXPERIMENTAL STUFF!!! Use it at your own risk
  *
- * @version $Id$
+ * @version $Id: auth.js 448774 2006-09-22 02:35:42Z crossley $
  */
 
 function auth_checkAuthentication(handler, application) {

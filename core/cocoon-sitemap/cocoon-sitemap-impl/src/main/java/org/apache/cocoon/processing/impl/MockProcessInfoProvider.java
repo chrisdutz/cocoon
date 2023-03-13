@@ -42,7 +42,7 @@ import org.apache.cocoon.processing.ProcessInfoProvider;
 /**
  * Mock implementation of {@link ProcessInfoProvider} interface.
  *
- * @version $Id$
+ * @version $Id: MockProcessInfoProvider.java 669294 2008-06-18 21:21:57Z anathaniel $
  * @since 2.2
  */
 public class MockProcessInfoProvider implements ProcessInfoProvider {

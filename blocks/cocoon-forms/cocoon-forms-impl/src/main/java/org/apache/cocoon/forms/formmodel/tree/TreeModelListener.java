@@ -21,7 +21,7 @@ import java.util.EventListener;
 /**
  * Listener of changes to a {@link TreeModel}.
  * 
- * @version $Id$
+ * @version $Id: TreeModelListener.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface TreeModelListener extends EventListener {
     public void treeStructureChanged(TreeModelEvent event);

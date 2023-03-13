@@ -23,7 +23,7 @@ import org.apache.cocoon.forms.datatype.SelectionList;
  * widget's {@link WidgetDefinition}, and can be changed afterwards. The selection list can
  * be removed by setting the list to <code>null</code>.
  * 
- * @version $Id$
+ * @version $Id: SelectableWidget.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface SelectableWidget extends Widget {
 

@@ -28,7 +28,7 @@ import org.apache.cocoon.util.avalon.CLLoggerWrapper;
 /**
  * Helper class to associate cocoon flow informations to the continuation.
  *
- * @version $Id$
+ * @version $Id: CocoonContinuationContext.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class CocoonContinuationContext {
 

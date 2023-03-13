@@ -57,7 +57,7 @@ import java.util.Map;
  * <a href="http://www.dbxml.org">dbXML</a>, and the trailing
  * slash in the base tag is important!
  *
- * @version CVS $Id$
+ * @version CVS $Id: XMLDBCollectionGenerator.java 587761 2007-10-24 03:08:05Z vgritsenko $
  * @deprecated Use the XML:DB pseudo protocol instead.
  */
 public class XMLDBCollectionGenerator extends ServiceableGenerator

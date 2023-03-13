@@ -18,7 +18,7 @@
 <!--+
     | XML Schema for the sitemap
     |
-    | @version $Id$
+    | @version $Id: cocoon-sitemap-1.0.xsd 522590 2007-03-26 18:59:00Z gkossakowski $
     +-->
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
             targetNamespace="http://apache.org/cocoon/sitemap/1.0"

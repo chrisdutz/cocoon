@@ -29,7 +29,7 @@ import junit.framework.TestCase;
  * A {@link TestCase}with convenience methods to ease creation of Avalon mock
  * classes.
  *
- * @version $Id$
+ * @version $Id: AbstractTestCase.java 1359672 2012-07-10 13:55:42Z ilgrosso $
  */
 public abstract class AbstractTestCase
     extends TestCase {

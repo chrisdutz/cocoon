@@ -55,7 +55,7 @@ import org.xml.sax.SAXException;
  * @cocoon.sitemap.component.name servletService
  * @cocoon.sitemap.component.documentation.caching Not Implemented
  *
- * @version $Id$
+ * @version $Id: ServletServiceSerializer.java 608379 2008-01-03 08:42:43Z reinhard $
  * @since 1.0.0
  */
 public class ServletServiceSerializer extends AbstractSerializer

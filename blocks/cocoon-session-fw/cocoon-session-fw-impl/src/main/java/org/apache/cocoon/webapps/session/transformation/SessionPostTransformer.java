@@ -52,7 +52,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * implementation of the SessionTransformer would be very unperformant).
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: SessionPostTransformer.java 1857505 2019-04-14 05:36:41Z ilgrosso $
  */
 public class SessionPostTransformer extends SessionPreTransformer {
 

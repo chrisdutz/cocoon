@@ -53,7 +53,7 @@ import org.apache.cocoon.core.container.spring.avalon.ComponentInfo;
  * </ul>
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: NonThreadSafePoolableComponentHandler.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class NonThreadSafePoolableComponentHandler extends AbstractFactoryHandler {
     

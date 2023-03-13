@@ -33,7 +33,7 @@ import org.apache.commons.lang.ObjectUtils;
 /**
  * Utility class for handling {...} pattern substitutions in sitemap statements.
  *
- * @version $Id$
+ * @version $Id: VariableResolver.java 610271 2008-01-09 03:59:08Z rgoers $
  */
 public abstract class VariableResolver {
 

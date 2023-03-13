@@ -22,7 +22,7 @@ import java.io.Serializable;
  * Base class encapsulating the information about an external 
  * uncache event.
  * 
- * @version $Id$
+ * @version $Id: Event.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public abstract class Event implements Serializable {
     

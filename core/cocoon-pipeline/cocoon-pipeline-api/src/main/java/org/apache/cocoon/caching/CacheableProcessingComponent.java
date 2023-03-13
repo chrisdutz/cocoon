@@ -44,7 +44,7 @@ import java.io.Serializable;
  * </p>
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: CacheableProcessingComponent.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface CacheableProcessingComponent {
 

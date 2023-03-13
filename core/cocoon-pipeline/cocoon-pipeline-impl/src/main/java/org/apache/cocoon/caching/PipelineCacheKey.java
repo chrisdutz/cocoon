@@ -24,7 +24,7 @@ import java.util.List;
  * This is the cache key for one pipeline (or the first part of a pipeline).
  * It consists of one or more {@link ComponentCacheKey}s.
  *
- * @version $Id$
+ * @version $Id: PipelineCacheKey.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public final class PipelineCacheKey
         implements Serializable {

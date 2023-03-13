@@ -19,7 +19,7 @@
 <!--
   - Transforms properties.xml to result page.
   -
-  - $Id$
+  - $Id: properties2page.xsl 602314 2007-12-08 04:07:09Z vgritsenko $
   -->
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 

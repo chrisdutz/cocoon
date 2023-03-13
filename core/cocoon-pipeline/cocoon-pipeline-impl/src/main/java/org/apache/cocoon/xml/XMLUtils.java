@@ -45,7 +45,7 @@ import org.xml.sax.ext.LexicalHandler;
 /**
  * XML utility methods.
  *
- * @version $Id$
+ * @version $Id: XMLUtils.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class XMLUtils {
 

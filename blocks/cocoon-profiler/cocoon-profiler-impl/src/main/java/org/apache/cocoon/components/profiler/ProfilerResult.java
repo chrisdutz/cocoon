@@ -22,7 +22,7 @@ package org.apache.cocoon.components.profiler;
  * A ProfilerResult stores a collection of the lastest n ProfilerDatas 
  * for one pipeline.
  *
- * @version $Id$
+ * @version $Id: ProfilerResult.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ProfilerResult {
 

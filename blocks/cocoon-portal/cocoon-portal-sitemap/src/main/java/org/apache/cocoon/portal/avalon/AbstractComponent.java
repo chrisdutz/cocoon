@@ -32,7 +32,7 @@ import org.apache.commons.logging.LogFactory;
  * the portal service in an instance variable ({@link #portalService}) and
  * the Avalon component context in another one.
  *
- * @version $Id$
+ * @version $Id: AbstractComponent.java 633260 2008-03-03 20:21:05Z cziegeler $
  */
 public class AbstractComponent
     implements Serviceable, Disposable, ThreadSafe, Initializable {

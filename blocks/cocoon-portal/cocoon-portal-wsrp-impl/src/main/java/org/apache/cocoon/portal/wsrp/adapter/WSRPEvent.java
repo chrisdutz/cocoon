@@ -24,7 +24,7 @@ import org.apache.cocoon.portal.om.CopletInstance;
 /**
  * This event is fired for every wsrp action. <br/>
  * 
- * @version $Id$
+ * @version $Id: WSRPEvent.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class WSRPEvent
     implements CopletInstanceEvent {

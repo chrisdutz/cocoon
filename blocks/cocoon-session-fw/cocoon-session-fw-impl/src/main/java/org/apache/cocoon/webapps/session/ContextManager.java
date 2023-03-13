@@ -32,7 +32,7 @@ import org.xml.sax.SAXException;
  *  objects.
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: ContextManager.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface ContextManager {
 

@@ -27,7 +27,7 @@ import junit.textui.TestRunner;
  *  A Simple testcase of the AsciiArtPad.
  *
  * @since 18. Dezember 2002
- * @version $Id$
+ * @version $Id: AsciiArtPadTestCase.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public class AsciiArtPadTestCase extends TestCase {
 

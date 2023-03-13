@@ -24,7 +24,7 @@ importClass(Packages.org.apache.cocoon.servlet.multipart.MultipartParser);
 
     A Cocoon System Library to provide upload progress bar support
 
-    @version $Id$
+    @version $Id: System.Upload.js 587738 2007-10-24 01:23:52Z vgritsenko $
 
 */
 

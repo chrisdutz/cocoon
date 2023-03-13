@@ -26,7 +26,7 @@ import java.util.Hashtable;
  *
  * Command-line version of Http Session.
  *
- * @version $Id$
+ * @version $Id: CommandLineSession.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public final class CommandLineSession
 extends AbstractSession {

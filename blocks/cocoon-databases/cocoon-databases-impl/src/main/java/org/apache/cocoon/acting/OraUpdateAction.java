@@ -20,7 +20,7 @@ package org.apache.cocoon.acting;
  * Update a record in a database.  This Action assumes that there is
  * only one table at a time to update.
  *
- * @version $Id$
+ * @version $Id: OraUpdateAction.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class OraUpdateAction extends DatabaseUpdateAction {
 

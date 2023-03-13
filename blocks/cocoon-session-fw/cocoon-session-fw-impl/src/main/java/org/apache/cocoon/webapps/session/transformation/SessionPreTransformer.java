@@ -33,7 +33,7 @@ import org.xml.sax.SAXException;
  * pipeline.
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: SessionPreTransformer.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class SessionPreTransformer
 extends AbstractSessionTransformer {

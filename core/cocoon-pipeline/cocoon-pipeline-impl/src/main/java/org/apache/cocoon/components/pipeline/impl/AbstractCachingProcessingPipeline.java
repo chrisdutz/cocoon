@@ -52,7 +52,7 @@ import org.springframework.web.context.request.RequestContextHolder;
  * that check different pipeline components.
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: AbstractCachingProcessingPipeline.java 685810 2008-08-14 08:39:26Z gkossakowski $
  * @noinspection SynchronizeOnNonFinalField
  */
 public abstract class AbstractCachingProcessingPipeline extends BaseCachingProcessingPipeline {

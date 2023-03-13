@@ -19,7 +19,7 @@
 <!--
   Model for the Swan form-model editor.
 
-  @version $Id$
+  @version $Id: model_model.xml 566578 2007-08-16 08:57:50Z felixk $
 -->
 
 <fd:form

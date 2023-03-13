@@ -28,7 +28,7 @@ import org.apache.commons.jexl.util.Introspector;
 import org.apache.commons.jexl.util.introspection.Info;
 
 /**
- * @version $Id$
+ * @version $Id: JexlExpression.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class JexlExpression extends AbstractExpression {
 

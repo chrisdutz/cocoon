@@ -32,7 +32,7 @@ import org.apache.cocoon.portal.PortalService;
 import org.apache.cocoon.util.AbstractLogEnabled;
 
 /**
- * @version $Id$
+ * @version $Id: AbstractModule.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public abstract class AbstractModule
     extends AbstractLogEnabled

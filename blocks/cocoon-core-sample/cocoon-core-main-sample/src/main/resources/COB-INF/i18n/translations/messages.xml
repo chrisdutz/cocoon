@@ -19,7 +19,7 @@
 <!--
   - Default (English) message catalogue file for Cocoon 2 i18n sample
   -
-  - $Id$
+  - $Id: messages.xml 605414 2007-12-19 04:12:49Z vgritsenko $
   -->
 <catalogue xml:lang="en">
   <message key="a_key">This is a key value.</message>

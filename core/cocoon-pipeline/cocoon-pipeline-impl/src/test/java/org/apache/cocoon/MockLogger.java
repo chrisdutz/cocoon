@@ -24,7 +24,7 @@ import org.apache.commons.logging.LogFactory;
 /**
  * Mock logger for test cases. Delegates to a Commons Logging logger.
  * 
- * @version $Id$
+ * @version $Id: MockLogger.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class MockLogger implements Logger {
     protected Log logger;

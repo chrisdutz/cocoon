@@ -22,7 +22,7 @@ import org.w3c.dom.Element;
 /**
  * Builds {@link EmailValidationRule}s.
  * 
- * @version $Id$
+ * @version $Id: EmailValidationRuleBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class EmailValidationRuleBuilder extends AbstractValidationRuleBuilder {
     public ValidationRule build(Element validationRuleElement) throws Exception {

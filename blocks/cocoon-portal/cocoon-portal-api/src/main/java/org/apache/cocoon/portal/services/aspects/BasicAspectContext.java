@@ -26,7 +26,7 @@ import org.apache.cocoon.portal.PortalService;
  * the current {@link PortalService} and the configuration for the aspect.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: BasicAspectContext.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface BasicAspectContext {
 

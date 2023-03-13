@@ -140,7 +140,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * used as the attribute name.
  * @cocoon.sitemap.component.documentation.caching No
  *
- * @version $Id$
+ * @version $Id: VariableRewriterTransformer.java 607381 2007-12-29 05:42:58Z vgritsenko $
  */
 public class VariableRewriterTransformer extends AbstractSAXTransformer
                                          implements Initializable, Disposable {

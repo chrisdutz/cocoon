@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: sitemap.xmap 605418 2007-12-19 04:18:39Z vgritsenko $
   -->
 <map:sitemap xmlns:map="http://apache.org/cocoon/sitemap/1.0">
   <!-- By default all flow scripts from the ./flow directory are read. -->

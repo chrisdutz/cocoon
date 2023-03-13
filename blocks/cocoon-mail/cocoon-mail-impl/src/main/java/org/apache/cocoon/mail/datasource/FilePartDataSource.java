@@ -27,7 +27,7 @@ import org.apache.cocoon.servlet.multipart.Part;
  * Cocoon {@link Part} object in a DataSource interface.
  *
  * @see javax.activation.DataSource
- * @version $Id$
+ * @version $Id: FilePartDataSource.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class FilePartDataSource extends AbstractDataSource {
 

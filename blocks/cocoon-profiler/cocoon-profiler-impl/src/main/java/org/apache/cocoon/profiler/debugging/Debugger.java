@@ -57,7 +57,7 @@ import org.xml.sax.InputSource;
 /**
  * This is an experimental debugger.
  * @since 2.2
- * @version $Id$
+ * @version $Id: Debugger.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class Debugger extends AbstractLogEnabled
                       implements Serviceable, Disposable, Initializable, Contextualizable {

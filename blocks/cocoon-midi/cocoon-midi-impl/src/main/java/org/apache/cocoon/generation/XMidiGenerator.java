@@ -46,7 +46,7 @@ import java.util.Map;
  * The warranty disclaimer of the MIT license (http://www.opensource.org/licenses/mit-license.html)
  * applies to Peter Arthur Loeb's code.
  *
- * @version $Id$
+ * @version $Id: XMidiGenerator.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 
 public class XMidiGenerator

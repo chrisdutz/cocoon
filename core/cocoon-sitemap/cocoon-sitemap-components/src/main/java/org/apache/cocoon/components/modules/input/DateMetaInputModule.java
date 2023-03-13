@@ -32,7 +32,7 @@ import java.util.Map;
  * java.text.SimpleDateFormat} format string, child element
  * "input-module" holds InputModule to obtain the string from.
  *
- * @version $Id$
+ * @version $Id: DateMetaInputModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class DateMetaInputModule extends AbstractMetaModule implements ThreadSafe {
 

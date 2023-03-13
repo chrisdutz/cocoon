@@ -25,7 +25,7 @@ import org.w3c.dom.Element;
 /**
  * Adapter for {@link org.apache.cocoon.forms.datatype.validationruleimpl.RangeValidationRuleBuilder}
  * 
- * @version $Id$
+ * @version $Id: RangeValidatorBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class RangeValidatorBuilder 
     extends RangeValidationRuleBuilder

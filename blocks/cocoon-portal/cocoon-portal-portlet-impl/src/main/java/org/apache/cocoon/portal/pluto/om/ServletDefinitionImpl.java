@@ -40,7 +40,7 @@ import org.apache.cocoon.portal.pluto.om.common.DisplayNameSetImpl;
 
 /**
  *
- * @version $Id$
+ * @version $Id: ServletDefinitionImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class ServletDefinitionImpl
 implements ServletDefinition, ServletDefinitionCtrl, java.io.Serializable, Support {

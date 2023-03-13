@@ -22,7 +22,7 @@ import org.apache.commons.lang.BooleanUtils;
  * Encapsulation of a single XML element attribute in a way that
  * shields the consumer from the data's XML origins.
  *
- * @version $Id$
+ * @version $Id: Attribute.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class Attribute
 {

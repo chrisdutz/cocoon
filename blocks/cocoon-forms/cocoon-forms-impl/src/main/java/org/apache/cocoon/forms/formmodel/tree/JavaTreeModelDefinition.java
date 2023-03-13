@@ -24,7 +24,7 @@ import org.springframework.beans.factory.BeanFactoryAware;
  * A {@link org.apache.cocoon.forms.formmodel.tree.TreeModelDefinition} based on a Spring bean
  * implementing {@link org.apache.cocoon.forms.formmodel.tree.TreeModel}.
  *
- * @version $Id$
+ * @version $Id: JavaTreeModelDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JavaTreeModelDefinition implements TreeModelDefinition, BeanFactoryAware {
 

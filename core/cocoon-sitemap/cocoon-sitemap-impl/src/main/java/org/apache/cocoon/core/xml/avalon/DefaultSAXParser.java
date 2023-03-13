@@ -28,7 +28,7 @@ import org.xml.sax.ext.LexicalHandler;
 /**
  * A wrapper implementation to support the Excalibur XML interfaces.
  * 
- * @version $Id$
+ * @version $Id: DefaultSAXParser.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 public class DefaultSAXParser

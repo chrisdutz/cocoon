@@ -45,7 +45,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * Where, <code>archive-url</code> can be any supported Cocoon URL, and
  * <code>file-path</code> is the path to the file within archive.
  *
- * @version $Id$
+ * @version $Id: ZipSourceFactory.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.1.8
  */
 public class ZipSourceFactory extends AbstractLogEnabled

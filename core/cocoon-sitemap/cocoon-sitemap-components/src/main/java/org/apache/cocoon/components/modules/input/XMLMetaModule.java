@@ -89,7 +89,7 @@ import org.w3c.dom.Node;
  *
  * <p>Produces Objects of type {@link org.apache.cocoon.xml.dom.DocumentWrapper DocumentWrapper}</p>
  *
- * @version $Id$
+ * @version $Id: XMLMetaModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class XMLMetaModule extends AbstractMetaModule implements ThreadSafe {
 

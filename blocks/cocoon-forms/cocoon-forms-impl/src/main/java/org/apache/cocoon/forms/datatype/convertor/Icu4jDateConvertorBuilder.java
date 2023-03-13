@@ -28,7 +28,7 @@ import com.ibm.icu.text.DateFormat;
 /**
  * Builds {@link Icu4jDateConvertor}s.
  *
- * @version $Id$
+ * @version $Id: Icu4jDateConvertorBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class Icu4jDateConvertorBuilder implements DateConvertorBuilder {
     public Convertor build(Element configElement) throws Exception {

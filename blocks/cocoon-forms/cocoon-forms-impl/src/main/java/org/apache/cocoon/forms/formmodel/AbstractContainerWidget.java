@@ -27,7 +27,7 @@ import org.xml.sax.SAXException;
 /**
  * A general-purpose abstract Widget which can hold zero or more widgets.
  *
- * @version $Id$
+ * @version $Id: AbstractContainerWidget.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public abstract class AbstractContainerWidget extends AbstractWidget
                                               implements ContainerWidget {

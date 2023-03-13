@@ -23,7 +23,7 @@ import org.apache.cocoon.portal.om.CopletDefinition;
  * This interface marks an event as an event for a coplet definition (or
  * for all coplet instances).
  *
- * @version $Id$
+ * @version $Id: CopletDefinitionEvent.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface CopletDefinitionEvent extends Event {
 

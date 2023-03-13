@@ -23,7 +23,7 @@ import java.util.Properties;
  * Helper class for replacing property references with the value of the
  * property.
  *
- * @version $Id$
+ * @version $Id: PropertyHelper.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public class PropertyHelper {
 

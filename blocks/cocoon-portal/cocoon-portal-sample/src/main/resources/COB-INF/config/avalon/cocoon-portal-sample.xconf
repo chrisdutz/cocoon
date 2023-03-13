@@ -17,7 +17,7 @@
 -->
 <!--+
     |
-    | @version $Id$
+    | @version $Id: cocoon-portal-sample.xconf 633270 2008-03-03 20:45:22Z cziegeler $
     +-->
 <components>
   <!--+

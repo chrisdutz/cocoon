@@ -22,7 +22,7 @@ import org.apache.cocoon.core.xml.SAXParser;
 import org.apache.cocoon.template.script.ScriptManager;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: ExecutionContext.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ExecutionContext {
     private Map definitions;

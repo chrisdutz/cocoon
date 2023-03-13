@@ -21,7 +21,7 @@ import org.apache.cocoon.el.ExpressionCompiler;
 import org.apache.cocoon.el.ExpressionException;
 
 /**
- * @version $Id$
+ * @version $Id: JexlCompiler.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class JexlCompiler implements ExpressionCompiler {
 

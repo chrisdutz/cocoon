@@ -24,7 +24,7 @@ import java.util.Map;
  * Information about the current portal user.
  * This object decouples the portal from the used authentication method.
  *
- * @version $Id$
+ * @version $Id: PortalUser.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface PortalUser {
 

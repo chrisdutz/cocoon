@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!-- CVS $Id$ -->
+<!-- CVS $Id: cron.xml 538196 2007-05-15 15:08:58Z felixk $ -->
 <document xmlns:jx="http://apache.org/cocoon/templates/jx/1.0">
   <body>
     <row>

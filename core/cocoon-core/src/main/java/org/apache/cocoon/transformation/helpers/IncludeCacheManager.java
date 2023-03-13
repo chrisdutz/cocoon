@@ -28,7 +28,7 @@ import org.xml.sax.SAXException;
  * It can eiter load them in parallel or pre-emptive and cache the content
  * for a given period of time.
  * 
- *  @version $Id$
+ *  @version $Id: IncludeCacheManager.java 587750 2007-10-24 02:35:22Z vgritsenko $
  *  @since   2.1
  */
 public interface IncludeCacheManager {

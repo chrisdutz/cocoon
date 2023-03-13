@@ -31,7 +31,7 @@ import org.apache.portals.bridges.common.ServletContextProvider;
 /**
  * This is the "bridge" to the bridges project.
  *
- * @version $Id$
+ * @version $Id: ServletContextProviderImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class ServletContextProviderImpl implements ServletContextProvider {
 

@@ -65,7 +65,7 @@ import org.apache.excalibur.source.SourceResolver;
  * </pre>
  * 
  * @since 2.1.4
- * @version $Id$
+ * @version $Id: SourceCache.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface SourceCache {
 	

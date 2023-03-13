@@ -28,7 +28,7 @@ import org.apache.excalibur.source.SourceValidity;
  * <code>CachedStreamObject</code>.
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: CachedResponse.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class CachedResponse
         implements Serializable {

@@ -43,7 +43,7 @@ import com.ibm.icu.math.BigDecimal;
  * a value calculation for this field.
  * </p>
  * 
- * @version $Id$
+ * @version $Id: CalculatedField.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class CalculatedField extends Field {
 

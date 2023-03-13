@@ -25,7 +25,7 @@ import org.apache.cocoon.util.HashMap;
  * AbstractConfigurableAction gives you the infrastructure for easily
  * deploying more Actions that take default parameters.
  *
- * @version $Id$
+ * @version $Id: AbstractConfigurableAction.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractConfigurableAction extends AbstractAction implements Configurable {
 

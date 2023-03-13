@@ -32,7 +32,7 @@ import org.apache.avalon.framework.thread.ThreadSafe;
  * Encapsulate MS SQLServer behaviour for autoincrement columns.
  *
  *
- * @version $Id$
+ * @version $Id: SQLServerIdentityAutoIncrementModule.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class SQLServerIdentityAutoIncrementModule implements AutoIncrementModule, ThreadSafe {
 

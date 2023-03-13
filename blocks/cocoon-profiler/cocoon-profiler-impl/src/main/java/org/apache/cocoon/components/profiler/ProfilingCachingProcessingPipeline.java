@@ -32,7 +32,7 @@ import org.apache.cocoon.xml.XMLPipe;
 import org.apache.cocoon.xml.XMLProducer;
 
 /**
- * @version $Id$
+ * @version $Id: ProfilingCachingProcessingPipeline.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ProfilingCachingProcessingPipeline
 	extends CachingProcessingPipeline {

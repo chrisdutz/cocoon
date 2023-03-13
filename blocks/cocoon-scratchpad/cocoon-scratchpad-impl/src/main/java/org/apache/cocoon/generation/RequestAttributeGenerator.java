@@ -44,7 +44,7 @@ import org.xml.sax.SAXException;
  *   required="no"
  *   default="org.apache.cocoon.xml-data"
  *
- * @version $Id$
+ * @version $Id: RequestAttributeGenerator.java 605689 2007-12-19 20:48:43Z vgritsenko $
  */
 public class RequestAttributeGenerator extends ServiceableGenerator {
 

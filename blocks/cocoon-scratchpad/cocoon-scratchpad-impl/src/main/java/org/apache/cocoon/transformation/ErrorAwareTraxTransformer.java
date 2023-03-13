@@ -34,7 +34,7 @@ import org.apache.cocoon.xml.XMLConsumer;
  * to capture the output of <code>&lt;xsl:message&#nbsp;terminate="yes"/&gt;</code>
  * and to serve it up using the standard error handling pipelines.</p>
  *
- * @version $Id$
+ * @version $Id: ErrorAwareTraxTransformer.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ErrorAwareTraxTransformer extends TraxTransformer
 implements ErrorListener {

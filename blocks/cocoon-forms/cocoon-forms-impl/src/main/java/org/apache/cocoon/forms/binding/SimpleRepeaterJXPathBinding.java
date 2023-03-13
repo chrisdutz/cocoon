@@ -31,7 +31,7 @@ import org.apache.commons.jxpath.Pointer;
  * For a smarter binding that avoids deletion and recreation, consider
  * {@link org.apache.cocoon.forms.binding.RepeaterJXPathBinding}
  *
- * @version $Id$
+ * @version $Id: SimpleRepeaterJXPathBinding.java 640682 2008-03-25 03:23:17Z vgritsenko $
  */
 public class SimpleRepeaterJXPathBinding extends JXPathBindingBase {
 

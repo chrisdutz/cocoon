@@ -31,7 +31,7 @@ import org.apache.cocoon.portal.util.AbstractBean;
 
 /**
  *
- * @version $Id$
+ * @version $Id: AbstractContentRequestProcessorAspect.java 595791 2007-11-16 19:39:32Z cziegeler $
  */
 public abstract class AbstractContentRequestProcessorAspect
     extends AbstractBean

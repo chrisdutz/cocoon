@@ -22,7 +22,7 @@ import org.w3c.dom.Document;
  * This interface identifies classes producing instances of DOM
  * <code>Document</code> objects.
  *
- * @version $Id$
+ * @version $Id: DOMFactory.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public interface DOMFactory {
     /**

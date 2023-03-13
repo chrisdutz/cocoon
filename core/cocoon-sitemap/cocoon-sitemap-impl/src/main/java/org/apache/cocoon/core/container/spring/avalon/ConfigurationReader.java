@@ -47,7 +47,7 @@ import org.xml.sax.InputSource;
  * contained components and their configurations.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: ConfigurationReader.java 1828354 2018-04-04 15:25:44Z ilgrosso $
  */
 public class ConfigurationReader {
 

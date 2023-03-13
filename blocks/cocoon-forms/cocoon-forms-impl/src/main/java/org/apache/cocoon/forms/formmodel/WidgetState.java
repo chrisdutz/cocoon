@@ -24,7 +24,7 @@ import org.apache.commons.lang.enums.ValuedEnum;
  * computed: a widget's combined state is the strictest between the widget's own
  * state and its parent state.
  * 
- * @version $Id$
+ * @version $Id: WidgetState.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class WidgetState extends ValuedEnum {
 

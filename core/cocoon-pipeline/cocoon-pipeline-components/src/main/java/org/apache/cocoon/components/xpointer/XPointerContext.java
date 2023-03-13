@@ -33,7 +33,7 @@ import org.xml.sax.SAXException;
 /**
  * A context object used during the evaluating of XPointers.
  *
- * @version $Id$
+ * @version $Id: XPointerContext.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class XPointerContext extends AbstractLogEnabled
                              implements PrefixResolver {

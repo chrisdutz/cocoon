@@ -23,7 +23,7 @@ import org.apache.cocoon.processing.ProcessInfoProvider;
  * A {@link FieldDefinition} for {@link CaptchaField}s.
  *
  * @see <a href="http://www.captcha.net">www.captcha.net</a>
- * @version $Id$
+ * @version $Id: CaptchaFieldDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class CaptchaFieldDefinition extends FieldDefinition {
 

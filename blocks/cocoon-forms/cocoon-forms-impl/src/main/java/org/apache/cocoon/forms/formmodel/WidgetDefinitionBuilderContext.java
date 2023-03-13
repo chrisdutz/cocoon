@@ -21,7 +21,7 @@ import org.apache.cocoon.forms.formmodel.library.Library;
 /**
  * Holds context information for the building phase.
  *
- * @version $Id$
+ * @version $Id: WidgetDefinitionBuilderContext.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public class WidgetDefinitionBuilderContext {
 

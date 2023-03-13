@@ -43,7 +43,7 @@ import org.w3c.dom.NodeList;
  * Abstract base class for WidgetDefinitionBuilders. Provides functionality
  * common to many implementations.
  *
- * @version $Id$
+ * @version $Id: AbstractWidgetDefinitionBuilder.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public abstract class AbstractWidgetDefinitionBuilder implements WidgetDefinitionBuilder {
 

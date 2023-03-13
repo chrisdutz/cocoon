@@ -25,7 +25,7 @@ import org.apache.cocoon.bean.Target;
 /**
  * A simple Cocoon crawler.
  *
- * @version $Id$
+ * @version $Id: Crawler.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 
 public class Crawler {

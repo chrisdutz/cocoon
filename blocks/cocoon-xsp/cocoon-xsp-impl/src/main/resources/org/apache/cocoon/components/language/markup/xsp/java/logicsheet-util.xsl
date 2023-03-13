@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!-- $Id$-->
+<!-- $Id: logicsheet-util.xsl 452483 2006-10-03 13:19:19Z joerg $-->
 <!--
  * A collection of utility templates to help logicsheet writers, and ensure
  * a consistent behaviour of logicsheets using them.

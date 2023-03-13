@@ -29,7 +29,7 @@ import org.springframework.beans.factory.HierarchicalBeanFactory;
  * This spring factory bean adds the processor component info to the bean factory.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: PipelineComponentInfoFactoryBean.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class PipelineComponentInfoFactoryBean
     implements FactoryBean, BeanFactoryAware {

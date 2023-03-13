@@ -21,7 +21,7 @@ import org.apache.cocoon.forms.formmodel.Widget;
 /**
  * An event raised when a repeater widget row is added, removed or reordered.
  * 
- * @version $Id$
+ * @version $Id: RepeaterEvent.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class RepeaterEvent extends WidgetEvent {
 

@@ -25,7 +25,7 @@ import java.io.IOException;
  * This class guarantees that a single class loader instance exists so
  * that it can be safely reinstantiated for dynamic class reloading
  *
- * @version $Id$
+ * @version $Id: ClassLoaderManager.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface ClassLoaderManager {
 

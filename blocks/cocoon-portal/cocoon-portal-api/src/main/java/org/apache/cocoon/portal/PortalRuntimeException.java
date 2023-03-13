@@ -19,7 +19,7 @@ package org.apache.cocoon.portal;
 /**
  * Runtime exception used inside the portal.
  *
- * @version $Id$
+ * @version $Id: PortalRuntimeException.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortalRuntimeException extends RuntimeException {
 

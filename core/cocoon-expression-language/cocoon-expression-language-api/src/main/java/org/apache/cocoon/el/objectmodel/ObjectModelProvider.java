@@ -21,7 +21,7 @@ package org.apache.cocoon.el.objectmodel;
  * This simple interface should be implemented by Spring beans providing initial entries for
  * {@link org.apache.cocoon.el.objectmodel.ObjectModel}.
  *
- * @version $Id$
+ * @version $Id: ObjectModelProvider.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 public interface ObjectModelProvider {

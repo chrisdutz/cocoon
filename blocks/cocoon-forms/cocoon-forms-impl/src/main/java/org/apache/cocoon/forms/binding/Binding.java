@@ -24,7 +24,7 @@ import org.apache.cocoon.forms.formmodel.Widget;
  * information elements from some back-end model (2nd argument) to and from
  * a existing Cocoon Form Widget.
  *
- * @version $Id$
+ * @version $Id: Binding.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface Binding {
 

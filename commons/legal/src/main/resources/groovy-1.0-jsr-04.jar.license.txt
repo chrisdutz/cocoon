@@ -1,7 +1,7 @@
 
 
 /*
- $Id$
+ $Id: groovy-1.0-jsr-04.jar.license.txt 394737 2006-04-17 17:48:39Z jheymans $
 
  Copyright 2003 (C) James Strachan and Bob Mcwhirter. All Rights Reserved.
 

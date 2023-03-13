@@ -32,7 +32,7 @@ import org.xml.sax.Locator;
 import org.xml.sax.SAXParseException;
 
 /**
- * @version $Id$
+ * @version $Id: DefaultScriptManager.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class DefaultScriptManager implements ScriptManager {
     private static final String JX_STORE_PREFIX = "jxtg:";

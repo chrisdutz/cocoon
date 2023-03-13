@@ -16,7 +16,7 @@
  */
 
 //
-// @version $Id$
+// @version $Id: flow.js 643863 2008-04-02 12:05:01Z vgritsenko $
 //
 
 function create() {

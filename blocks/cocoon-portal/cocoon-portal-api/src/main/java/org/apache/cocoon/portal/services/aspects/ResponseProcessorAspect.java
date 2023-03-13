@@ -26,7 +26,7 @@ import org.xml.sax.SAXException;
  * during the rendering phase, like preparing something before rendering
  * etc.
  *
- * @version $Id$
+ * @version $Id: ResponseProcessorAspect.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface ResponseProcessorAspect {
 

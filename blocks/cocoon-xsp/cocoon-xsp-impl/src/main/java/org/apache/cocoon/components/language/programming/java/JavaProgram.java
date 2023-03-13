@@ -31,7 +31,7 @@ import org.apache.cocoon.xsp.handler.ComponentHandler;
  * This represents program in Java language.
  * It wraps Java Class object.
  *
- * @version $Id$
+ * @version $Id: JavaProgram.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class JavaProgram extends AbstractLogEnabled
                          implements Program {

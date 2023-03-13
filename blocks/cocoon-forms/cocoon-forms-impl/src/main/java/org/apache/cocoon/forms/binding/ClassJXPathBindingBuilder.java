@@ -32,7 +32,7 @@ import org.w3c.dom.Element;
  * &lt;/fb:class&gt;
  * </code></pre>
  *
- * @version $Id$
+ * @version $Id: ClassJXPathBindingBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class ClassJXPathBindingBuilder extends JXPathBindingBuilderBase {
 

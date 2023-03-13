@@ -24,7 +24,7 @@ import java.util.Map;
 /**
  * This class represents a file part parsed from a http post stream.
  *
- * @version $Id$
+ * @version $Id: PartInMemory.java 638211 2008-03-18 04:41:23Z joerg $
  */
 public class PartInMemory extends Part {
 

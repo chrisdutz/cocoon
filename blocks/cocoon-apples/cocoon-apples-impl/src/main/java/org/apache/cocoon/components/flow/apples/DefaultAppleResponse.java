@@ -22,7 +22,7 @@ import org.apache.cocoon.environment.Response;
  * DefaultAppleResponse provides a default implementation for the
  * {@link AppleResponse}.
  * 
- * @version $Id$
+ * @version $Id: DefaultAppleResponse.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public class DefaultAppleResponse implements AppleResponse {
     private String uri;

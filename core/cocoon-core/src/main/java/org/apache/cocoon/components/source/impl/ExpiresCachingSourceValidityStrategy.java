@@ -26,7 +26,7 @@ import org.apache.excalibur.source.impl.validity.ExpiresValidity;
  * We need to store both the cache expiration and the original source validity
  * the former is to determine whether to recheck the latter (see checkValidity)
  *
- * @version $Id$
+ * @version $Id: ExpiresCachingSourceValidityStrategy.java 594673 2007-11-13 22:27:27Z vgritsenko $
  */
 public class ExpiresCachingSourceValidityStrategy implements CachingSourceValidityStrategy {
 

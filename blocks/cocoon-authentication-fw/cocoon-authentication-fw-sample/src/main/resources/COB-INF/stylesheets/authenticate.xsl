@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- $Id$ 
+<!-- $Id: authenticate.xsl 448774 2006-09-22 02:35:42Z crossley $ 
 
 -->
 

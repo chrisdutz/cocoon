@@ -24,7 +24,7 @@ import java.util.List;
 import java.io.Reader;
 
 /**
- * @version $Id$
+ * @version $Id: StringTemplateParser.java 605955 2007-12-20 15:03:43Z vgritsenko $
  */
 public interface StringTemplateParser {
 

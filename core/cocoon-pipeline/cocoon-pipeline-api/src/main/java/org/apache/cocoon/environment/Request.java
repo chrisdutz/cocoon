@@ -36,7 +36,7 @@ import javax.servlet.http.HttpSession;
  * Objects stored in the request using the setLocalAttribute method are
  * only available for the current (sub) request.
  * 
- * @version $Id$
+ * @version $Id: Request.java 609282 2008-01-06 09:35:48Z rgoers $
  */
 public interface Request extends ValueHolder, HttpServletRequest {
 

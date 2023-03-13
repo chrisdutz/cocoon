@@ -33,7 +33,7 @@ import org.apache.avalon.framework.thread.ThreadSafe;
  *
  * Here: <a href="http://hsqldb.sourceforge.net">HSQLDB</a> 1.6 IDENTITY columns
  *
- * @version $Id$
+ * @version $Id: HsqlIdentityAutoIncrementModule.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class HsqlIdentityAutoIncrementModule implements AutoIncrementModule, ThreadSafe {
 

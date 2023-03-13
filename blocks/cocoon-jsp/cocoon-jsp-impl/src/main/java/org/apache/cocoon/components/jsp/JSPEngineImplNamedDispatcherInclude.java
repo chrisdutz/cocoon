@@ -37,7 +37,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * RequestDispatcher from ServletContext.getNamedDispatcher().
  * </p>
  *
- * @version $Id$
+ * @version $Id: JSPEngineImplNamedDispatcherInclude.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class JSPEngineImplNamedDispatcherInclude extends AbstractLogEnabled
                                                  implements JSPEngine, Parameterizable, ThreadSafe {

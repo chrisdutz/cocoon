@@ -24,7 +24,7 @@ import javax.servlet.ServletException;
 /**
  * Stack used for geting hold on the current block servlet
  *
- * @version $Id$
+ * @version $Id: BlockCallStack.java 587749 2007-10-24 02:33:18Z vgritsenko $
  * @since 2.2 
  */
 public class BlockCallStack {

@@ -20,7 +20,7 @@ package org.apache.cocoon.caching.validity;
  * An External cache event that consists of just a name.  Examples 
  * (not necessarily useful) could include "Easter" or "Shutdown"
  * 
- * @version $Id$
+ * @version $Id: NamedEvent.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class NamedEvent extends Event {
     

@@ -30,7 +30,7 @@ import org.springframework.beans.factory.HierarchicalBeanFactory;
  * It is part of the Spring bridge for Avalon integration.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: AvalonSitemapContextFactoryBean.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class AvalonSitemapContextFactoryBean
     implements FactoryBean, BeanFactoryAware {

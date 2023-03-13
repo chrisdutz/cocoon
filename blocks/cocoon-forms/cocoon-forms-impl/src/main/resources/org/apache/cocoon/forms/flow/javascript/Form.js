@@ -18,7 +18,7 @@
 /**
  * Implementation of the Cocoon Forms/FlowScript integration.
  *
- * @version $Id$
+ * @version $Id: Form.js 568913 2007-08-23 10:00:13Z cziegeler $
  */
 
 // Revisit this class, so it gives access to more than the value.

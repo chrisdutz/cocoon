@@ -19,7 +19,7 @@
 <!--
   - Transforms menu.xml to the index page
   -
-  - $Id$
+  - $Id: menu2page.xsl 605033 2007-12-17 22:58:09Z vgritsenko $
   -->
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">

@@ -19,7 +19,7 @@ package org.apache.cocoon.forms.binding;
 import org.apache.cocoon.forms.binding.library.Library;
 
 /**
- * @version $Id$
+ * @version $Id: BindingBuilderContext.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class BindingBuilderContext {
 

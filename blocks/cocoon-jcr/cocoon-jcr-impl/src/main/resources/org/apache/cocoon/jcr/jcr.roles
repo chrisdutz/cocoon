@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: jcr.roles 449153 2006-09-23 04:27:50Z crossley $
   -->
 <role-list>
   <role name="javax.jcr.Repository"

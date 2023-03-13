@@ -23,7 +23,7 @@ import org.outerj.expression.ExpressionException;
 /**
  * Returns null constant.
  *  
- * @version $Id$
+ * @version $Id: NullFunction.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class NullFunction extends AbstractExpression {
 

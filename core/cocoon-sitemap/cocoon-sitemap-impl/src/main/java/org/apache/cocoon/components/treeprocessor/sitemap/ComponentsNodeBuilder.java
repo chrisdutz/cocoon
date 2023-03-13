@@ -24,7 +24,7 @@ import org.apache.cocoon.components.treeprocessor.ProcessingNode;
 /**
  * Handles &lt;map:components&gt;. It doesn't actually create a <code>ProcessingNode</code>.
  *
- * @version $Id$
+ * @version $Id: ComponentsNodeBuilder.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ComponentsNodeBuilder extends AbstractProcessingNodeBuilder {
 

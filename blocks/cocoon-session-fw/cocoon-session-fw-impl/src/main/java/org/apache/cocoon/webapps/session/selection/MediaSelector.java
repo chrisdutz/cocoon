@@ -30,7 +30,7 @@ import org.apache.cocoon.webapps.session.MediaManager;
  *  This selector uses the media management.
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: MediaSelector.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public final class MediaSelector
 implements Serviceable, Selector, ThreadSafe {

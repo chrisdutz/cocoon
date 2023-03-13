@@ -27,7 +27,7 @@ import org.apache.cocoon.configuration.Settings;
  * is not found there, it delegates to the parent.
  * This object is used for setting up the logger.
  *
- * @version $Id$
+ * @version $Id: SettingsContext.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 public class SettingsContext extends DefaultContext {

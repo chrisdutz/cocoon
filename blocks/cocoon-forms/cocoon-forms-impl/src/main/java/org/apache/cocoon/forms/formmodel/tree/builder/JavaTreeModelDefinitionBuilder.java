@@ -31,7 +31,7 @@ import org.w3c.dom.Element;
 /**
  * Builds a {@link TreeModelDefinition} based on an Spring bean subclassing {@TreeModel}.
  *
- * @version $Id$
+ * @version $Id: JavaTreeModelDefinitionBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JavaTreeModelDefinitionBuilder implements TreeModelDefinitionBuilder, BeanFactoryAware {
 

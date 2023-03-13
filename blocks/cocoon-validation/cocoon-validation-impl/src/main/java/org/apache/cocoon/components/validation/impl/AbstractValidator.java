@@ -56,7 +56,7 @@ import org.xml.sax.SAXException;
  * can be overridden by reimplementing the {@link #detectGrammar(Source)} method
  * provided by this class.</p>
  *
- * @version $Id$
+ * @version $Id: AbstractValidator.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class AbstractValidator extends AbstractLogEnabled
                                         implements Validator, Serviceable, Disposable {

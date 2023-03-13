@@ -28,7 +28,7 @@ import org.apache.excalibur.source.SourceUtil;
  * {@link InputStream} object in a DataSource interface.
  *
  * @see javax.activation.DataSource
- * @version $Id$
+ * @version $Id: InputStreamDataSource.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class InputStreamDataSource extends AbstractDataSource {
 

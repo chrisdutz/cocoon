@@ -80,7 +80,7 @@ import java.util.Map;
  * application must explicitely supply credentials when calling
  * <code>Repository.login()</code>.
  *
- * @version $Id$
+ * @version $Id: AbstractRepository.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public abstract class AbstractRepository extends AbstractLogEnabled
                                          implements Repository, ThreadSafe, Contextualizable, Serviceable,

@@ -52,7 +52,7 @@ import org.xml.sax.SAXException;
  * Please see also the documentation of superclass AbstractCopletTransformer for how
  * the coplet instance data are acquired.
  *
- * @version $Id$
+ * @version $Id: NewEventLinkTransformer.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class NewEventLinkTransformer extends AbstractCopletTransformer {
 

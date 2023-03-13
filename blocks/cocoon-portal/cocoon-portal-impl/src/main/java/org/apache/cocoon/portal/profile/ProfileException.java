@@ -20,7 +20,7 @@ import org.apache.cocoon.portal.PortalRuntimeException;
 
 /**
  *
- * @version $Id$
+ * @version $Id: ProfileException.java 603019 2007-12-10 19:55:55Z cziegeler $
  */
 public class ProfileException extends PortalRuntimeException {
 

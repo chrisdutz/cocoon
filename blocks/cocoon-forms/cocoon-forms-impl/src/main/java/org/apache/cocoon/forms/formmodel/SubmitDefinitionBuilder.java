@@ -34,7 +34,7 @@ import org.w3c.dom.Element;
  * <code>false</code> and determines if the form is to be validated
  * (defaults to true).</p>
  *
- * @version $Id$
+ * @version $Id: SubmitDefinitionBuilder.java 642840 2008-03-30 23:45:21Z joerg $
  */
 public final class SubmitDefinitionBuilder extends ActionDefinitionBuilder {
 

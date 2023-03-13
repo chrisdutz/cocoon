@@ -26,7 +26,7 @@ import org.apache.avalon.framework.service.ServiceManager;
  * a new component; it's just a "container" of objects.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: ComponentEnvironment.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ComponentEnvironment {
     public final ServiceManager serviceManager;

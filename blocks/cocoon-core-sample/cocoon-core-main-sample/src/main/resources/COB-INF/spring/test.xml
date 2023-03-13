@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: test.xml 597533 2007-11-23 03:38:18Z vgritsenko $
   -->
 <document xmlns:jx="http://apache.org/cocoon/templates/jx/1.0">
   <p>This is a simple demo page</p>

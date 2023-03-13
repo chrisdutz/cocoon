@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 <!--
-  @version $Id$
+  @version $Id: welcome.xml 680667 2008-07-29 10:46:41Z felixk $
 -->
 <samples name="CForms Block Samples" xmlns:xlink="http://www.w3.org/1999/xlink">
  <group name="Back">

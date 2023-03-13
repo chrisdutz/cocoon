@@ -20,7 +20,7 @@ import org.apache.cocoon.xml.AbstractXMLPipe;
 
 /**
  *
- * @version $Id$
+ * @version $Id: AbstractTransformer.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 
 public abstract class AbstractTransformer extends AbstractXMLPipe implements Transformer {

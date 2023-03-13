@@ -20,7 +20,7 @@ package org.apache.cocoon.forms.validation;
  * Interface implemented by {@link org.apache.cocoon.forms.formmodel.Widget}s that
  * can hold a validation error.
  * 
- * @version $Id$
+ * @version $Id: ValidationErrorAware.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface ValidationErrorAware {
     

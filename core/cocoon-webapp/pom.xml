@@ -21,18 +21,21 @@
   - This is the bare bones Cocoon web application,
   - basis for creation of custom distributions.
   -
-  - @version $Id$
+  - @version $Id: pom.xml 1907439 2023-02-05 13:07:04Z javier $
   -->
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
+
   <parent>
     <groupId>org.apache.cocoon</groupId>
     <artifactId>cocoon-core-modules</artifactId>
-    <version>6</version>
+    <version>2.2.1-SNAPSHOT</version>
   </parent>
+
   <artifactId>cocoon-webapp</artifactId>
-  <version>2.2.2-SNAPSHOT</version>
+  <version>2.2.1-SNAPSHOT</version>
   <packaging>war</packaging>
+
   <name>Cocoon Webapp</name>
 
   <scm>
@@ -90,46 +93,38 @@
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-welcome</artifactId>
-      <version>1.0.0-M1</version>
     </dependency>
 
     <!-- Cocoon Core Samples -->
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-core-main-sample</artifactId>
-      <version>1.0.0</version>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-core-additional-sample</artifactId>
-      <version>1.0.0</version>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-servlet-service-impl-sample</artifactId>
-      <version>1.0.1</version>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-servlet-service-components-sample</artifactId>
-      <version>1.0.0</version>
     </dependency>
 
     <!-- Cocoon Sample Blocks -->
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-ajax-sample</artifactId>
-      <version>1.0.0</version>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-forms-sample</artifactId>
-      <version>1.1.0</version>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-template-sample</artifactId>
-      <version>1.1.0</version>
     </dependency>
 
     <!-- Integration Tests -->
@@ -433,4 +428,5 @@
     <jetty.port>8888</jetty.port>
     <jetty.context>/</jetty.context>
   </properties>
+
 </project>

@@ -31,7 +31,7 @@ import org.apache.commons.jxpath.JXPathException;
  * (pointing to an attribute or text-node) to and from a specific CForms
  * widget as identified by its id.
  *
- * @version $Id$
+ * @version $Id: ValueJXPathBinding.java 640682 2008-03-25 03:23:17Z vgritsenko $
  */
 public class ValueJXPathBinding extends JXPathBindingBase {
 

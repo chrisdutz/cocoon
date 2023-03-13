@@ -15,7 +15,7 @@
 * limitations under the License.
 */
 /*
-    $Id$
+    $Id: prefs.js 448813 2006-09-22 04:45:31Z crossley $
 
     This file is the central controller piece in the preferences
     application. It receives the requests from the client browser (the

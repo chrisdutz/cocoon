@@ -29,7 +29,7 @@ import org.xml.sax.SAXParseException;
 import org.xml.sax.helpers.AttributesImpl;
 
 /**
- * @version $Id$
+ * @version $Id: AttributeAwareXMLConsumerImpl.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class AttributeAwareXMLConsumerImpl implements AttributeAwareXMLConsumer {
 

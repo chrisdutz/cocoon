@@ -25,7 +25,7 @@ import org.apache.cocoon.environment.SourceResolver;
 /**
  * This action saves the profile.
  *
- * @version $Id$
+ * @version $Id: SaveAction.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public final class SaveAction
     extends AbstractPortalAction {

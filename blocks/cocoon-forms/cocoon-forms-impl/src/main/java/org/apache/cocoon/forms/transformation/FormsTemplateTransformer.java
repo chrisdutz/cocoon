@@ -30,7 +30,7 @@ import java.util.Map;
 /**
  * See description of {@link EffectWidgetReplacingPipe}.
  *
- * @version $Id$
+ * @version $Id: FormsTemplateTransformer.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class FormsTemplateTransformer extends EffectWidgetReplacingPipe implements Transformer {
 

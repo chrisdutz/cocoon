@@ -27,7 +27,7 @@ import org.apache.commons.collections.iterators.EmptyIterator;
  * Reusable implementation of the {@link BasicAspectContext}.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: BasicAspectContextImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public abstract class BasicAspectContextImpl implements BasicAspectContext {
 

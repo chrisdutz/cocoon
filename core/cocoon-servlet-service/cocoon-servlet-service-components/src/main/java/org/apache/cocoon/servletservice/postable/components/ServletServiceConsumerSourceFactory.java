@@ -30,7 +30,7 @@ import org.apache.excalibur.source.SourceFactory;
  * A factory for <code>service-consumer:</code> source.
  *
  * @see ServletServiceConsumerSource
- * @version $Id$
+ * @version $Id: ServletServiceConsumerSourceFactory.java 608379 2008-01-03 08:42:43Z reinhard $
  * @since 1.0.0
  */
 public class ServletServiceConsumerSourceFactory implements SourceFactory {

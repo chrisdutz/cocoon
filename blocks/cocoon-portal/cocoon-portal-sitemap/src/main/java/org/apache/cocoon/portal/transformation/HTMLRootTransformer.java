@@ -43,7 +43,7 @@ import org.xml.sax.SAXException;
  * and only passes everything on to the next pipeline component that's contained
  * in a body element.
  *
- * @version $Id$
+ * @version $Id: HTMLRootTransformer.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class HTMLRootTransformer 
     extends AbstractTransformer 

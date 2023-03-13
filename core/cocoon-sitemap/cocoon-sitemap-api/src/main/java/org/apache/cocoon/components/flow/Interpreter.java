@@ -73,7 +73,7 @@ import java.util.List;
  * </ul>
  *
  * @since March 11, 2002
- * @version $Id$
+ * @version $Id: Interpreter.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface Interpreter {
 

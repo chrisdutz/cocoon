@@ -18,7 +18,7 @@ package org.apache.cocoon.forms.samples.bindings;
 
 /**
  * LenientOKBean
- * @version $Id$
+ * @version $Id: LenientOKBean.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class LenientOKBean extends LenientBaseBean{
 

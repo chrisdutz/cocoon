@@ -29,7 +29,7 @@ import org.apache.commons.jxpath.JXPathContext;
  * class that contains other widgets.</li>
  * </ol>
  *
- * @version $Id$
+ * @version $Id: NewJXPathBinding.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class NewJXPathBinding extends ComposedJXPathBindingBase {
 

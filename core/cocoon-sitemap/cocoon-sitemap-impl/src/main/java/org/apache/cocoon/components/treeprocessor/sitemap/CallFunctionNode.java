@@ -36,7 +36,7 @@ import org.apache.cocoon.environment.Redirector;
  * the control flow layer.
  *
  * @since March 13, 2002
- * @version $Id$
+ * @version $Id: CallFunctionNode.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class CallFunctionNode extends AbstractProcessingNode implements ParameterizableProcessingNode {
 

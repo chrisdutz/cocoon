@@ -23,7 +23,7 @@ import org.apache.cocoon.forms.event.WidgetEventMulticaster;
 /**
  * A helper class to ease the implementation of {@link TreeModel}s
  * 
- * @version $Id$
+ * @version $Id: TreeModelHelper.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class TreeModelHelper {
     

@@ -34,7 +34,7 @@ import org.apache.cocoon.auth.User;
  * @cocoon.sitemap.component.documentation
  * This action tests if the user is logged in for a given application.
  *
- * @version $Id$
+ * @version $Id: LoggedInAction.java 607381 2007-12-29 05:42:58Z vgritsenko $
 */
 public final class LoggedInAction extends AbstractAuthAction {
 

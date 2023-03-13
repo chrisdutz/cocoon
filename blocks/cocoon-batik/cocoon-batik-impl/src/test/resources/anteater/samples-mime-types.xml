@@ -21,7 +21,7 @@
     their content-type: if a sample gives an error instead of
     generating an image, its content-type will be text/html.
 
-    $Id$
+    $Id: samples-mime-types.xml 510928 2007-02-23 12:38:10Z cziegeler $
  -->
 
 <project name="batik-samples-mime-types" default="batik-samples-mime-types">

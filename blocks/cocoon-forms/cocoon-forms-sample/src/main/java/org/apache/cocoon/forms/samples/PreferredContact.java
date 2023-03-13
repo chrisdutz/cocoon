@@ -21,7 +21,7 @@ import org.apache.commons.lang.enums.Enum;
 /**
  * Test apache enum class.
  * 
- * @version $Id$
+ * @version $Id: PreferredContact.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class PreferredContact extends Enum {
 

@@ -83,7 +83,7 @@ import org.xmldb.api.modules.XPathQueryService;
  * not verified.
  *
  * @since 2002/02/03
- * @version $Id$
+ * @version $Id: DbXMLAuthenticatorAction.java 587761 2007-10-24 03:08:05Z vgritsenko $
  *
  * based on DatabaseAuthenticatorAction created by Martin Man <Martin.Man@seznam.cz>
  */

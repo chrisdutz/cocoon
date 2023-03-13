@@ -85,7 +85,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * @cocoon.sitemap.component.label  content
  * @cocoon.sitemap.component.documentation.caching Yes
  *
- * @version $Id$
+ * @version $Id: CalendarGenerator.java 605605 2007-12-19 16:19:51Z vgritsenko $
  */
 public class CalendarGenerator extends ServiceableGenerator
                                implements CacheableProcessingComponent {

@@ -44,7 +44,7 @@ import java.util.Set;
 /**
  * Generates an XML representation of the current status of Profiler.
  *
- * @version $Id$
+ * @version $Id: ProfilerGenerator.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ProfilerGenerator extends ServiceableGenerator {
 

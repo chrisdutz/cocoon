@@ -20,7 +20,7 @@ package org.apache.cocoon.taglib;
 import org.apache.cocoon.xml.XMLConsumer;
 
 /**
- * @version $Id$
+ * @version $Id: TransformerTag.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface TransformerTag extends XMLConsumer, XMLProducerTag {
 

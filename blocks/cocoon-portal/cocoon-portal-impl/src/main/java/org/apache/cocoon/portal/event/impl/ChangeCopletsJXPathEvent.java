@@ -22,7 +22,7 @@ import org.apache.cocoon.portal.om.CopletDefinition;
 /**
  * This event changes the value of all instances of a coplet data.
  *
- * @version $Id$
+ * @version $Id: ChangeCopletsJXPathEvent.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class ChangeCopletsJXPathEvent
     implements CopletDefinitionEvent {

@@ -39,7 +39,7 @@ import org.mozilla.javascript.Function;
 /**
  * Listeners built by {@link org.apache.cocoon.forms.event.impl.JavaScriptWidgetListenerBuilder}
  * 
- * @version $Id$
+ * @version $Id: JavaScriptWidgetListener.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public abstract class JavaScriptWidgetListener {
     

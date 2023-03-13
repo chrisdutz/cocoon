@@ -31,7 +31,7 @@ import org.xml.sax.SAXException;
  * A dom parser which uses a JAXP 1.1 compliant parsers.
  *
  * @see AbstractJaxpParser
- * @version $Id$
+ * @version $Id: JaxpDOMParser.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 public final class JaxpDOMParser

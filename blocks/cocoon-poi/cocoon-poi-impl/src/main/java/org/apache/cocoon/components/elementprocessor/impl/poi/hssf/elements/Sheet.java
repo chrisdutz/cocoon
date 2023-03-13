@@ -36,7 +36,7 @@ import org.apache.poi.hssf.util.HSSFColor;
 /**
  * internal representation of a Sheet
  *
- * @version $Id$
+ * @version $Id: Sheet.java 707326 2008-10-23 09:32:44Z felixk $
  */
 
 // package scope

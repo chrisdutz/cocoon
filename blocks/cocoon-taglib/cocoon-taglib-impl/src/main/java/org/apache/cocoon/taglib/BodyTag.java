@@ -21,7 +21,7 @@ import org.xml.sax.SAXException;
 /**
  * The BodyTag interface extends IterationTag.
  *
- * @version $Id$
+ * @version $Id: BodyTag.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface BodyTag extends IterationTag {
 

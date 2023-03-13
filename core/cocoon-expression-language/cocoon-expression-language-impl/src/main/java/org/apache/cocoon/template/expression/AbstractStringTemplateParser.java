@@ -28,7 +28,7 @@ import org.xml.sax.SAXException;
 import org.xml.sax.SAXParseException;
 
 /**
- * @version $Id$
+ * @version $Id: AbstractStringTemplateParser.java 605955 2007-12-20 15:03:43Z vgritsenko $
  */
 public abstract class AbstractStringTemplateParser implements StringTemplateParser {
 

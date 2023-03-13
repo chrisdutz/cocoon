@@ -35,7 +35,7 @@ import org.w3c.dom.Element;
  *   &lt;fd:value type="formula" eval="..."&gt; [triggers="..."]/&gt;
  * </code>
  * </p>
- * @version $Id$
+ * @version $Id: SimpleFormulaBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class SimpleFormulaBuilder extends AbstractBaseAlgorithmBuilder {
 

@@ -64,7 +64,7 @@ import org.xml.sax.SAXException;
 /**
  * Testcase for actions, generators, transformers and serializer components. 
  *
- * @version $Id$
+ * @version $Id: SitemapComponentTestCase.java 610545 2008-01-09 20:19:15Z gkossakowski $
  */
 public abstract class SitemapComponentTestCase extends CocoonTestCase {
 

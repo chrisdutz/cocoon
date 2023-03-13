@@ -35,7 +35,7 @@ import org.xml.sax.SAXException;
  * This implements a type-aware List of Widgets that automatically can distribute
  * the common Widget operations over the contained Widgets.
  *
- * @version $Id$
+ * @version $Id: WidgetList.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class WidgetList {
 

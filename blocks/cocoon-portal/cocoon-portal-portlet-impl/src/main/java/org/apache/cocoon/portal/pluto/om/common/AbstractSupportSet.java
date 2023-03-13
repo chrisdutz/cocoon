@@ -21,7 +21,7 @@ import java.util.Iterator;
 
 /**
  *
- * @version $Id$
+ * @version $Id: AbstractSupportSet.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public abstract class AbstractSupportSet 
     extends HashSet 

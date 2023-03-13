@@ -29,7 +29,7 @@ import org.apache.commons.jxpath.JXPathContext;
  * <li>This Binding does not perform any actions when loading.</li>
  * </ol>
  *
- * @version $Id$
+ * @version $Id: DeleteNodeJXPathBinding.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class DeleteNodeJXPathBinding extends JXPathBindingBase {
 

@@ -26,7 +26,7 @@ import java.io.File;
 /**
  * The compiled Javascript (Rhino) programming language processor
  *
- * @version $Id$
+ * @version $Id: CompiledJavascriptLanguage.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class CompiledJavascriptLanguage extends JavaLanguage {
 

@@ -21,7 +21,7 @@ import java.io.Serializable;
 import org.apache.excalibur.source.SourceValidity;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: JXSourceValidity.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public final class JXSourceValidity implements SourceValidity, Serializable {
     private final SourceValidity sourceValidity;

@@ -25,7 +25,7 @@ import org.apache.cocoon.environment.impl.AbstractResponse;
 /**
  * Creates a specific servlet response simulation from command line usage.
  *
- * @version $Id$
+ * @version $Id: BackgroundResponse.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class BackgroundResponse extends AbstractResponse implements Response {
 

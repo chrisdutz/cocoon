@@ -28,7 +28,7 @@ import org.apache.commons.jxpath.ri.model.NodePointer;
  * <a href="http://jakarta.apache.org/commons/jxpath/apidocs/org/apache/commons/jxpath/JXPathContext.html#setNamespaceContextPointer(org.apache.commons.jxpath.Pointer)">JXPathContext.setNamespaceContextPointer()</a>.
  * 
  * @since 2.1.8
- * @version $Id$
+ * @version $Id: NamespacesTablePointer.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class NamespacesTablePointer extends NodePointer {
     

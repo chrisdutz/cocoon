@@ -27,7 +27,7 @@ import org.outerj.expression.ExpressionException;
  * The reason for centralising the creation of expressions is so that
  * new functions can be registered in one place.
  * 
- * @version $Id$
+ * @version $Id: ExpressionManager.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface ExpressionManager {
     

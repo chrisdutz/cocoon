@@ -31,7 +31,7 @@ import org.w3c.dom.Document;
 
 /**
  * Abstract TestCase for CForms's SelectionList datatypes.
- * @version $Id$
+ * @version $Id: AbstractSelectionListTestCase.java 606939 2007-12-26 19:51:41Z gkossakowski $
  */
 public abstract class AbstractSelectionListTestCase extends CocoonTestCase {
 

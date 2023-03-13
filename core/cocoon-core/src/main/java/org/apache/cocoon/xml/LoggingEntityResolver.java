@@ -30,7 +30,7 @@ import org.xml.sax.SAXException;
 /**
  * Logging entity resolver to assist in caching.
  *
- * @version $Id$
+ * @version $Id: LoggingEntityResolver.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class LoggingEntityResolver extends AbstractLogEnabled
                                    implements EntityResolver {

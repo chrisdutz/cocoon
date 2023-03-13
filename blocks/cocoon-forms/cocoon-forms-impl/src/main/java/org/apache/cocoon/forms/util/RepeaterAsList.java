@@ -35,7 +35,7 @@ import org.apache.cocoon.forms.formmodel.Widget;
  * </ul>
  * 
  * @since 2.1.8
- * @version $Id$
+ * @version $Id: RepeaterAsList.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class RepeaterAsList extends AbstractList {
     

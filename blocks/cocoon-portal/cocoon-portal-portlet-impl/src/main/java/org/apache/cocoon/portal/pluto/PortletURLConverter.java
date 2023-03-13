@@ -31,7 +31,7 @@ import org.apache.cocoon.portal.om.CopletInstance;
 /**
  * Create the URL for a portlet.
  *
- * @version $Id$
+ * @version $Id: PortletURLConverter.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortletURLConverter {
 

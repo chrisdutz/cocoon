@@ -21,7 +21,7 @@ import org.xml.sax.Attributes;
 /**
  * Immutable attributes
  *
- * @version $Id$
+ * @version $Id: ImmutableAttributesImpl.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ImmutableAttributesImpl extends AttributesImpl {
 

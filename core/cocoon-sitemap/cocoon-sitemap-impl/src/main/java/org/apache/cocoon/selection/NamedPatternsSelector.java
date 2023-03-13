@@ -36,7 +36,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * <p>Known implementations of this abstract class include <code>BrowserSelector</code>,
  * <code>HostSelector</code> from <code>cocoon-sitemap-components</code> maven module.
  *
- * @version $Id$
+ * @version $Id: NamedPatternsSelector.java 746648 2009-02-22 08:49:25Z joerg $
  */
 public abstract class NamedPatternsSelector extends AbstractLogEnabled
                                             implements Configurable, ThreadSafe, Selector {

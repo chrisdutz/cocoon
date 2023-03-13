@@ -52,7 +52,7 @@ import org.apache.cocoon.util.avalon.CLLoggerWrapper;
 /**
  * FOP 0.20.5 (and older) based serializer.
  * 
- * @version $Id$
+ * @version $Id: FOPSerializer.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class FOPSerializer extends AbstractSerializer
                            implements Configurable, CacheableProcessingComponent, Serviceable {

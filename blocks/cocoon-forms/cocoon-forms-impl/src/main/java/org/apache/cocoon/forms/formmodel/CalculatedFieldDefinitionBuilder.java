@@ -43,7 +43,7 @@ import java.util.Map;
  * can be used to create fields which are used as temporary value placeholders in a chain of calculations. 
  * </p>
  * 
- * @version $Id$
+ * @version $Id: CalculatedFieldDefinitionBuilder.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public class CalculatedFieldDefinitionBuilder extends FieldDefinitionBuilder {
 

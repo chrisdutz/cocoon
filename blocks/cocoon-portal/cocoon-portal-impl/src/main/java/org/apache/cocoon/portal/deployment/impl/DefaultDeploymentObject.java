@@ -27,7 +27,7 @@ import org.apache.cocoon.portal.deployment.DeploymentObject;
 /**
  * Default implementation of a {@link org.apache.cocoon.portal.deployment.DeploymentObject}.
  *
- * @version $Id$
+ * @version $Id: DefaultDeploymentObject.java 609787 2008-01-07 21:37:46Z cziegeler $
  */
 public class DefaultDeploymentObject implements DeploymentObject {
 

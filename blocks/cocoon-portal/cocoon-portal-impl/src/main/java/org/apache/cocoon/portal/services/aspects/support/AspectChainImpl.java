@@ -28,7 +28,7 @@ import org.apache.cocoon.portal.services.aspects.AspectChain;
  * Reusable implementation of an aspect chain.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: AspectChainImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class AspectChainImpl implements AspectChain {
 

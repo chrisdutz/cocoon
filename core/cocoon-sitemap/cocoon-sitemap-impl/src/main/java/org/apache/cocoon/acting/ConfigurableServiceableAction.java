@@ -27,7 +27,7 @@ import org.apache.avalon.framework.service.Serviceable;
  * Basically a copy of {@link ServiceableAction} that inherits from
  * {@link AbstractConfigurableAction}.
  *
- * @version $Id$
+ * @version $Id: ConfigurableServiceableAction.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class ConfigurableServiceableAction 
     extends AbstractConfigurableAction implements Serviceable {

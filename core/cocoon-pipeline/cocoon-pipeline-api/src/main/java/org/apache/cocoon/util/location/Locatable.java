@@ -21,7 +21,7 @@ package org.apache.cocoon.util.location;
  * have been created from).
  *
  * @since 2.1.8
- * @version $Id$
+ * @version $Id: Locatable.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface Locatable {
 

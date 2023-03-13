@@ -24,7 +24,7 @@ import org.apache.cocoon.template.expression.AbstractStringTemplateParser;
 import org.apache.cocoon.template.expression.Literal;
 
 /**
- * @version $Id$
+ * @version $Id: LegacyStringTemplateParser.java 605955 2007-12-20 15:03:43Z vgritsenko $
  */
 public class LegacyStringTemplateParser extends AbstractStringTemplateParser {
 

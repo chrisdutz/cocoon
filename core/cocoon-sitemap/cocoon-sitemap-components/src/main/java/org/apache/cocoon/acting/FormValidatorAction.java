@@ -37,7 +37,7 @@ import java.util.Map;
  * @cocoon.sitemap.component.documentation
  * This is the action used to validate Request parameters.
  *
- * @version $Id$
+ * @version $Id: FormValidatorAction.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class FormValidatorAction extends AbstractValidatorAction implements ThreadSafe {
 

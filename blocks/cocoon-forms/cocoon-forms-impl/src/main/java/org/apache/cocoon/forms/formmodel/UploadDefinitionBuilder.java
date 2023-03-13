@@ -25,7 +25,7 @@ import org.w3c.dom.Element;
 /**
  * Builds {@link org.apache.cocoon.forms.formmodel.UploadDefinition}s.
  * 
- * @version $Id$
+ * @version $Id: UploadDefinitionBuilder.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public final class UploadDefinitionBuilder extends AbstractWidgetDefinitionBuilder {
 

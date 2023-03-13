@@ -22,7 +22,7 @@ import junit.framework.TestCase;
 /**
  * Description of EmailValidationRuleTest.
  * 
- * @version $Id$
+ * @version $Id: EmailValidationRuleTest.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class EmailValidationRuleTest extends TestCase {
 

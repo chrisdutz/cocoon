@@ -15,7 +15,7 @@
 * limitations under the License.
 */
 // flowscripts util for paging navigation
-// $Id$
+// $Id: pager.js 449178 2006-09-23 06:22:19Z crossley $
 
 
 

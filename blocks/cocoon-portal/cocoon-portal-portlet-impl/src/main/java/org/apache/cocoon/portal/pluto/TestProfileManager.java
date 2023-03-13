@@ -52,7 +52,7 @@ import org.apache.commons.lang.StringUtils;
  * d) The layout for coplets must be named "coplet".
  * e) The renderer for portlets must be named "portlet-window".
  *
- * @version $Id$
+ * @version $Id: TestProfileManager.java 605322 2007-12-18 20:29:29Z cziegeler $
  */
 public class TestProfileManager extends GroupBasedProfileManager {
 

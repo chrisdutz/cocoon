@@ -40,7 +40,7 @@ import org.apache.cocoon.environment.Request;
  * considered to be part of an array of that name for
  * getAttributeValues. Only one "*" is allowed.
  *
- * @version $Id$
+ * @version $Id: SessionAttributeModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class SessionAttributeModule extends AbstractInputModule implements ThreadSafe {
 

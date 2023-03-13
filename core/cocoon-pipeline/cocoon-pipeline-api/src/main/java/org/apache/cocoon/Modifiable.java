@@ -20,7 +20,7 @@ package org.apache.cocoon;
  * This interface is implemented by those classes that change
  * their behavior/results over time (non-ergodic).
  *
- * @version $Id$
+ * @version $Id: Modifiable.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface Modifiable {
 

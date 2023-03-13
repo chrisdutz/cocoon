@@ -29,7 +29,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @version $Id$
+ * @version $Id: JXPathHelper.java 609282 2008-01-06 09:35:48Z rgoers $
  */
 public class JXPathHelper {
 

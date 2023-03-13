@@ -78,7 +78,7 @@ import org.apache.excalibur.source.Source;
  * <tr><td>object     </td><td>Object      </td><td>        </td><td>Object       </td></tr>
  * </table></p>
  *
- * @version $Id$
+ * @version $Id: JDBCTypeConversions.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class JDBCTypeConversions {
     public static final Map typeConstants;

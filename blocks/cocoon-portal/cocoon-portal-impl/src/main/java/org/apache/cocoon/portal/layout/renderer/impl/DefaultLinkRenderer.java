@@ -35,7 +35,7 @@ import org.xml.sax.SAXException;
  *  <li>{@link org.apache.cocoon.portal.om.LinkLayout}</li>
  * </ul>
  *
- * @version $Id$
+ * @version $Id: DefaultLinkRenderer.java 682758 2008-08-05 15:31:50Z cziegeler $
  */
 public class DefaultLinkRenderer
     extends AbstractBean

@@ -33,7 +33,7 @@ import org.apache.maven.plugin.MojoFailureException;
  *
  * @goal clean
  * @requiresProject true
- * @version $Id$
+ * @version $Id: DocsCleanerMojo.java 639173 2008-03-20 06:31:11Z crossley $
  */
 public class DocsCleanerMojo extends AbstractMojo {
 

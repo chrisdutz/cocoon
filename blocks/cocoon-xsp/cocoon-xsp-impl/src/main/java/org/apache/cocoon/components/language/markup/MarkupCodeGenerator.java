@@ -22,7 +22,7 @@ import org.apache.cocoon.xml.AbstractXMLPipe;
 /**
  * This interfaces defines the functionality of a source code generator
  *
- * @version $Id$
+ * @version $Id: MarkupCodeGenerator.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface MarkupCodeGenerator {
 

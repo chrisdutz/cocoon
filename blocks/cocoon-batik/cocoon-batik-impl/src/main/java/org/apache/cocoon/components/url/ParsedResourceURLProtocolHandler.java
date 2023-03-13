@@ -25,7 +25,7 @@ import org.apache.batik.util.ParsedURLData;
  * uses the <code>Thread.getContextClassLoader()</code> classloader to get resources.
  * It is safe to use this URL with multiple Cocoon webapps running.
  *
- * @version $Id$
+ * @version $Id: ParsedResourceURLProtocolHandler.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class ParsedResourceURLProtocolHandler extends AbstractParsedURLProtocolHandler {
 

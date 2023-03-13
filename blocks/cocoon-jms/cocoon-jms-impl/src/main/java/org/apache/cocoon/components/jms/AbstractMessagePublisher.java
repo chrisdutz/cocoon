@@ -28,7 +28,7 @@ import org.springframework.jms.core.MessageCreator;
 /**
  * Abstract JMS message publisher. Use this as a basis for components that want to publish JMS messages.
  * 
- * @version $Id$
+ * @version $Id: AbstractMessagePublisher.java 680957 2008-07-30 10:13:35Z reinhard $
  */
 public abstract class AbstractMessagePublisher extends AbstractLogEnabled {
 

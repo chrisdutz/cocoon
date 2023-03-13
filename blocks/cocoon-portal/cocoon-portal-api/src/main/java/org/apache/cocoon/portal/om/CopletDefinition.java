@@ -32,7 +32,7 @@ import org.apache.commons.lang.StringUtils;
  * as a class. A user can create one or more instances of the coplet
  * ({@link CopletInstance}s).
  *
- * @version $Id$
+ * @version $Id: CopletDefinition.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public final class CopletDefinition {
 

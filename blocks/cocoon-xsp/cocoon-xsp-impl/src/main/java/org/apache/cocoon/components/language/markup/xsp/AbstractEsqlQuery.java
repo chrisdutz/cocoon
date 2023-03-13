@@ -29,7 +29,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
 /**
  * This is base class for all EsqlQueries
  *
- * @version $Id$
+ * @version $Id: AbstractEsqlQuery.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class AbstractEsqlQuery extends AbstractLogEnabled {
 

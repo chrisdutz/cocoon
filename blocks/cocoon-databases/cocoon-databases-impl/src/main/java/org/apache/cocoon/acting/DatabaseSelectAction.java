@@ -40,7 +40,7 @@ import java.util.Map;
  * their values are used to populate request attributes. Otherwise,
  * values from database are used.
  *
- * @version $Id$
+ * @version $Id: DatabaseSelectAction.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class DatabaseSelectAction extends AbstractDatabaseAction implements ThreadSafe {
 

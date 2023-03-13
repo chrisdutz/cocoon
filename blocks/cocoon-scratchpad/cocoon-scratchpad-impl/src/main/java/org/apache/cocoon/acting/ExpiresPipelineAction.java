@@ -38,7 +38,7 @@ import java.util.Map;
  *   Three parameters: cache-role and cache-key (cache-key is required)
  *                   action with value remove (required)
  *
- * @version $Id$
+ * @version $Id: ExpiresPipelineAction.java 587761 2007-10-24 03:08:05Z vgritsenko $
  * @since 2.1.1
  */
 public class ExpiresPipelineAction extends ServiceableAction implements ThreadSafe {

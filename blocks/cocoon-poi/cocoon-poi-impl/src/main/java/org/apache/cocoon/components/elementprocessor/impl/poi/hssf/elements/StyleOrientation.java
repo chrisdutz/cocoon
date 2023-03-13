@@ -27,7 +27,7 @@ import java.io.IOException;
  * integer specifies a particular boolean attribute. This class deals
  * with all that information in an easily digested form.
  *
- * @version $Id$
+ * @version $Id: StyleOrientation.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class StyleOrientation {
     private int _alignment;

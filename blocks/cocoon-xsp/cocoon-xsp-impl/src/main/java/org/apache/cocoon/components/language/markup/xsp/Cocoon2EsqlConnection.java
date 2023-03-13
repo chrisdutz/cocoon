@@ -25,7 +25,7 @@ import java.sql.DriverManager;
 /**
  * This is the Cocoon2 specific part of an AbstractEsqlConnection.
  *
- * @version $Id$
+ * @version $Id: Cocoon2EsqlConnection.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 
 final public class Cocoon2EsqlConnection extends AbstractEsqlConnection {

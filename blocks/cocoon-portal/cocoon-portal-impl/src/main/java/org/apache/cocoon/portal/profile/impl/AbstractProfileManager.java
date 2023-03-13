@@ -44,7 +44,7 @@ import org.springframework.core.Ordered;
 /**
  * Base class for all profile managers.
  *
- * @version $Id$
+ * @version $Id: AbstractProfileManager.java 682758 2008-08-05 15:31:50Z cziegeler $
  */
 public abstract class AbstractProfileManager
     extends AbstractBean

@@ -31,7 +31,7 @@ import org.apache.cocoon.components.sax.XMLByteStreamInterpreter;
  * by specifying the <code>cache-role</code> parameter.
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: BaseCachingProcessingPipeline.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class BaseCachingProcessingPipeline extends AbstractProcessingPipeline
                                                     implements Disposable {

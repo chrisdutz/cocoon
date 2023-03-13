@@ -25,7 +25,7 @@ import org.apache.cocoon.components.treeprocessor.ProcessingNode;
 /**
  * Builds a &lt;map:view&gt;
  *
- * @version $Id$
+ * @version $Id: ViewNodeBuilder.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ViewNodeBuilder extends NamedContainerNodeBuilder {
 

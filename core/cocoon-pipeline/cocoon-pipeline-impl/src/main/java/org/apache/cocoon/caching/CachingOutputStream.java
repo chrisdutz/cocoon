@@ -24,7 +24,7 @@ import java.io.OutputStream;
  * output stream and in addition caches all bytes, thus acting like a
  * TeeOutputStream.
  *
- * @version $Id$
+ * @version $Id: CachingOutputStream.java 651169 2008-04-24 06:37:20Z joerg $
  */
 public final class CachingOutputStream
 extends OutputStream {

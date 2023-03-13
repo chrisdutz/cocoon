@@ -26,7 +26,7 @@ import org.apache.excalibur.source.SourceValidity;
 /**
  * Use event caching strategy, the associated event is the source uri
  * 
- * @version $Id$
+ * @version $Id: EventAwareCachingSourceValidityStrategy.java 638258 2008-03-18 08:15:41Z crossley $
  */
 public class EventAwareCachingSourceValidityStrategy implements CachingSourceValidityStrategy {
 

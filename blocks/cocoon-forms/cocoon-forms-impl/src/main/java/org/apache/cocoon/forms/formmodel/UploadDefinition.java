@@ -23,7 +23,7 @@ import org.apache.cocoon.forms.event.WidgetEventMulticaster;
 /**
  * The definition of an upload widget.
  *
- * @version $Id$
+ * @version $Id: UploadDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class UploadDefinition extends AbstractWidgetDefinition {
     private ValueChangedListener listener;

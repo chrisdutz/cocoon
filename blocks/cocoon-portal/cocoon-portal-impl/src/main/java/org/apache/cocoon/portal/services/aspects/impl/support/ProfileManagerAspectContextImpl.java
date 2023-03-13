@@ -30,7 +30,7 @@ import org.apache.cocoon.portal.services.aspects.support.BasicAspectContextImpl;
  * The aspect context is passed to every aspect.
  * @since 2.2
  *
- * @version $Id$
+ * @version $Id: ProfileManagerAspectContextImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public final class ProfileManagerAspectContextImpl
     extends BasicAspectContextImpl

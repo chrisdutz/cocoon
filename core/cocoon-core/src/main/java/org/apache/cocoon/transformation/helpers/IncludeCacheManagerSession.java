@@ -40,7 +40,7 @@ import org.apache.excalibur.source.impl.validity.ExpiresValidity;
  * - parallel (boolean/false) : Turn on/off parallel processing
  * - expires (long/0) : The lifetime of the cached content
  * 
- *  @version $Id$
+ *  @version $Id: IncludeCacheManagerSession.java 587750 2007-10-24 02:35:22Z vgritsenko $
  *  @since   2.1
  */
 public final class IncludeCacheManagerSession {

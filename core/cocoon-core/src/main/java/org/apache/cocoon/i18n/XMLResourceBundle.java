@@ -62,7 +62,7 @@ import org.xml.sax.SAXException;
  * <p>
  * If value for a key is not present in this bundle, parent bundle will be queried.
  *
- * @version $Id$
+ * @version $Id: XMLResourceBundle.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class XMLResourceBundle extends AbstractLogEnabled
                                implements Bundle {

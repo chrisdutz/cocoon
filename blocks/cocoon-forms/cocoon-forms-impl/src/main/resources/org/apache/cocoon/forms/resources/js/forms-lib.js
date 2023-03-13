@@ -25,7 +25,7 @@
  * This file has dependencies on cocoon.forms.common
  *    /_cocoon/resources/forms/js/common.js
  *
- * @version $Id$
+ * @version $Id: forms-lib.js 498331 2007-01-21 14:53:06Z bruno $
  */
 
 

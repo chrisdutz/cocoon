@@ -21,7 +21,7 @@
  * To add a new handler for a given request, create a new BUHandler and update its
  * handlers property.
  *
- * @version $Id$
+ * @version $Id: BUHandler.js 491930 2007-01-02 20:44:30Z jeremy $
  */
 
 dojo.provide("cocoon.ajax.BUHandler");

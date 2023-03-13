@@ -20,7 +20,7 @@ import org.w3c.dom.Element;
 
 /**
  * Common interface for {@link org.apache.cocoon.forms.formmodel.CalculatedFieldAlgorithm} builders.
- * @version $Id$
+ * @version $Id: CalculatedFieldAlgorithmBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface CalculatedFieldAlgorithmBuilder {
 

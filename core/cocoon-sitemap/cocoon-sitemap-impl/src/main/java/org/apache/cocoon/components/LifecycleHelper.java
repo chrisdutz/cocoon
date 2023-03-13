@@ -38,7 +38,7 @@ import org.apache.cocoon.util.avalon.CLLoggerWrapper;
  * <code>DefaultComponentFactory</code>, but on existing objects.
  * <p>
  * @deprecated
- * @version $Id$
+ * @version $Id: LifecycleHelper.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class LifecycleHelper {
 

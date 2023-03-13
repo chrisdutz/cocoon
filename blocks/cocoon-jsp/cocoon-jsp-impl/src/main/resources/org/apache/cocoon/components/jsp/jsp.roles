@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- $Id$ -->
+<!-- $Id: jsp.roles 449160 2006-09-23 05:08:49Z crossley $ -->
 <role-list>
   <role name="org.apache.cocoon.components.jsp.JSPEngine"
         shorthand="jsp-engine"

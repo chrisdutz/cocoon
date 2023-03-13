@@ -53,7 +53,7 @@ import org.apache.cocoon.environment.Cookie;
  * created using Version 0 to ensure the best interoperability.
  *
  *
- * @version $Id$
+ * @version $Id: HttpCookie.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * 
  * @deprecated use {@link javax.servlet.http.Cookie} instead.
  */

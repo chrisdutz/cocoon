@@ -77,7 +77,7 @@ import org.apache.wsrp4j.util.ParameterChecker;
 /**
  * This class implements a portlet driver.
  *
- * @version $Id$
+ * @version $Id: PortletDriverImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortletDriverImpl
     extends AbstractLogEnabled

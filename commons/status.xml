@@ -60,7 +60,7 @@
 <!ENTITY ccedil           "&#x000E7;">
 ]>
 
-<!-- @version $Id$ -->
+<!-- @version $Id: status.xml 453749 2006-10-06 20:20:27Z jbq $ -->
 
 <status>
  <developers>

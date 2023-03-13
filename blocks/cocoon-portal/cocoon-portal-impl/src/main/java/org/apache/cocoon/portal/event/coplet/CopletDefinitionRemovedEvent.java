@@ -21,7 +21,7 @@ import org.apache.cocoon.portal.om.CopletDefinition;
 /**
  * This event is fired when a coplet definition is removed.
  *
- * @version $Id$
+ * @version $Id: CopletDefinitionRemovedEvent.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class CopletDefinitionRemovedEvent
     extends AbstractCopletDefinitionEvent {

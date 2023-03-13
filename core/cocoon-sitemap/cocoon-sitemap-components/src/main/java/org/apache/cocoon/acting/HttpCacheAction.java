@@ -84,7 +84,7 @@ import java.util.Map;
  * This action adds the <code>Last-Modified</code>, <code>Expires</code> and
  * <code>Cache-Control</code> HTTP headers to the response.
  *
- * @version $Id$
+ * @version $Id: HttpCacheAction.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class HttpCacheAction extends AbstractConfigurableAction implements ThreadSafe {
 

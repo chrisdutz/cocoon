@@ -23,7 +23,7 @@ import java.util.Map;
  * get method accpeting a default value. The default value is returned if
  * the map does not contain a value for the provided key.
  *
- * @version $Id$
+ * @version $Id: HashMap.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class HashMap extends java.util.HashMap {
 

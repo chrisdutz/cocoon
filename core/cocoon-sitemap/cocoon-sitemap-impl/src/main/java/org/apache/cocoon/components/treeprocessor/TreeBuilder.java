@@ -24,7 +24,7 @@ import org.springframework.web.context.WebApplicationContext;
 
 /**
  *
- * @version $Id$
+ * @version $Id: TreeBuilder.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface TreeBuilder {
 

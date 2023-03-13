@@ -30,7 +30,7 @@ import org.apache.cocoon.environment.Environment;
  * Handler for &lt;map:flow&gt; element in the sitemap.
  *
  * @since September 13, 2002
- * @version $Id$
+ * @version $Id: FlowNode.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class FlowNode extends AbstractProcessingNode
                       implements Serviceable, Disposable {

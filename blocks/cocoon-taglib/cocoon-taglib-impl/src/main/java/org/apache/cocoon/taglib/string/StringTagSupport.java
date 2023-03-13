@@ -19,7 +19,7 @@ package org.apache.cocoon.taglib.string;
 import org.xml.sax.SAXException;
 
 /**
- * @version $Id$
+ * @version $Id: StringTagSupport.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class StringTagSupport extends TextRecordingTag {
     /** 

@@ -18,7 +18,7 @@
 
 <!--+
     | Simple XSP example.
-    | $Id$
+    | $Id: simple.xsp 449196 2006-09-23 07:09:48Z crossley $
     +-->
 <xsp:page language="java"
           xmlns:xsp="http://apache.org/xsp"

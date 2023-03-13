@@ -19,7 +19,7 @@
 <!--+
     | CForms aggegate sample form definition file.
     |
-    | @version $Id$
+    | @version $Id: form.xml 566578 2007-08-16 08:57:50Z felixk $
     +-->
 
 <fd:form xmlns:fd="http://apache.org/cocoon/forms/1.0#definition">

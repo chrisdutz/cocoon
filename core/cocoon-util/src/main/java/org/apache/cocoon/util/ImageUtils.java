@@ -23,7 +23,7 @@ import java.io.BufferedInputStream;
 import java.io.FileInputStream;
 
 /**
- * @version $Id$
+ * @version $Id: ImageUtils.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 final public class ImageUtils {
 

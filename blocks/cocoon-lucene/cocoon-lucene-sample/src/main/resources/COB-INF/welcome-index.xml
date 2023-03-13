@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- @version $Id$ -->
+<!-- @version $Id: welcome-index.xml 554248 2007-07-07 20:03:19Z felixk $ -->
 <page>
     <title>Welcome to Cocoon XML Search using Lucene</title>
     <content>

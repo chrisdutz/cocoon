@@ -32,7 +32,7 @@ import org.xml.sax.SAXException;
 /**
  * This class contains some utility methods for the source resolving.
  *
- * @version $Id$
+ * @version $Id: SourceUtil.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public abstract class SourceUtil extends org.apache.cocoon.components.source.util.SourceUtil{
 

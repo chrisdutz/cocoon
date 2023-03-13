@@ -21,7 +21,7 @@ import org.apache.cocoon.environment.Environment;
 /**
  * A no-op node to stub not yet implemented features.
  *
- * @version $Id$
+ * @version $Id: NullNode.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class NullNode extends AbstractProcessingNode {
 

@@ -43,7 +43,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * <code>ServerPagesGenerator</code> programs
  * written in Python language
  *
- * @version $Id$
+ * @version $Id: PythonGenerator.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class PythonGenerator extends XSPGenerator
         implements Configurable, Initializable {

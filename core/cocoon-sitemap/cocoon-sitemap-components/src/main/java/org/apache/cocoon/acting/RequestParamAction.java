@@ -83,7 +83,7 @@ import org.apache.cocoon.environment.SourceResolver;
  * This action makes some request details available to the sitemap via parameter
  * substitution.
  *
- * @version $Id$
+ * @version $Id: RequestParamAction.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class RequestParamAction extends ServiceableAction implements ThreadSafe {
 

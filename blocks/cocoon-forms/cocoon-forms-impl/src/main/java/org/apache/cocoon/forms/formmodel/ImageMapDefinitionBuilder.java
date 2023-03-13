@@ -26,7 +26,7 @@ import org.w3c.dom.Element;
 /**
  * Builds {@link ImageMapDefinition}s.
  *
- * @version $Id$
+ * @version $Id: ImageMapDefinitionBuilder.java 615336 2008-01-25 20:48:44Z vgritsenko $
  * @since 2.1.8
  */
 public class ImageMapDefinitionBuilder extends AbstractWidgetDefinitionBuilder {

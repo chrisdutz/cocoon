@@ -35,7 +35,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * It cannot be used like other source factories
  * as it needs the current <code>Sitemap</code> as input.
  *
- * @version $Id$
+ * @version $Id: SitemapSourceFactory.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public final class SitemapSourceFactory extends AbstractLogEnabled
                                         implements SourceFactory, ThreadSafe, Serviceable,

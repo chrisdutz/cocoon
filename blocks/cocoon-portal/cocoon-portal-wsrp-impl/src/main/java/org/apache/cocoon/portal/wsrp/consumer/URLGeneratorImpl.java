@@ -30,7 +30,7 @@ import org.apache.wsrp4j.util.Constants;
  * Implements the URLGenerator interface providing methods
  * to query the consumer's urls.
  *
- * @version $Id$
+ * @version $Id: URLGeneratorImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class URLGeneratorImpl
     implements URLGenerator, RequiresPortalService, RequiresWSRPAdapter {

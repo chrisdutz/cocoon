@@ -21,7 +21,7 @@ import java.util.Iterator;
 import org.apache.cocoon.el.objectmodel.ObjectModel;
 
 /**
- * @version $Id$
+ * @version $Id: Expression.java 605958 2007-12-20 15:13:11Z vgritsenko $
  */
 public interface Expression {
 

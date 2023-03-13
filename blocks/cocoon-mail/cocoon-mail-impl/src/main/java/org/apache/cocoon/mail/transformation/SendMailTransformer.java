@@ -203,7 +203,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * server and delivers furthermore a status report of each sent mail.
  * @cocoon.sitemap.component.documentation.caching No
  *
- * @version $Id$
+ * @version $Id: SendMailTransformer.java 688851 2008-08-25 19:46:24Z jasha $
  */
 public class SendMailTransformer extends AbstractSAXTransformer {
 

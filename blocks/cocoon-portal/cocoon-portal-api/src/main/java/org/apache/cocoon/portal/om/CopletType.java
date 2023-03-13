@@ -30,7 +30,7 @@ import org.apache.cocoon.portal.util.PortalUtils;
  *
  * Based on the coplet type, coplets are created ({@link CopletDefinition}.
  *
- * @version $Id$
+ * @version $Id: CopletType.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public final class CopletType {
 

@@ -24,7 +24,7 @@ import org.apache.cocoon.forms.event.WidgetEventMulticaster;
  * The {@link WidgetDefinition} part of an ImageMap widget, see {@link ImageMap}
  * for more information.
  *
- * @version $Id$
+ * @version $Id: ImageMapDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  * @since 2.1.8
  */
 public class ImageMapDefinition extends AbstractWidgetDefinition {

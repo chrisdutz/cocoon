@@ -25,7 +25,7 @@
            excalibur-store has been release we can switch back to the original
            org.apache.excalibur.store.impl.StoreJanitorImpl class
 
-     $Id$
+     $Id: cocoon-store-impl-janitor.xml 689429 2008-08-27 09:56:12Z thorsten $
 -->
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"

@@ -22,7 +22,7 @@ import org.apache.cocoon.components.pipeline.ProcessingPipeline;
  * Interface providing error handling capabilities to the pipeline
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: SitemapErrorHandler.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface SitemapErrorHandler {
 

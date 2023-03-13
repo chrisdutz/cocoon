@@ -34,7 +34,7 @@ import org.mozilla.javascript.Wrapper;
 import java.util.Collection;
 
 /**
- * @version $Id$
+ * @version $Id: ScriptableWidget.java 587759 2007-10-24 03:00:37Z vgritsenko $
  * 
  */
 public class ScriptableWidget extends ScriptableObject {

@@ -21,7 +21,7 @@ import org.apache.slide.common.NamespaceAccessToken;
 /**
  * This interface represents a repository from a CMS.
  *
- * @version $Id$
+ * @version $Id: SlideRepository.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface SlideRepository {
 

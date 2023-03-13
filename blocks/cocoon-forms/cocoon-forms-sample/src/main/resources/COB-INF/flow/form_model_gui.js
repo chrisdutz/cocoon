@@ -16,7 +16,7 @@
 */
 
 /*
-* @version $Id$
+* @version $Id: form_model_gui.js 534153 2007-05-01 16:49:43Z gkossakowski $
 */
 
 cocoon.load("servlet:forms:/resource/internal/flow/javascript/Form.js");

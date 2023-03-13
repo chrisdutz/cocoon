@@ -19,7 +19,7 @@ package org.apache.cocoon.components.treeprocessor;
 import org.apache.cocoon.environment.Environment;
 
 /**
- * @version $Id$
+ * @version $Id: SimpleParentProcessingNode.java 606648 2007-12-24 01:02:54Z vgritsenko $
  */
 public abstract class SimpleParentProcessingNode extends AbstractParentProcessingNode {
 

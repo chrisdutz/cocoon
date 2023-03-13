@@ -22,7 +22,7 @@ import java.util.Map;
 
 /**
  *
- * @version $Id$
+ * @version $Id: AbstractParentProcessingNode.java 606541 2007-12-23 05:46:20Z vgritsenko $
  */
 public abstract class AbstractParentProcessingNode extends AbstractProcessingNode {
 

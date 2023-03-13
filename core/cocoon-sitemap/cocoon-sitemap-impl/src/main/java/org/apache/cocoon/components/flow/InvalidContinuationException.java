@@ -21,7 +21,7 @@ import org.apache.cocoon.ProcessingException;
 /**
  * This Exception is thrown whenever an invalid continuation is given.
  *
- * @version $Id$
+ * @version $Id: InvalidContinuationException.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class InvalidContinuationException extends ProcessingException {
 

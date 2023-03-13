@@ -34,7 +34,7 @@ import java.util.Map;
  * value of src attribute.
  *
  * @author <a href="mailto:vgritsenko@apache.org">Vadim Gritsenko</a>
- * @version $Id$
+ * @version $Id: ExceptionAction.java 433543 2006-08-22 06:22:54Z crossley $
  */
 public class ExceptionAction extends AbstractAction {
 

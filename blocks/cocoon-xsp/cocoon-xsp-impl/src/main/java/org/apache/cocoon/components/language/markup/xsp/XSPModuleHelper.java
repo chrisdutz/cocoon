@@ -32,7 +32,7 @@ import java.util.Map;
  * logicsheet. References are obtained the first time a module is
  * accessed and kept until the page is completely displayed.
  *
- * @version $Id$
+ * @version $Id: XSPModuleHelper.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class XSPModuleHelper extends InputModuleHelper {
 

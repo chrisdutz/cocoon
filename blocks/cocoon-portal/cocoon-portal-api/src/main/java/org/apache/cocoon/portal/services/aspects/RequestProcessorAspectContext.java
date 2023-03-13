@@ -19,7 +19,7 @@ package org.apache.cocoon.portal.services.aspects;
 /**
  * The context for a {@link RequestProcessorAspect}.
  *
- * @version $Id$
+ * @version $Id: RequestProcessorAspectContext.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface RequestProcessorAspectContext
     extends BasicAspectContext {

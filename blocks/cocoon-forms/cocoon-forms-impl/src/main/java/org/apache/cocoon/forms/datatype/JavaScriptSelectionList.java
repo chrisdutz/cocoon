@@ -40,7 +40,7 @@ import org.xml.sax.SAXException;
  * A {@link FilterableSelectionList} based on a JavaScript snippet.
  * 
  * @since 2.1.9
- * @version $Id$
+ * @version $Id: JavaScriptSelectionList.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JavaScriptSelectionList implements FilterableSelectionList, Locatable {
 

@@ -32,7 +32,7 @@ import org.xml.sax.helpers.DefaultHandler;
  * If you want to reuse this interpreter make sure to call first {@link #recycle()}
  * and then set the new consumer for the sax events.
  *
- * @version $Id$
+ * @version $Id: AbstractXMLByteStreamInterpreter.java 628434 2008-02-17 06:48:17Z antonio $
  */
 public abstract class AbstractXMLByteStreamInterpreter implements XMLProducer, XMLByteStreamConstants {
 

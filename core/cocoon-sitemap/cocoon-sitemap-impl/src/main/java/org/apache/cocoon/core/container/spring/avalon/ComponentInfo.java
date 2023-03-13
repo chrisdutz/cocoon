@@ -35,7 +35,7 @@ import org.apache.avalon.framework.parameters.Parameters;
  *                  model "primitive" will be used.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: ComponentInfo.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public final class ComponentInfo {
 

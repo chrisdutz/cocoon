@@ -54,7 +54,7 @@ import org.apache.cocoon.portlet.multipart.RequestFactory;
 /**
  * This is the entry point for Cocoon execution as an JSR-168 Portlet.
  *
- * @version $Id$
+ * @version $Id: CocoonPortlet.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class CocoonPortlet extends GenericPortlet {
 

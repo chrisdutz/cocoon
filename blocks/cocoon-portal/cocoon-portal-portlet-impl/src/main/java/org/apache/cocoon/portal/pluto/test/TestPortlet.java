@@ -36,7 +36,7 @@ import javax.portlet.PortletPreferences;
 /**
  * This is a very simple test portlet.
  *
- * @version $Id$
+ * @version $Id: TestPortlet.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class TestPortlet implements Portlet  {
 

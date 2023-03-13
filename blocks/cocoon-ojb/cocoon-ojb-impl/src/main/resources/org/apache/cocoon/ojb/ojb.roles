@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!-- $Id$ -->
+<!-- $Id: ojb.roles 449170 2006-09-23 05:36:36Z crossley $ -->
 <role-list>
   <role name="org.apache.cocoon.ojb.odmg.components.ODMG"
         shorthand="ojb-odmg"

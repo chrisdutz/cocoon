@@ -32,7 +32,7 @@ import org.apache.cocoon.environment.ObjectModelHelper;
 /**
  * Input module for cookies. Retrieves the value of the requested cookie.
  * 
- * @version $Id$
+ * @version $Id: CookieModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class CookieModule extends AbstractInputModule implements ThreadSafe {
     

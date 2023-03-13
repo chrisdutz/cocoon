@@ -26,7 +26,7 @@ import java.util.Date;
  * - the user password
  * - the retry count
  * - an expires date
- * @version $Id$
+ * @version $Id: UserInfo.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public class UserInfo {
 

@@ -27,7 +27,7 @@ import org.apache.cocoon.forms.validation.WidgetValidator;
  * An adapter to transform a {@link org.apache.cocoon.forms.datatype.ValidationRule} into a
  * {@link org.apache.cocoon.forms.validation.WidgetValidator}.
  * 
- * @version $Id$
+ * @version $Id: ValidationRuleValidator.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class ValidationRuleValidator implements WidgetValidator {
     

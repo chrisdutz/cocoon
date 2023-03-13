@@ -25,7 +25,7 @@ import java.util.Iterator;
  * identifier (per {@link org.apache.cocoon.auth.SecurityHandler}).
  * For session replication, the implementation should be {@link java.io.Serializable}.
  *
- * @version $Id$
+ * @version $Id: User.java 587757 2007-10-24 02:52:49Z vgritsenko $
 */
 public interface User {
 

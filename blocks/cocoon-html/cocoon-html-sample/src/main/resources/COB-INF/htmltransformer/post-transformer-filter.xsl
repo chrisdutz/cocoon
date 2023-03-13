@@ -19,7 +19,7 @@
 <!--
   Filter the output of the HTMLTransformer
   
-  CVS $Id$
+  CVS $Id: post-transformer-filter.xsl 448880 2006-09-22 09:51:10Z crossley $
 -->
 
 <xsl:transform

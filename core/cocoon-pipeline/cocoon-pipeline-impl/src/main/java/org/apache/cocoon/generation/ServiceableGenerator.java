@@ -24,7 +24,7 @@ import org.apache.avalon.framework.service.Serviceable;
 /**
  * A default implementation that can be used for writing own generators.
  *  
- * @version $Id$
+ * @version $Id: ServiceableGenerator.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.1.1
  */
 public abstract class ServiceableGenerator extends AbstractGenerator

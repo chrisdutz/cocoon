@@ -26,7 +26,7 @@ import org.xml.sax.SAXException;
  * primarily to build suggestion lists.
  * 
  * @since 2.1.9
- * @version $Id$
+ * @version $Id: FilterableSelectionList.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface FilterableSelectionList extends SelectionList {
     

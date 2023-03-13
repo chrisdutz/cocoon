@@ -62,7 +62,7 @@ import java.util.StringTokenizer;
  * @cocoon.sitemap.component.name   role-filter
  * @cocoon.sitemap.component.documentation.caching No
  *
- * @version $Id$
+ * @version $Id: RoleFilterTransformer.java 605605 2007-12-19 16:19:51Z vgritsenko $
  */
 public class RoleFilterTransformer extends AbstractTransformer
                                    implements CacheableProcessingComponent {

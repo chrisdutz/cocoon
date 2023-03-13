@@ -56,7 +56,7 @@ import org.xml.sax.SAXException;
  * therefore be used only if really needed (it's better to have clean XSP pages that don't
  * break abruptly generation flow).
  *
- * @version $Id$
+ * @version $Id: ServerPagesGenerator.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ServerPagesGenerator extends ServletGenerator
                                   implements CacheableProcessingComponent, Configurable {

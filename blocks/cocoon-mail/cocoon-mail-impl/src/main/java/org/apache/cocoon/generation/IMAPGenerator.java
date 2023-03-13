@@ -56,7 +56,7 @@ import java.util.Properties;
  * @cocoon.sitemap.component.documentation
  * Generates an XML listing of messages from an IMAP mail server.
  *
- * @version $Id$
+ * @version $Id: IMAPGenerator.java 607381 2007-12-29 05:42:58Z vgritsenko $
  */
 public class IMAPGenerator extends AbstractGenerator {
 

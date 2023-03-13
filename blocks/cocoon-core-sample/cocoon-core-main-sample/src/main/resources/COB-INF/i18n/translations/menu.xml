@@ -19,7 +19,7 @@
 <!--+
     | Default (English) message catalogue file for menu in Cocoon 2 i18n sample
     |
-    | $Id$
+    | $Id: menu.xml 448813 2006-09-22 04:45:31Z crossley $
     +-->
 <catalogue xml:lang="en">
     <message key="Apache Cocoon i18n Samples">Apache Cocoon i18n Samples</message>

@@ -42,7 +42,7 @@ package org.apache.cocoon.portal.event;
  * All configured components implementing the receiver interface are automatically
  * registered as event subscribers.
  *
- * @version $Id$
+ * @version $Id: Receiver.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface Receiver {
 

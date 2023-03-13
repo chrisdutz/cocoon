@@ -52,7 +52,7 @@ import org.apache.cocoon.util.ImageUtils;
  * Add a record in a database.  This Action assumes that there is
  * only one table at a time to update.
  *
- * @version $Id$
+ * @version $Id: OraAddAction.java 591580 2007-11-03 10:47:48Z felixk $
  */
 public class OraAddAction extends DatabaseAddAction {
     private static final Map selectLOBStatements = new HashMap();

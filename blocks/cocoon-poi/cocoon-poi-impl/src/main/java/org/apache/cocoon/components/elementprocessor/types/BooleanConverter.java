@@ -22,7 +22,7 @@ import java.io.IOException;
  * This class knows how to convert strings into numbers, and also
  * knows how to check the results against certain criteria
  *
- * @version $Id$
+ * @version $Id: BooleanConverter.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class BooleanConverter
 {

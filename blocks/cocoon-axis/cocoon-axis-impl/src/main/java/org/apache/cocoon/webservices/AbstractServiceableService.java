@@ -35,7 +35,7 @@ import org.apache.cocoon.components.axis.providers.AvalonProvider;
  *  the AvalonProvider support built into Axis itself.
  * </p>
  *
- * @version $Id$
+ * @version $Id: AbstractServiceableService.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public abstract class AbstractServiceableService
         extends AbstractLogEnabledService

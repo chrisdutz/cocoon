@@ -28,7 +28,7 @@ import java.util.Set;
 /**
  * A singleton-like implementation of <code>ClassLoaderManager</code>
  *
- * @version $Id$
+ * @version $Id: ClassLoaderManagerImpl.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ClassLoaderManagerImpl implements ClassLoaderManager, ThreadSafe, Disposable {
 

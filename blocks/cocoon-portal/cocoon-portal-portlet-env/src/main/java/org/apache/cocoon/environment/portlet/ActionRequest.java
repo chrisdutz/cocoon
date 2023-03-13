@@ -24,7 +24,7 @@ import java.io.InputStream;
  * Implements the {@link org.apache.cocoon.environment.Request} interface for the
  * JSR-168 (Portlet) environment.
  *
- * @version $Id$
+ * @version $Id: ActionRequest.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public final class ActionRequest extends PortletRequest {
 

@@ -22,7 +22,7 @@ import org.apache.cocoon.forms.formmodel.Widget;
  * Currently this event originates from a {@link org.apache.cocoon.forms.formmodel.Action Button}
  * widget.
  * 
- * @version $Id$
+ * @version $Id: ActionEvent.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class ActionEvent extends WidgetEvent {
     String actionCommand;

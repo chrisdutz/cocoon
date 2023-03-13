@@ -27,7 +27,7 @@ import java.util.Enumeration;
  * Implements the {@link org.apache.cocoon.environment.Context} interface
  * for the JSR-168 (Portlet) environment.
  *
- * @version $Id$
+ * @version $Id: PortletContext.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public final class PortletContext extends AbstractContext {
 

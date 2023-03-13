@@ -44,7 +44,7 @@ import com.ibm.icu.text.SimpleDateFormat;
  * <p>Date parsing can be configured to be lenient or not by specifying a <code>lenient</code>
  * boolean attribute. By default, parsing is lenient.
  *
- * @version $Id$
+ * @version $Id: Icu4jDateConvertor.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class Icu4jDateConvertor implements Convertor {
     //FIXME: the only difference of this class with FormattingDateConvertor is the use of com.ibm.icu.text.SimpleDateFormat

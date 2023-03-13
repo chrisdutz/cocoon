@@ -42,7 +42,7 @@ import org.springframework.web.context.WebApplicationContext;
 
 /**
  *
- * @version $Id$
+ * @version $Id: SitemapHelper.java 588388 2007-10-25 23:23:26Z vgritsenko $
  * @since 2.2
  */
 public class SitemapHelper {

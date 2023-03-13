@@ -75,7 +75,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * to parse the Java sourcefiles.
  * </p>
  * 
- * @version $Id$
+ * @version $Id: QDoxSourceFactory.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public final class QDoxSourceFactory extends AbstractLogEnabled
                                      implements SourceFactory, Serviceable, Configurable,

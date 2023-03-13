@@ -65,7 +65,7 @@ import org.xml.sax.SAXException;
  * </events>
  * </bookmarks>
  *
- * @version $Id$
+ * @version $Id: BookmarkAction.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class BookmarkAction
     extends AbstractPortalAction

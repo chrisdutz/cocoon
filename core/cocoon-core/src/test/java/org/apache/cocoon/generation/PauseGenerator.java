@@ -40,7 +40,7 @@ import org.xml.sax.SAXException;
  * @cocoon.sitemap.component.documentation.caching No
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: PauseGenerator.java 607380 2007-12-29 05:39:06Z vgritsenko $
  */
 public class PauseGenerator extends FileGenerator {
 

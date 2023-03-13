@@ -25,7 +25,7 @@ import java.util.Map;
 /**
  * This class represents a file part parsed from a http post stream.
  *
- * @version $Id$
+ * @version $Id: PartOnDisk.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class PartOnDisk extends Part {
 

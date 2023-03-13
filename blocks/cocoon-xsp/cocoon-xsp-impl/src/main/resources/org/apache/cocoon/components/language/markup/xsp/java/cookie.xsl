@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!-- $Id$-->
+<!-- $Id: cookie.xsl 449196 2006-09-23 07:09:48Z crossley $-->
 <!--
  * Logicsheet is intended to be used for setting and extracting
  * cookies

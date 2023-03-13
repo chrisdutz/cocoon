@@ -44,7 +44,7 @@ import java.util.Map;
  * Matches against a wildcard expression. Needs an input module to
  * obtain value to match against.
  *
- * @version $Id$
+ * @version $Id: WildcardMatcher.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class WildcardMatcher extends AbstractWildcardMatcher
                              implements Configurable, Serviceable {

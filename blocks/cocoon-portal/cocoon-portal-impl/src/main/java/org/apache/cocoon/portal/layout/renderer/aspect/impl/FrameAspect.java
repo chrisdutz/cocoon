@@ -38,7 +38,7 @@ import org.xml.sax.SAXException;
  *  <li>{@link org.apache.cocoon.portal.om.FrameLayout}</li>
  * </ul>
  *
- * @version $Id$
+ * @version $Id: FrameAspect.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class FrameAspect extends AbstractCIncludeAspect {
 

@@ -26,7 +26,7 @@ import org.apache.excalibur.source.SourceFactory;
 /**
  * A factory for 'empty:' sources (see {@link EmptySource}).
  *
- * @version $Id$
+ * @version $Id: EmptySourceFactory.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.1.8
  */
 public class EmptySourceFactory implements SourceFactory, ThreadSafe {

@@ -46,7 +46,7 @@ import org.apache.excalibur.source.URIAbsolutizer;
  * from the Excalibur project.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: CocoonSourceResolver.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class CocoonSourceResolver extends AbstractLogEnabled
                                   implements SourceResolver, Contextualizable, Serviceable, Disposable,

@@ -30,7 +30,7 @@ import org.mozilla.javascript.Function;
 /**
  * Javascript calculated field algorithm.
  * @see org.apache.cocoon.forms.formmodel.algorithms.JavaScriptBuilder
- * @version $Id$
+ * @version $Id: JavaScript.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JavaScript implements CalculatedFieldAlgorithm {
 

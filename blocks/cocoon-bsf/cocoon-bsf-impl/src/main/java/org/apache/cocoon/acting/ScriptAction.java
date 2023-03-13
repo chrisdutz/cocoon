@@ -36,7 +36,7 @@ import java.util.Map;
 /**
  * A simple action that executes any script that can be run by the BSF
  *
- * @version $Id$
+ * @version $Id: ScriptAction.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class ScriptAction
     extends ServiceableAction

@@ -56,7 +56,7 @@ import org.apache.cocoon.environment.SourceResolver;
  * This action simply checks to see if a given request parameter
  * exists.
  *
- * @version $Id$
+ * @version $Id: RequestParameterExistsAction.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class RequestParameterExistsAction extends AbstractConfigurableAction implements ThreadSafe
 {

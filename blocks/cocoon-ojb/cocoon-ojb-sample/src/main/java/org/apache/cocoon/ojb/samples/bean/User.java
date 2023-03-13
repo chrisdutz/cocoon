@@ -17,7 +17,7 @@
 package org.apache.cocoon.ojb.samples.bean;
 
 /**
- * @version $Id$
+ * @version $Id: User.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class User {
 	

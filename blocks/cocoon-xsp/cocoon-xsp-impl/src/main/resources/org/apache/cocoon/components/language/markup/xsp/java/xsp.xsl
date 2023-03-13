@@ -19,7 +19,7 @@
 <!--
   - XSP Core logicsheet for the Java language
   -
-  - @version $Id$
+  - @version $Id: xsp.xsl 449196 2006-09-23 07:09:48Z crossley $
   -->
 
 <xsl:stylesheet version="1.0"

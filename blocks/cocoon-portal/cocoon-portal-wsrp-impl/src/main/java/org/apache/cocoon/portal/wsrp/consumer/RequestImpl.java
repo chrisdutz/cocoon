@@ -27,7 +27,7 @@ import oasis.names.tc.wsrp.v1.types.NamedString;
  * This class implements the Request interface and used by 
  * the swing consumer to store request related information. 
  * 
- * @version $Id$
+ * @version $Id: RequestImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class RequestImpl implements Request {
 

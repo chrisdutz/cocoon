@@ -23,7 +23,7 @@ package org.apache.cocoon.components.elementprocessor;
  * numbers formatted according to different locales in the &lt;Cell&gt; tags.
  * However, the ESQL generator for instance will generate them no other way.
  * 
- * @version $Id$
+ * @version $Id: LocaleAware.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface LocaleAware {
 

@@ -34,7 +34,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
 /**
  * Abstract class to add basic methods for flow handling.
  * 
- * @version $Id$
+ * @version $Id: AbstractContinuable.java 642841 2008-03-30 23:46:15Z joerg $
  */
 public abstract class AbstractContinuable extends AbstractLogEnabled {
 

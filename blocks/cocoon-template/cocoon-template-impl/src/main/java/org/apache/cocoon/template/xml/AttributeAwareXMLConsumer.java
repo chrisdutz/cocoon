@@ -20,7 +20,7 @@ import org.apache.cocoon.xml.XMLConsumer;
 import org.xml.sax.SAXException;
 
 /**
- * @version $Id$
+ * @version $Id: AttributeAwareXMLConsumer.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface AttributeAwareXMLConsumer extends XMLConsumer {
     

@@ -19,7 +19,7 @@
 <!--+
     | XSP Logger logicsheet for the Java language
     |
-    | @version $Id$
+    | @version $Id: log.xsl 586258 2007-10-19 04:19:27Z vgritsenko $
     +-->
 <xsl:stylesheet version="1.0"
                 xmlns:xsp="http://apache.org/xsp"

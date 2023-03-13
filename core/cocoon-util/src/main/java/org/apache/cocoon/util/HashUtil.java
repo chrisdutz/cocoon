@@ -23,7 +23,7 @@ package org.apache.cocoon.util;
  * BuzHash is Copyright (c)1996 Robert Uzgalis, All Rights Reserved.
  * Used with kind permission of the author
  *
- * @version $Id$
+ * @version $Id: HashUtil.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public final class HashUtil {
 

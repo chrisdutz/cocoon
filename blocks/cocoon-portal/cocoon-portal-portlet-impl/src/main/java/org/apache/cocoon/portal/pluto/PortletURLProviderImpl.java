@@ -41,7 +41,7 @@ import org.apache.pluto.services.information.PortletURLProvider;
 /**
  * Create the URL for a portlet.
  *
- * @version $Id$
+ * @version $Id: PortletURLProviderImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortletURLProviderImpl 
        implements PortletURLProvider, CopletInstanceEvent, ConvertableEvent {

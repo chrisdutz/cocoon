@@ -22,7 +22,7 @@ import org.apache.cocoon.portal.PortalService;
  * This interface marks a component if the component needs a reference to the
  * portal service.
  *
- * @version $Id$
+ * @version $Id: RequiresPortalService.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public interface RequiresPortalService {
 

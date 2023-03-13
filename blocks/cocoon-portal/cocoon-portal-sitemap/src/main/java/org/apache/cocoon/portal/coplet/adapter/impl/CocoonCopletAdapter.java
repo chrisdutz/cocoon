@@ -39,7 +39,7 @@ import org.xml.sax.SAXException;
 /**
  * This is the adapter to use pipelines as coplets.
  *
- * @version $Id$
+ * @version $Id: CocoonCopletAdapter.java 614299 2008-01-22 19:46:21Z cziegeler $
  */
 public class CocoonCopletAdapter
     extends AbstractCopletAdapter {

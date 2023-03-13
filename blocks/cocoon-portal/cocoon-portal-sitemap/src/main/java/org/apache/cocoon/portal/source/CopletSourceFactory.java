@@ -30,7 +30,7 @@ import org.apache.excalibur.source.SourceFactory;
 /**
  * The source factory for the coplet sources.
  *
- * @version $Id$
+ * @version $Id: CopletSourceFactory.java 633260 2008-03-03 20:21:05Z cziegeler $
  */
 public class CopletSourceFactory
     extends AbstractComponent

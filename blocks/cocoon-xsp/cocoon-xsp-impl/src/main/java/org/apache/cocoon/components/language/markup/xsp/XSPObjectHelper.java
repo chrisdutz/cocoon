@@ -31,7 +31,7 @@ import org.xml.sax.helpers.AttributesImpl;
 /**
  * Base class for XSP's object model manipulation logicsheets
  *
- * @version $Id$
+ * @version $Id: XSPObjectHelper.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class XSPObjectHelper {
 

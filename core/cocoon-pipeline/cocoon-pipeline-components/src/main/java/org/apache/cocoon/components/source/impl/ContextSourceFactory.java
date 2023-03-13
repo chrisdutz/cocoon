@@ -49,7 +49,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * (see {@link org.apache.cocoon.environment.Context#getResource(String)}) 
  * and then resolving this real URL.
  *
- * @version $Id$
+ * @version $Id: ContextSourceFactory.java 606174 2007-12-21 12:27:53Z vgritsenko $
  */
 public class ContextSourceFactory extends AbstractLogEnabled
                                   implements SourceFactory, Serviceable, Contextualizable,

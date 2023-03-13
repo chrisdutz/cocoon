@@ -51,7 +51,7 @@ import org.w3c.dom.Element;
  * &lt;/fb:repeater&gt;
  * </code></pre>
  *
- * @version $Id$
+ * @version $Id: RepeaterJXPathBindingBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class RepeaterJXPathBindingBuilder extends JXPathBindingBuilderBase {
 

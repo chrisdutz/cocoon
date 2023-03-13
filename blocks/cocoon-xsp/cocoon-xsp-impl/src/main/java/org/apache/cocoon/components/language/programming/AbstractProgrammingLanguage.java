@@ -34,7 +34,7 @@ import org.apache.cocoon.util.avalon.CLLoggerWrapper;
  * <code>CodeFormatter</code> instance and deletes source program files after
  * unloading.
  *
- * @version $Id$
+ * @version $Id: AbstractProgrammingLanguage.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class AbstractProgrammingLanguage extends AbstractLogEnabled
         implements ProgrammingLanguage, Parameterizable {

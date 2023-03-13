@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!-- CVS: $Id$ -->
+<!-- CVS: $Id: simple-page2html.xsl 598515 2007-11-27 04:28:19Z vgritsenko $ -->
 
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 

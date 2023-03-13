@@ -29,7 +29,7 @@ import org.apache.cocoon.portal.om.PortalUser;
  * This data object is used for loading the profile. It decouples the
  * portal from the used authentication method.
  *
- * @version $Id$
+ * @version $Id: AbstractPortalUser.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public abstract class AbstractPortalUser
     implements PortalUser, Serializable {

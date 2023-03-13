@@ -21,7 +21,7 @@ package org.apache.cocoon.components.elementprocessor.impl.poi.hssf.elements;
  * No-op implementation of ElementProcessor to handle the any tags we
  * don't recognize
  *
- * @version $Id$
+ * @version $Id: EP_Default_.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EP_Default_ extends BaseElementProcessor {
 

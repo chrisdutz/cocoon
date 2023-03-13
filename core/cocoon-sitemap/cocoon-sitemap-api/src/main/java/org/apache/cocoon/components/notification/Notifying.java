@@ -21,7 +21,7 @@ import java.util.Map;
 /**
  *  Interface for Objects that can notify something.
  *
- * @version $Id$
+ * @version $Id: Notifying.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface Notifying {
 

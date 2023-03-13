@@ -18,7 +18,7 @@ package org.apache.cocoon.forms;
 
 /**
  * @deprecated There are so many <code>Constant<code> classes around that this one has been renamed to {@link FormsConstants}.
- * @version $Id$
+ * @version $Id: Constants.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class Constants extends FormsConstants {
     // Moved!

@@ -20,7 +20,7 @@ package org.apache.cocoon.portal.services.aspects;
  * The context for a {@link  ProfileManagerAspect}.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: ProfileManagerAspectContext.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface ProfileManagerAspectContext extends BasicAspectContext {
 

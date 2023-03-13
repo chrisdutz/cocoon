@@ -24,7 +24,7 @@ import org.apache.wsrp4j.consumer.driver.GenericPortletWindowSessionImpl;
  * The attributes <tt>windowState</tt>, <tt>portletMode</tt> and the navigationalState
  * are representing all preferences of the portlet-window. <br/>
  * 
- * @version $Id$
+ * @version $Id: SimplePortletWindowSessionImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class SimplePortletWindowSessionImpl
     extends GenericPortletWindowSessionImpl

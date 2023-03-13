@@ -40,7 +40,7 @@ import org.apache.cocoon.blocks.util.BlockCallHttpServletResponse;
  * 
  * TODO Plenty of work left to have a meaningfull implementation of all methods
  *
- * @version $Id$
+ * @version $Id: BlockConnection.java 591603 2007-11-03 11:45:25Z felixk $
  */
 public final class BlockConnection
     /*extends URLConnection*/ {

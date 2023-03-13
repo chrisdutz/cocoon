@@ -19,7 +19,7 @@
 <!--
  * Logicsheet to demonstrate attribute and text interpolation for Java.
  *
- * SVN $Id$
+ * SVN $Id: interpolation.xsl 449196 2006-09-23 07:09:48Z crossley $
 -->
 
 <xsl:stylesheet

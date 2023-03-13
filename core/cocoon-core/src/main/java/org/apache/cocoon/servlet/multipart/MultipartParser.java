@@ -42,7 +42,7 @@ import org.apache.cocoon.util.NullOutputStream;
  * Vector: inline part values
  * FilePart: file part
  *
- * @version $Id$
+ * @version $Id: MultipartParser.java 648942 2008-04-17 03:32:57Z joerg $
  */
 public class MultipartParser {
 

@@ -37,7 +37,7 @@ import org.apache.excalibur.source.SourceResolver;
  * Create a <code>BlockContextSource</code> that makes the resources of a block available.
  * The form of the URL is blockcontext:/blockname/path.
  *
- * @version $Id$
+ * @version $Id: BlockContextSourceFactory.java 686259 2008-08-15 15:51:26Z gkossakowski $
  */
 public class BlockContextSourceFactory extends AbstractLogEnabled
                                        implements SourceFactory, Serviceable, ThreadSafe {

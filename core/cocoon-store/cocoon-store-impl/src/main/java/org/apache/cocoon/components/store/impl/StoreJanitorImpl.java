@@ -54,7 +54,7 @@ import org.apache.excalibur.store.StoreJanitor;
  *    each time there is a low memory situation.</dd>
  * </ul></p>
  *
- * @version $Id$
+ * @version $Id: StoreJanitorImpl.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class StoreJanitorImpl implements StoreJanitor, Runnable {
 

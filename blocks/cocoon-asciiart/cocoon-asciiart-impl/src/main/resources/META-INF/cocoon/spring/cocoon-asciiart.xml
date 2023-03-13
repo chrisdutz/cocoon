@@ -18,7 +18,7 @@
 <!--+
     | This is the configuration for the standard application manager.
     |
-    | @version $Id$
+    | @version $Id: cocoon-asciiart.xml 694851 2008-09-12 23:52:17Z joerg $
     +-->
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"

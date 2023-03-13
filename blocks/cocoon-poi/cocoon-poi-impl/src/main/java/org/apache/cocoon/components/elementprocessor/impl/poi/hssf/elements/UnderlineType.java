@@ -20,7 +20,7 @@ package org.apache.cocoon.components.elementprocessor.impl.poi.hssf.elements;
 /**
  * Underline codes
  *
- * @version $Id$
+ * @version $Id: UnderlineType.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class UnderlineType {
     public static final int UNDERLINE_NONE = 0;

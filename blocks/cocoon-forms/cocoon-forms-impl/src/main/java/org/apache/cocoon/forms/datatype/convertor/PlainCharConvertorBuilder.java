@@ -23,7 +23,7 @@ import org.w3c.dom.Element;
 /**
  * The builder for the char default convertor.
  *
- * @version $Id$
+ * @version $Id: PlainCharConvertorBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class PlainCharConvertorBuilder implements CharConvertorBuilder {
     public Convertor build(Element configElement) throws Exception {

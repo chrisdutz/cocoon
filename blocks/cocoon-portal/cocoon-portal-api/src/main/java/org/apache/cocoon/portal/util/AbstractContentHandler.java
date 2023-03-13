@@ -29,7 +29,7 @@ import org.xml.sax.ext.LexicalHandler;
  * This class wrapps a {@link ContentHandler} and a {@link LexicalHandler}.
  * <br>
  *
- * @version $Id$
+ * @version $Id: AbstractContentHandler.java 682461 2008-08-04 18:49:15Z cziegeler $
  * @since 2.2
  */
 public class AbstractContentHandler implements ContentHandler, LexicalHandler {

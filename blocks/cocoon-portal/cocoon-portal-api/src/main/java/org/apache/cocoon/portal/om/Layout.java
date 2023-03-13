@@ -35,7 +35,7 @@ import org.apache.cocoon.portal.util.PortalUtils;
  * If you are implementing your own layout object make sure that your
  * class provides a one string constructor which calls {@link #Layout(String)}.
  *
- * @version $Id$
+ * @version $Id: Layout.java 682464 2008-08-04 18:55:57Z cziegeler $
  */
 public abstract class Layout extends AbstractParameters {
 

@@ -52,7 +52,7 @@ import org.quartz.utils.TriggerStatus;
  * <li>Context</li>
  * <li>
  *
- * @version $Id$
+ * @version $Id: QuartzDriverDelegate.java 587758 2007-10-24 02:55:27Z vgritsenko $
  * @since 2.1.6
  */
 public class QuartzDriverDelegate extends AbstractLogEnabled

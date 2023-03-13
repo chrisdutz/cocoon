@@ -20,7 +20,7 @@ package org.apache.cocoon.portal.services.aspects;
  * This aspect can be used to add additional behaviour to the request processing
  * phase.
  *
- * @version $Id$
+ * @version $Id: RequestProcessorAspect.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface RequestProcessorAspect {
 

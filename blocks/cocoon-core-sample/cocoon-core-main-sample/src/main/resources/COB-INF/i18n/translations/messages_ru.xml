@@ -19,7 +19,7 @@
 <!--
   - Russian message catalogue file for Cocoon 2 i18n sample
   -
-  - $Id$
+  - $Id: messages_ru.xml 605414 2007-12-19 04:12:49Z vgritsenko $
   -->
 <catalogue xml:lang="ru">
   <message key="count_title">На эту страницу заходили {0} раз(а). В последний раз {1}.</message>

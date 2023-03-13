@@ -24,7 +24,7 @@ import org.outerj.expression.Expression;
 /**
  * Builds {@link RangeValidationRule}s.
  * 
- * @version $Id$
+ * @version $Id: RangeValidationRuleBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class RangeValidationRuleBuilder extends AbstractValidationRuleBuilder {
     public ValidationRule build(Element validationRuleElement) throws Exception {

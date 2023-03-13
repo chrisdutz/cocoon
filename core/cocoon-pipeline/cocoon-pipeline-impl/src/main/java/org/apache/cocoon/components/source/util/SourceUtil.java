@@ -52,7 +52,7 @@ import org.xml.sax.SAXException;
 /**
  * This class contains some utility methods for the source resolving.
  *
- * @version $Id$
+ * @version $Id: SourceUtil.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class SourceUtil {
 

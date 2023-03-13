@@ -18,7 +18,7 @@
 
 <!--+
     | Simple repository browser
-    | CVS $Id$
+    | CVS $Id: dir2samples.xsl 449153 2006-09-23 04:27:50Z crossley $
     +-->
 
 <xsl:stylesheet version="1.0"

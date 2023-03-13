@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!-- CVS $Id$ -->
+<!-- CVS $Id: zipping.xsp 436829 2006-08-25 15:22:59Z anathaniel $ -->
 
 <!--
   This XSP produces markup for the ZipArchiveSerializer to zip all java/*.xsp files.

@@ -27,7 +27,7 @@ import org.apache.cocoon.portal.om.PortalUser;
  * The user service can store user specific attributes which have the lifetime of the user
  * session or the current request (temporary attributes).
  *
- * @version $Id$
+ * @version $Id: UserService.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface UserService {
 

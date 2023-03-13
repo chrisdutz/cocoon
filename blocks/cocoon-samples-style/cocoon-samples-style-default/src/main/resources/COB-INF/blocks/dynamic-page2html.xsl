@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: dynamic-page2html.xsl 606212 2007-12-21 14:57:11Z vgritsenko $
   -->
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform"

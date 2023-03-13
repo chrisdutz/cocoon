@@ -29,7 +29,7 @@ import org.apache.cocoon.portal.event.coplet.CopletJXPathEvent;
  * This class contains constants and utility methods for the standard features
  * of a coplet instance.
  *
- * @version $Id$
+ * @version $Id: CopletInstanceFeatures.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public final class CopletInstanceFeatures {
 

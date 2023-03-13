@@ -31,7 +31,7 @@ package org.apache.cocoon.taglib.core;
  * This Interface is a copy from JSTL1.0
  * @see javax.servlet.jsp.jstl.core.LoopTagStatus
  *
- * @version $Id$
+ * @version $Id: LoopTagStatus.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface LoopTagStatus {
 

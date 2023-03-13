@@ -32,7 +32,7 @@ import org.xml.sax.InputSource;
 import java.util.Map;
 
 /**
- * @version $Id$
+ * @version $Id: LibraryManagerImpl.java 594527 2007-11-13 13:20:51Z felixk $
  *
  */
 public class LibraryManagerImpl implements LibraryManager {

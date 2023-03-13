@@ -23,7 +23,7 @@ import org.xml.sax.ext.LexicalHandler;
  * Default implementation of SAX's <code>LexicalHandler</code> interface. Empty implementation
  * of all methods so that you only have to redefine the ones of interest.
  *
- * @version $Id$
+ * @version $Id: DefaultLexicalHandler.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class DefaultLexicalHandler implements LexicalHandler {
     

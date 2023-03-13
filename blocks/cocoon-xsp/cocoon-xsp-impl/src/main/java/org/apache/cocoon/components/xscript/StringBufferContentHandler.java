@@ -27,7 +27,7 @@ import java.util.Stack;
  * A <code>ContentHandler</code> that accumulates the SAX stream into
  * a <code>StringBuffer</code> object.
  *
- * @version $Id$
+ * @version $Id: StringBufferContentHandler.java 587761 2007-10-24 03:08:05Z vgritsenko $
  * @since August 30, 2001
  */
 public class StringBufferContentHandler extends DefaultHandler {

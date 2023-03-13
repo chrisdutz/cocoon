@@ -22,7 +22,7 @@ import org.apache.cocoon.portal.PortalException;
 /**
  * Base class for all layout related exceptions.
  *
- * @version $Id$
+ * @version $Id: LayoutException.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public class LayoutException extends PortalException {
 

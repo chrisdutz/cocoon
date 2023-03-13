@@ -107,7 +107,7 @@ import org.apache.excalibur.source.SourceUtil;
  * therefore currently limited to repository traversal. Further work will add
  * the ability to specify query strings.
  *
- * @version $Id$
+ * @version $Id: JCRSourceFactory.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JCRSourceFactory implements ThreadSafe, SourceFactory, Configurable, Serviceable {
 

@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: FieldTestCase.model.xml 641926 2008-03-27 17:54:47Z vgritsenko $
   -->
 <fd:form xmlns:fd="http://apache.org/cocoon/forms/1.0#definition">
   <fd:widgets>

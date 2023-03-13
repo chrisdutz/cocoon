@@ -27,7 +27,7 @@ import org.apache.cocoon.bean.helpers.BeanConfigurator;
  * Cocoon with a single method call that can happily be started with 
  * introspection (due to classpath issues).
  *  
- * @version $Id$
+ * @version $Id: AntDelegate.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class AntDelegate {
 

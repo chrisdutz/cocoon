@@ -20,7 +20,7 @@ import org.aopalliance.intercept.MethodInterceptor;
 import org.aopalliance.intercept.MethodInvocation;
 
 /**
- * @version $Id$
+ * @version $Id: ShieldingClassLoaderInterceptor.java 608379 2008-01-03 08:42:43Z reinhard $
  * @since 1.0.0
  */
 public class ShieldingClassLoaderInterceptor implements MethodInterceptor {

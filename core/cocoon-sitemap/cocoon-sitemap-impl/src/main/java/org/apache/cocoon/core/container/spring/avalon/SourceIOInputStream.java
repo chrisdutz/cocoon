@@ -23,7 +23,7 @@ import org.apache.excalibur.source.Source;
 import org.apache.excalibur.source.SourceResolver;
 
 /**
- * @version $Id$
+ * @version $Id: SourceIOInputStream.java 596517 2007-11-20 02:40:38Z vgritsenko $
  */
 public class SourceIOInputStream extends InputStream {
 

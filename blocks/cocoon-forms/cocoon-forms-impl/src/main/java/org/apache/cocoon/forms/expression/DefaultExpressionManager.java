@@ -36,7 +36,7 @@ import org.outerj.expression.ParseException;
  *   &lt;function name="MyFunction" class="net.foo.MyFunction"/&gt;
  * </pre>
  *
- * @version $Id$
+ * @version $Id: DefaultExpressionManager.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class DefaultExpressionManager
         implements ExpressionManager {

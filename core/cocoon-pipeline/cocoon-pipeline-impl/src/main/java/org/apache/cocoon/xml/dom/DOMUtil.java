@@ -56,7 +56,7 @@ import java.util.StringTokenizer;
  * This class is a utility class for miscellaneous DOM functions, like getting
  * and setting values of nodes.
  * 
- * @version $Id$
+ * @version $Id: DOMUtil.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public final class DOMUtil {
 

@@ -32,7 +32,7 @@ import org.xml.sax.SAXException;
  * The warranty disclaimer of the MIT license (http://www.opensource.org/licenses/mit-license.html)
  * applies to Peter Arthur Loeb's code.
  *
- * @version $Id$
+ * @version $Id: XMidiSerializer.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 
 public class XMidiSerializer extends AbstractSerializer {

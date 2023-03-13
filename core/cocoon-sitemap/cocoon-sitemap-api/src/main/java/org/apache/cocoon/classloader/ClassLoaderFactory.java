@@ -22,7 +22,7 @@ import javax.servlet.ServletContext;
  * A <code>ClassLoader</code> factory, setting up the classpath given a
  * &lt;classpath&gt; configuration.
  *
- * @version $Id$
+ * @version $Id: ClassLoaderFactory.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 public interface ClassLoaderFactory {

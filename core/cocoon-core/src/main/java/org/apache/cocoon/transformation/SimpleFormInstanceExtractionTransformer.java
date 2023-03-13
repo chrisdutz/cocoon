@@ -63,7 +63,7 @@ import org.xml.sax.SAXException;
  * @cocoon.sitemap.component.name   simple-form-instance
  * @cocoon.sitemap.component.documentation.caching No
  *
- * @version $Id$
+ * @version $Id: SimpleFormInstanceExtractionTransformer.java 605689 2007-12-19 20:48:43Z vgritsenko $
  */
 public class SimpleFormInstanceExtractionTransformer extends AbstractExtractionTransformer 
                                                      implements Configurable, Serviceable {

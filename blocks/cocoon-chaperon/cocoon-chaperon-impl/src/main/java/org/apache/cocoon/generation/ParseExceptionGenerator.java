@@ -35,7 +35,7 @@ import java.io.IOException;
 /**
  * Exception generator.
  *
- * @version $Id$
+ * @version $Id: ParseExceptionGenerator.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class ParseExceptionGenerator extends AbstractGenerator
 {

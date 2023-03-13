@@ -21,7 +21,7 @@ package org.apache.cocoon.profiling.statistics;
  * A statistics object stores the duration for an invocation
  * of a defined category.
  *
- * @version $Id$
+ * @version $Id: Statistics.java 587761 2007-10-24 03:08:05Z vgritsenko $
  * @since 2.1.10
  */
 public interface Statistics {

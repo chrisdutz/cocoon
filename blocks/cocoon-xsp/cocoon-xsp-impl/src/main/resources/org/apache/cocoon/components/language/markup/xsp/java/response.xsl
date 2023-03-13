@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!-- $Id$-->
+<!-- $Id: response.xsl 449196 2006-09-23 07:09:48Z crossley $-->
 <!--
  * XSP Response logicsheet for the Java language
  *

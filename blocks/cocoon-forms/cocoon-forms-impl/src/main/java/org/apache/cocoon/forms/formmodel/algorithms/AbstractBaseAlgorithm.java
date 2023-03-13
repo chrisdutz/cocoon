@@ -28,7 +28,7 @@ import org.apache.cocoon.forms.formmodel.CalculatedFieldAlgorithm;
  * <p> This class implements the getTriggerWidgets method and holds the triggers list.
  * </p>
  * 
- * @version $Id$
+ * @version $Id: AbstractBaseAlgorithm.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public abstract class AbstractBaseAlgorithm implements CalculatedFieldAlgorithm {
 

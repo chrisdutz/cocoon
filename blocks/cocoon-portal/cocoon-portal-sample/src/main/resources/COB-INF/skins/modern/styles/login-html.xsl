@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!--+ @version $Id$ 
+<!--+ @version $Id: login-html.xsl 449173 2006-09-23 05:52:37Z crossley $ 
     |
     | Description: Login page to HTML
     |

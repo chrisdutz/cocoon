@@ -25,7 +25,7 @@ import java.util.Map;
  * defined in the current Cocoon instance and provides ways to authenticate
  * a user.
  *
- * @version $Id$
+ * @version $Id: ApplicationManager.java 587757 2007-10-24 02:52:49Z vgritsenko $
 */
 public interface ApplicationManager {
 

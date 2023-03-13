@@ -22,7 +22,7 @@ import org.apache.excalibur.source.SourceException;
 
 /**
  * NOP implementation of RepositoryInterceptor.
- * @version $Id$ 
+ * @version $Id: RepositoryInterceptorBase.java 587761 2007-10-24 03:08:05Z vgritsenko $ 
  */
 public abstract class RepositoryInterceptorBase implements RepositoryInterceptor {
 

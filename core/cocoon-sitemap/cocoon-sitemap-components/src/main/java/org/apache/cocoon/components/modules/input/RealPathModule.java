@@ -32,7 +32,7 @@ import java.util.Vector;
  * context-relative path.  If this mapping cannot be performed (e.g. Cocoon is
  * running in a .war file), <code>null</code> will be returned.
  *
- * @version $Id$
+ * @version $Id: RealPathModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 
 /*

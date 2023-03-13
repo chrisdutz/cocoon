@@ -41,7 +41,7 @@ import org.apache.regexp.RESyntaxException;
 /**
  * A simple cocoon crawler.
  *
- * @version $Id$
+ * @version $Id: SimpleCocoonCrawlerImpl.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class SimpleCocoonCrawlerImpl extends AbstractLogEnabled
                                      implements CocoonCrawler, Configurable, Disposable,
@@ -549,7 +549,7 @@ public class SimpleCocoonCrawlerImpl extends AbstractLogEnabled
      *   before returning in the next() method.
      * </p>
      *
-     * @version    $Id$
+     * @version    $Id: SimpleCocoonCrawlerImpl.java 587750 2007-10-24 02:35:22Z vgritsenko $
      */
     public static class CocoonCrawlerIterator implements Iterator {
         private SimpleCocoonCrawlerImpl cocoonCrawler;

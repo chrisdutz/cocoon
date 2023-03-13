@@ -30,7 +30,7 @@ import org.apache.cocoon.environment.ObjectModelHelper;
  * this module adds prefix-path on which block/servlet is mounted.<br>
  * Use this module if you need a base path for URLs pointing resources in your block.
  *
- * @version $Id$
+ * @version $Id: CompletePathModule.java 608379 2008-01-03 08:42:43Z reinhard $
  * @since 1.0.0
  */
 public class CompletePathModule implements InputModule {

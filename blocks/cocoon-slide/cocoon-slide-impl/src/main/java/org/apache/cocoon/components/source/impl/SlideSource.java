@@ -80,7 +80,7 @@ import org.xml.sax.InputSource;
 /**
  * A sources from jakarta slide repositories.
  *
- * @version $Id$
+ * @version $Id: SlideSource.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class SlideSource extends AbstractLogEnabled
                          implements Contextualizable, Serviceable, Initializable,

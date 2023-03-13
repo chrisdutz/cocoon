@@ -33,7 +33,7 @@ import org.hsqldb.DatabaseManager;
 /**
  * This class runs an instance of the HSQLDB HSQL protocol network database server.
  *
- * @version $Id$
+ * @version $Id: ServerImpl.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class ServerImpl
        implements Runnable {

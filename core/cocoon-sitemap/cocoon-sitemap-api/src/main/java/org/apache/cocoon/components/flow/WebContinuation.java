@@ -40,7 +40,7 @@ import org.apache.commons.lang.StringUtils;
  * <code>WebContinuation</code>s.
  *
  * @since March 19, 2002
- * @version $Id$
+ * @version $Id: WebContinuation.java 643752 2008-04-02 06:01:30Z joerg $
  */
 public class WebContinuation implements Comparable, Cloneable {
 

@@ -59,7 +59,7 @@ import java.util.StringTokenizer;
  * This is the implementation for the authentication context
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: AuthenticationContext.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public class AuthenticationContext implements SessionContext {
 

@@ -32,7 +32,7 @@ import org.apache.excalibur.source.SourceParameters;
  * actions perform all required tasks.
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: AuthenticationManager.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public interface AuthenticationManager {
 

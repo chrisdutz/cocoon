@@ -17,7 +17,7 @@
 -->
 
 <!--+
-    | @version $Id$
+    | @version $Id: employee-edit.xml 534153 2007-05-01 16:49:43Z gkossakowski $
     +-->
 <html xmlns:ft="http://apache.org/cocoon/forms/1.0#template"
       xmlns:fi="http://apache.org/cocoon/forms/1.0#instance"

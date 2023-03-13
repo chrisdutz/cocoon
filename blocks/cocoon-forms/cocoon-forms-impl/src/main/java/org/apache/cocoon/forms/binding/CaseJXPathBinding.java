@@ -30,7 +30,7 @@ import org.apache.commons.jxpath.JXPathContext;
  * case of a union.</li>
  * </ol>
  *
- * @version $Id$
+ * @version $Id: CaseJXPathBinding.java 640682 2008-03-25 03:23:17Z vgritsenko $
  */
 public class CaseJXPathBinding extends ComposedJXPathBindingBase {
 

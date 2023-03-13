@@ -31,7 +31,7 @@ import org.xml.sax.SAXException;
 /**
  * Serializer to produce an HSSF stream.
  * 
- * @version $Id$
+ * @version $Id: HSSFSerializer.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class HSSFSerializer extends POIFSSerializer
                             implements SitemapModelComponent {

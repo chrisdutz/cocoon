@@ -42,7 +42,7 @@ import org.xml.sax.ext.LexicalHandler;
  * <p>Both {@link ContentHandler} and {@link LexicalHandler} are supported, the only
  * exception is that the setDocumentLocator event is not recorded.</p>
  *
- * @version $Id$
+ * @version $Id: SaxBuffer.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public class SaxBuffer implements ContentHandler, LexicalHandler {
 

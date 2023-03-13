@@ -54,7 +54,7 @@ import org.apache.cocoon.environment.ObjectModelHelper;
  * The <code>RegexpRequestParameterSelector</code> class defines a selector matching
  * specific request parameters to configured regular-expression patterns.
  *
- * @version $Id$
+ * @version $Id: RegexpRequestParameterSelector.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class RegexpRequestParameterSelector extends AbstractRegexpSelector {
 

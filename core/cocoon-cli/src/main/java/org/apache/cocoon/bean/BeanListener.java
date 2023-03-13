@@ -20,7 +20,7 @@ package org.apache.cocoon.bean;
  * Interface allowing caller to install a listener so that it can be informed
  * as the bean makes progress through the links to be called.
  *
- * @version $Id$
+ * @version $Id: BeanListener.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public interface BeanListener {
 

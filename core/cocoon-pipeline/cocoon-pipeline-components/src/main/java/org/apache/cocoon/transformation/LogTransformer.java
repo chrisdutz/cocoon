@@ -60,7 +60,7 @@ import java.util.Map;
  * @cocoon.sitemap.component.documentation.caching No
  * @cocoon.sitemap.component.pooling.max  16
  *
- * @version $Id$
+ * @version $Id: LogTransformer.java 605605 2007-12-19 16:19:51Z vgritsenko $
  */
 public class LogTransformer extends AbstractTransformer {
 

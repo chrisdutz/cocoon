@@ -29,7 +29,7 @@ import org.apache.cocoon.portal.util.AbstractBean;
  * This is the default implementation of the {@link VariableResolver}.
  * It uses the settings object to replace variables.
  *
- * @version $Id$
+ * @version $Id: DefaultVariableResolver.java 606931 2007-12-26 18:42:43Z cziegeler $
  */
 public class DefaultVariableResolver
     extends AbstractBean

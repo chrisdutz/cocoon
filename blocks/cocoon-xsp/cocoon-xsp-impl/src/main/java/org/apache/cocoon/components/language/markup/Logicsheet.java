@@ -44,7 +44,7 @@ import org.xml.sax.SAXException;
  * language will be transformed into an equivalent XSLT stylesheet
  * anyway... This class should probably be based on an interface...
  *
- * @version $Id$
+ * @version $Id: Logicsheet.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class Logicsheet extends AbstractLogEnabled {
 

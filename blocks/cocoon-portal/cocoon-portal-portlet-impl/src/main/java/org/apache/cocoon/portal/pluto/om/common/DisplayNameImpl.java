@@ -23,7 +23,7 @@ import org.apache.pluto.util.StringUtils;
 
 /**
  *
- * @version $Id$
+ * @version $Id: DisplayNameImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class DisplayNameImpl implements DisplayName, java.io.Serializable, Support {
 

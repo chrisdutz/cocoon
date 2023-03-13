@@ -27,7 +27,7 @@ import javax.servlet.http.HttpSession;
  *
  * Command-line version of Http Session.
  *
- * @version $Id$
+ * @version $Id: BackgroundSession.java 669294 2008-06-18 21:21:57Z anathaniel $
  */
 public final class BackgroundSession
 extends AbstractSession {

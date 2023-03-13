@@ -39,7 +39,7 @@ import org.xml.sax.SAXException;
  * or <code>create-document:root-element</code> for document with root element,
  * where <code>root-element</code> is the name of the root element to create.
  *
- * @version $Id$
+ * @version $Id: EmptySource.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.1.8
  */
 public class EmptySource implements XMLizable, Source {

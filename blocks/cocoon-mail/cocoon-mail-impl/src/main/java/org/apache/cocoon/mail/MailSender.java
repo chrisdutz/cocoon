@@ -30,7 +30,7 @@ import org.apache.cocoon.environment.SourceResolver;
  * new instance in each processing thread.
  *
  * @since 2.1.5
- * @version $Id$
+ * @version $Id: MailSender.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface MailSender {
 

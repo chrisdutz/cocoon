@@ -56,7 +56,7 @@ import org.apache.cocoon.util.avalon.CLLoggerWrapper;
  * interfaces.
  * 
  * @since 2.2
- * @version $Id$
+ * @version $Id: AvalonBeanPostProcessor.java 1828354 2018-04-04 15:25:44Z ilgrosso $
  */
 public class AvalonBeanPostProcessor extends AbstractLogEnabled
                                      implements DestructionAwareBeanPostProcessor, BeanFactoryAware {

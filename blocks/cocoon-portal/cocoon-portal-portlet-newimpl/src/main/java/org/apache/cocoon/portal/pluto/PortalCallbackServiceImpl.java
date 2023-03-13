@@ -27,7 +27,7 @@ import org.apache.pluto.spi.PortletURLProvider;
 import org.apache.pluto.spi.ResourceURLProvider;
 
 /**
- * @version $Id$
+ * @version $Id: PortalCallbackServiceImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortalCallbackServiceImpl
     extends AbstractBean

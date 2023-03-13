@@ -32,7 +32,7 @@ import javax.servlet.ServletOutputStream;
  *
  * **********************************************************************
  * 
- * @version $Id$
+ * @version $Id: ServletOutputStreamImpl.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
  
 public class ServletOutputStreamImpl extends ServletOutputStream {

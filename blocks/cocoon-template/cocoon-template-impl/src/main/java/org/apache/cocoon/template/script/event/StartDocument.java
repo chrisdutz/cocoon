@@ -29,7 +29,7 @@ import org.xml.sax.Locator;
 import org.xml.sax.SAXException;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: StartDocument.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class StartDocument extends Event {
     public StartDocument(Locator location) {

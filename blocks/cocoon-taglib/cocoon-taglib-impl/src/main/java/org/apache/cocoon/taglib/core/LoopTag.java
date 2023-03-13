@@ -32,7 +32,7 @@ import org.apache.cocoon.taglib.Tag;
  * Migration from JSTL1.0
  * @see javax.servlet.jsp.jstl.core.LoopTag
  *
- * @version $Id$
+ * @version $Id: LoopTag.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface LoopTag extends Tag {
 

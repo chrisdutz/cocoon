@@ -19,7 +19,7 @@ package org.apache.cocoon.el;
 import java.io.IOException;
 
 /**
- * @version $Id$
+ * @version $Id: ExpressionException.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ExpressionException extends IOException {
 

@@ -64,7 +64,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * <tr><th>root-tag-class</th><td>Value of optional class attribute for the root tag.</td><td></td><td>String</td><td><code>-</code></td></tr>
  * </tbody></table>
  *
- * @version $Id$
+ * @version $Id: CompositeContentAspect.java 633260 2008-03-03 20:21:05Z cziegeler $
  */
 public class CompositeContentAspect extends AbstractCompositeAspect {
 

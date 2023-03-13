@@ -24,7 +24,7 @@ import org.springframework.beans.factory.config.ConfigurableListableBeanFactory;
 /**
  * Mock processor
  * 
- * @version $Id$
+ * @version $Id: MockProcessor.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class MockProcessor implements Processor {
 

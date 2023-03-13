@@ -23,7 +23,7 @@ import org.apache.commons.jxpath.JXPathContext;
 /**
  * Dummy class cause binding doesn't accept null results from binding builders
  *
- * @version $Id$
+ * @version $Id: ImportJXPathBinding.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class ImportJXPathBinding extends JXPathBindingBase {
 

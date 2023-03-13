@@ -24,7 +24,7 @@ import org.apache.avalon.framework.configuration.Configuration;
 import org.apache.avalon.framework.configuration.ConfigurationException;
 
 /**
- * @version $Id$
+ * @version $Id: JNDIRepository.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JNDIRepository extends AbstractRepository {
 

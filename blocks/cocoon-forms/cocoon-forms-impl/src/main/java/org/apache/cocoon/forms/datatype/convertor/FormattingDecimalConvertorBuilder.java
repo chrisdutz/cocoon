@@ -26,7 +26,7 @@ import java.util.Locale;
 /**
  * Builds {@link FormattingDecimalConvertor}s.
  *
- * @version $Id$
+ * @version $Id: FormattingDecimalConvertorBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class FormattingDecimalConvertorBuilder implements DecimalConvertorBuilder {
     public Convertor build(Element configElement) throws Exception {

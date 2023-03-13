@@ -83,7 +83,7 @@ import org.xml.sax.SAXException;
  * for legibility. Strips unwanted namespace declarations.
  * @cocoon.sitemap.component.documentation.caching Yes
  *
- * @version $Id$
+ * @version $Id: CleanupTransformer.java 607381 2007-12-29 05:42:58Z vgritsenko $
  */
 public class CleanupTransformer extends AbstractSAXTransformer
                                 implements CacheableProcessingComponent {

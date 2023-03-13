@@ -32,7 +32,7 @@ import org.apache.pluto.om.portlet.PortletDefinition;
 /**
  * This component invokes a portlet (using the servlet dispatcher).
  *
- * $Id$
+ * $Id: PortletInvokerImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortletInvokerImpl
     extends org.apache.pluto.invoker.impl.PortletInvokerImpl {

@@ -22,7 +22,7 @@ import org.apache.commons.lang.SystemUtils;
 /**
  * Class which provides JVM system related SOAP services.
  *
- * @version $Id$
+ * @version $Id: System.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public class System {
 

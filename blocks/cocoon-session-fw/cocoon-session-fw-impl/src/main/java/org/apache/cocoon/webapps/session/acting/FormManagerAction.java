@@ -31,7 +31,7 @@ import org.apache.cocoon.webapps.session.FormManager;
  * This action invokes the form manager to process incomming form values
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: FormManagerAction.java 587761 2007-10-24 03:08:05Z vgritsenko $
 */
 public final class FormManagerAction
     extends ServiceableAction

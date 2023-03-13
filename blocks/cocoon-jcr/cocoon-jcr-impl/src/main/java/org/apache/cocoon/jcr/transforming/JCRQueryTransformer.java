@@ -93,7 +93,7 @@ import org.xml.sax.helpers.AttributesImpl;
  *
  * TODO: render bynary properties 
  * 
- * @version $Id$
+ * @version $Id: JCRQueryTransformer.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JCRQueryTransformer extends AbstractSAXTransformer {
 

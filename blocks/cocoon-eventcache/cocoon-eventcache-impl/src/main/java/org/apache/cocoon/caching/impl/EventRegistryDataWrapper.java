@@ -24,7 +24,7 @@ import org.apache.commons.collections.MultiHashMap;
  * A light object for persisting the state of an EventRegistry implementation 
  * based on two MultiHashMaps.
  * 
- * @version $Id$
+ * @version $Id: EventRegistryDataWrapper.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class EventRegistryDataWrapper implements Serializable {
     private MultiHashMap m_keyMMap;

@@ -21,7 +21,7 @@ import org.apache.cocoon.portal.wsrp.adapter.WSRPAdapter;
 /**
  * This interface marks a component if the component needs a reference to the WSRP adapter.
  *
- * @version $Id$
+ * @version $Id: RequiresWSRPAdapter.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public interface RequiresWSRPAdapter {
 

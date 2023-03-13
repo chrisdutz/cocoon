@@ -32,7 +32,7 @@ import org.xml.sax.helpers.AttributesImpl;
 /**
  * Testcase for DOMStreamer and DOMBuilder.
  *
- * @version $Id$
+ * @version $Id: DOMBuilderStreamerTestCase.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class DOMBuilderStreamerTestCase extends XMLTestCase {
 

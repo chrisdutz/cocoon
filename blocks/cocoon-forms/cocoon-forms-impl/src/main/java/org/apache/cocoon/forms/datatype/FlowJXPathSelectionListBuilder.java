@@ -44,7 +44,7 @@ import java.util.Map;
  * </pre>
  *
  * @see org.apache.cocoon.forms.datatype.FlowJXPathSelectionList
- * @version $Id$
+ * @version $Id: FlowJXPathSelectionListBuilder.java 590638 2007-10-31 12:10:53Z giacomo $
  */
 public class FlowJXPathSelectionListBuilder implements SelectionListBuilder {
 

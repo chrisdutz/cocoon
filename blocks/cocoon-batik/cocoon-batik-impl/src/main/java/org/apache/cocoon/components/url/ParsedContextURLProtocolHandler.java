@@ -30,7 +30,7 @@ import java.net.MalformedURLException;
  * Batik uses the Jar file Services extension, so the class is instantiated in
  * an uncontrolled manner (as far as Cocoon is concerned).
  *
- * @version $Id$
+ * @version $Id: ParsedContextURLProtocolHandler.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class ParsedContextURLProtocolHandler extends AbstractParsedURLProtocolHandler {
     private static Context context = null;

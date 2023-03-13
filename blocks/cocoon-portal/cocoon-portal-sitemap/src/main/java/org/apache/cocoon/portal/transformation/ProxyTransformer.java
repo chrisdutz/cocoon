@@ -60,7 +60,7 @@ import org.xml.sax.SAXException;
  * documentbase, the uri, etc. will be taken from the application coplet instance
  * data.
  *
- * @version $Id$
+ * @version $Id: ProxyTransformer.java 605841 2007-12-20 09:16:33Z cziegeler $
  */
 public class ProxyTransformer
     extends AbstractTransformer

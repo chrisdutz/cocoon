@@ -18,7 +18,7 @@
 
 <!--+
     | Simple XMLDB browser
-    | CVS $Id$
+    | CVS $Id: xmldb2samples.xsl 538615 2007-05-16 14:33:09Z felixk $
     +-->
 
 <xsl:stylesheet version="1.0"

@@ -29,7 +29,7 @@ import org.apache.cocoon.portal.om.SkinDescription;
 /**
  * This input module provides information about the current selected skin
  *
- * @version $Id$
+ * @version $Id: SkinModule.java 606931 2007-12-26 18:42:43Z cziegeler $
  */
 public class SkinModule
     extends AbstractModule {

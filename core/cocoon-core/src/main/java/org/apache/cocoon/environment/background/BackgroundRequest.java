@@ -38,7 +38,7 @@ import org.apache.commons.lang.SystemUtils;
 /**
  * Creates a specific servlet request simulation from command line usage.
  *
- * @version $Id$
+ * @version $Id: BackgroundRequest.java 609282 2008-01-06 09:35:48Z rgoers $
  */
 /*
  * NOTE: method with a non-compliant implementation are marked with FIXME

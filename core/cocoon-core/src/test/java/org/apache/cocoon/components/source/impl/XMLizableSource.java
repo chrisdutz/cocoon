@@ -31,7 +31,7 @@ import org.xml.sax.SAXException;
 /**
  * Proxy like source adding XMLizable.
  *
- * @version $Id$
+ * @version $Id: XMLizableSource.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class XMLizableSource implements XMLizable, Source {
 

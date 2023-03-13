@@ -26,7 +26,7 @@ import org.apache.cocoon.configuration.Settings;
 /**
  * Configuration object for the multipart filter.
  *
- * @version $Id$
+ * @version $Id: MultipartConfigurationHelper.java 587750 2007-10-24 02:35:22Z vgritsenko $
  * @since 2.2
  */
 public class MultipartConfigurationHelper {

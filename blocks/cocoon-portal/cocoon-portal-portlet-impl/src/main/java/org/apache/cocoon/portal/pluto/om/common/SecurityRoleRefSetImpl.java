@@ -26,7 +26,7 @@ import org.apache.pluto.om.common.SecurityRoleRefSetCtrl;
 
 /**
  *
- * @version $Id$
+ * @version $Id: SecurityRoleRefSetImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class SecurityRoleRefSetImpl
     extends HashSet

@@ -21,7 +21,7 @@ import java.io.IOException;
 import java.io.OutputStream;
 
 /**
- * @version $Id$
+ * @version $Id: AbstractSerializer.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 
 public abstract class AbstractSerializer

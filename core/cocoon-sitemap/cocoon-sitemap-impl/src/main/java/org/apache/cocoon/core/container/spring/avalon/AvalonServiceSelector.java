@@ -26,7 +26,7 @@ import org.springframework.beans.factory.BeanFactoryAware;
  * This bean acts like a Avalon {@link ServiceSelector}.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: AvalonServiceSelector.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class AvalonServiceSelector
     implements BeanFactoryAware, ServiceSelector {

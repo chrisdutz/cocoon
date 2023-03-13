@@ -30,7 +30,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * @cocoon.sitemap.component.documentation
  * A <code>Selector</code> that matches a getMethod() of the HTTP request.
  *
- * @version $Id$
+ * @version $Id: RequestMethodSelector.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class RequestMethodSelector extends AbstractLogEnabled
                                    implements ThreadSafe, Selector {

@@ -37,7 +37,7 @@ import org.apache.commons.lang.exception.NestableRuntimeException;
  * Jakarta Commons <a href="http://jakarta.apache.org/commons/jxpath/index.html">
  * JXPath package</a>.
  *
- * @version $Id$
+ * @version $Id: JXPathBindingBase.java 640682 2008-03-25 03:23:17Z vgritsenko $
  */
 public abstract class JXPathBindingBase extends AbstractLogEnabled
                                         implements Binding {

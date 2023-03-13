@@ -42,7 +42,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * simplicity favors inheritance.
  * 
  * @since 2.1
- * @version $Id$
+ * @version $Id: AbstractDoubleMapEventRegistry.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public abstract class AbstractDoubleMapEventRegistry extends AbstractLogEnabled
                                                      implements Initializable, EventRegistry,

@@ -24,7 +24,7 @@ import org.apache.cocoon.util.location.Location;
 /**
  * Base class for ProcessingNode implementations.
  *
- * @version $Id$
+ * @version $Id: AbstractProcessingNode.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractProcessingNode extends AbstractLogEnabled
                                              implements ProcessingNode, ExecutionContext {

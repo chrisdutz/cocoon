@@ -50,6 +50,6 @@ package org.apache.cocoon.xml;
  * belong to the namespace you are worried about should be passed on as is.
  * </p>
  *
- * @version $Id$
+ * @version $Id: XMLPipe.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface XMLPipe extends XMLConsumer, XMLProducer {}

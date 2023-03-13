@@ -28,7 +28,7 @@ import org.xml.sax.SAXException;
  * usually won't have to bother with the WidgetDefinition's, but will rather use
  * the Widget's themselves.
  *
- * @version $Id$
+ * @version $Id: WidgetDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface WidgetDefinition extends Locatable {
 

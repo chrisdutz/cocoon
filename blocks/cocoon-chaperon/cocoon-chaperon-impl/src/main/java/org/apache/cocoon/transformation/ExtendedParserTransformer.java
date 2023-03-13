@@ -52,7 +52,7 @@ import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
 
 /**
- * @version $Id$
+ * @version $Id: ExtendedParserTransformer.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class ExtendedParserTransformer extends ExtendedDirectParserProcessor
                                        implements Transformer, Serviceable, Parameterizable,

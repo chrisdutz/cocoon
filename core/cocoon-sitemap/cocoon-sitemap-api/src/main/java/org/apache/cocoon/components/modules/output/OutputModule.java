@@ -27,7 +27,7 @@ import java.util.Map;
  * attributes and do the real communication e.g. to a bean only when
  * the transaction completes successfully.
  *
- * @version $Id$
+ * @version $Id: OutputModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface OutputModule {
 

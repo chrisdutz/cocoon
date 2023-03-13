@@ -31,7 +31,7 @@ import java.util.Map;
 /**
  * Implements the {@link Response} interface for the JSR-168 (Portlet) environment.
  *
- * @version $Id$
+ * @version $Id: PortletResponse.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public abstract class PortletResponse implements Response {
 

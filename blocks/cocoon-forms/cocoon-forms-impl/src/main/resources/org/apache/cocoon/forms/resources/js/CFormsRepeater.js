@@ -25,7 +25,7 @@ dojo.require("dojo.widget.DomWidget");
  * <p>
  * The drop indicator can be styled with the "forms-dropIndicator" CSS class.
  *
- * @version $Id$
+ * @version $Id: CFormsRepeater.js 491930 2007-01-02 20:44:30Z jeremy $
  */
 
 // Extends the base DomWidget class. We don't need all the HtmlWidget stuff

@@ -22,7 +22,7 @@ import java.util.Iterator;
 /**
  * Wraps an Enumeration and provides Iterator interface.
  *
- * @version $Id$
+ * @version $Id: IteratorHelper.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 class IteratorHelper implements Iterator {
 

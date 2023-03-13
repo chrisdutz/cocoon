@@ -25,7 +25,7 @@ import org.apache.cocoon.environment.SourceResolver;
  * This interface defines a loader for programs automatically built from XML
  * documents written in a <code>MarkupLanguage</code>
  *
- * @version $Id$
+ * @version $Id: ProgramGenerator.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface ProgramGenerator {
 

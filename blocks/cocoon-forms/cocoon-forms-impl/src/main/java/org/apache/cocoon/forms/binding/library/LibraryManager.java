@@ -21,7 +21,7 @@ package org.apache.cocoon.forms.binding.library;
  * manages all used form binding library definitions so they can be shared
  * between forms.
  *
- * @version $Id$
+ * @version $Id: LibraryManager.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface LibraryManager {
 

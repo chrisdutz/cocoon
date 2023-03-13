@@ -29,7 +29,7 @@ import org.outerj.expression.ExpressionContext;
  * Implementation of the ExpressionContext required for the evaluation of
  * expressions by xReporter expression interpreter.
  * 
- * @version $Id$
+ * @version $Id: ExpressionContextImpl.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class ExpressionContextImpl implements ExpressionContext {
     private Widget widget;

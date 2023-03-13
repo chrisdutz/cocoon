@@ -48,7 +48,7 @@ import java.util.Map;
  * Matches against a regular expression. Needs an input module to
  * obtain value to match against.
  *
- * @version $Id$
+ * @version $Id: CachingRegexpMatcher.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class CachingRegexpMatcher extends AbstractRegexpMatcher
                                   implements Configurable,  Initializable, Serviceable,

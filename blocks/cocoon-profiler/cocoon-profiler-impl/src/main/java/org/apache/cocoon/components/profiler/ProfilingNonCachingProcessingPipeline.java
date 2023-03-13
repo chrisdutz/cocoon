@@ -37,7 +37,7 @@ import org.apache.cocoon.xml.XMLProducer;
  * the SAX-events that go through it and stores the result in the
  * ProfilerData.
  *
- * @version $Id$
+ * @version $Id: ProfilingNonCachingProcessingPipeline.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ProfilingNonCachingProcessingPipeline extends NonCachingProcessingPipeline
                                                    implements Disposable {

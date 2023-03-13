@@ -17,7 +17,7 @@
 package org.apache.cocoon.forms.binding;
 
 /**
- * @version $Id$
+ * @version $Id: RepeaterFilter.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface RepeaterFilter {
 

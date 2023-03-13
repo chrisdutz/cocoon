@@ -44,7 +44,7 @@ import org.xml.sax.SAXException;
  * <li> Or else at its default-location in the flow context-object.</li>
  * </ol>
  * 
- * @version $Id$
+ * @version $Id: FormsGenerator.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class FormsGenerator extends AbstractGenerator {
     

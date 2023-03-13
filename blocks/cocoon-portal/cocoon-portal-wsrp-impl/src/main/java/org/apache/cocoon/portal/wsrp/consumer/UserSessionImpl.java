@@ -29,7 +29,7 @@ import org.apache.wsrp4j.exception.WSRPException;
  * Note: Since most of this methods all only for the session handler,
  * consider to make most of the methods package scoped.<br/>
  * 
- * @version $Id$
+ * @version $Id: UserSessionImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class UserSessionImpl extends GenericUserSessionImpl {
 

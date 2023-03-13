@@ -23,7 +23,7 @@ import org.apache.cocoon.forms.formmodel.Widget;
 /**
  * Base class for events sent by form widgets.
  * 
- * @version $Id$
+ * @version $Id: WidgetEvent.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public abstract class WidgetEvent extends EventObject {
     

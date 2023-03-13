@@ -30,7 +30,7 @@ import org.apache.cocoon.portal.services.aspects.RequestProcessorAspect;
  * url and fire the contained events accordingly. Therefore the link service extends
  * the {@link RequestProcessorAspect}.
  *
- * @version $Id$
+ * @version $Id: LinkService.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface LinkService extends RequestProcessorAspect {
 

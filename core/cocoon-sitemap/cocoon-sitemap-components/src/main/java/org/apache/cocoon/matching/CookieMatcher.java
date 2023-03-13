@@ -34,7 +34,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * @cocoon.sitemap.component.documentation
  * Matches cookies agains given name. Returns value of the matched cookie.
  *
- * @version $Id$
+ * @version $Id: CookieMatcher.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class CookieMatcher extends AbstractLogEnabled
                            implements Matcher, ThreadSafe {

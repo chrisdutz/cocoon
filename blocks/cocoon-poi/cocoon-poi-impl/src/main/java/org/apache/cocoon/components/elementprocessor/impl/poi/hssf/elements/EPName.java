@@ -24,7 +24,7 @@ import java.io.IOException;
  *
  * This element contains the name of the containing Sheet
  *
- * @version $Id$
+ * @version $Id: EPName.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EPName extends BaseElementProcessor {
     private String _name;

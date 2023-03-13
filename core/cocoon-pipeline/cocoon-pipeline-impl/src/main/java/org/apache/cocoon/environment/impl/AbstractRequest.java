@@ -27,7 +27,7 @@ import org.apache.cocoon.environment.Request;
 /**
  * Base class for any request
  *
- * @version $Id$
+ * @version $Id: AbstractRequest.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractRequest 
     implements Request {

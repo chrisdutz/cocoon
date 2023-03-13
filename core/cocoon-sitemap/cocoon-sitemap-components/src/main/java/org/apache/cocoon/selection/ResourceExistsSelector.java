@@ -78,7 +78,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * @cocoon.sitemap.component.documentation
  * Selects the first of a set of Resources (usually files) that exists.
  *
- * @version $Id$
+ * @version $Id: ResourceExistsSelector.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class ResourceExistsSelector extends AbstractLogEnabled
                                     implements ThreadSafe, Serviceable, Disposable, Selector {

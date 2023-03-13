@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- $Id$ -->
+<!-- $Id: profiler.roles 449174 2006-09-23 06:11:00Z crossley $ -->
 <role-list>
   <role name="org.apache.cocoon.components.profiler.Profiler"
         shorthand="profiler"

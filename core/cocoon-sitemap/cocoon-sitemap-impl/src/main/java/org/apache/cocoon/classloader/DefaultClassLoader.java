@@ -30,7 +30,7 @@ import org.apache.cocoon.util.WildcardMatcherHelper;
  * This class loader reverses the search order for classes.  It checks this classloader
  * before it checks its parent. In addition it can be configured with includes and excludes.
  *
- * @version $Id$
+ * @version $Id: DefaultClassLoader.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 public class DefaultClassLoader extends URLClassLoader {

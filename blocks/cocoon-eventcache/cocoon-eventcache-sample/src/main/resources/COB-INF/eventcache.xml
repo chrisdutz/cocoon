@@ -19,7 +19,7 @@
 <!--+
     | event-based cache sample.
     |
-    | @version $Id$
+    | @version $Id: eventcache.xml 448872 2006-09-22 09:29:32Z crossley $
     +-->
 <page>
     <title>Demonstrating Event-Aware Caching</title>

@@ -36,7 +36,7 @@ import org.xml.sax.SAXException;
  * The <code>SVGBuilder</code> is a utility class that will generate a
  * SVG-DOM Document from SAX events using Batik's SVGDocumentFactory.
  *
- * @version $Id$
+ * @version $Id: SVGBuilder.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class SVGBuilder extends SAXSVGDocumentFactory
                         implements XMLConsumer, Recyclable {

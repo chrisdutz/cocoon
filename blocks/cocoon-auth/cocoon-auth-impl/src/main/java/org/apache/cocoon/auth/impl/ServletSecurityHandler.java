@@ -32,7 +32,7 @@ import org.apache.cocoon.auth.User;
  * This is a very simple authenticator that checks if the user is authenticated
  * using the servlet authentication mechanisms.
  *
- * @version $Id$
+ * @version $Id: ServletSecurityHandler.java 587757 2007-10-24 02:52:49Z vgritsenko $
 */
 public class ServletSecurityHandler
     extends AbstractSecurityHandler {

@@ -19,7 +19,7 @@
 <!--
   - French message catalogue file for Cocoon 2 i18n sample
   -
-  - $Id$
+  - $Id: messages_fr.xml 605414 2007-12-19 04:12:49Z vgritsenko $
   -->
 <catalogue xml:lang="fr">
   <message key="count_title">Cette page a été invoquée {0} fois. Dernière invocation: {1}.</message>

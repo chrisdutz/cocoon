@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!-- $Id$-->
+<!-- $Id: xscript.xsl 449196 2006-09-23 07:09:48Z crossley $-->
 <!--
  * @version $Revision: 1.2 $ $Date: 2004/03/17 11:28:22 $
 -->

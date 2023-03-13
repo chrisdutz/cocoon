@@ -23,7 +23,7 @@
 ]>
 
 <!--
-  - $Id$
+  - $Id: pagedlist2html.xsl 605414 2007-12-19 04:12:49Z vgritsenko $
   -->
 
 <xsl:stylesheet version="1.0"

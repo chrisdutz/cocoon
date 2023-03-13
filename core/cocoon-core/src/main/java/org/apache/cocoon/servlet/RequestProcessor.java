@@ -44,7 +44,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
 /**
  * This is the entry point for Cocoon execution as an HTTP Servlet.
  *
- * @version $Id$
+ * @version $Id: RequestProcessor.java 685811 2008-08-14 08:39:55Z gkossakowski $
  */
 public class RequestProcessor extends AbstractLogEnabled {
 

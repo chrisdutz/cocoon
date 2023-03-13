@@ -50,7 +50,7 @@ import org.xml.sax.SAXException;
  * &lt;eventlink action="/submitted.jsp" attribute="action" element="form"&gt;
  * </pre>
  *
- * @version $Id$
+ * @version $Id: LinkTransformer.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class LinkTransformer
     extends AbstractTransformer

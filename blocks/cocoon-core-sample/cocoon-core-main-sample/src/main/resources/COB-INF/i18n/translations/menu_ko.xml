@@ -19,7 +19,7 @@
 <!--
   - Korean message catalogue file for menu in Cocoon 2 i18n sample
   -
-  - $Id$
+  - $Id: menu_ko.xml 605414 2007-12-19 04:12:49Z vgritsenko $
   -->
 <catalogue xml:lang="ko">
   <message key="Apache Cocoon i18n Samples">아파치 코쿤 국제화 예제</message>

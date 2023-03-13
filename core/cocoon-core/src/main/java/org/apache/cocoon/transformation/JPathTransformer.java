@@ -54,7 +54,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * @cocoon.sitemap.component.name   jpath
  * @cocoon.sitemap.component.documentation.caching No
  *
- * @version $Id$
+ * @version $Id: JPathTransformer.java 605590 2007-12-19 15:43:46Z vgritsenko $
  */
 public class JPathTransformer extends AbstractSAXTransformer
                               implements Initializable {

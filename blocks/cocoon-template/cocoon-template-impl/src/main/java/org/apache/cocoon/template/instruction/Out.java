@@ -40,7 +40,7 @@ import org.xml.sax.SAXException;
 import org.xml.sax.SAXParseException;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: Out.java 703661 2008-10-11 13:57:22Z lgawron $
  */
 public class Out extends Instruction {
     private final Subst compiledExpression;

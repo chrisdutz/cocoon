@@ -28,7 +28,7 @@ import org.apache.cocoon.auth.ApplicationManager;
 /**
  * This action tests if the user is logged in for a given application.
  *
- * @version $Id$
+ * @version $Id: AbstractAuthAction.java 587757 2007-10-24 02:52:49Z vgritsenko $
 */
 public abstract class AbstractAuthAction
 extends ServiceableAction

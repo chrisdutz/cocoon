@@ -27,7 +27,7 @@ import org.apache.cocoon.portal.util.AbstractBean;
  * clients/proxies to not cache. This "disables" the back button on the
  * client.
  *
- * @version $Id$
+ * @version $Id: NoClientCachingRequestProcessorAspect.java 595791 2007-11-16 19:39:32Z cziegeler $
  */
 public class NoClientCachingRequestProcessorAspect
 	extends AbstractBean

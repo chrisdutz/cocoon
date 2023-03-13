@@ -32,7 +32,7 @@ import org.apache.cocoon.sitemap.PatternException;
 import org.apache.cocoon.ProcessingException;
 
 /**
- * @version $Id$
+ * @version $Id: PreparableMatchNode.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class PreparableMatchNode extends SimpleSelectorProcessingNode
                                  implements ParameterizableProcessingNode, Initializable {

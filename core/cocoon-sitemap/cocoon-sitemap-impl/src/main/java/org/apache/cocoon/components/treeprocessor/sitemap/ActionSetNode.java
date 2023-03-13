@@ -29,7 +29,7 @@ import org.apache.cocoon.components.treeprocessor.ProcessingNode;
 import org.apache.cocoon.environment.Environment;
 
 /**
- * @version $Id$
+ * @version $Id: ActionSetNode.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ActionSetNode extends AbstractProcessingNode
                            implements NamedProcessingNode {

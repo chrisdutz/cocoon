@@ -22,7 +22,7 @@ import org.apache.wsrp4j.consumer.driver.GenericUserRegistryImpl;
  * User registry storing all users in a {@link java.util.Hashtable}
  * in memory. The user registry is filled by the wsrp adapter.
  *
- * @version $Id$
+ * @version $Id: UserRegistryImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class UserRegistryImpl extends GenericUserRegistryImpl {
 

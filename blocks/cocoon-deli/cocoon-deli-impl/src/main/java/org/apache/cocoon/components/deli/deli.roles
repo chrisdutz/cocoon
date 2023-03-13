@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- $Id$ -->
+<!-- $Id: deli.roles 448870 2006-09-22 09:26:48Z crossley $ -->
 <role-list>
   <role name="org.apache.cocoon.components.deli.Deli"
         shorthand="deli"

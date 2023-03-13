@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: sdocbook2body.xsl 605414 2007-12-19 04:12:49Z vgritsenko $
   -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 version="1.0">

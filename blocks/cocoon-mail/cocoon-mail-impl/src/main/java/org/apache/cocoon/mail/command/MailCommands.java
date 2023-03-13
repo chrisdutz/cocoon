@@ -24,7 +24,7 @@ import javax.mail.MessagingException;
  * Execute a list of commands.
  *
  * @since 23 October 2002
- * @version $Id$
+ * @version $Id: MailCommands.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class MailCommands extends AbstractMailCommand {
 

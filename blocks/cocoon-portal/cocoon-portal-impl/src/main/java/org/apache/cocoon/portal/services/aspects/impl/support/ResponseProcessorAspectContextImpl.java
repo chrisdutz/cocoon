@@ -29,7 +29,7 @@ import org.xml.sax.SAXException;
 /**
  * The aspect context is passed to every aspect.
  *
- * @version $Id$
+ * @version $Id: ResponseProcessorAspectContextImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public final class ResponseProcessorAspectContextImpl
     extends BasicAspectContextImpl

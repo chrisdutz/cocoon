@@ -25,7 +25,7 @@ import org.apache.pluto.om.common.SecurityRoleRef;
 
 /**
  *
- * @version $Id$
+ * @version $Id: SecurityRoleRefImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class SecurityRoleRefImpl implements SecurityRoleRef, java.io.Serializable {
 

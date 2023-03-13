@@ -28,7 +28,7 @@ import org.xml.sax.XMLFilter;
 /**
  * This is the interface of the XSLT processor.
  *
- * @version $Id$
+ * @version $Id: XSLTProcessor.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface XSLTProcessor {
 

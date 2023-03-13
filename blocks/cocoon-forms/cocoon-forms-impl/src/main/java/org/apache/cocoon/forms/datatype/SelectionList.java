@@ -23,7 +23,7 @@ import org.xml.sax.SAXException;
 
 /**
  * Interface to be implemented by selection lists.
- * @version $Id$
+ * @version $Id: SelectionList.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface SelectionList {
     

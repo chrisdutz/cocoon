@@ -22,7 +22,7 @@ import org.apache.slide.util.logger.Logger;
 /**
  * The class represent an adapter for the logger for jakarta slide
  *
- * @version $Id$
+ * @version $Id: SlideLoggerAdapter.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class SlideLoggerAdapter implements Logger {
 

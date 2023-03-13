@@ -25,7 +25,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * AbstractAction gives you the infrastructure for easily deploying more
  * Actions.  In order to get at the Logger, use getLogger().
  *
- * @version $Id$
+ * @version $Id: AbstractAction.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractAction extends AbstractLogEnabled
                                      implements Action {

@@ -31,7 +31,7 @@ import java.util.Map;
 /**
  * A factory for {@link org.apache.cocoon.servlet.multipart.Part} based sources (see {@link PartSource}).
  *
- * @version $Id$
+ * @version $Id: PartSourceFactory.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class PartSourceFactory implements SourceFactory, Contextualizable, ThreadSafe
 {

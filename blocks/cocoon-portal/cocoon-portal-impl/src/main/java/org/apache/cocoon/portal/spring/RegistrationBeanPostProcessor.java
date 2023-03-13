@@ -32,7 +32,7 @@ import org.springframework.beans.factory.config.BeanPostProcessor;
  * This is a Spring bean post processor for registering portal
  * components to the {@link PortalService}.
  *
- * @version $Id$
+ * @version $Id: RegistrationBeanPostProcessor.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class RegistrationBeanPostProcessor
     implements BeanPostProcessor, BeanFactoryAware {

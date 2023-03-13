@@ -20,7 +20,7 @@ package org.apache.cocoon.components.xslt;
  * This exception is thrown by the XSLTProcessor. It will wrap any exceptions
  * thrown throughout the processing process.
  *
- * @version $Id$
+ * @version $Id: XSLTProcessorException.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class XSLTProcessorException
     extends Exception {

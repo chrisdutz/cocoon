@@ -99,7 +99,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * Generates an XML collection listing performing XPath queries on XML sources.
  * @cocoon.sitemap.component.documentation.caching Yes
  *
- * @version $Id$
+ * @version $Id: XPathTraversableGenerator.java 607379 2007-12-29 05:36:49Z vgritsenko $
  */
 public class XPathTraversableGenerator extends TraversableGenerator {
 

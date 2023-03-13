@@ -30,7 +30,7 @@ import org.apache.wsrp4j.consumer.ConsumerEnvironment;
  * not require a registration, set the registration interface url
  * to null<br/>
  *
- * @version $Id$
+ * @version $Id: ProducerDescription.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class ProducerDescription {
 

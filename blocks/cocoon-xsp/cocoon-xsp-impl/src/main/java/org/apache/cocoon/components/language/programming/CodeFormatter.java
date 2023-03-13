@@ -19,7 +19,7 @@ package org.apache.cocoon.components.language.programming;
 /**
  * This interface defines source beautifying formatting
  *
- * @version $Id$
+ * @version $Id: CodeFormatter.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface CodeFormatter {
   /**

@@ -24,7 +24,7 @@
   - contain any generator, transformer or serializer in addition to a
   - reader. They are useful for delivering binary content like images.
   -
-  - $Id$
+  - $Id: cocoon-core-readers.xml 605554 2007-12-19 14:40:24Z vgritsenko $
   -->
 <beans>
   <bean name="org.apache.cocoon.reading.Reader/resource"

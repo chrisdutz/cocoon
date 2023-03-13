@@ -28,7 +28,7 @@ import java.io.IOException;
 /**
  * This class encapsulates some helper methods.
  *
- * @version $Id$
+ * @version $Id: LuceneCocoonHelper.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class LuceneCocoonHelper {
 

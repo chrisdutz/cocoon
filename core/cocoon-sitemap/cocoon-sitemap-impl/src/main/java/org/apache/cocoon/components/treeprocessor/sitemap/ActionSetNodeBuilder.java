@@ -24,7 +24,7 @@ import org.apache.cocoon.components.treeprocessor.ProcessingNode;
 
 /**
  *
- * @version $Id$
+ * @version $Id: ActionSetNodeBuilder.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ActionSetNodeBuilder extends AbstractParentProcessingNodeBuilder implements ThreadSafe {
     

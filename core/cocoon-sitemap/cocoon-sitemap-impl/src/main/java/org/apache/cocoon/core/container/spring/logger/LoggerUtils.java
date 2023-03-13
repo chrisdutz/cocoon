@@ -28,7 +28,7 @@ import org.apache.cocoon.core.container.spring.avalon.AvalonUtils;
  * Commons Logging logger utilities.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: LoggerUtils.java 587720 2007-10-24 00:47:26Z vgritsenko $
  */
 public class LoggerUtils {
 

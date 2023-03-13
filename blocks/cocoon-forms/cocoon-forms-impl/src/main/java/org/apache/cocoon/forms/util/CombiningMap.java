@@ -28,7 +28,7 @@ import java.util.Set;
 /**
  * A read-only implementation of <code>Map</code> that combines several other maps.
  * 
- * @version $Id$
+ * @version $Id: CombiningMap.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class CombiningMap extends AbstractMap {
 

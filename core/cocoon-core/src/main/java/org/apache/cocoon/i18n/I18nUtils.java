@@ -33,7 +33,7 @@ import org.apache.cocoon.util.Deprecation;
 /**
  * A utility class for i18n formatting and parsing routing.
  *
- * @version $Id$
+ * @version $Id: I18nUtils.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class I18nUtils {
 

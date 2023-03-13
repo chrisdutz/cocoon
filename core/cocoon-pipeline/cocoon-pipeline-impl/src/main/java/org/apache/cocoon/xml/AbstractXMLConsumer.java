@@ -26,7 +26,7 @@ import org.xml.sax.SAXException;
  * This abstract class provides default implementation of the methods specified
  * by the <code>XMLConsumer</code> interface.
  *
- * @version $Id$
+ * @version $Id: AbstractXMLConsumer.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractXMLConsumer extends AbstractLogEnabled
                                           implements XMLConsumer {

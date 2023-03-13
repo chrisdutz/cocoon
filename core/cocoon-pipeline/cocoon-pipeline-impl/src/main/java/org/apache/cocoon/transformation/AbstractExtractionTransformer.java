@@ -36,7 +36,7 @@ import org.xml.sax.SAXException;
  * This transformer sieves an incoming stream of xml
  * and feeds a DOMBuilder with it.
  *
- * @version $Id$
+ * @version $Id: AbstractExtractionTransformer.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 abstract public class AbstractExtractionTransformer extends AbstractTransformer {
 

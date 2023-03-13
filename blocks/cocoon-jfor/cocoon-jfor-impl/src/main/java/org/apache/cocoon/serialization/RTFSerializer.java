@@ -28,7 +28,7 @@ import org.jfor.jfor.converter.Converter;
  * This class uses the <a href="http://www.jfor.org">jfor</a> library
  * to serialize XSL:FO documents to RTF streams.
  *
- * @version $Id$
+ * @version $Id: RTFSerializer.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 
 public class RTFSerializer extends AbstractTextSerializer {

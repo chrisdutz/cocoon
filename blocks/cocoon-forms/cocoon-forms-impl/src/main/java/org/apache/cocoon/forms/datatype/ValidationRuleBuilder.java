@@ -24,7 +24,7 @@ import org.w3c.dom.Element;
  * A ValidationRuleBuilder should be thread safe, only one instance of it
  * will be created.
  * 
- * @version $Id$
+ * @version $Id: ValidationRuleBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface ValidationRuleBuilder {
     public ValidationRule build(Element validationRuleElement) throws Exception;

@@ -17,7 +17,7 @@
  specific language governing permissions and limitations
  under the License.
 -->
-<!-- $Id$ -->
+<!-- $Id: cocoon-sample-sitemap-components-optional.xml 1450268 2013-02-26 16:39:32Z ilgrosso $ -->
 <beans xmlns="http://www.springframework.org/schema/beans" 
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans 

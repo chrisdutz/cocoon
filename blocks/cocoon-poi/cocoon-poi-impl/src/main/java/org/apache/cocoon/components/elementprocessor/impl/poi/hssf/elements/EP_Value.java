@@ -24,7 +24,7 @@ package org.apache.cocoon.components.elementprocessor.impl.poi.hssf.elements;
  *
  * This element has no attributes, but has string content
  *
- * @version $Id$
+ * @version $Id: EP_Value.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EP_Value extends BaseElementProcessor {
 

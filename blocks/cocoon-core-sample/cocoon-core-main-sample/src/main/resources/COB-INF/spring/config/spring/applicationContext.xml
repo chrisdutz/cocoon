@@ -18,7 +18,7 @@
 <!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
 
 <!--
-  - $Id$
+  - $Id: applicationContext.xml 597533 2007-11-23 03:38:18Z vgritsenko $
   -->
 <beans>
 

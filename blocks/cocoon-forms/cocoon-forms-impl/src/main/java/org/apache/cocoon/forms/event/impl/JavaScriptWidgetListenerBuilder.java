@@ -42,7 +42,7 @@ import org.w3c.dom.Element;
  * As shown above, the event that fired this listener is published as the <code>event</code>
  * variable.
  *
- * @version $Id$
+ * @version $Id: JavaScriptWidgetListenerBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JavaScriptWidgetListenerBuilder implements WidgetListenerBuilder {
 

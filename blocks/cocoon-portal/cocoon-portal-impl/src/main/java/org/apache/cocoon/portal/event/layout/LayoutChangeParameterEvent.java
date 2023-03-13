@@ -25,7 +25,7 @@ import org.apache.commons.lang.ObjectUtils;
 
 /**
  *
- * @version $Id$
+ * @version $Id: LayoutChangeParameterEvent.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class LayoutChangeParameterEvent
     extends LayoutEvent

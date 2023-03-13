@@ -28,7 +28,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * store.
  * 
  * @since   2.1
- * @version $Id$
+ * @version $Id: StoreIncludeCacheStorageProxy.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public final class StoreIncludeCacheStorageProxy extends AbstractLogEnabled
                                                  implements IncludeCacheStorageProxy {

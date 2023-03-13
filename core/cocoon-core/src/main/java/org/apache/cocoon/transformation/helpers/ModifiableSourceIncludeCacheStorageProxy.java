@@ -37,7 +37,7 @@ import org.apache.cocoon.util.HashUtil;
  * manner.
  * 
  * @since   2.1
- * @version $Id$
+ * @version $Id: ModifiableSourceIncludeCacheStorageProxy.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public final class ModifiableSourceIncludeCacheStorageProxy extends AbstractLogEnabled
                                                             implements IncludeCacheStorageProxy {

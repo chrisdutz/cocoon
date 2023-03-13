@@ -20,7 +20,7 @@ package org.apache.cocoon.components.language.markup.xsp;
  * This class is used as a XSLT extension class. It is used by the XSP
  * generation stylesheet to escape XML characters to make a valid Java strings.
  *
- * @version $Id$
+ * @version $Id: XSLTExtension.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class XSLTExtension {
 

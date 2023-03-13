@@ -19,7 +19,7 @@
 <!--
   - Portuguese message catalogue file for Cocoon 2 i18n sample
   -
-  - $Id$
+  - $Id: messages_pt.xml 605414 2007-12-19 04:12:49Z vgritsenko $
   -->
 <catalogue xml:lang="pt">
   <message key="count_title">Esta página foi acessada {0} vezes. Último acesso: {1}.</message>

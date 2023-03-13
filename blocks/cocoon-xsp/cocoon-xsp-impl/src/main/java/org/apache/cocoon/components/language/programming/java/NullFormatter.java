@@ -23,7 +23,7 @@ import org.apache.cocoon.components.language.programming.CodeFormatter;
  * This implementation doesn't do anything but returning the
  * passed code as is.
  *
- * @version $Id$
+ * @version $Id: NullFormatter.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class NullFormatter implements CodeFormatter {
 

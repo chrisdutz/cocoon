@@ -31,7 +31,7 @@ import java.util.Vector;
  * StringConstantModule returns a constant string.
  * Constant must be the only content of the configuration object.
  *
- * @version $Id$
+ * @version $Id: StringConstantModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class StringConstantModule extends AbstractInputModule implements ThreadSafe {
 

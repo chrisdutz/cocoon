@@ -23,7 +23,7 @@ import org.apache.cocoon.SitemapComponentTestCase;
 /**
  *
  *
- * @version $Id$
+ * @version $Id: TextGeneratorTestCase.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class TextGeneratorTestCase extends SitemapComponentTestCase {
 

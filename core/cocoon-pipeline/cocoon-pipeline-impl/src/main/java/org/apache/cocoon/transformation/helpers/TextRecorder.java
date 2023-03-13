@@ -20,7 +20,7 @@ package org.apache.cocoon.transformation.helpers;
  * This class records all character SAX events and creates a string
  * from them.
  *
- * @version $Id$
+ * @version $Id: TextRecorder.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public final class TextRecorder extends NOPRecorder {
 

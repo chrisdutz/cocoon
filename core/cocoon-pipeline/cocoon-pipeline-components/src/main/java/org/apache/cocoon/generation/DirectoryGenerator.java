@@ -58,7 +58,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * Uses the last modification date of the directory and the contained files.
  * @cocoon.sitemap.component.pooling.max  16
  *
- * @version $Id$
+ * @version $Id: DirectoryGenerator.java 605689 2007-12-19 20:48:43Z vgritsenko $
  */
 public class DirectoryGenerator extends ServiceableGenerator
                                 implements CacheableProcessingComponent {

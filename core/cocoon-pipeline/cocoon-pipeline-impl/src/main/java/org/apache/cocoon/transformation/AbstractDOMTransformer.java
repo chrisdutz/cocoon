@@ -42,7 +42,7 @@ import java.util.Map;
  * If you need a ServiceManager there is an instance variable
  * <code>manager</code> for use.
  *
- * @version $Id$
+ * @version $Id: AbstractDOMTransformer.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractDOMTransformer extends AbstractTransformer
         implements DOMBuilder.Listener, Serviceable, Disposable {

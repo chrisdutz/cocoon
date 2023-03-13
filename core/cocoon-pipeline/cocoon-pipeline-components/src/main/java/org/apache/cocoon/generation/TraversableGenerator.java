@@ -103,7 +103,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * Generates an XML source hierarchy listing from a Traversable Source.
  * @cocoon.sitemap.component.documentation.caching Yes
  *
- * @version $Id$
+ * @version $Id: TraversableGenerator.java 607379 2007-12-29 05:36:49Z vgritsenko $
  */
 public class TraversableGenerator extends ServiceableGenerator
                                   implements CacheableProcessingComponent {

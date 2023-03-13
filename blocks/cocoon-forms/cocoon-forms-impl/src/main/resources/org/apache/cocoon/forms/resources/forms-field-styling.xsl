@@ -19,7 +19,7 @@
 <!--+
     | This stylesheet is designed to be included by 'forms-samples-styling.xsl'.
     |
-    | @version $Id$
+    | @version $Id: forms-field-styling.xsl 652048 2008-04-28 02:56:54Z joerg $
     +-->
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform"

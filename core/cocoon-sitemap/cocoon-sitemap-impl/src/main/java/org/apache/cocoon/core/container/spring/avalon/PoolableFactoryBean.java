@@ -39,7 +39,7 @@ import org.springframework.beans.factory.FactoryBean;
  * This factory bean adds simple pooling support to Spring.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: PoolableFactoryBean.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class PoolableFactoryBean
     implements FactoryBean, BeanFactoryAware {

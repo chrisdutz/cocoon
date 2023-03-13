@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- $Id$ -->
+<!-- $Id: archetype.xml 642116 2008-03-28 08:00:47Z reinhard $ -->
 <archetype>
   <id>cocoon-archetype-block</id>
   <resources>

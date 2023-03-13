@@ -59,7 +59,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * will fetch the first column returned by the statement "<code>SELECT photo
  * from people where userid='foo'</code>" in the datasource "<code>personel</code>"
  *
- * @version $Id$
+ * @version $Id: BlobSource.java 591678 2007-11-03 20:36:51Z felixk $
  */
 public class BlobSource extends AbstractLogEnabled
                         implements Source, Serviceable {

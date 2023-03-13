@@ -35,7 +35,7 @@ import org.w3c.dom.Element;
 /**
  * Form model library.
  *
- * @version $Id$
+ * @version $Id: Library.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public class Library {
 

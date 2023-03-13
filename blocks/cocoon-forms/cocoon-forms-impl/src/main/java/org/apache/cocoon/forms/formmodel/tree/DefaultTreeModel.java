@@ -24,7 +24,7 @@ import java.util.Map;
 /**
  * A default tree model, implemented with {@link org.apache.cocoon.forms.formmodel.tree.DefaultTreeModel.TreeNode}s.
  * 
- * @version $Id$
+ * @version $Id: DefaultTreeModel.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class DefaultTreeModel implements TreeModel {
     

@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- CVS $Id$ -->
+<!-- CVS $Id: samples.xml 452872 2006-10-04 12:19:35Z bdelacretaz $ -->
 <samples xmlns:xlink="http://www.w3.org/1999/xlink" name="FOP NG Block Samples">
 
     <group name="Back">

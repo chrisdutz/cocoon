@@ -47,7 +47,7 @@ import java.util.Map;
  * @cocoon.sitemap.component.documentation
  * A <code>Selector</code> that matches a string in the parameters object passed to it.
  *
- * @version $Id$
+ * @version $Id: ParameterSelector.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class ParameterSelector implements ThreadSafe, Selector {
 

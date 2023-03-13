@@ -52,7 +52,7 @@ import org.apache.cocoon.environment.SourceResolver;
  * exist, action fails. Additionaly it will make all propagated values
  * available via returned Map.
  *
- * @version $Id$
+ * @version $Id: SessionPropagatorAction.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class SessionPropagatorAction extends AbstractConfigurableAction implements ThreadSafe {
 

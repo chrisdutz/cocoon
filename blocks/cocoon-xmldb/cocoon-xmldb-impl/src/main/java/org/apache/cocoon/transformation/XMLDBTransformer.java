@@ -139,7 +139,7 @@ import org.xmldb.api.modules.XUpdateQueryService;
  * <li>No namespaces with Xalan (see AbstractTextSerializer)</li>
  * </ul>
  *
- * @version $Id$
+ * @version $Id: XMLDBTransformer.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class XMLDBTransformer extends AbstractTransformer
         implements CacheableProcessingComponent, Configurable, Initializable {

@@ -23,7 +23,7 @@ import org.apache.cocoon.auth.User;
 /**
  * Interface for the user dao.
  * 
- * @version $Id$
+ * @version $Id: UserDAO.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public interface UserDAO {
 

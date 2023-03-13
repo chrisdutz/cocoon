@@ -23,7 +23,7 @@ import org.xml.sax.SAXException;
  * This interface indicates an XLinkHandler that uses the same
  * event driven design patterns that SAX enforces.
  *
- * @version $Id$
+ * @version $Id: XLinkHandler.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface XLinkHandler  {
 

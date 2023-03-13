@@ -33,7 +33,7 @@ import java.util.Vector;
  * range of random number. Defaults to "0" and "9999999999"
  * respectively.
  *
- * @version $Id$
+ * @version $Id: RandomNumberModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class RandomNumberModule extends AbstractInputModule implements ThreadSafe {
 

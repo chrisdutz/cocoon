@@ -35,7 +35,7 @@ import org.apache.avalon.framework.service.ServiceManager;
  * You are of course free to use any container features in your beans like
  * dependency injection.
  * 
- * @version $Id$
+ * @version $Id: SpringApplesProcessor.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public class SpringApplesProcessor extends ApplesProcessor {
 

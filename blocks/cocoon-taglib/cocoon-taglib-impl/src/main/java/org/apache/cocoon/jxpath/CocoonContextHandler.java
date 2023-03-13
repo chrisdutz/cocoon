@@ -26,7 +26,7 @@ import org.apache.commons.jxpath.DynamicPropertyHandler;
  * Implementation of the DynamicPropertyHandler interface that provides
  * access to attributes of a Cocoon Context.
  *
- * @version $Id$
+ * @version $Id: CocoonContextHandler.java 449187 2006-09-23 06:46:42Z crossley $
  */
 public class CocoonContextHandler implements DynamicPropertyHandler {
 

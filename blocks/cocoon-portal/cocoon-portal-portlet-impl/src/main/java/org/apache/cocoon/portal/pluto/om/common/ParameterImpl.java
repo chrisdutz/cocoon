@@ -27,7 +27,7 @@ import org.apache.pluto.util.StringUtils;
 
 /**
  *
- * @version $Id$
+ * @version $Id: ParameterImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class ParameterImpl
     extends org.apache.cocoon.portal.util.ParameterImpl

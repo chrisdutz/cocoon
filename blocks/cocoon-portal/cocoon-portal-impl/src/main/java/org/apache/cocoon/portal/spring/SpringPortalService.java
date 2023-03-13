@@ -25,7 +25,7 @@ import org.springframework.context.ApplicationContextAware;
  * This extension of the {@link AbstractPortalService} uses Spring
  * to resolve the dependencies.
  *
- * @version $Id$
+ * @version $Id: SpringPortalService.java 606937 2007-12-26 19:05:01Z cziegeler $
  */
 public class SpringPortalService
     extends AbstractPortalService

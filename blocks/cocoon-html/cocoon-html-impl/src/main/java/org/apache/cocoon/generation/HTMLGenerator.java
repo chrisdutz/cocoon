@@ -65,7 +65,7 @@ import org.xml.sax.SAXException;
  * Uses the last modification date of the xml document for validation
  * @cocoon.sitemap.component.pooling.max  32
  *
- * @version $Id$
+ * @version $Id: HTMLGenerator.java 605689 2007-12-19 20:48:43Z vgritsenko $
  */
 public class HTMLGenerator extends ServiceableGenerator
                            implements Configurable, CacheableProcessingComponent, Disposable {

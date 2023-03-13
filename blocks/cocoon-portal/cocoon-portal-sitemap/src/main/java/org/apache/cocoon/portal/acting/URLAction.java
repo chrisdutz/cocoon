@@ -30,7 +30,7 @@ import org.apache.cocoon.util.NetUtils;
  * This action builds correct urls. It uses the src parameter as the base url
  * and adds all sitemap parameters as request parameters.
  *
- * @version $Id$
+ * @version $Id: URLAction.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class URLAction
     extends ServiceableAction

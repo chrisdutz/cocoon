@@ -33,7 +33,7 @@ import org.xml.sax.SAXException;
 import org.xml.sax.helpers.AttributesImpl;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: StartElement.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class StartElement extends Event {
     public StartElement(ParsingContext parsingContext, Locator location, String namespaceURI,

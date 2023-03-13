@@ -29,7 +29,7 @@ import org.xml.sax.ext.LexicalHandler;
  * <li>Ignore startDTD, endDTD, and all comments within DTD.
  * </ul>
  *
- * @version $Id$
+ * @version $Id: IncludeXMLConsumer.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public class IncludeXMLConsumer implements ContentHandler, LexicalHandler {
 

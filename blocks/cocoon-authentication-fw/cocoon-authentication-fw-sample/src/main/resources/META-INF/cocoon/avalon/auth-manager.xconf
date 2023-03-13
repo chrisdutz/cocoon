@@ -19,7 +19,7 @@
 <!--
   - This is the configuration for the authentication-fw.
   -
-  - $Id$
+  - $Id: auth-manager.xconf 588098 2007-10-25 01:07:46Z vgritsenko $
   -->
 <components>
   <authentication-manager>

@@ -39,7 +39,7 @@ import org.apache.poi.poifs.filesystem.POIFSFileSystem;
  * an ElementProcessor that chooses to simply extend this class with
  * no overrides will be a no-op ElementProcessor.
  *
- * @version $Id$
+ * @version $Id: BaseElementProcessor.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class BaseElementProcessor extends AbstractLogEnabled
      implements POIFSElementProcessor

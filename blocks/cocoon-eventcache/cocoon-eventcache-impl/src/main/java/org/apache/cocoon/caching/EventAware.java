@@ -22,7 +22,7 @@ import org.apache.cocoon.caching.validity.Event;
  * Defines the simple contract for components that need to receive notification 
  * of cache Events.
  * 
- * @version $Id$
+ * @version $Id: EventAware.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface EventAware {
 

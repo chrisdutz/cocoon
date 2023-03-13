@@ -21,7 +21,7 @@ import org.apache.cocoon.portal.event.Event;
 /**
  * This event changes the value of an instance.
  *
- * @version $Id$
+ * @version $Id: JXPathEvent.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public interface JXPathEvent extends Event {
 

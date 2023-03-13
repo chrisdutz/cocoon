@@ -26,7 +26,7 @@ import org.w3c.dom.Element;
  * Builds a CAPTCHA validator.
  * 
  * @see org.apache.cocoon.forms.validation.impl.CaptchaValidator
- * @version $Id$
+ * @version $Id: CaptchaValidatorBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class CaptchaValidatorBuilder implements WidgetValidatorBuilder {
 

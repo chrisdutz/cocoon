@@ -24,7 +24,7 @@ package org.apache.cocoon.portal.event;
  * All Events have a common ancestor type {@link Event} and the event types are
  * identified by a (sub)class
  *
- * @version $Id$
+ * @version $Id: EventManager.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface EventManager {
 

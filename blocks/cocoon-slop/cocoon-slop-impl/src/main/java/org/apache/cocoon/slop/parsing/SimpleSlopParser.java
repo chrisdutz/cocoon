@@ -37,7 +37,7 @@ import org.apache.cocoon.slop.interfaces.SlopConstants;
  * between the header and body of the email message and parse them
  * with different rules.
  *
- * @version $Id$
+ * @version $Id: SimpleSlopParser.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class SimpleSlopParser implements SlopParser,SlopConstants {
 

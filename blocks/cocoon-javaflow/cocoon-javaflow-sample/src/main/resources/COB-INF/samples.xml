@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- $Id$-->
+<!-- $Id: samples.xml 449152 2006-09-23 04:17:12Z crossley $-->
 <samples name="Java Flow Block Samples" xmlns:xlink="http://www.w3.org/1999/xlink">
 
  <group name="Back">

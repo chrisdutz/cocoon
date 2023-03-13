@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: sitemap.xmap 609777 2008-01-07 21:06:04Z cziegeler $
   -->
 <map:sitemap xmlns:map="http://apache.org/cocoon/sitemap/1.0"
              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"

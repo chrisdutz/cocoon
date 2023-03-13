@@ -41,7 +41,7 @@ import org.mozilla.javascript.debug.Debugger;
  * negligible impact on the performances of the Rhino interpreter.
  * 
  * @since 2.1.8
- * @version $Id$
+ * @version $Id: LocationTrackingDebugger.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class LocationTrackingDebugger implements Debugger {
     

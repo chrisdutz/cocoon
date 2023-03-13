@@ -30,7 +30,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * Factory for Avalon based components.
  *
  * @since 2.2
- * @version $Id$
+ * @version $Id: ComponentFactory.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ComponentFactory extends AbstractLogEnabled {
     

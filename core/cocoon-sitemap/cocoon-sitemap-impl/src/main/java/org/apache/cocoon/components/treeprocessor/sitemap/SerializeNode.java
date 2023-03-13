@@ -30,7 +30,7 @@ import org.apache.cocoon.environment.Environment;
 import org.apache.cocoon.sitemap.SitemapExecutor;
 
 /**
- * @version $Id$
+ * @version $Id: SerializeNode.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class SerializeNode extends PipelineEventComponentProcessingNode
                            implements ParameterizableProcessingNode {

@@ -31,7 +31,7 @@ import org.xml.sax.SAXException;
 import org.xml.sax.SAXParseException;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: TextEvent.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class TextEvent extends Event {
     public TextEvent(ParsingContext parsingContext, Locator location, char[] chars, int start, int length)

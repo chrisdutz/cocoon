@@ -19,7 +19,7 @@ package org.apache.cocoon.forms.formmodel;
 /**
  * The {@link WidgetDefinition} part of a Messages widget, see {@link Messages} for more information.
  * 
- * @version $Id$
+ * @version $Id: MessagesDefinition.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class MessagesDefinition extends AbstractWidgetDefinition {
     public Widget createInstance() {

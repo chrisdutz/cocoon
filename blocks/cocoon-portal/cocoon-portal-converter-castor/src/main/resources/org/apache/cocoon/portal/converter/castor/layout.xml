@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- @version $Id$ -->
+<!-- @version $Id: layout.xml 633288 2008-03-03 21:54:41Z cziegeler $ -->
 <mapping>
   <description>Portalprofile mapping file</description>
 

@@ -117,7 +117,7 @@ import org.xml.sax.ext.LexicalHandler;
  *  - getAuthType()
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: RequestSessionContext.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public final class RequestSessionContext implements SessionContext {
 

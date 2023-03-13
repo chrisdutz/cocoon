@@ -29,7 +29,7 @@ import org.xml.sax.ext.LexicalHandler;
  * its <code>XMLConsumers</code> interface.
  * <br>
  *
- * @version $Id$
+ * @version $Id: ContentHandlerWrapper.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ContentHandlerWrapper extends AbstractXMLConsumer implements Recyclable {
 

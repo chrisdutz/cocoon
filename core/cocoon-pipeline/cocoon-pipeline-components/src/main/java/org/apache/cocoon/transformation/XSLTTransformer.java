@@ -131,7 +131,7 @@ import org.xml.sax.SAXException;
  * Uses the last modification date of the xslt document for validation
  * @cocoon.sitemap.component.pooling.max  32
  *
- * @version SVN $Id$
+ * @version SVN $Id: XSLTTransformer.java 605605 2007-12-19 16:19:51Z vgritsenko $
  */
 public class XSLTTransformer extends AbstractTransformer
                              implements Serviceable, Configurable, CacheableProcessingComponent,

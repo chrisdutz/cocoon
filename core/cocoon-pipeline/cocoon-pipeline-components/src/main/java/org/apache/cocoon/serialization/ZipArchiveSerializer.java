@@ -71,7 +71,7 @@ import org.xml.sax.helpers.NamespaceSupport;
  * A serializer that builds Zip archives by aggregating several sources.
  * @cocoon.sitemap.component.documentation.caching Not Implemented
  *
- * @version $Id$
+ * @version $Id: ZipArchiveSerializer.java 607379 2007-12-29 05:36:49Z vgritsenko $
  */
 
 // TODO (1) : handle more attributes on <archive> for properties of ZipOutputStream

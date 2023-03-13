@@ -54,7 +54,7 @@ import java.util.Vector;
  * getAttributeValues() will return an array of all existing paths. 
  * getAttributeNames() will return an Iterator to an empty collection.</p>
  * 
- * @version $Id$
+ * @version $Id: LocateResource.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class LocateResource extends AbstractInputModule implements Serviceable, ThreadSafe {
 

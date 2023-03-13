@@ -21,7 +21,7 @@ import java.util.Map;
 /**
  * A <code>ProcessingNode</code> that has parameters.
  *
- * @version $Id$
+ * @version $Id: ParameterizableProcessingNode.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface ParameterizableProcessingNode extends ProcessingNode {
 

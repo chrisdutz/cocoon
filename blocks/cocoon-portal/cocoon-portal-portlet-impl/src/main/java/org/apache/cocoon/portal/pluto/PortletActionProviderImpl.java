@@ -34,7 +34,7 @@ import org.apache.pluto.services.information.PortletActionProvider;
 /**
  *
  *
- * @version $Id$
+ * @version $Id: PortletActionProviderImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortletActionProviderImpl implements PortletActionProvider {
 

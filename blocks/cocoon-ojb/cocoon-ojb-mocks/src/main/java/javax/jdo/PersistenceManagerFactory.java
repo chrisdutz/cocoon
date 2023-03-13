@@ -20,7 +20,7 @@ package javax.jdo;
  * Mock class providing the declarations required to compile the Cocoon code when
  * the actual library is not present.
  * 
- * @version $Id$
+ * @version $Id: PersistenceManagerFactory.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 
 import javax.jdo.PersistenceManager;

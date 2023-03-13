@@ -25,7 +25,7 @@ import java.io.OutputStream;
  * database. Advanced methods and all methods for modifying the BLOB
  * are not implemented.
  *
- * @version $Id$
+ * @version $Id: BlobHelper.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class BlobHelper implements Blob{
 

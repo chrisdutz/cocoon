@@ -40,7 +40,7 @@ import org.xml.sax.SAXException;
  * back afterwards. It should be placed after a sitemap component that
  * is be executed in another environment.
  *
- * @version $Id$
+ * @version $Id: PopEnvironmentChanger.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 final class PopEnvironmentChanger

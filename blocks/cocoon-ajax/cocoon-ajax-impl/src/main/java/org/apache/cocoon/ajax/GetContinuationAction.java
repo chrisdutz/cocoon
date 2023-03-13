@@ -54,7 +54,7 @@ import org.apache.cocoon.sitemap.SitemapParameters;
  * to the continuation that originally displayed the current page.
  *
  * @since 2.1.8
- * @version $Id$
+ * @version $Id: GetContinuationAction.java 607381 2007-12-29 05:42:58Z vgritsenko $
  */
 public class GetContinuationAction extends ServiceableAction implements ThreadSafe, Disposable {
     ContinuationsManager contManager;

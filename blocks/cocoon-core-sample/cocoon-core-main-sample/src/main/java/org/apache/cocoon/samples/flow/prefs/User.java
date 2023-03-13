@@ -27,7 +27,7 @@ package org.apache.cocoon.samples.flow.prefs;
 
 /**
  *
- * @version CVS $Id$
+ * @version CVS $Id: User.java 595986 2007-11-17 19:03:47Z felixk $
  */
 public class User
 {

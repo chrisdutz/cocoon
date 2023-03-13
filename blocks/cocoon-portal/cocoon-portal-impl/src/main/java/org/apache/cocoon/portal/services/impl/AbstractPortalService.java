@@ -42,7 +42,7 @@ import org.apache.commons.logging.LogFactory;
  * Default implementation of a portal service using a session to store
  * custom information.
  *
- * @version $Id$
+ * @version $Id: AbstractPortalService.java 682758 2008-08-05 15:31:50Z cziegeler $
  */
 public abstract class AbstractPortalService
     implements PortalService {

@@ -35,7 +35,7 @@ import org.apache.cocoon.auth.impl.StandardApplication;
 /**
  * This is a default implementation for a portal application.
  *
- * @version $Id$
+ * @version $Id: StandardPortalApplication.java 587755 2007-10-24 02:50:56Z vgritsenko $
 */
 public class StandardPortalApplication
     extends StandardApplication {

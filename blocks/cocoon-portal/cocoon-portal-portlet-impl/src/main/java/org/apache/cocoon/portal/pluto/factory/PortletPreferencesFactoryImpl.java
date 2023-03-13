@@ -26,7 +26,7 @@ import org.apache.pluto.om.portlet.PortletDefinition;
 /**
  * Our own preferences factory.
  *
- * @version $Id$
+ * @version $Id: PortletPreferencesFactoryImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortletPreferencesFactoryImpl
     extends AbstractFactory

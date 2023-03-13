@@ -27,7 +27,7 @@ import java.util.Locale;
 /**
  * Builds {@link FormattingDateConvertor}s.
  *
- * @version $Id$
+ * @version $Id: FormattingDateConvertorBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class FormattingDateConvertorBuilder implements DateConvertorBuilder {
     public Convertor build(Element configElement) throws Exception {

@@ -38,7 +38,7 @@ import org.xml.sax.SAXException;
  * The JellyGenerator executes jelly scripts using the Jakarta Jelly engine
  * as a Cocoon Generator. 
  *
- * @version $Id$
+ * @version $Id: JellyGenerator.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class JellyGenerator 
     extends AbstractGenerator {

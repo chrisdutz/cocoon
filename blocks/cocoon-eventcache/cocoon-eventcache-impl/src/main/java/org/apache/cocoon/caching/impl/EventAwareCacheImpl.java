@@ -36,7 +36,7 @@ import org.apache.excalibur.source.impl.validity.AbstractAggregatedValidity;
  * This implementation holds all mappings between Events and PipelineCacheKeys 
  * in two MultiHashMap to facilitate efficient lookup by either as Key.
  * 
- * @version $Id$
+ * @version $Id: EventAwareCacheImpl.java 680697 2008-07-29 13:54:14Z reinhard $
  */
 public class EventAwareCacheImpl extends CacheImpl implements EventAware {
 

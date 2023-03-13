@@ -48,7 +48,7 @@ import org.xml.sax.SAXException;
  * can be used with the Datatype (see {@link Datatype} description for more
  * information).</p>
  *
- * @version $Id$
+ * @version $Id: MultiValueField.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class MultiValueField extends AbstractWidget
                              implements ValidationErrorAware, SelectableWidget, DataWidget,

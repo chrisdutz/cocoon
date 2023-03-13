@@ -20,7 +20,7 @@ import org.apache.cocoon.template.instruction.Instruction;
 import org.xml.sax.Locator;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: EndInstruction.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class EndInstruction extends Event {
     public EndInstruction(Locator locator, Instruction startInstruction) {

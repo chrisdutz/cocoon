@@ -36,7 +36,7 @@ import org.w3c.dom.NodeList;
 /**
  * Static class for configuring a CocoonBean from a DOM Document object
  *
- * @version $Id$
+ * @version $Id: BeanConfigurator.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class BeanConfigurator {
 

@@ -31,7 +31,7 @@ import org.apache.cocoon.webapps.authentication.configuration.HandlerConfigurati
  *  This is a utility class managing the authentication handlers.
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: DefaultHandlerManager.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public final class DefaultHandlerManager {
 

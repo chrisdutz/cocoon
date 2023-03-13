@@ -35,7 +35,7 @@ import org.w3c.dom.Element;
  *     which means: "lenient mode inherited from parent" </li>
  * </ul>
  *
- * @version $Id$
+ * @version $Id: JXPathBindingBuilderBase.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public abstract class JXPathBindingBuilderBase implements JXPathBindingBuilder {
 

@@ -48,7 +48,7 @@ import org.xml.sax.SAXException;
  * 3) Any component can set the id as a string in the object model of the current request.
  *    This is the name of the key to be used: {@link org.apache.cocoon.portal.Constants#COPLET_ID_KEY}.
  *
- * @version $Id$
+ * @version $Id: AbstractCopletTransformer.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public abstract class AbstractCopletTransformer
 extends AbstractSAXTransformer {

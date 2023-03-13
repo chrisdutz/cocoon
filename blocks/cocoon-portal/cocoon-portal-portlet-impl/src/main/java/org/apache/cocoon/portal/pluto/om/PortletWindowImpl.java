@@ -24,7 +24,7 @@ import org.apache.pluto.om.window.PortletWindowCtrl;
 
 /**
  *
- * @version $Id$
+ * @version $Id: PortletWindowImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortletWindowImpl implements PortletWindow, PortletWindowCtrl {
 

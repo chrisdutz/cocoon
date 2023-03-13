@@ -51,7 +51,7 @@ import org.xml.sax.SAXException;
  * entered in a textbox. The validation of the field is delegated to its associated
  * Datatype.
  *
- * @version $Id$
+ * @version $Id: Field.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class Field extends AbstractWidget
                    implements ValidationErrorAware, DataWidget, SelectableWidget,

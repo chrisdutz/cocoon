@@ -22,7 +22,7 @@ import java.util.Locale;
  * Bundle Factory implementations are responsible for loading and providing
  * particular types of resource bundles, implementors of Bundle interface.
  *
- * @version $Id$
+ * @version $Id: BundleFactory.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public interface BundleFactory {
 

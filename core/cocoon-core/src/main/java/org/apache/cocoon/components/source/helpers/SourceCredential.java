@@ -20,7 +20,7 @@ package org.apache.cocoon.components.source.helpers;
 /**
  * This class represents a credential for a given user
  *
- * @version $Id$
+ * @version $Id: SourceCredential.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class SourceCredential {
 

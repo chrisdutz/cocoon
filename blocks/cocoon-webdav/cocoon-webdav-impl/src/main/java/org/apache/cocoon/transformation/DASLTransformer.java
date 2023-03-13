@@ -106,7 +106,7 @@ import org.xml.sax.helpers.AttributesImpl;
  *
  * TODO: *much* better error handling.
  *
- * @version $Id$
+ * @version $Id: DASLTransformer.java 601552 2007-12-05 22:08:06Z jreijn $
  */
 public class DASLTransformer extends AbstractSAXTransformer {
 

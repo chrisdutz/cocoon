@@ -26,7 +26,7 @@ import org.apache.cocoon.environment.Environment;
  * For developing your own components/applications based on Cocoon, you shouldn't 
  * really need it.
  *
- * @version $Id$
+ * @version $Id: EnvironmentInfo.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 public class EnvironmentInfo {

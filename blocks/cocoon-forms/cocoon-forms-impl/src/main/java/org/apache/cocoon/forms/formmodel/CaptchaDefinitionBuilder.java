@@ -23,7 +23,7 @@ import org.w3c.dom.Element;
  * Builds {@link CaptchaFieldDefinition}s.
  *
  * @see <a href="http://www.captcha.net">www.captcha.net</a>
- * @version $Id$
+ * @version $Id: CaptchaDefinitionBuilder.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public class CaptchaDefinitionBuilder extends AbstractDatatypeWidgetDefinitionBuilder {
 

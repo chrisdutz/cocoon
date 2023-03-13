@@ -33,7 +33,7 @@ import org.w3c.dom.Node;
  * <li>This expects the back-end model to be an XML file.</li>
  * </ol>
  *
- * @version $Id$
+ * @version $Id: InsertNodeJXPathBinding.java 640682 2008-03-25 03:23:17Z vgritsenko $
  */
 public class InsertNodeJXPathBinding extends JXPathBindingBase {
 

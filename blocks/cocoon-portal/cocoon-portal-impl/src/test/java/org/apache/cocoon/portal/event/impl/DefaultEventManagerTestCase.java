@@ -23,7 +23,7 @@ import org.apache.cocoon.portal.event.Event;
 import org.apache.cocoon.portal.event.Receiver;
 
 /**
- * $Id$
+ * $Id: DefaultEventManagerTestCase.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class DefaultEventManagerTestCase extends TestCase {
 

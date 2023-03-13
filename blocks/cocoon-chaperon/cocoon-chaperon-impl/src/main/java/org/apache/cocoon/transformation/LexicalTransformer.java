@@ -73,7 +73,7 @@ import org.xml.sax.SAXException;
  * &lt;/lexemes&gt;
  * </pre>
  *
- * @version $Id$
+ * @version $Id: LexicalTransformer.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public class LexicalTransformer extends LexicalProcessor
                                 implements Transformer, Serviceable, Recyclable, Disposable,

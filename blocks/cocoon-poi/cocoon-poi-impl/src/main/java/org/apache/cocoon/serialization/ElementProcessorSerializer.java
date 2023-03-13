@@ -41,7 +41,7 @@ import org.xml.sax.SAXException;
  *    <li>void doPreInitialization(ElementProcessor processor)</li>
  * </ul>
  *
- * @version $Id$
+ * @version $Id: ElementProcessorSerializer.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class ElementProcessorSerializer
     extends AbstractSerializer {

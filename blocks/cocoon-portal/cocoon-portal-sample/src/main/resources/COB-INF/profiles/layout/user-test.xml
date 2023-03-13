@@ -15,7 +15,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!-- SVN $Id$ -->
+<!-- SVN $Id: user-test.xml 609777 2008-01-07 21:06:04Z cziegeler $ -->
 <composite-layout type="tab" id="maintab">
 
   <named-item name="Sample One">

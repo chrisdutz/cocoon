@@ -29,7 +29,7 @@ import org.apache.cocoon.forms.event.*;
  * ActionEvent when a requestparameter is present with as name the id of this Action widget, and as
  * value a non-empty value.
  *
- * @version $Id$
+ * @version $Id: Action.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class Action extends AbstractWidget implements ActionListenerEnabled {
 

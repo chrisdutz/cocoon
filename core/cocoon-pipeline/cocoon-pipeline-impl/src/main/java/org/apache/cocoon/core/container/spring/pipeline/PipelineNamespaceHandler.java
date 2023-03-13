@@ -30,7 +30,7 @@ import org.springframework.beans.factory.xml.NamespaceHandlerSupport;
  * <dd>with optional attributes "mime-type", "label" and "hint".</dd>
  * </dl>
  *
- * @version $Id$
+ * @version $Id: PipelineNamespaceHandler.java 605544 2007-12-19 14:03:30Z vgritsenko $
  * @since 2.2
  */
 public class PipelineNamespaceHandler extends NamespaceHandlerSupport {

@@ -20,7 +20,7 @@ package org.apache.cocoon.components.elementprocessor.impl.poi.hssf.elements;
 /**
  * GTK type codes
  *
- * @version $Id$
+ * @version $Id: GTKTypes.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class GTKTypes {
     public static final int GTK_TYPE_INVALID = 0;

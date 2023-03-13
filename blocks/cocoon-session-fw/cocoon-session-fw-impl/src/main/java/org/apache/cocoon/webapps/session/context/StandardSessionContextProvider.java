@@ -40,7 +40,7 @@ import org.apache.cocoon.webapps.session.SessionConstants;
  *  response context.
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: StandardSessionContextProvider.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public final class StandardSessionContextProvider extends AbstractLogEnabled
                                                   implements SessionContextProvider, ThreadSafe, Contextualizable,

@@ -37,7 +37,7 @@ import javax.servlet.http.HttpSessionContext;
 /**
  * Create a HttpServletRequest from an URL, that is used while calling e.g. a block.
  * 
- * @version $Id$
+ * @version $Id: BlockCallHttpServletRequest.java 587749 2007-10-24 02:33:18Z vgritsenko $
  */
 public class BlockCallHttpServletRequest implements HttpServletRequest{
     

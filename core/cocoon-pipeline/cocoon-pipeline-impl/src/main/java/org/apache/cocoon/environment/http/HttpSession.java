@@ -45,7 +45,7 @@ import org.apache.cocoon.environment.impl.AbstractSession;
  * (<code>Context</code>), so information stored in one context
  * will not be directly visible in another.
  *
- * @version $Id$
+ * @version $Id: HttpSession.java 685540 2008-08-13 13:27:36Z gkossakowski $
  * @deprecated This class extends deprecated class and will be removed in the future.
  *             See {@link Session} interface for details.
  */

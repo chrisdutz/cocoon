@@ -21,7 +21,7 @@ import org.apache.wsrp4j.consumer.ConsumerEnvironment;
 /**
  * This interface marks a component if the component needs a reference to consumer environment.
  *
- * @version $Id$
+ * @version $Id: RequiresConsumerEnvironment.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public interface RequiresConsumerEnvironment {
 

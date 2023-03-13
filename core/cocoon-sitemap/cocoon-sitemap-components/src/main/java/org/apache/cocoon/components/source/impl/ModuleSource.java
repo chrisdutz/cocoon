@@ -50,7 +50,7 @@ import org.apache.cocoon.components.modules.input.InputModule;
  * </ul>
  * </p>
  *
- * @version $Id$
+ * @version $Id: ModuleSource.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class ModuleSource extends AbstractSource {
 

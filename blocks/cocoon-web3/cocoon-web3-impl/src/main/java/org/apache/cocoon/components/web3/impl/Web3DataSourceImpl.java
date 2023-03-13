@@ -34,7 +34,7 @@ import com.sap.mw.jco.JCO;
  * normal <code>com.sap.mw.jco.JCO</code> classes.
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: Web3DataSourceImpl.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class Web3DataSourceImpl extends AbstractLogEnabled
                                 implements Web3DataSource, ThreadSafe {

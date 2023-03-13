@@ -35,7 +35,7 @@ import org.apache.cocoon.forms.formmodel.Widget;
  * may lead to inconsistencies in the form model because of the way form validation occurs (depth-first
  * traversal of the widget tree).
  * 
- * @version $Id$
+ * @version $Id: WidgetValidator.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface WidgetValidator {
     

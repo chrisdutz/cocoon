@@ -21,7 +21,7 @@ package org.apache.cocoon.webapps.authentication;
  * framework.
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: AuthenticationConstants.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public interface AuthenticationConstants {
 

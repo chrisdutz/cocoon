@@ -21,7 +21,7 @@ package org.apache.cocoon.util;
  * An exception that indicates unauthorized use of a deprecated feature, or an
  * attempt to use a old feature that has been removed.
  * 
- * @version $Id$
+ * @version $Id: DeprecationException.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class DeprecationException extends RuntimeException {
     public DeprecationException(String message) {

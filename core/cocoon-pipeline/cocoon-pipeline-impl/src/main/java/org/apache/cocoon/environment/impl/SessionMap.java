@@ -25,7 +25,7 @@ import javax.servlet.http.HttpSession;
 /**
  * Session attributes map
  *
- * @version $Id$
+ * @version $Id: SessionMap.java 669294 2008-06-18 21:21:57Z anathaniel $
  */
 public class SessionMap extends BaseMap {
 

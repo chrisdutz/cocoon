@@ -22,7 +22,7 @@ import org.apache.avalon.framework.configuration.ConfigurationException;
 /**
  * Builds a generic named container node.
  *
- * @version $Id$
+ * @version $Id: NamedContainerNodeBuilder.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class NamedContainerNodeBuilder extends ContainerNodeBuilder {
 

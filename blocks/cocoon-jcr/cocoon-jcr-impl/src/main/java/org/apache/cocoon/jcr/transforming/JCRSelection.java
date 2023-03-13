@@ -25,7 +25,7 @@ import javax.xml.namespace.QName;
 /**
  * Represents a selection of a property or of a subnode and its properties.
  * 
- * @version $Id$ 
+ * @version $Id: JCRSelection.java 587759 2007-10-24 03:00:37Z vgritsenko $ 
  */
 public class JCRSelection {
 

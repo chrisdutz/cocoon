@@ -39,7 +39,7 @@ import org.w3c.dom.Document;
  * Command line entry point. Parses command line, create Cocoon bean and invokes it
  * with file destination.
  *
- * @version $Id$
+ * @version $Id: Main.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class Main {
 

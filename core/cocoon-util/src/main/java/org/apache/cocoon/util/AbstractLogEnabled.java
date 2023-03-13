@@ -28,7 +28,7 @@ import org.apache.commons.logging.LogFactory;
  * for the current class. However it is possible to supply custom logger
  * by calling {@link #setLogger(Log)}.
  *
- * @version $Id$
+ * @version $Id: AbstractLogEnabled.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractLogEnabled {
 

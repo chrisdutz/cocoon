@@ -22,7 +22,7 @@ import java.util.Date;
 /**
  * Interface for classes holding scheduled job entries.
  *
- * @version $Id$
+ * @version $Id: JobSchedulerEntry.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public interface JobSchedulerEntry {
     /**

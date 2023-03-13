@@ -34,7 +34,7 @@ import java.io.RandomAccessFile;
  * @cocoon.sitemap.component.documentation.caching Yes.
  * Uses the last modification date of the directory and the contained files
  *
- * @version $Id$
+ * @version $Id: MP3DirectoryGenerator.java 605605 2007-12-19 16:19:51Z vgritsenko $
  */
 public class MP3DirectoryGenerator extends DirectoryGenerator
 {

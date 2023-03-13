@@ -18,7 +18,7 @@
   limitations under the License.
 -->
 
-<!-- @version $Id$ -->
+<!-- @version $Id: cocoon-xml-resolver.xml 490328 2006-12-26 16:57:18Z cziegeler $ -->
 <beans>
 
   <!--+

@@ -22,7 +22,7 @@ import java.io.InputStream;
  * The class PostInputStream is a wrapper for InputStream associated with POST message.
  * It allows to control read operation, restricting the number of bytes read to the value returned by getContentLen() method.
  *
- * @version $Id$
+ * @version $Id: PostInputStream.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 
 public class PostInputStream extends InputStream {

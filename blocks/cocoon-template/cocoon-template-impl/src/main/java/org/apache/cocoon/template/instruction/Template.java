@@ -29,7 +29,7 @@ import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: Template.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class Template extends Instruction {
     public Template(ParsingContext parsingContext, StartElement raw, Attributes attrs, Stack stack) {

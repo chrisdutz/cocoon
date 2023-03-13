@@ -21,7 +21,7 @@ import org.w3c.dom.Element;
 /**
  * Builds {@link MultiValueFieldDefinition}s.
  * 
- * @version $Id$
+ * @version $Id: MultiValueFieldDefinitionBuilder.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public class MultiValueFieldDefinitionBuilder extends AbstractDatatypeWidgetDefinitionBuilder {
 

@@ -16,7 +16,7 @@
   limitations under the License.
 -->
 
-<!-- $Id$ -->
+<!-- $Id: lucene-indexer.xml 449178 2006-09-23 06:22:19Z crossley $ -->
 <lucene:index
 	xmlns:jx="http://apache.org/cocoon/templates/jx/1.0"
   xmlns:cinclude="http://apache.org/cocoon/include/1.0"

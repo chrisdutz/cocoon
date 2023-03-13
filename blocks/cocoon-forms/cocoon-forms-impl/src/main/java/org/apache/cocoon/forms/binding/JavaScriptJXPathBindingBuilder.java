@@ -67,7 +67,7 @@ import org.w3c.dom.Element;
  * <li>The &lt;fb:load-form&gt; snippet should be ommitted if the "direction" attribute is set to "save".</li>
  * </ul>
  *
- * @version $Id$
+ * @version $Id: JavaScriptJXPathBindingBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JavaScriptJXPathBindingBuilder extends JXPathBindingBuilderBase {
 

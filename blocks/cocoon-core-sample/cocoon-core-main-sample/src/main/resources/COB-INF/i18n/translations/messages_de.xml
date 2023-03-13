@@ -19,7 +19,7 @@
 <!--
   - German message catalogue file for Cocoon 2 i18n sample
   -
-  - $Id$
+  - $Id: messages_de.xml 605414 2007-12-19 04:12:49Z vgritsenko $
   -->
 <catalogue xml:lang="de">
   <message key="count_title">Diese Seite wurde {0}mal aufgerufen. Letzter Aufruf: {1}.</message>

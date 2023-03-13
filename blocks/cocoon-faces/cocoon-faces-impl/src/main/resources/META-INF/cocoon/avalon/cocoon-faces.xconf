@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: cocoon-faces.xconf 588098 2007-10-25 01:07:46Z vgritsenko $
   -->
 <components>
   <component-instance role="org.apache.cocoon.taglib.TagSelector" class="org.apache.cocoon.core.container.DefaultServiceSelector">

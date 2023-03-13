@@ -70,7 +70,7 @@ import org.apache.cocoon.xsp.handler.ComponentHandler;
  *   &lt;/action&gt;
  * </pre>
  *
- * @version $Id$
+ * @version $Id: ServerPagesAction.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ServerPagesAction
         extends ServiceableAction

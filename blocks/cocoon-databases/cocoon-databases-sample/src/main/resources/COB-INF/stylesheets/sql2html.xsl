@@ -18,7 +18,7 @@
 
 <!--
   - Transforms sql transformer output into html.
-  - @version $Id$
+  - @version $Id: sql2html.xsl 539317 2007-05-18 08:48:49Z felixk $
   -->
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform"

@@ -36,7 +36,7 @@ import com.lowagie.text.pdf.PdfWriter;
 import com.lowagie.text.xml.SAXiTextHandler;
 
 /**
- * @version $Id$
+ * @version $Id: iTextSerializer.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 final public class iTextSerializer extends AbstractSerializer implements Configurable, CacheableProcessingComponent {
 

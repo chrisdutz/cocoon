@@ -25,7 +25,7 @@
     | Cleaned up and ported to standard DOM by Stefano Mazzocchi (stefano@apache.org)
     | Changed the right margin for SitmapViewer by Jelle Alten
     |
-    | CVS $Id$
+    | CVS $Id: xml2html.xslt 449197 2006-09-23 07:15:17Z crossley $
     +-->
 
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">

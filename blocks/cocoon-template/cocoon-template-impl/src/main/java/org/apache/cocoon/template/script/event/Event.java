@@ -26,7 +26,7 @@ import org.xml.sax.SAXException;
 import org.xml.sax.helpers.LocatorImpl;
 
 /**
- * @version $Id$
+ * @version $Id: Event.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class Event {
 

@@ -51,7 +51,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  * The XSP <code>Utility</code> object helper
- * @version $Id$
+ * @version $Id: XSPUtil.java 668808 2008-06-17 19:44:04Z anathaniel $
  */
 public class XSPUtil {
 

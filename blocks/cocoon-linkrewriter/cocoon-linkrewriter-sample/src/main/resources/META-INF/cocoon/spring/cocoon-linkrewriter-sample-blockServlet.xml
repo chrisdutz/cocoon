@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: cocoon-linkrewriter-sample-blockServlet.xml 597521 2007-11-23 01:33:15Z vgritsenko $
   -->
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"

@@ -23,7 +23,7 @@ import java.util.ListIterator;
 import org.apache.commons.lang.BooleanUtils;
 
 /**
- * @version $Id$
+ * @version $Id: XmlTreeConstraint.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class XmlTreeConstraint {
 

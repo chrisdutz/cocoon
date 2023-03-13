@@ -27,7 +27,7 @@ import org.apache.cocoon.environment.Request;
  * Cocoon Environment Request to implement the service of the
  * {@link AppleRequest} interface.
  * 
- * @version $Id$
+ * @version $Id: DefaultAppleRequest.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public class DefaultAppleRequest implements AppleRequest {
     private final Map params;

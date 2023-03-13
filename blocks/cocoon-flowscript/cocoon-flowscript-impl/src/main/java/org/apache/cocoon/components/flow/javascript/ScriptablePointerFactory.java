@@ -24,7 +24,7 @@ import org.mozilla.javascript.Scriptable;
 
 /**
  *
- * @version $Id$
+ * @version $Id: ScriptablePointerFactory.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class ScriptablePointerFactory implements NodePointerFactory {
 

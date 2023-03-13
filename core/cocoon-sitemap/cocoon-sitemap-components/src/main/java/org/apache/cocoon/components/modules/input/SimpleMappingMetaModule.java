@@ -48,7 +48,7 @@ import java.util.Set;
  * <p>Similarily, rm-prefix and rm-suffix will be removed from the
  * attribute name.</p>
  *
- * @version $Id$
+ * @version $Id: SimpleMappingMetaModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class SimpleMappingMetaModule extends AbstractMetaModule implements ThreadSafe {
 

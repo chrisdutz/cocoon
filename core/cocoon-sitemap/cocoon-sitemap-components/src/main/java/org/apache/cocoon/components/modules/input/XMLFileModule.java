@@ -84,7 +84,7 @@ import org.w3c.dom.Document;
  * a second time. This can be turned off using the <code>cache-expressions</code>
  * configuration option.</p>
  *
- * @version $Id$
+ * @version $Id: XMLFileModule.java 609282 2008-01-06 09:35:48Z rgoers $
  */
 public class XMLFileModule extends AbstractJXPathModule
                            implements Serviceable, ThreadSafe {

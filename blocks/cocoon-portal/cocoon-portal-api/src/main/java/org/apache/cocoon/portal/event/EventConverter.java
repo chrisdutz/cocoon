@@ -22,7 +22,7 @@ package org.apache.cocoon.portal.event;
  * converting, if not it's up to the implementation of this component
  * to do the conversion.
  *
- * @version $Id$
+ * @version $Id: EventConverter.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public interface EventConverter {
 

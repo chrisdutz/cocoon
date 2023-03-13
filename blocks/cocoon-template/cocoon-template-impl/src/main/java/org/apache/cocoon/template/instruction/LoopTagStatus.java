@@ -17,7 +17,7 @@
 package org.apache.cocoon.template.instruction;
 
 /**
- * @version SVN $Id$
+ * @version SVN $Id: LoopTagStatus.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class LoopTagStatus {
     private Object current;

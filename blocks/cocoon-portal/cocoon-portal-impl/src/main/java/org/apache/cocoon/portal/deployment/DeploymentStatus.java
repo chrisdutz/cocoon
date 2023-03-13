@@ -19,7 +19,7 @@ package org.apache.cocoon.portal.deployment;
 /**
  * Status of a deployment or undeployment action.
  *
- * @version $Id$
+ * @version $Id: DeploymentStatus.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public interface DeploymentStatus {
 

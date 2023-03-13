@@ -28,7 +28,7 @@ import org.apache.cocoon.portal.services.aspects.RequestProcessorAspectContext;
 
 /**
  *
- * @version $Id$
+ * @version $Id: FrameRequestProcessorAspect.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class FrameRequestProcessorAspect extends AbstractContentRequestProcessorAspect {
 

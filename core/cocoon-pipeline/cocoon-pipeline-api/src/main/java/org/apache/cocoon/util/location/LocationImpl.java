@@ -24,7 +24,7 @@ import org.apache.commons.lang.ObjectUtils;
  * A simple immutable and serializable implementation of {@link Location}.
  *
  * @since 2.1.8
- * @version $Id$
+ * @version $Id: LocationImpl.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class LocationImpl implements Location, Serializable {
 

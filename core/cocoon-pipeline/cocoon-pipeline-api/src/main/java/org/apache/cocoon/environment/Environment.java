@@ -24,7 +24,7 @@ import java.util.Map;
 /**
  * Base interface for an environment abstraction
  *
- * @version $Id$
+ * @version $Id: Environment.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public interface Environment {
 

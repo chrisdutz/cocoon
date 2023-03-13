@@ -134,7 +134,7 @@ import org.w3c.dom.Element;
  *
  * </dl>
  *
- * @version $Id$
+ * @version $Id: ContainerTestCase.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public abstract class ContainerTestCase extends AbstractTestCase {
 

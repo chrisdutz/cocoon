@@ -23,7 +23,7 @@ import java.util.Map;
 /**
  * No-op implementation of {@link VariableResolver} for constant expressions
  *
- * @version $Id$
+ * @version $Id: NOPVariableResolver.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class NOPVariableResolver extends VariableResolver {
     

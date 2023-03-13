@@ -24,7 +24,7 @@ import org.apache.avalon.framework.service.Serviceable;
  * The serviceable reader will allow any {@link Reader} implementation that
  * extends this to access other Avalon components.
  *
- * @version $Id$
+ * @version $Id: ServiceableReader.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class ServiceableReader 
     extends AbstractReader 

@@ -33,7 +33,7 @@ import java.util.Map;
  * should be done in due cause since this ties the application to that particular
  * environment.
  *
- * @version $Id$
+ * @version $Id: ObjectModelHelper.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public final class ObjectModelHelper {
 

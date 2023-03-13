@@ -17,7 +17,7 @@
 -->
 
 <!--
-  - $Id$
+  - $Id: cocoon-pipeline-1.0.xsd 605546 2007-12-19 14:04:45Z vgritsenko $
   -->
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
             targetNamespace="http://cocoon.apache.org/schema/pipeline"

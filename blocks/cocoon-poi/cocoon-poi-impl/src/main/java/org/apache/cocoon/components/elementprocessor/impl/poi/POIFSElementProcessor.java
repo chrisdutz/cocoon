@@ -23,7 +23,7 @@ import org.apache.poi.poifs.filesystem.POIFSFileSystem;
 /**
  * extension of ElementProcessor for POIFSSerializers
  *
- * @version $Id$
+ * @version $Id: POIFSElementProcessor.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface POIFSElementProcessor extends ElementProcessor
 {

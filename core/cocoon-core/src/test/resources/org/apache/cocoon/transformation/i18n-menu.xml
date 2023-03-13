@@ -19,7 +19,7 @@
 <!--+
     | Default (English) message catalogue file for menu in Cocoon 2 i18n sample
     |
-    | CVS $Id$
+    | CVS $Id: i18n-menu.xml 448473 2006-09-21 06:22:51Z crossley $
     +-->
 
 <catalogue xml:lang="en">

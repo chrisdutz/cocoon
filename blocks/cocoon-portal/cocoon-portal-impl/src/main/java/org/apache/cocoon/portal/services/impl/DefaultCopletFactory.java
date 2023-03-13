@@ -31,7 +31,7 @@ import org.apache.cocoon.portal.util.AbstractBean;
 /**
  * This factory is for creating and managing coplet objects.
  *
- * @version $Id$
+ * @version $Id: DefaultCopletFactory.java 605322 2007-12-18 20:29:29Z cziegeler $
  */
 public class DefaultCopletFactory
     extends AbstractBean

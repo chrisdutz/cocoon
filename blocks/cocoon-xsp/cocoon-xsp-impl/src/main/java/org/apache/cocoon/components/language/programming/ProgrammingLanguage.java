@@ -24,7 +24,7 @@ import java.io.File;
 /**
  * This interface states the functionality of a programming language processor
  *
- * @version $Id$
+ * @version $Id: ProgrammingLanguage.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface ProgrammingLanguage {
 

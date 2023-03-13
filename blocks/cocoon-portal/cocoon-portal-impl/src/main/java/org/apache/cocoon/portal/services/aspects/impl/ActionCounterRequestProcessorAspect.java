@@ -32,7 +32,7 @@ import org.apache.cocoon.portal.util.AbstractBean;
  * WARNING: This aspect solves some problems while introducing new ones. Some
  *          features of the portal do NOT work when this aspect is used.
  *
- * @version $Id$
+ * @version $Id: ActionCounterRequestProcessorAspect.java 595791 2007-11-16 19:39:32Z cziegeler $
  */
 public class ActionCounterRequestProcessorAspect
 	extends AbstractBean

@@ -31,7 +31,7 @@ import org.apache.cocoon.environment.impl.AbstractResponse;
  * Implements the {@link org.apache.cocoon.environment.Response} interface
  * to provide response functionality in the HTTP servlets environment.
  * 
- * @version $Id$
+ * @version $Id: HttpResponse.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public final class HttpResponse extends AbstractResponse implements Response {
 

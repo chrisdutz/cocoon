@@ -23,7 +23,7 @@ import javax.portlet.PortletContext;
 /**
  * Logger for JSR-168 Portlet context.
  *
- * @version $Id$
+ * @version $Id: PortletLogger.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortletLogger implements Logger {
 

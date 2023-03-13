@@ -32,7 +32,7 @@ import org.xml.sax.helpers.LocatorImpl;
  * Base class for XMLPipe's. Allows the structure of the source code of
  * the XMLPipe to match the structure of the data being transformed.
  *
- * @version $Id$
+ * @version $Id: EffectPipe.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class EffectPipe extends AbstractXMLPipe {
 

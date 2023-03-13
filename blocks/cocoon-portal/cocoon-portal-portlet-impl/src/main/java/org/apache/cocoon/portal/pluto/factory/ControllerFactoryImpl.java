@@ -24,7 +24,7 @@ import org.apache.pluto.om.Model;
  * The implementation of the controller factory.
  * We simply assume that each model is it's controller.
  *
- * @version $Id$
+ * @version $Id: ControllerFactoryImpl.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class ControllerFactoryImpl 
     extends AbstractFactory

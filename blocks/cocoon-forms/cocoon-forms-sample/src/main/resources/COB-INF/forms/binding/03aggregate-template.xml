@@ -20,7 +20,7 @@
     | CForms aggregate sample binding. Represent values of two aggregate
     | fields as single input fields.
     |
-    | @version $Id$
+    | @version $Id: 03aggregate-template.xml 449149 2006-09-23 03:58:05Z crossley $
     +-->
 <page xmlns:ft="http://apache.org/cocoon/forms/1.0#template" 
       xmlns:fi="http://apache.org/cocoon/forms/1.0#instance" 

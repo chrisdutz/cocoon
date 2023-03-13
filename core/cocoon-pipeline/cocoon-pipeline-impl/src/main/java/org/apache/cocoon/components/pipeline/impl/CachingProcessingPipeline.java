@@ -36,7 +36,7 @@ import org.apache.cocoon.xml.XMLProducer;
  * The CachingProcessingPipeline
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: CachingProcessingPipeline.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class CachingProcessingPipeline extends AbstractCachingProcessingPipeline {
 

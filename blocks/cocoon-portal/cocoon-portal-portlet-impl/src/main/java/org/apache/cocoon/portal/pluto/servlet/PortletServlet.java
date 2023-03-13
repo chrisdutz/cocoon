@@ -49,7 +49,7 @@ import org.apache.pluto.om.portlet.PortletDefinitionCtrl;
 /**
  * The wrapper servlet.
  *
- * @version $Id$
+ * @version $Id: PortletServlet.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortletServlet extends HttpServlet {
 

@@ -63,7 +63,7 @@ import org.xml.sax.SAXException;
  * own implementation!
  *
  * @since 2.1
- * @version $Id$
+ * @version $Id: AbstractProcessingPipeline.java 685810 2008-08-14 08:39:26Z gkossakowski $
  */
 public abstract class AbstractProcessingPipeline extends AbstractLogEnabled
                                                  implements ProcessingPipeline, Parameterizable,

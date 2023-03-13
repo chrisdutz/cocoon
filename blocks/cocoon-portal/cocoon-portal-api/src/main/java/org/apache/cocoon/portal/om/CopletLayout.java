@@ -19,7 +19,7 @@ package org.apache.cocoon.portal.om;
 /**
  * A coplet layout holds a coplet.
  *
- * @version $Id$
+ * @version $Id: CopletLayout.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public final class CopletLayout extends Layout {
 

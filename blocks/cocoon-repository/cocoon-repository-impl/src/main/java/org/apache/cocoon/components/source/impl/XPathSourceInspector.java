@@ -44,7 +44,7 @@ import org.xml.sax.SAXException;
 /**
  * This source inspector inspects XML files with a xpath expression.
  *
- * @version $Id$
+ * @version $Id: XPathSourceInspector.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class XPathSourceInspector extends AbstractLogEnabled
                                   implements SourceInspector, Serviceable,

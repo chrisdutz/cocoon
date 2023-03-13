@@ -31,7 +31,7 @@ package org.apache.cocoon.components.fam;
 //import org.apache.commons.jci.monitor.FilesystemAlterationMonitor;
 
 /**
- * @version $Id$
+ * @version $Id: MonitorImpl.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public final class MonitorImpl  {
 // TODO rcl    

@@ -28,7 +28,7 @@ import org.xml.sax.ContentHandler;
  * the results of {@link #toSAX(ContentHandler)} that must be implemented by concrete
  * subclasses.</p>
  *
- * @version $Id$
+ * @version $Id: AbstractSAXFragment.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractSAXFragment implements XMLFragment {
 

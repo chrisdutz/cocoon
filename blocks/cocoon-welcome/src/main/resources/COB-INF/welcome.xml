@@ -20,7 +20,7 @@
   - This is a very simple XML page done just to show how a simple
   - cocoon pipeline works.
   -
-  - $Id$
+  - $Id: welcome.xml 606304 2007-12-21 20:45:25Z vgritsenko $
   -->
 <page>
   <title>Welcome to Apache Cocoon!</title>

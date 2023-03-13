@@ -1,4 +1,4 @@
-$Id$
+$Id: README.txt 605414 2007-12-19 04:12:49Z vgritsenko $
 
 To get started, read the How-To for this component:
    http://localhost:8888/howto/howto-paginator-transformer.html

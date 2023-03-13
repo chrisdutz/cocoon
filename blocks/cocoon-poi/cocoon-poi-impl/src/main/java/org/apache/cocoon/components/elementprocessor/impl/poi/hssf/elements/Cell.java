@@ -30,7 +30,7 @@ import org.apache.poi.hssf.usermodel.HSSFCellStyle;
 /**
  * internal representation of a Cell
  *
- * @version $Id$
+ * @version $Id: Cell.java 707326 2008-10-23 09:32:44Z felixk $
  */
 // package scope
 

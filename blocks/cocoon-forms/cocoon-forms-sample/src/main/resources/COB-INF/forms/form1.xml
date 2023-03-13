@@ -17,7 +17,7 @@
 -->
 
 <!--
-  @version $Id$
+  @version $Id: form1.xml 580314 2007-09-28 11:37:56Z giacomo $
 -->
 
 <fd:form xmlns:fd="http://apache.org/cocoon/forms/1.0#definition"

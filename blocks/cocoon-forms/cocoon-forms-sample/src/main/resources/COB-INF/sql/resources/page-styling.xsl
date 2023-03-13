@@ -17,7 +17,7 @@
 -->
 
 <!--+
-    | @version $Id$
+    | @version $Id: page-styling.xsl 449149 2006-09-23 03:58:05Z crossley $
     +-->
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 

@@ -19,7 +19,7 @@
 # Cocoon Build Script
 #   Invoke maven with necessary options
 #
-# $Id$
+# $Id: build.sh 1383689 2012-09-12 00:15:37Z thorsten $
 
 # Java compiler requires at least 128m of memory for cocoon-serializers block,
 # plus another 128m for maven itself to fit its dependency tree.

@@ -39,7 +39,7 @@ import java.io.OutputStream;
  * rendered object (page/image/etc.).
  * </p>
  *
- * @version $Id$
+ * @version $Id: SitemapOutputComponent.java 638095 2008-03-17 22:11:49Z reinhard $
  */
 public interface SitemapOutputComponent {
 

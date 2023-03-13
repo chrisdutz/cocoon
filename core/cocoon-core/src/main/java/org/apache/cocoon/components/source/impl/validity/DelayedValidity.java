@@ -27,7 +27,7 @@ import org.apache.excalibur.source.SourceValidity;
  * validity.
  *
  * @since 2.1.8
- * @version $Id$
+ * @version $Id: DelayedValidity.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class DelayedValidity implements SourceValidity {
 

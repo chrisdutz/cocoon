@@ -31,7 +31,7 @@ import org.apache.lucene.store.Directory;
  *   and an index, and generating hits which matches the query string in the index.
  * </p>
  *
- * @version $Id$
+ * @version $Id: LuceneCocoonSearcher.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface LuceneCocoonSearcher {
 

@@ -24,7 +24,7 @@ import java.io.Serializable;
  * a boolean value that defines if the key is for a complete pipeline call or
  * for an internal pipeline call.
  *
- * @version $Id$
+ * @version $Id: IdentifierCacheKey.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.1.1
  */
 public class IdentifierCacheKey implements Serializable {

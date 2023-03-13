@@ -49,7 +49,7 @@ import org.apache.cocoon.util.avalon.CLLoggerWrapper;
 /**
  * This source descriptor acts as container for a set of source inspectors/descriptors.
  * 
- * @version $Id$
+ * @version $Id: SourceDescriptorManager.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public final class SourceDescriptorManager extends AbstractLogEnabled
                                            implements SourceDescriptor, Contextualizable, Serviceable,

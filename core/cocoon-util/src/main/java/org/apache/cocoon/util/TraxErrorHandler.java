@@ -29,7 +29,7 @@ import org.apache.commons.logging.impl.AvalonLogger;
  * This error handler simply logs all exception and, in case of a fatal error,
  * the exception is rethrown. Warnings and errors are not re-thrown.
  *
- * @version $Id$
+ * @version $Id: TraxErrorHandler.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class TraxErrorHandler implements ErrorListener {
 

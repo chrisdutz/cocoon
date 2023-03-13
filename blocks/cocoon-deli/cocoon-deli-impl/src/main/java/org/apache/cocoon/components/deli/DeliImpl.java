@@ -67,7 +67,7 @@ import org.w3c.dom.Text;
  * <a href="http://www-uk.hpl.hp.com/people/marbut/DeliUserGuideWEB.htm">DELI:
  * A Delivery Context Library for CC/PP and UAProf</a>.
  *
- * @version $Id$
+ * @version $Id: DeliImpl.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public final class DeliImpl extends AbstractLogEnabled
                             implements Parameterizable, Deli, Serviceable, Disposable,

@@ -18,7 +18,7 @@ package org.apache.cocoon.forms.datatype;
 
 /**
  * A selection list that takes its values from the custom java class itself.
- * @version $Id$
+ * @version $Id: JavaSelectionList.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface JavaSelectionList extends SelectionList {
 

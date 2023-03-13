@@ -48,7 +48,7 @@ import org.springframework.beans.factory.BeanFactory;
 import org.springframework.web.context.support.WebApplicationContextUtils;
 
 /**
- * @version $Id$
+ * @version $Id: BlockContext.java 587749 2007-10-24 02:33:18Z vgritsenko $
  */
 public class BlockContext extends ServletContextWrapper {
     

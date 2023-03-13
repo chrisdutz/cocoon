@@ -22,7 +22,7 @@ package org.apache.cocoon.auth;
  * This exception is thrown by a {@link SecurityHandler} if the authentication
  * fails.
  *
- * @version $Id$
+ * @version $Id: AuthenticationException.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public class AuthenticationException extends Exception {
 

@@ -28,7 +28,7 @@ import org.apache.excalibur.source.SourceException;
  * Each operation returns a status code that is based on RFC 2518 (WebDAV).
  * </p>
  * 
- * @version $Id$
+ * @version $Id: SourceRepository.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public interface SourceRepository {
     

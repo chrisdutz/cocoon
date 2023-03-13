@@ -2,7 +2,7 @@ presentation: YAPT demo
 image-directory: yapt-demo-images
 author: Bertrand Delacrétaz
 date: September 2003
-cvs: $Id$
+cvs: $Id: yapt-demo.txt 390047 2006-03-30 09:50:46Z reinhard $
 A (short) journey through the (few) YAPT features.
 
 slide: What is YAPT?

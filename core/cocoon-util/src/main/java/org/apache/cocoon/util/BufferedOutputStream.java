@@ -25,7 +25,7 @@ import java.io.OutputStream;
  * addition it provides an increasing buffer, the possibility to reset the
  * buffer and it counts the number of bytes written to the output stream.
  *
- * @version $Id$
+ * @version $Id: BufferedOutputStream.java 665972 2008-06-10 04:18:56Z joerg $
  * @since   2.1
  */
 public class BufferedOutputStream extends FilterOutputStream {

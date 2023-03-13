@@ -27,7 +27,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * Serviceable CronJob
  *
  * @since 2.1.4
- * @version $Id$
+ * @version $Id: ServiceableCronJob.java 587758 2007-10-24 02:55:27Z vgritsenko $
  */
 public abstract class ServiceableCronJob extends AbstractLogEnabled
                                          implements CronJob, Serviceable {

@@ -24,7 +24,7 @@ import java.util.Iterator;
 import java.util.Map;
 
 /**
- * @version $Id$
+ * @version $Id: InputModuleHelper.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class InputModuleHelper {
     

@@ -41,7 +41,7 @@ import org.apache.commons.logging.LogFactory;
  * The {@link Element} node denoted by upper snippet is passed to the bean at a 
  * method configure(Element e) if it exists.
  *
- * @version $Id$
+ * @version $Id: JavaClassWidgetListenerBuilder.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JavaClassWidgetListenerBuilder
     implements WidgetListenerBuilder, BeanFactoryAware {

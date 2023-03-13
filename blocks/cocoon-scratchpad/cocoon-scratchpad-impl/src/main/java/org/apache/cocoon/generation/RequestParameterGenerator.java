@@ -63,7 +63,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * internal pipelines only, with a controlled number of parameter and values passed
  * to it.</p>
  *
- * @version $Id$
+ * @version $Id: RequestParameterGenerator.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class RequestParameterGenerator extends AbstractGenerator
 implements CacheableProcessingComponent  {

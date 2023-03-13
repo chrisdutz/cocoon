@@ -33,7 +33,7 @@ import org.apache.commons.httpclient.methods.InputStreamRequestEntity;
  * This is a generic and externally configurable method, to forward any Request
  * to a server.
  * 
- * @version $Id$
+ * @version $Id: RequestForwardingHttpMethod.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class RequestForwardingHttpMethod extends EntityEnclosingMethod {
     

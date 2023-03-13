@@ -28,7 +28,7 @@ import java.io.OutputStream;
  * Implements {@link org.apache.cocoon.environment.Environment} interface for the JSR-168
  * Portlet environment.
  *
- * @version $Id$
+ * @version $Id: PortletEnvironment.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public class PortletEnvironment extends AbstractEnvironment {
 

@@ -28,7 +28,7 @@ import java.util.Locale;
  * Implements the {@link org.apache.cocoon.environment.Response} interface for
  * the JSR-168 (Portlet) environment.
  *
- * @version $Id$
+ * @version $Id: RenderResponse.java 587755 2007-10-24 02:50:56Z vgritsenko $
  */
 public final class RenderResponse extends PortletResponse {
 

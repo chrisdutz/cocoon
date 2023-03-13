@@ -46,7 +46,7 @@ import java.util.Map;
  * @cocoon.sitemap.component.documentation
  * Sets the character encoding of parameters.
  *
- * @version $Id$
+ * @version $Id: SetCharacterEncodingAction.java 607378 2007-12-29 05:36:16Z vgritsenko $
  */
 public class SetCharacterEncodingAction extends ServiceableAction implements ThreadSafe, Parameterizable {
     private String global_form_encoding = null;

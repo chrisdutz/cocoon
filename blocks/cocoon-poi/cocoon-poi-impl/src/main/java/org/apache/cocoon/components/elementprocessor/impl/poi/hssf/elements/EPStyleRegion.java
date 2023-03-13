@@ -37,7 +37,7 @@ import java.io.IOException;
  * This element is a container of other elements and has four
  * attributes that define the boundaries of the region.
  *
- * @version $Id$
+ * @version $Id: EPStyleRegion.java 707379 2008-10-23 14:25:48Z felixk $
  */
 public class EPStyleRegion extends BaseElementProcessor {
     private static final String _start_col_attribute = "startCol";

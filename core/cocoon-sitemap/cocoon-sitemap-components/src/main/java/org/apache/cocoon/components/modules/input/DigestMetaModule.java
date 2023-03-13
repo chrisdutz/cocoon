@@ -40,7 +40,7 @@ import java.io.UnsupportedEncodingException;
  * "string" (return hash as string), "url" (returns url encoded
  * string), "hex" (returns string of hex values).
  *
- * @version $Id$
+ * @version $Id: DigestMetaModule.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class DigestMetaModule extends AbstractMetaModule implements ThreadSafe {
 

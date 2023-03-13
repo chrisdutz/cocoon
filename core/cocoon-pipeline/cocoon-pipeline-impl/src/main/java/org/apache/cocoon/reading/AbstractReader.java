@@ -34,7 +34,7 @@ import org.xml.sax.SAXException;
  * A reader can be used to generate binary output for a request. This
  * abstract class helps in implementing a custom reader.
  *
- * @version $Id$
+ * @version $Id: AbstractReader.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractReader extends AbstractLogEnabled
                                      implements Reader, Recyclable {

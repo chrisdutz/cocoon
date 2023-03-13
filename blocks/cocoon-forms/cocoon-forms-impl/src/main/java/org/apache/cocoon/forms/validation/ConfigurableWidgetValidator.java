@@ -21,7 +21,7 @@ import org.w3c.dom.Element;
 /**
  * A {@link WidgetValidator} that can receive a configuration {@link Element}
  * 
- * @version $Id$
+ * @version $Id: ConfigurableWidgetValidator.java 1857502 2019-04-14 05:20:19Z ilgrosso $
  */
 public interface ConfigurableWidgetValidator extends WidgetValidator {
     

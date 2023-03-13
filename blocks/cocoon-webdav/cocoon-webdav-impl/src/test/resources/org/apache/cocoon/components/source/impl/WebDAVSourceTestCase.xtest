@@ -15,7 +15,7 @@
  See the License for the specific language governing permissions and
  limitations under the License.
 -->
-<!-- $Id$ -->
+<!-- $Id: WebDAVSourceTestCase.xtest 449194 2006-09-23 07:06:00Z crossley $ -->
 <testcase>
  <roles>
   <role name="org.apache.excalibur.source.SourceFactorySelector"

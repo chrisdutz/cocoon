@@ -47,7 +47,7 @@ import org.xml.sax.InputSource;
  * configuration file.
  *
  * @see AbstractRepository
- * @version $Id$
+ * @version $Id: JackrabbitRepository.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class JackrabbitRepository extends AbstractRepository {
 

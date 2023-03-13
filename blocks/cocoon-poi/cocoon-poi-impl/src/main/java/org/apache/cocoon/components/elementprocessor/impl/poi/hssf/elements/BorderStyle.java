@@ -20,7 +20,7 @@ package org.apache.cocoon.components.elementprocessor.impl.poi.hssf.elements;
 /**
  * Border style codes
  *
- * @version $Id$
+ * @version $Id: BorderStyle.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class BorderStyle
 {

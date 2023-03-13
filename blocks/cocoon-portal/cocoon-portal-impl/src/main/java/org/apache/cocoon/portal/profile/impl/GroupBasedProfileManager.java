@@ -63,7 +63,7 @@ import org.apache.excalibur.source.SourceValidity;
  *
  * THIS IS A WORK IN PROGRESS - IT'S NOT FINISHED YET
  *
- * @version $Id$
+ * @version $Id: GroupBasedProfileManager.java 682758 2008-08-05 15:31:50Z cziegeler $
  */
 public class GroupBasedProfileManager
     extends AbstractProfileManager {

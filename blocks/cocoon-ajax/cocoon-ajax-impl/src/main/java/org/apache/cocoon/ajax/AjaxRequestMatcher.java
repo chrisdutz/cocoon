@@ -42,7 +42,7 @@ import org.apache.cocoon.sitemap.PatternException;
  * provides no sitemap variables.
  *
  * @since 2.1.8
- * @version $Id$
+ * @version $Id: AjaxRequestMatcher.java 607381 2007-12-29 05:42:58Z vgritsenko $
  */
 public class AjaxRequestMatcher implements Matcher, ThreadSafe {
 

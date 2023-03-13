@@ -28,7 +28,7 @@ import org.apache.cocoon.webapps.authentication.context.AuthenticationContext;
  * The authentication Handler.
  *
  * @deprecated This block is deprecated and will be removed in future versions.
- * @version $Id$
+ * @version $Id: UserHandler.java 587757 2007-10-24 02:52:49Z vgritsenko $
  */
 public final class UserHandler
 implements java.io.Serializable {

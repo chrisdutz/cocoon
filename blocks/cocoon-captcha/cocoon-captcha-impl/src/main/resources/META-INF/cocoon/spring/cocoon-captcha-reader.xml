@@ -18,7 +18,7 @@
   limitations under the License.
 -->
 
-<!-- @version $Id$ -->
+<!-- @version $Id: cocoon-captcha-reader.xml 522844 2007-03-27 09:38:05Z felixk $ -->
 
 <!--+
     | Readers circumvent the XML oriented SAX pipeline model, think of a reader

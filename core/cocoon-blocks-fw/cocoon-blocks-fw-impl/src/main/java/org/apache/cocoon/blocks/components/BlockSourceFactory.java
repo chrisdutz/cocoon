@@ -31,7 +31,7 @@ import org.apache.excalibur.source.URIAbsolutizer;
  * This class implements the block: protocol.
  *
  *
- * @version $Id$
+ * @version $Id: BlockSourceFactory.java 587749 2007-10-24 02:33:18Z vgritsenko $
  */
 public final class BlockSourceFactory
 extends AbstractLogEnabled

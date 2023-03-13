@@ -40,7 +40,7 @@ import org.xml.sax.SAXException;
  * afterwards. It should be placed before a sitemap component that
  * should be executed in another environment.
  *
- * @version $Id$
+ * @version $Id: PushEnvironmentChanger.java 587751 2007-10-24 02:41:36Z vgritsenko $
  * @since 2.2
  */
 final class PushEnvironmentChanger

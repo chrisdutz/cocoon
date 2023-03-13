@@ -17,7 +17,7 @@
 -->
 
 <!--
-  Version <![CDATA[ $Id$ ]]>
+  Version <![CDATA[ $Id: site2wml.xsl 449165 2006-09-23 05:16:47Z crossley $ ]]>
   
   Transformation of an aggregated site document to wml
 -->

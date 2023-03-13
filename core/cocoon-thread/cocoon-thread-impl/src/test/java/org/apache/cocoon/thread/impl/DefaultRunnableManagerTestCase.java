@@ -21,7 +21,7 @@ package org.apache.cocoon.thread.impl;
  *
  * FIXME - We disabled all tests for now as we moved the component from Avalon to Spring!!
  *
- * @version $Id$
+ * @version $Id: DefaultRunnableManagerTestCase.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public class DefaultRunnableManagerTestCase
     extends AbstractTestCase {

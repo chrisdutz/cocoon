@@ -25,7 +25,7 @@ import java.io.IOException;
  * Print units -- encapsulation of the strings representing them, and
  * a simpler way to deal with them.GTK type codes
  *
- * @version $Id$
+ * @version $Id: PrintUnits.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class PrintUnits {
     private static final String _cm = "cm";

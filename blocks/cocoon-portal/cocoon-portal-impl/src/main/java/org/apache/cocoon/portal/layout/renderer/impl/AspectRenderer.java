@@ -37,7 +37,7 @@ import org.xml.sax.SAXException;
  *      <td></td><td>Configuration</td><td><code>EmptyConfiguration</code></td></tr>
  * </tbody></table>
  *
- * @version $Id$
+ * @version $Id: AspectRenderer.java 682758 2008-08-05 15:31:50Z cziegeler $
  */
 public class AspectRenderer
     extends AbstractBean

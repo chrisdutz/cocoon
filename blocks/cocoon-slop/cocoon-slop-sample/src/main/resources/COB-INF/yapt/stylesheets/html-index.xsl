@@ -18,7 +18,7 @@
 
 <!--
     Generate HTML for the index of a presentation
-    $Id$
+    $Id: html-index.xsl 449184 2006-09-23 06:42:24Z crossley $
 -->
 <xsl:stylesheet
     version="1.0"

@@ -51,7 +51,7 @@ import org.apache.cocoon.util.IOUtils;
 /**
  * The default implementation of <code>ProgramGenerator</code>
  *
- * @version $Id$
+ * @version $Id: ProgramGeneratorImpl.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class ProgramGeneratorImpl extends AbstractLogEnabled
                                   implements ProgramGenerator, Contextualizable, Serviceable,

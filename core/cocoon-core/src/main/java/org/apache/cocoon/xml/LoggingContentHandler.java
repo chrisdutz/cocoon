@@ -26,7 +26,7 @@ import org.xml.sax.SAXException;
 /**
  * Logging content handler logs all events going through to the logger.
  *
- * @version $Id$
+ * @version $Id: LoggingContentHandler.java 587750 2007-10-24 02:35:22Z vgritsenko $
  */
 public class LoggingContentHandler extends AbstractLogEnabled
                                    implements ContentHandler {

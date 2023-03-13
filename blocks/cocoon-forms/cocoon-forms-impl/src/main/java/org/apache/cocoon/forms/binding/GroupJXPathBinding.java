@@ -30,7 +30,7 @@ import org.apache.commons.jxpath.JXPathContext;
  * that contains other widgets.</li>
  * </ol>
  *
- * @version $Id$
+ * @version $Id: GroupJXPathBinding.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public class GroupJXPathBinding extends ContextJXPathBinding {
 

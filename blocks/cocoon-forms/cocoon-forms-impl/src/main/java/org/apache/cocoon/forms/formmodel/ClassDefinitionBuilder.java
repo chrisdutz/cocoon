@@ -21,7 +21,7 @@ import org.w3c.dom.Element;
 /**
  * Builds {ClassDefinition}s.
  *
- * @version $Id$
+ * @version $Id: ClassDefinitionBuilder.java 615336 2008-01-25 20:48:44Z vgritsenko $
  */
 public final class ClassDefinitionBuilder extends AbstractContainerDefinitionBuilder {
 

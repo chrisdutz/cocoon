@@ -66,7 +66,7 @@ import org.quartz.utils.JNDIConnectionProvider;
 /**
  * This component can either schedule jobs or directly execute one.
  *
- * @version $Id$
+ * @version $Id: QuartzJobScheduler.java 587758 2007-10-24 02:55:27Z vgritsenko $
  *
  * @since 2.1.1
  */
@@ -745,7 +745,7 @@ public class QuartzJobScheduler extends AbstractLogEnabled
     /**
      * A QuartzThreadPool for the Quartz Scheduler based on Doug Leas concurrency utilities PooledExecutor
      *
-     * @version $Id$
+     * @version $Id: QuartzJobScheduler.java 587758 2007-10-24 02:55:27Z vgritsenko $
      */
     private static class QuartzThreadPool extends AbstractLogEnabled
                                           implements org.quartz.spi.ThreadPool {

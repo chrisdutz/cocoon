@@ -57,7 +57,7 @@ import java.util.StringTokenizer;
 /**
  * Eclipse Java Compiler
  *
- * @version $Id$
+ * @version $Id: EclipseJavaCompiler.java 1906076 2022-12-18 21:54:22Z javier $
  */
 public class EclipseJavaCompiler implements LanguageCompiler, Recyclable {
 

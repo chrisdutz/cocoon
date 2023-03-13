@@ -27,7 +27,7 @@ import org.apache.cocoon.util.AbstractLogEnabled;
  * An abstract MailCommand template
  *
  * @since 23 October 2002
- * @version $Id$
+ * @version $Id: AbstractMailCommand.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public abstract class AbstractMailCommand extends AbstractLogEnabled
                                           implements MailCommand {

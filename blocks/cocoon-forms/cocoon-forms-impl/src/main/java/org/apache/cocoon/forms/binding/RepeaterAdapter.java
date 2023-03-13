@@ -21,7 +21,7 @@ import java.util.Collection;
 import org.apache.cocoon.forms.formmodel.Repeater.RepeaterRow;
 
 /**
- * @version $Id$
+ * @version $Id: RepeaterAdapter.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public interface RepeaterAdapter {
 

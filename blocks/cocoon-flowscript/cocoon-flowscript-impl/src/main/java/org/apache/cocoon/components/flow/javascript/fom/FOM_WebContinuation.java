@@ -33,7 +33,7 @@ import org.mozilla.javascript.continuations.Continuation;
 
 /**
  *
- * @version $Id$
+ * @version $Id: FOM_WebContinuation.java 643699 2008-04-02 03:44:59Z joerg $
  */
 public class FOM_WebContinuation extends ScriptableObject {
 

@@ -23,7 +23,7 @@ import java.util.Properties;
 /**
  * The <code>Constants</code> used throughout the core of the Cocoon engine.
  *
- * @version $Id$
+ * @version $Id: Constants.java 607073 2007-12-27 14:12:27Z vgritsenko $
  */
 public final class Constants {
 

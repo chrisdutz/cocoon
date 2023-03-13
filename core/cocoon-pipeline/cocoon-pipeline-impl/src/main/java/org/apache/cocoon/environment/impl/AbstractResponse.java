@@ -26,7 +26,7 @@ import org.apache.cocoon.environment.Response;
 /**
  * Base class for any response
  *
- * @version $Id$
+ * @version $Id: AbstractResponse.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 public abstract class AbstractResponse 
     implements Response {

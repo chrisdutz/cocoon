@@ -28,7 +28,7 @@ import java.util.Map;
  * this is not checked in this data object. Use the {@link LayoutFeatures}
  * instead.
  *
- * @version $Id$
+ * @version $Id: LayoutInstance.java 682461 2008-08-04 18:49:15Z cziegeler $
  */
 public class LayoutInstance implements Serializable, Cloneable {
 

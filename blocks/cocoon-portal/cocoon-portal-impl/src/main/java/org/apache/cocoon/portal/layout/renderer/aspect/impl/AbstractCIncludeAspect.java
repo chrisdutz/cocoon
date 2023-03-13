@@ -25,7 +25,7 @@ import org.xml.sax.helpers.AttributesImpl;
  * Base class for aspect renderers that generate cinclude statements. Provides a single
  * method for creating the cinclude tag.
  *
- * @version $Id$
+ * @version $Id: AbstractCIncludeAspect.java 633260 2008-03-03 20:21:05Z cziegeler $
  */
 public abstract class AbstractCIncludeAspect
     extends AbstractAspect {

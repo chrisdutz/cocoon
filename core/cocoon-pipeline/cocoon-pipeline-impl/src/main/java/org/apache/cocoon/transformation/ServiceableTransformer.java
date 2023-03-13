@@ -32,7 +32,7 @@ import org.xml.sax.SAXException;
  * This class can be used as a base class for own transformer implementations
  * that need to lookup other components.
  * 
- * @version $Id$
+ * @version $Id: ServiceableTransformer.java 587751 2007-10-24 02:41:36Z vgritsenko $
  */
 
 public abstract class ServiceableTransformer 

@@ -34,7 +34,7 @@ import java.util.Map;
  * PROFILETYPE_COPLETDEFINITION: "copletType" : A map with coplet types.
  * PROFILETYPE_COPLETINSTANCE: "copletDefinition" : A map with coplet definitions.
  *
- * @version $Id$
+ * @version $Id: PersistenceType.java 614006 2008-01-21 20:52:02Z cziegeler $
  */
 public class PersistenceType {
 

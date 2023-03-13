@@ -20,7 +20,7 @@ package org.apache.cocoon.components.elementprocessor.impl.poi.hssf.elements;
 /**
  * Style shading codes
  *
- * @version $Id$
+ * @version $Id: StyleShading.java 587761 2007-10-24 03:08:05Z vgritsenko $
  */
 public class StyleShading {
     public static final int STYLE_SHADING_NONE = 0;

@@ -41,7 +41,7 @@ import org.xml.sax.SAXParseException;
  * the form template, so that only updated widgets are sent back to the browser
  * @cocoon.sitemap.component.documentation.caching No
  *
- * @version $Id$
+ * @version $Id: BrowserUpdateTransformer.java 607381 2007-12-29 05:42:58Z vgritsenko $
  */
 public class BrowserUpdateTransformer extends AbstractTransformer {
     

@@ -21,7 +21,7 @@ package org.apache.cocoon.forms.event;
  * of the WidgetEvent and calls the more specific {@link #handleActionEvent(ActionEvent)}
  * or {@link #handleValueChangedEvent(ValueChangedEvent)} methods.
  * 
- * @version $Id$
+ * @version $Id: AbstractFormHandler.java 587759 2007-10-24 03:00:37Z vgritsenko $
  */
 public abstract class AbstractFormHandler implements FormHandler {
 
