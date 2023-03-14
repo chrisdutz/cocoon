@@ -34,37 +34,18 @@
   <packaging>bundle</packaging>
 
   <name>Apache Cocoon Serializers Charsets</name>
-  
-  <scm>
-    <connection>scm:svn:http://svn.apache.org/repos/asf/cocoon/subprojects/cocoon-serializers-charsets/trunk</connection>
-    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/cocoon/subprojects/cocoon-serializers-charsets/trunk</developerConnection>
-    <url>http://svn.apache.org/repos/asf/cocoon/subprojects/cocoon-serializers-charsets/trunk</url>
-  </scm>
-  
+
+  <properties>
+    <docs.name>Cocoon Serializers</docs.name>
+    <docs.version>1.0</docs.version>
+  </properties>
+
   <distributionManagement>
     <site>
       <id>website</id>
       <url>${docs.deploymentBaseUrl}/blocks/serializers/${docs.version}/</url>
     </site>
   </distributionManagement>
-  
-  <properties>
-    <docs.name>Cocoon Serializers</docs.name>    
-    <docs.version>1.0</docs.version>
-  </properties>
-  
-  <dependencies>
-    <dependency>
-      <groupId>javax.servlet</groupId>
-      <artifactId>servlet-api</artifactId>
-    </dependency>
-    
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <scope>test</scope>
-    </dependency>
-  </dependencies>
 
   <build>
     <plugins>
@@ -83,7 +64,7 @@
           </instructions>
         </configuration>
       </plugin>
-      
+
       <plugin>
         <artifactId>maven-release-plugin</artifactId>
         <configuration>
@@ -92,5 +73,19 @@
       </plugin>
     </plugins>
   </build>
+
+  <dependencies>
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>servlet-api</artifactId>
+      <scope>provided</scope>
+    </dependency>
+    
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
 
 </project>

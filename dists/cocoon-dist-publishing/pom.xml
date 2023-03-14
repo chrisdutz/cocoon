@@ -36,34 +36,48 @@
   <name>Core Publishing Distribution</name>
 
   <build>
+    <finalName>cocoon-publishing</finalName>
+
     <plugins>
       <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-assembly-plugin</artifactId>
-        <version>2.1</version>
-        <configuration>
-          <descriptor>assembly.xml</descriptor>
-          <outputDirectory>target/dist</outputDirectory>
-          <workDirectory>target/assembly/work</workDirectory>
-        </configuration>
+        <executions>
+          <execution>
+            <id>build-assembly</id>
+            <goals>
+              <goal>single</goal>
+            </goals>
+            <configuration>
+              <descriptors>
+                <descriptor>assembly.xml</descriptor>
+              </descriptors>
+              <outputDirectory>target/dist</outputDirectory>
+              <workDirectory>target/assembly/work</workDirectory>
+            </configuration>
+          </execution>
+        </executions>
       </plugin>
     </plugins>
-    <finalName>cocoon-publishing</finalName>
   </build>
 
   <dependencies>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-webapp</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
       <type>war</type>
     </dependency>
 
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-batik-impl</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-fop-impl</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
   </dependencies>
 

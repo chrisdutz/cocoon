@@ -47,13 +47,6 @@
     </site>
   </distributionManagement>
 
-  <scm>
-    <!-- repeated here so that maven-site is not appended -->
-    <connection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/site/cocoon-main-site</connection>
-    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/site/cocoon-main-site</developerConnection>
-    <url>https://svn.apache.org/viewvc/cocoon/branches/cocoon-2.2.1/site/cocoon-main-site</url>
-  </scm>
-
   <build>
     <plugins>
       <plugin>

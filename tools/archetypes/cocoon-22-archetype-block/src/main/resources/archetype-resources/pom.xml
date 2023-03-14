@@ -56,8 +56,8 @@
     <plugins>
       <plugin> 
         <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-maven-plugin</artifactId> 
-        <version>1.0.0</version> 
+        <artifactId>cocoon-maven-plugin</artifactId>
+        <version>1.0.2</version>
         <dependencies> 
           <!-- RCL --> 
           <dependency> 
@@ -114,8 +114,8 @@
         </configuration>
       </plugin>
       <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-eclipse-plugin</artifactId>
-        <version>2.9</version>
       </plugin>
     </plugins>
   </build>

@@ -40,8 +40,37 @@
   </description>
   <url>http://cocoon.apache.org/${docs.m.core.relPath}</url>
 
+  <properties>
+    <docs.name>Cocoon Core</docs.name>
+    <docs.version>${docs.m.core.version}</docs.version>
+  </properties>
+
+  <distributionManagement>
+    <site>
+      <id>website</id>
+      <url>${docs.deploymentBaseUrl}/${docs.m.core.relPath}</url>
+    </site>
+  </distributionManagement>
+
   <build>
+    <resources>
+      <resource>
+        <directory>src/main/resources</directory>
+        <filtering>true</filtering>
+      </resource>
+    </resources>
+
     <plugins>
+      <plugin>
+        <groupId>org.apache.rat</groupId>
+        <artifactId>apache-rat-plugin</artifactId>
+        <configuration>
+          <excludes combine.children="append">
+            <exclude>src/test/resources/org/apache/cocoon/transformation/xinclude-incl.txt</exclude>
+          </excludes>
+        </configuration>
+      </plugin>
+
       <plugin>
         <!-- export our test classes in a separate jar -->
         <groupId>org.apache.maven.plugins</groupId>
@@ -54,6 +83,7 @@
           </execution>
         </executions>
       </plugin>
+
       <plugin>
         <artifactId>maven-surefire-plugin</artifactId>
         <configuration>
@@ -83,75 +113,61 @@
         </configuration>
       </plugin>
     </plugins>
-    <resources>
-      <resource>
-        <directory>src/main/resources</directory>
-        <filtering>true</filtering>
-      </resource>
-    </resources>
   </build>
-
-  <properties>
-    <docs.name>Cocoon Core</docs.name>
-    <docs.version>${docs.m.core.version}</docs.version>
-  </properties>
-
-  <distributionManagement>
-    <site>
-      <id>website</id>
-      <url>${docs.deploymentBaseUrl}/${docs.m.core.relPath}</url>
-    </site>
-  </distributionManagement>
-
-  <scm>
-    <connection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/core</connection>
-    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/core</developerConnection>
-    <url>https://svn.apache.org/viewvc/cocoon/branches/cocoon-2.2.1/core</url>
-  </scm>
 
   <dependencies>
     <!-- Cocoon Subprojects -->
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-spring-configurator</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-configuration-api</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-block-deployment</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
     <!-- Cocoon Core -->
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-pipeline-components</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-sitemap-impl</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-sitemap-components</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-xml-resolver</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-thread-api</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-expression-language-impl</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
       <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-xml-util</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
     <!--  excalibur -->
     <dependency>
@@ -178,20 +194,6 @@
     <dependency>
       <groupId>commons-logging</groupId>
       <artifactId>commons-logging</artifactId>
-      <exclusions>
-        <exclusion>
-          <artifactId>logkit</artifactId>
-          <groupId>logkit</groupId>
-        </exclusion>
-        <exclusion>
-          <artifactId>avalon-framework</artifactId>
-          <groupId>avalon-framework</groupId>
-        </exclusion>
-        <exclusion>
-          <groupId>javax.servlet</groupId>
-          <artifactId>servlet-api</artifactId>
-        </exclusion>
-      </exclusions>
     </dependency>
     <dependency>
       <groupId>commons-jexl</groupId>
@@ -204,12 +206,6 @@
     <dependency>
       <groupId>xerces</groupId>
       <artifactId>xercesImpl</artifactId>
-      <exclusions>
-        <exclusion>
-          <artifactId>xml-apis</artifactId>
-          <groupId>xml-apis</groupId>
-        </exclusion>
-      </exclusions>
     </dependency>
     <dependency>
       <groupId>xml-apis</groupId>
@@ -232,12 +228,14 @@
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-pipeline-impl</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
       <type>test-jar</type>
       <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-sitemap-impl</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
       <scope>test</scope>
       <type>test-jar</type>
     </dependency>
@@ -265,11 +263,13 @@
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-store-impl</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-thread-impl</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
@@ -287,22 +287,6 @@
               <collection>cdocs-core</collection>
               <createSiteXmlOnly>false</createSiteXmlOnly>
               <skipFirstNavigationDocumentLevel>false</skipFirstNavigationDocumentLevel>
-            </configuration>
-          </plugin>
-        </plugins>
-      </build>
-    </profile>
-    <profile>
-      <id>release</id>
-      <build>
-        <plugins>
-          <plugin>
-            <groupId>org.apache.rat</groupId>
-            <artifactId>apache-rat-plugin</artifactId>
-            <configuration>
-              <excludes>
-                <exclude>src/test/resources/org/apache/cocoon/transformation/xinclude-incl.txt</exclude>
-              </excludes>
             </configuration>
           </plugin>
         </plugins>

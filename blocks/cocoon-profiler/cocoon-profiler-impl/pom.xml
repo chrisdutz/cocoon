@@ -34,21 +34,10 @@
 
   <name>Profiler Block</name>
 
-  <dependencies>
-    <dependency>
-      <groupId>org.apache.cocoon</groupId>
-      <artifactId>cocoon-core</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.cocoon</groupId>
-      <artifactId>cocoon-auth-impl</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>javax.servlet</groupId>
-      <artifactId>servlet-api</artifactId>
-      <scope>provided</scope>
-    </dependency>
-  </dependencies>
+  <properties>
+    <docs.name>Cocoon Profiler</docs.name>
+    <docs.version>${docs.m.profiler.version}</docs.version>
+  </properties>
 
   <distributionManagement>
     <site>
@@ -57,10 +46,23 @@
     </site>
   </distributionManagement>
 
-  <properties>
-    <docs.name>Cocoon Profiler</docs.name>
-    <docs.version>${docs.m.profiler.version}</docs.version>
-  </properties>
+  <dependencies>
+    <dependency>
+      <groupId>org.apache.cocoon</groupId>
+      <artifactId>cocoon-core</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.cocoon</groupId>
+      <artifactId>cocoon-auth-impl</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>servlet-api</artifactId>
+      <scope>provided</scope>
+    </dependency>
+  </dependencies>
 
   <profiles>
     <profile>

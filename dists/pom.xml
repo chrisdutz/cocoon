@@ -51,7 +51,4 @@
     </profile>
   </profiles>
 
-  <scm>
-    <connection>scm:svn:http://svn.apache.org/repos/asf/cocoon/trunk/dists</connection>
-  </scm>
 </project>

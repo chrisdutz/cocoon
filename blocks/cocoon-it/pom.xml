@@ -36,27 +36,10 @@
   </description>
   <url>http://cocoon.apache.org/${docs.m.it.relPath}</url>
 
-  <scm>
-    <connection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/blocks/cocoon-it</connection>
-    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/blocks/cocoon-it</developerConnection>
-    <url>https://svn.apache.org/viewvc/cocoon/branches/cocoon-2.2.1/blocks/cocoon-it</url>
-  </scm>
-
-  <dependencies>
-    <dependency>
-      <groupId>org.apache.cocoon</groupId>
-      <artifactId>cocoon-core</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.cocoon</groupId>
-      <artifactId>cocoon-servlet-service-components</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>javax.servlet</groupId>
-      <artifactId>servlet-api</artifactId>
-      <scope>provided</scope>
-    </dependency>
-  </dependencies>
+  <properties>
+    <docs.name>Cocoon Integration Tests</docs.name>
+    <docs.version>${docs.m.it.version}</docs.version>
+  </properties>
 
   <distributionManagement>
     <site>
@@ -65,44 +48,22 @@
     </site>
   </distributionManagement>
 
-  <properties>
-    <docs.name>Cocoon Integration Tests</docs.name>
-    <docs.version>${docs.m.it.version}</docs.version>
-  </properties>
-
-  <profiles>
-    <profile>
-      <id>daisy</id>
-      <build>
-        <plugins>
-          <plugin>
-            <groupId>org.daisycms</groupId>
-            <artifactId>daisy-maven-plugin</artifactId>
-            <configuration>
-              <navDocId>1465</navDocId>
-              <collection>cdocs-it</collection>
-              <skipFirstNavigationDocumentLevel>true</skipFirstNavigationDocumentLevel>
-            </configuration>
-          </plugin>
-        </plugins>
-      </build>
-    </profile>
-  </profiles>
-
   <build>
     <plugins>
       <plugin>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-maven-plugin</artifactId>
-        <executions>
-          <execution>
-            <goals>
-              <goal>rcl</goal>
-            </goals>
-            <phase>install</phase>
-          </execution>
-        </executions>
-      </plugin>
+          <groupId>org.apache.cocoon</groupId>
+          <artifactId>cocoon-maven-plugin</artifactId>
+          <version>1.0.2</version>
+          <!-- The newer version of the plugin don't seem to have the "rcl" goal -->
+          <!--executions>
+            <execution>
+              <goals>
+                <goal>rcl</goal>
+              </goals>
+              <phase>install</phase>
+            </execution>
+          </executions-->
+        </plugin>
       <plugin>
         <groupId>org.mortbay.jetty</groupId>
         <artifactId>maven-jetty-plugin</artifactId>
@@ -124,6 +85,7 @@
         </configuration>
       </plugin>
       <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-jar-plugin</artifactId>
         <configuration>
           <archive>
@@ -135,5 +97,42 @@
       </plugin>
     </plugins>
   </build>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.apache.cocoon</groupId>
+      <artifactId>cocoon-core</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.cocoon</groupId>
+      <artifactId>cocoon-servlet-service-components</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>servlet-api</artifactId>
+      <scope>provided</scope>
+    </dependency>
+  </dependencies>
+
+  <profiles>
+    <profile>
+      <id>daisy</id>
+      <build>
+        <plugins>
+          <plugin>
+            <groupId>org.daisycms</groupId>
+            <artifactId>daisy-maven-plugin</artifactId>
+            <configuration>
+              <navDocId>1465</navDocId>
+              <collection>cdocs-it</collection>
+              <skipFirstNavigationDocumentLevel>true</skipFirstNavigationDocumentLevel>
+            </configuration>
+          </plugin>
+        </plugins>
+      </build>
+    </profile>
+  </profiles>
 
 </project>

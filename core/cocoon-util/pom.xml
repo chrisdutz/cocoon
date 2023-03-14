@@ -38,12 +38,6 @@
   </description>
   <url>http://cocoon.apache.org/${docs.m.util.relPath}</url>
 
-  <scm>
-    <connection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/core/cocoon-util</connection>
-    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/core/cocoon-util</developerConnection>
-    <url>https://svn.apache.org/viewvc/cocoon/branches/cocoon-2.2.1/core/cocoon-util</url>
-  </scm>
-
   <properties>
     <docs.name>${project.name}</docs.name>
     <docs.version>${docs.m.util.version}</docs.version>
@@ -70,16 +64,6 @@
     <dependency>
       <groupId>commons-logging</groupId>
       <artifactId>commons-logging</artifactId>
-      <exclusions>
-        <exclusion>
-          <artifactId>logkit</artifactId>
-          <groupId>logkit</groupId>
-        </exclusion>
-        <exclusion>
-          <artifactId>avalon-framework</artifactId>
-          <groupId>avalon-framework</groupId>
-        </exclusion>
-      </exclusions>
     </dependency>
     <dependency>
       <groupId>jakarta-regexp</groupId>
@@ -92,4 +76,5 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
 </project>

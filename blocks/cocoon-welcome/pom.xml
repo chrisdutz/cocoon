@@ -34,19 +34,14 @@
 
   <name>Cocoon Welcome (Samples)</name>
 
-  <scm>
-    <connection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/blocks/cocoon-welcome</connection>
-    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/blocks/cocoon-welcome</developerConnection>
-    <url>https://svn.apache.org/viewvc/cocoon/branches/cocoon-2.2.1/blocks/cocoon-welcome</url>
-  </scm>
-
   <build>
     <plugins>
       <plugin>
         <groupId>org.apache.cocoon</groupId>
         <artifactId>cocoon-maven-plugin</artifactId>
-        <version>1.0.0-M3</version>
-        <executions>
+        <version>1.0.2</version>
+        <!-- The newer version of the plugin don't seem to have the "rcl" goal -->
+        <!--executions>
           <execution>
             <id>rcl</id>
             <phase>compile</phase>
@@ -54,7 +49,7 @@
               <goal>rcl</goal>
             </goals>
           </execution>
-        </executions>
+        </executions-->
       </plugin>
     </plugins>
   </build>
@@ -63,14 +58,17 @@
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-core</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-servlet-service-components</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-samples-style-default</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
   </dependencies>
 </project>

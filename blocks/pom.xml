@@ -37,9 +37,29 @@
   <build>
     <plugins>
       <plugin>
+        <groupId>org.apache.rat</groupId>
+        <artifactId>apache-rat-plugin</artifactId>
+        <configuration>
+          <excludes combine.children="append">
+            <!--
+              The following exclusions are only needed if the allblocks profile is not enabled as
+              well as for some disabled modules. For the allblocks modules it doesn't matter to add
+              them here as soon as it's enabled these will not match anyway.
+            -->
+            <exclude>cocoon-chaperon/cocoon-chaperon-sample/src/main/resources/COB-INF/grammars/java.grm</exclude>
+            <exclude>cocoon-faces/cocoon-faces-sample/src/main/resources/COB-INF/cardemo/*</exclude>
+            <exclude>cocoon-html/cocoon-html-impl/src/main/resources/org/apache/cocoon/html/*.properties</exclude>
+            <exclude>cocoon-jcr/cocoon-jcr-sample/src/main/resources/COB-INF/repotest/**</exclude>
+            <exclude>cocoon-midi/cocoon-midi-impl/src/test/resources/org/apache/cocoon/generation/*.dtd</exclude>
+            <exclude>cocoon-poi/cocoon-poi-impl/src/main/resources/org/apache/cocoon/components/elementprocessor/impl/poi/hssf/elements/**</exclude>
+            <exclude>cocoon-portal/cocoon-portal-portlet-impl/src/main/resources/org/apache/cocoon/portal/pluto/deployment/web-app_2_3.dtd</exclude>
+          </excludes>
+        </configuration>
+      </plugin>
+
+      <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-jar-plugin</artifactId>
-        <version>2.1</version>
         <configuration>
           <archive>
             <manifestEntries>
@@ -48,11 +68,13 @@
           </archive>
         </configuration>
       </plugin>
+
       <plugin>
         <groupId>org.apache.cocoon</groupId>
         <artifactId>cocoon-maven-plugin</artifactId>
-        <version>1.0.0-M3</version>
+        <version>1.0.2</version>
       </plugin>
+
       <plugin>
         <groupId>org.mortbay.jetty</groupId>
         <artifactId>maven-jetty-plugin</artifactId>
@@ -71,8 +93,6 @@
               <name>org.apache.cocoon.log4j.loglevel</name>
               <value>ERROR</value>
             </systemProperty>
-          </systemProperties>
-          <systemProperties>
             <systemProperty>
               <name>org.apache.cocoon.mode</name>
               <value>dev</value>
@@ -166,40 +186,6 @@
         <module>cocoon-xsp</module>
       </modules>
     </profile>
-    <profile>
-      <id>release</id>
-      <build>
-        <plugins>
-          <plugin>
-            <groupId>org.apache.rat</groupId>
-            <artifactId>apache-rat-plugin</artifactId>
-            <configuration>
-              <excludes>
-                <exclude>cocoon-*/**/target/**</exclude>
-                <!-- Sample resources. -->
-                <exclude>cocoon-*/cocoon-*-sample/src/main/resources/**</exclude>
-                <!-- Test files. -->
-                <exclude>cocoon-chaperon/cocoon-chaperon-impl/src/test/resources/org/apache/cocoon/generation/*.txt</exclude>
-                <!-- XMidi is MIT license. -->
-                <exclude>cocoon-midi/cocoon-midi-impl/src/test/resources/org/apache/cocoon/generation/*.dtd</exclude>
-                <!-- Text resource for Cocoon POI element processor. -->
-                <exclude>cocoon-poi/cocoon-poi-impl/src/main/resources/org/apache/cocoon/components/elementprocessor/impl/poi/hssf/elements/**</exclude>
-                <!-- Generated properties. -->
-                <exclude>cocoon-html/cocoon-html-impl/src/main/resources/org/apache/cocoon/html/*.properties</exclude>
-                <!-- Sun Microsystem license. -->
-                <exclude>cocoon-portal/cocoon-portal-portlet-impl/src/main/resources/org/apache/cocoon/portal/pluto/deployment/web-app_2_3.dtd</exclude>
-              </excludes>
-            </configuration>
-          </plugin>
-        </plugins>
-      </build>
-    </profile>
   </profiles>
-
-  <scm>
-    <connection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/blocks</connection>
-    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/blocks</developerConnection>
-    <url>https://svn.apache.org/viewvc/cocoon/branches/cocoon-2.2.1/blocks</url>
-  </scm>
 
 </project>

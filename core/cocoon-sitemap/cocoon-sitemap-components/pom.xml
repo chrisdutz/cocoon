@@ -39,12 +39,6 @@
   </description>
   <url>http://cocoon.apache.org/${docs.m.sitemap-components.relPath}</url>
 
-  <scm>
-    <connection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/core/cocoon-sitemap/cocoon-sitemap-components</connection>
-    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/core/cocoon-sitemap/cocoon-sitemap-components</developerConnection>
-    <url>https://svn.apache.org/viewvc/cocoon/branches/cocoon-2.2.1/core/cocoon-sitemap/cocoon-sitemap-components</url>
-  </scm>
-
   <properties>
     <docs.name>${project.name}</docs.name>
     <docs.version>${docs.m.sitemap-components.version}</docs.version>
@@ -61,10 +55,12 @@
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-sitemap-impl</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-pipeline-components</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>javax.servlet</groupId>
@@ -72,4 +68,5 @@
       <scope>provided</scope>
     </dependency>
   </dependencies>
+
 </project>

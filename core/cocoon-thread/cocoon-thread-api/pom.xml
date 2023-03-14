@@ -38,12 +38,6 @@
   </description>
   <url>http://cocoon.apache.org/${docs.m.thread-api.relPath}</url>
 
-  <scm>
-    <connection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/core/cocoon-thread/cocoon-thread-api</connection>
-    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/core/cocoon-thread/cocoon-thread-api</developerConnection>
-    <url>https://svn.apache.org/viewvc/cocoon/branches/cocoon-2.2.1/core/cocoon-thread/cocoon-thread-api</url>
-  </scm>
-
   <properties>
     <docs.name>${project.name}</docs.name>
     <docs.version>${docs.m.thread-api.version}</docs.version>
@@ -62,4 +56,5 @@
       <artifactId>concurrent</artifactId>
     </dependency>
   </dependencies>
+
 </project>

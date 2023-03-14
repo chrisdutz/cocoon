@@ -34,17 +34,17 @@
 
   <name>Cocoon Serializers Block Implementation</name>
 
+  <properties>
+    <docs.name>Cocoon Serializers</docs.name>
+    <docs.version>1.0</docs.version>
+  </properties>
+
   <distributionManagement>
     <site>
       <id>website</id>
       <url>${docs.deploymentBaseUrl}/blocks/serializers/${docs.version}/</url>
     </site>
   </distributionManagement>
-
-  <properties>
-    <docs.name>Cocoon Serializers</docs.name>
-    <docs.version>1.0</docs.version>
-  </properties>
 
   <build>
     <plugins>
@@ -67,10 +67,12 @@
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-core</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-serializers-charsets</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>javax.servlet</groupId>

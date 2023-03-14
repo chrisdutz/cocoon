@@ -58,7 +58,6 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-project-info-reports-plugin</artifactId>
-        <version>3.4.1</version>
         <reportSets>
           <reportSet>
             <reports>
@@ -74,135 +73,6 @@
     </plugins>
   </reporting>
 
-  <scm>
-    <connection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/core</connection>
-    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/core</developerConnection>
-    <url>https://svn.apache.org/viewvc/cocoon/branches/cocoon-2.2.1/core</url>
-  </scm>
-
-
-
-  <!--  Only uncomment this section when doing the release -->
-  <dependencyManagement>
-    <dependencies>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-configuration-api</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-block-deployment</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-servlet-service-impl</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-servlet-service-components</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-it</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-it-fw</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-core</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-expression-language-api</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-expression-language-impl</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-pipeline-api</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-pipeline-components</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-pipeline-impl</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-sitemap-api</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-sitemap-components</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-spring-configurator</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-store-impl</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-thread-api</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-thread-impl</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-util</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-xml-resolver</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-xml-api</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-xml-impl</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-        <groupId>org.apache.cocoon</groupId>
-        <artifactId>cocoon-xml-util</artifactId>
-        <version>2.2.1-SNAPSHOT</version>
-      </dependency>
-    </dependencies>
-  </dependencyManagement>
-
   <profiles>
     <profile>
       <id>daisy</id>
@@ -213,22 +83,6 @@
             <artifactId>daisy-maven-plugin</artifactId>
             <configuration>
               <createSiteXmlOnly>true</createSiteXmlOnly>
-            </configuration>
-          </plugin>
-        </plugins>
-      </build>
-    </profile>
-    <profile>
-      <id>release</id>
-      <build>
-        <plugins>
-          <plugin>
-            <groupId>org.apache.rat</groupId>
-            <artifactId>apache-rat-plugin</artifactId>
-            <configuration>
-              <excludes>
-                <exclude>cocoon-servlet-service/**/target/**</exclude>
-              </excludes>
             </configuration>
           </plugin>
         </plugins>

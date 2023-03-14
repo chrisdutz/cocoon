@@ -33,31 +33,10 @@
   <name>Cocoon Ajax Block Implementation</name>
   <url>http://cocoon.apache.org/${docs.m.ajax.relPath}</url>
 
-  <scm>
-    <connection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/blocks/cocoon-ajax/cocoon-ajax-impl</connection>
-    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/blocks/cocoon-ajax/cocoon-ajax-impl</developerConnection>
-    <url>https://svn.apache.org/viewvc/cocoon/branches/cocoon-2.2.1/blocks/cocoon-ajax/cocoon-ajax-impl</url>
-  </scm>
-
-  <dependencies>
-    <dependency>
-      <groupId>org.apache.cocoon</groupId>
-      <artifactId>cocoon-core</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.cocoon</groupId>
-      <artifactId>cocoon-servlet-service-components</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.cocoon</groupId>
-      <artifactId>cocoon-expression-language-api</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>javax.servlet</groupId>
-      <artifactId>servlet-api</artifactId>
-      <scope>provided</scope>
-    </dependency>
-  </dependencies>
+  <properties>
+    <docs.name>Cocoon Ajax</docs.name>
+    <docs.version>1.0</docs.version>
+  </properties>
 
   <distributionManagement>
     <site>
@@ -66,10 +45,28 @@
     </site>
   </distributionManagement>
 
-  <properties>
-    <docs.name>Cocoon Ajax</docs.name>
-    <docs.version>1.0</docs.version>
-  </properties>
+  <dependencies>
+    <dependency>
+      <groupId>org.apache.cocoon</groupId>
+      <artifactId>cocoon-core</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.cocoon</groupId>
+      <artifactId>cocoon-servlet-service-components</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.cocoon</groupId>
+      <artifactId>cocoon-expression-language-api</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>servlet-api</artifactId>
+      <scope>provided</scope>
+    </dependency>
+  </dependencies>
 
   <build>
     <plugins>

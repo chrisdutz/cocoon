@@ -40,15 +40,6 @@
 
   <build>
     <resources>
-      <resource>
-        <directory>${basedir}</directory>
-        <targetPath>META-INF</targetPath>
-        <includes>
-          <include>NOTICE.txt</include>
-          <include>LICENSE.txt</include>
-        </includes>
-      </resource>
-
       <!-- exclude css and js since will include the minified version -->
       <resource>
         <directory>${basedir}/src/main/resources</directory>
@@ -110,4 +101,5 @@
       </plugin>
     </plugins>
   </build>
+
 </project>

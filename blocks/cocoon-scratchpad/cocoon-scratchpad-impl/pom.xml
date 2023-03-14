@@ -38,14 +38,17 @@
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-core</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-repository-impl</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-flowscript-impl</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.apache.axis</groupId>
@@ -58,12 +61,6 @@
     <dependency>
       <groupId>commons-betwixt</groupId>
       <artifactId>commons-betwixt</artifactId>
-      <exclusions>
-        <exclusion>
-          <groupId>avalon-framework</groupId>
-          <artifactId>avalon-framework</artifactId>
-        </exclusion>
-      </exclusions>
     </dependency>
     <dependency>
       <groupId>commons-collections</groupId>
@@ -72,30 +69,10 @@
     <dependency>
       <groupId>commons-jelly</groupId>
       <artifactId>commons-jelly</artifactId>
-      <exclusions>
-        <exclusion>
-          <groupId>pull-parser</groupId>
-          <artifactId>pull-parser</artifactId>
-        </exclusion>
-      </exclusions>
     </dependency>
     <dependency>
       <groupId>org.apache.excalibur.components</groupId>
       <artifactId>excalibur-sourceresolve</artifactId>
-      <exclusions>
-        <exclusion>
-          <groupId>d-haven-managed-pool</groupId>
-          <artifactId>d-haven-managed-pool</artifactId>
-        </exclusion>
-        <exclusion>
-          <groupId>geronimo-spec</groupId>
-          <artifactId>geronimo-spec-javamail</artifactId>
-        </exclusion>
-        <exclusion>
-          <groupId>geronimo-spec</groupId>
-          <artifactId>geronimo-spec-jms</artifactId>
-        </exclusion>
-      </exclusions>
     </dependency>
     <dependency>
       <groupId>org.codehaus.castor</groupId>
@@ -108,6 +85,7 @@
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-core</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
       <type>test-jar</type>
     </dependency>
     <dependency>

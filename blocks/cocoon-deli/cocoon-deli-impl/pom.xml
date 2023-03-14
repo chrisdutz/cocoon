@@ -38,20 +38,11 @@
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-core</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>net.sourceforge.jena</groupId>
       <artifactId>jena</artifactId>
-      <exclusions>
-        <exclusion>
-          <groupId>avalon-framework</groupId>
-          <artifactId>avalon-framework</artifactId>
-        </exclusion>
-        <exclusion>
-          <artifactId>xmlbeans-jsr173-api</artifactId>
-          <groupId>xmlbeans</groupId>
-        </exclusion>
-      </exclusions>
     </dependency>
     <dependency>
       <groupId>deli</groupId>

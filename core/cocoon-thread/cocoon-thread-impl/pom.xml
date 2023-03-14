@@ -36,12 +36,6 @@
   </description>
   <url>http://cocoon.apache.org/${docs.m.thread-impl.relPath}</url>
 
-  <scm>
-    <connection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/core/cocoon-thread/cocoon-thread-impl</connection>
-    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/cocoon/branches/cocoon-2.2.1/core/cocoon-thread/cocoon-thread-impl</developerConnection>
-    <url>https://svn.apache.org/viewvc/cocoon/branches/cocoon-2.2.1/core/cocoon-thread/cocoon-thread-impl</url>
-  </scm>
-
   <properties>
     <docs.name>${project.name}</docs.name>
     <docs.version>${docs.m.thread-impl.version}</docs.version>
@@ -59,21 +53,12 @@
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-thread-api</artifactId>
+      <version>2.2.1-SNAPSHOT</version>
     </dependency>
     <!--  Commons logging -->
     <dependency>
       <groupId>commons-logging</groupId>
       <artifactId>commons-logging</artifactId>
-      <exclusions>
-        <exclusion>
-          <artifactId>logkit</artifactId>
-          <groupId>logkit</groupId>
-        </exclusion>
-        <exclusion>
-          <artifactId>avalon-framework</artifactId>
-          <groupId>avalon-framework</groupId>
-        </exclusion>
-      </exclusions>
     </dependency>
     <!--  test dependencies  -->
     <dependency>
@@ -92,4 +77,5 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
 </project>
