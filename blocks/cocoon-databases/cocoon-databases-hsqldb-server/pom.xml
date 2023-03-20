@@ -90,21 +90,4 @@
     </plugins>
   </reporting>
 
-  <profiles>
-    <profile>
-      <id>daisy</id>
-      <build>
-        <plugins>
-          <plugin>
-            <groupId>org.daisycms</groupId>
-            <artifactId>daisy-maven-plugin</artifactId>
-            <configuration>
-              <createSiteXmlOnly>true</createSiteXmlOnly>
-            </configuration>
-          </plugin>
-        </plugins>
-      </build>
-    </profile>
-  </profiles>
-
 </project>

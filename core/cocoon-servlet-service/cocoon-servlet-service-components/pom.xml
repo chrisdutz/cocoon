@@ -140,23 +140,4 @@
     </plugins>
   </reporting>
 
-  <profiles>
-    <profile>
-      <id>daisy</id>
-      <build>
-        <plugins>
-          <plugin>
-            <groupId>org.daisycms</groupId>
-            <artifactId>daisy-maven-plugin</artifactId>
-            <configuration>
-              <navDocId>1411</navDocId>
-              <collection>cdocs-servlet-service-components</collection>
-              <skipFirstNavigationDocumentLevel>false</skipFirstNavigationDocumentLevel>
-            </configuration>
-          </plugin>
-        </plugins>
-      </build>
-    </profile>
-  </profiles>
-
 </project>

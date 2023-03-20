@@ -66,22 +66,4 @@
     </dependency>
   </dependencies>
 
-  <profiles>
-    <profile>
-      <id>daisy</id>
-      <build>
-        <plugins>
-          <plugin>
-            <groupId>org.daisycms</groupId>
-            <artifactId>daisy-maven-plugin</artifactId>
-            <configuration>
-              <navDocId>1353</navDocId>
-              <collection>cdocs-html</collection>
-            </configuration>
-          </plugin>
-        </plugins>
-      </build>
-    </profile>
-  </profiles>
-
 </project>

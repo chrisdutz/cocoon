@@ -62,23 +62,4 @@
     </dependency>
   </dependencies>
 
-  <profiles>
-    <profile>
-      <id>daisy</id>
-      <build>
-        <plugins>
-          <plugin>
-            <groupId>org.daisycms</groupId>
-            <artifactId>daisy-maven-plugin</artifactId>
-            <configuration>
-              <navDocId>1218</navDocId>
-              <collection>cdocs-fop</collection>
-              <skipFirstNavigationDocumentLevel>true</skipFirstNavigationDocumentLevel>
-            </configuration>
-          </plugin>
-        </plugins>
-      </build>
-    </profile>
-  </profiles>
-
 </project>
